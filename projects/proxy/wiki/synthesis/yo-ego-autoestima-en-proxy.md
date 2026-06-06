@@ -121,7 +121,6 @@ El evitativo aparece como contraprueba de que la taxonomía no abarca todo trast
 
 La taxonomía se introduce dentro del bloque sobre TCAs porque el ciclo neurótico de los trastornos alimentarios opera precisamente sobre la retroalimentación ego-autoestima: la obsesión por la autoimagen es desajuste del ego (lo que merezco verme), la culpa por el atracón es desajuste de la autoestima (lo que era capaz de controlar), y la espiral ansiedad → obsesión → culpa → depresión funciona porque ambos componentes se contagian mutuamente. Ver [[trastornos-conducta-alimentaria-en-proxy]] para el ciclo completo.
 
-
 ## Distocia → esquizoipia: gradiente de severidad y etiología por feedback
 
 En el directo *León XIV, y George Floyd* (13 may 2025) el canal precisa la categoría 'ego distócico' que esta página articula como uno de los tres modos de neurosis del ego, añadiendo gradiente de severidad y mecanismo etiológico-desarrollista que la formulación inicial dejaba implícitos.
@@ -165,8 +164,6 @@ La lógica es contraintuitiva pero estructural: el feedback **erróneo** ('eres 
 
 La pieza extiende el mecanismo etiológico al plano social: si la formación del yo individual requiere feedback parental con roles definidos, una sociedad que disuelve esos roles a escala colectiva fabrica el cuadro a escala poblacional. La consecuencia no es que cada sujeto desarrolle psicosis clínica, sino que la coordinación social misma se vuelve disocial — vínculos débiles donde nadie importa verdaderamente a nadie, comportamientos erráticos y alucinatorios como respuesta colectiva normalizada al déficit estructural de feedback. La pieza enlaza con [[psicologia-del-activista-en-proxy]] (perfil disocial como manifestación política) y con [[fenomenologia-trans-en-proxy]] (la negación del feedback de género como caso particular del mecanismo: si los roles parentales se disuelven y además se elimina el feedback sobre el sexo del niño, la condición esquizogénica se compone).
 
-
-
 ## Distocia → esquizoipia: gradiente de severidad y etiología por feedback
 
 En el directo *León XIV, y George Floyd* (13 may 2025) el canal precisa la categoría 'ego distócico' que esta página articula como uno de los tres modos de neurosis del ego, añadiendo gradiente de severidad y mecanismo etiológico-desarrollista que la formulación inicial dejaba implícitos.
@@ -209,15 +206,12 @@ La lógica es contraintuitiva pero estructural: el feedback **erróneo** ('eres 
 → [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
 
 La pieza extiende el mecanismo etiológico al plano social: si la formación del yo individual requiere feedback parental con roles definidos, una sociedad que disuelve esos roles a escala colectiva fabrica el cuadro a escala poblacional. La consecuencia no es que cada sujeto desarrolle psicosis clínica, sino que la coordinación social misma se vuelve disocial — vínculos débiles donde nadie importa verdaderamente a nadie, comportamientos erráticos y alucinatorios como respuesta colectiva normalizada al déficit estructural de feedback. La pieza enlaza con [[psicologia-del-activista-en-proxy]] (perfil disocial como manifestación política) y con [[fenomenologia-trans-en-proxy]] (la negación del feedback de género como caso particular del mecanismo: si los roles parentales se disuelven y además se elimina el feedback sobre el sexo del niño, la condición esquizogénica se compone).
-
 
 ## Divergencias frente al canon
 
 - Frente a [[jung-carl-gustav]]: en Jung el self es la totalidad integrada y el yo es solo la parte consciente; el canal invierte la nomenclatura (el yo es la totalidad, el self es la parte consciente). La meta de la [[individuation]] sigue siendo equivalente, pero el vocabulario no es trasladable sin traducción.
 - Frente a [[freud-sigmund]]: el ego no es instancia mediadora entre ello y superyó, sino sub-componente narcisista del yo dedicado al merecer.
 - Frente al DSM: las tres neurosis del ego (herido / distócico / ambivalente) no son categorías diagnósticas oficiales; son ejes que el canal usa para releer trastornos del DSM (narcisista, histriónico) desde una mecánica común.
-
-
 
 ## Sustrato neuroanatómico del self: integración fronto-parietal
 
@@ -238,8 +232,6 @@ La precisión anatómica se completa con la atribución funcional del lóbulo pa
 → [Psicología 101: El cerebro por dentro (1:24:21)](https://youtu.be/jWxfmiiUuG4?t=5061)
 
 La consecuencia operativa para la taxonomía es nítida: la distinción yo / self no es solo conceptual, también es anatómica. La referencia propioceptiva-fenomenológica que sostiene el organismo (presente en animales con córtex parietal pero sin prefrontal complejo) corresponde al polo inconsciente del yo en el vocabulario de esta página, y solo deviene self consciente cuando la metarrepresentación prefrontal opera sobre ella. La pieza acota además la vulnerabilidad del cuadro: daños frontales pueden disolver el self consciente sin afectar la referencia fenomenológica que sigue operando como organismo, lo que ilumina la frontera operativa entre estados disociativos (ego distócico, descrito arriba) y conservación somática del cuerpo. Y precisa parcialmente la laguna sobre el estatus del inconsciente dentro del yo: la referencia propioceptiva preconsciente es uno de los contenidos del polo inconsciente del yo, distinta de los arquetipos transpersonales del [[collective-unconscious]].
-
-
 
 ## El yo como metarrepresentación: armadura cognitivo-filosófica del aparato
 
@@ -307,8 +299,6 @@ La pieza articula el super-yo no como instancia moral freudiana (heredada del pa
 
 Consecuencia teleosemántica para el aparato del yo: las clases cognitivas son **en-activas** (orientadas al exterior por origen), por lo que el yo solo puede construirse usando esas mismas clases — desde fuera, reflexivamente. No hay autoaprehensión directa del interior. Toda fantasía sobre uno mismo opera sobre la autoimagen (yo como objeto visto desde fuera) y nunca sobre el yo qua interior puro. La consecuencia clínica: las distorsiones del yo no son distorsiones del interior sino de la operación reflexiva con que el yo se construye con clases externas — y por eso son corregibles por **feedback externo** (terapia, vínculos correctivos) en lugar de por introspección pura. Esto refina la laguna sobre operatividad terapéutica de las tres neurosis del ego: la vía es necesariamente externa, nunca puramente interior.
 
-
-
 ## Lagunas
 
 - **Estatus del inconsciente dentro del yo**: si el yo es consciente + inconsciente, no se detalla cómo se relaciona ese inconsciente personal con el [[collective-unconscious]] junguiano. La parte inconsciente del yo, ¿incluye los arquetipos transpersonales o solo lo reprimido individual?
@@ -319,7 +309,4 @@ Consecuencia teleosemántica para el aparato del yo: las clases cognitivas son *
 
 ## Citations
 
-
-
 - **Psicología 101: Ego, autoestima y TCAs** — chunks: [10:54](https://youtu.be/Sl4coB8bBs4?t=654) · [24:27](https://youtu.be/Sl4coB8bBs4?t=1467) · [1:22:27](https://youtu.be/Sl4coB8bBs4?t=4947) · [1:23:57](https://youtu.be/Sl4coB8bBs4?t=5037) · [1:26:28](https://youtu.be/Sl4coB8bBs4?t=5188)
-

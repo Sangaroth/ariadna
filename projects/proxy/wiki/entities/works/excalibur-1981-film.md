@@ -126,8 +126,6 @@ El canal precisa una lectura no-monárquica de "rey" que es importante para no m
 
 Leído así, *Excalibur* no es una película monárquica sino una película sobre la **emergencia del corpus moral unificado** — el cristianismo occidental como solución solar al politeísmo lunar precedente. La guerra primordial entre elfos y hombres, en la lectura del canal, recapitula las primeras guerras entre conceptos de civilización ordenados y caóticos.
 
-
-
 ## El monográfico sobre Excalibur: lectura plot-by-plot del filme
 
 Un segundo directo del canal — *Análisis arquetípico: Excalibur* — recorre el filme escena por escena, articulando el resto de la estructura simbólica que el directo paralelo (Excalibur+LOTR) había dejado fuera. La lectura confirma el armazón católico-arturiano y añade los tramos pendientes.
@@ -239,7 +237,6 @@ El directo cierra con una tesis de cierre articulada por el speaker:
 
 El sacrificio del rey no es evento aislado sino pieza de una cadena — cada héroe que se entrega cumpliendo su misión hace más eficaz el sacrificio del siguiente, hasta la renovación final de la humanidad. La tesis enmarca *Excalibur* dentro de una historia heroica acumulativa, no episódica.
 
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: faltan tramos del filme (Grial, Percival, caída de Camelot) cuyo tratamiento det -->
@@ -251,18 +248,9 @@ El sacrificio del rey no es evento aislado sino pieza de una cadena — cada hé
 
 ## Citations
 
-
-
-
-
-
-
-
-
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [23:48](https://youtu.be/K082yiudh-g?t=1428) · [27:20](https://youtu.be/K082yiudh-g?t=1640) · [59:52](https://youtu.be/K082yiudh-g?t=3592) · [1:25:07](https://youtu.be/K082yiudh-g?t=5107)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [1:27:24](https://youtu.be/sTnxDjo1v3o?t=5244)
 - **Análisis arquetípico: Excalibur** — chunks: [0:33](https://youtu.be/daC37T5cbWs?t=33) · [3:06](https://youtu.be/daC37T5cbWs?t=186) · [24:47](https://youtu.be/daC37T5cbWs?t=1487) · [48:03](https://youtu.be/daC37T5cbWs?t=2883) · [50:34](https://youtu.be/daC37T5cbWs?t=3034) · [54:05](https://youtu.be/daC37T5cbWs?t=3245) · [1:18:20](https://youtu.be/daC37T5cbWs?t=4700) · [1:26:55](https://youtu.be/daC37T5cbWs?t=5215) · [1:30:28](https://youtu.be/daC37T5cbWs?t=5428) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580)
 - **Noticias 100tíficas.** — chunks: [1:30](https://youtu.be/VgdybZKruwk?t=90)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [1:29:17](https://youtu.be/fzEDQZIqKwg?t=5357)
 - **Mitología 101: Teseo y Ariadna** — chunks: [1:26:48](https://youtu.be/b03AszdViNw?t=5208)
-

@@ -58,8 +58,6 @@ El canal abre el desmontaje con una afirmación filológica directa:
 
 La pieza central de la tesis es que el relato canónico de Lilit —primera mujer de Adán, rebelde por negarse a la sumisión sexual, desterrada y convertida en demonio— no tiene fuente antigua identificable. El canal recorre los lugares donde la tradición popular sitúa el origen del mito (Gilgamesh, fragmentos del Mar Muerto, Isaías 34, demonología mesopotámica) y muestra que en cada caso lo que aparece es bien una fórmula genérica de exorcismo contra demonios femeninos sin narrativa, bien una traducción ambigua sin contenido prototípico, bien un nombre genérico para criaturas nocturnas sin biografía mítica articulada.
 
-
-
 ### Rastreo textual del fantasma de prototipia
 
 El monográfico *Lilith: La Iconotropía* (ene-2026) despliega el rastreo cronológico que la sección anterior enuncia. Recorre los tres lugares textuales que la tradición popular invoca como fuentes antiguas del mito y muestra en cada caso qué hay y qué falta.
@@ -135,7 +133,6 @@ La lectura del relato bíblico que sustenta el rechazo definitivo de la 'primera
 
 La doble narración del Génesis (1 y 2) recibe lectura emanatista, no literal-cronológica: el primer relato cifra la creación de la humanidad como dípolo varón/hembra; el segundo cifra la individuación de esos polos en personas concretas que se reconocen complementarias. NO son dos episodios sucesivos en el tiempo (primera mujer rebelde + segunda mujer obediente) sino dos planos del mismo acto creador. La premisa misma sobre la que descansa el constructo Lilit (Adán tuvo una primera mujer rebelde antes de Eva) requiere torcer el texto a lectura literal-cronológica que el material no soporta. Esta articulación enlaza con [[tibieza-moral-pecado-original]]: si Eva es 'la parte afectiva del ser humano' y el pecado original es relativización del mandato, la operación caída es flexibilización afectiva del límite, no rebeldía narcisista — precisamente lo que la fabricación moderna proyecta retrospectivamente sobre la figura inventada de Lilit.
 
-
 ## El Alfabeto de Ben Sirá como única prototipia
 
 La única fuente que sí narra a Lilit como primera esposa de Adán es el Alfabeto de Ben Sirá, texto satírico judío del siglo X. El canal subraya que esta es prototipia tardía —mil años después del cierre del canon hebreo— y de género satírico, no mitográfico. La pieza no funciona como recuperación de un mito antiguo porque tal mito no existe; funciona como invención literaria que la modernidad elevará después a la categoría de relato fundacional retroyectado.
@@ -143,8 +140,6 @@ La única fuente que sí narra a Lilit como primera esposa de Adán es el Alfabe
 ## Iconotropía moderna: Renacimiento y siglos XVIII-XIX
 
 La segunda pieza articula la **fabricación moderna** del personaje. El Renacimiento recoge nombres demonológicos sueltos y comienza a sistematizar una demonología pseudoantigua; los siglos XVIII y XIX, con el ocultismo, el tarot esotérico y la magia ceremonial moderna, completan el constructo dotándolo de biografía, atributos iconográficos y función ritual. El canal lee este proceso como iconotropía: torsión del material antiguo para servir necesidades simbólicas modernas, presentando lo fabricado como recuperado.
-
-
 
 ### Madame Blavatsky y la teosofía como vector de consolidación
 
@@ -177,7 +172,6 @@ La pieza precisa el motor psicológico que sostiene la fabricación del mito imp
 → [Lilith: La Iconotropía (49:16)](https://youtu.be/xKCD8PaexF0?t=2956)
 
 El mecanismo enlaza la fabricación de Lilit con el aparato canal-canónico del sofisma colectivo articulado en [[sofisma-estetico]]: la identificación proyectiva opera fabricando objetos exteriores (figuras míticas reapropiadas) sobre los que descargar el material psíquico interno de la rebeldía contemporánea. La diferencia con la 'rebeldía genuina' que el canal admite es estructural — la rebeldía genuina opera contra algo impuesto por la fuerza (orden tiránico, agresión material); la rebeldía iconotrópica opera contra algo simplemente mayoritario (la tradición católica como dominio cultural), y compensa la ausencia de objeto digno fabricando uno mítico que justifique la posición.
-
 
 ## Inversión moderna: el mal vuelto heroico
 
@@ -219,8 +213,6 @@ La Bella Durmiente articula el encuentro con el mal sin fabricar una figura sint
 
 Lilit funciona en el canal como uno de los casos canónicos del mito impropio fabricado por la modernidad, junto a otros constructos de la demonología esotérica moderna y a las relecturas iconotrópicas del XIX. La tesis se inserta en la articulación más amplia del canal sobre [[mitologia-propia-impropia]] y refuerza el contraste estructural con el [[mito-polar]] genuino, donde lo femenino oscuro no se condensa en una figura única rebelde sino que se distribuye en una tipología arquetípica articulada.
 
-
-
 ## Lilit como luna negra: la definición astrológica técnica
 
 En el directo casual el canal añade un plano técnico que la lectura filológico-literaria no recoge: el constructo astrológico moderno de Lilit no nombra un cuerpo celeste sino un cálculo orbital, lo que explica por qué la operación iconotrópica encontró aquí terreno fértil — la pieza es ya, en su definición misma, una abstracción rellenable.
@@ -276,9 +268,6 @@ La pieza más estructural del bloque es la equiparación de tres figuras como in
 
 La tríada cierra la tesis del canal sobre Lilit: el caso no es aislado sino pieza de un mecanismo cultural mayor — la modernidad necesita figuras de inversión arquetípica que no encuentra en el material genuino y las fabrica usando como sustrato los arquetipos solar, lunar y de la sacerdotisa, invertidos. El [[autotipo|carácter autotípico]] del resultado es estructural: como nada de lo invertido tiene historia mítica propia, el significante coincide con el rasgo que nombra (Lucifer = caído, Lilit = luna oscura, Hermes Trismegisto = tres veces grande sin biografía ritual).
 
-
-
-
 ## Lilit como luna negra: la definición astrológica técnica
 
 En el directo casual el canal añade un plano técnico que la lectura filológico-literaria no recoge: el constructo astrológico moderno de Lilit no nombra un cuerpo celeste sino un cálculo orbital, lo que explica por qué la operación iconotrópica encontró aquí terreno fértil — la pieza es ya, en su definición misma, una abstracción rellenable.
@@ -333,7 +322,6 @@ La pieza más estructural del bloque es la equiparación de tres figuras como in
 → [Directo casual (42:44)](https://youtu.be/ECN5C9rsaZg?t=2564)
 
 La tríada cierra la tesis del canal sobre Lilit: el caso no es aislado sino pieza de un mecanismo cultural mayor — la modernidad necesita figuras de inversión arquetípica que no encuentra en el material genuino y las fabrica usando como sustrato los arquetipos solar, lunar y de la sacerdotisa, invertidos. El [[autotipo|carácter autotípico]] del resultado es estructural: como nada de lo invertido tiene historia mítica propia, el significante coincide con el rasgo que nombra (Lucifer = caído, Lilit = luna oscura, Hermes Trismegisto = tres veces grande sin biografía ritual).
-
 
 ## Lagunas
 
@@ -345,24 +333,6 @@ La tríada cierra la tesis del canal sobre Lilit: el caso no es aislado sino pie
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444) · [1:15:42](https://youtu.be/_0BM2jMsWdc?t=4542) · [1:17:43](https://youtu.be/_0BM2jMsWdc?t=4663) · [1:21:45](https://youtu.be/_0BM2jMsWdc?t=4905) · [1:26:49](https://youtu.be/_0BM2jMsWdc?t=5209) · [1:41:13](https://youtu.be/_0BM2jMsWdc?t=6073) · [1:45:47](https://youtu.be/_0BM2jMsWdc?t=6347)
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [53:36](https://youtu.be/Sszbs7CG0cQ?t=3216)
 - **Directo casual** — chunks: [26:51](https://youtu.be/ECN5C9rsaZg?t=1611) · [29:23](https://youtu.be/ECN5C9rsaZg?t=1763) · [32:25](https://youtu.be/ECN5C9rsaZg?t=1945) · [34:27](https://youtu.be/ECN5C9rsaZg?t=2067) · [36:59](https://youtu.be/ECN5C9rsaZg?t=2219) · [42:44](https://youtu.be/ECN5C9rsaZg?t=2564) · [44:46](https://youtu.be/ECN5C9rsaZg?t=2686)
@@ -372,4 +342,3 @@ La tríada cierra la tesis del canal sobre Lilit: el caso no es aislado sino pie
 - **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [1:00:22](https://youtu.be/0EeqbwZJUQw?t=3622) · [1:50:53](https://youtu.be/0EeqbwZJUQw?t=6653)
 - **El mito del Gólem: Transhumanismo** — chunks: [13:38](https://youtu.be/hjc9L2_kkOo?t=818)
 - **Lilith: La Iconotropía.** — chunks: [0:31](https://youtu.be/xKCD8PaexF0?t=31) · [14:15](https://youtu.be/xKCD8PaexF0?t=855) · [16:18](https://youtu.be/xKCD8PaexF0?t=978) · [18:50](https://youtu.be/xKCD8PaexF0?t=1130) · [21:51](https://youtu.be/xKCD8PaexF0?t=1311) · [22:21](https://youtu.be/xKCD8PaexF0?t=1341) · [27:23](https://youtu.be/xKCD8PaexF0?t=1643) · [36:31](https://youtu.be/xKCD8PaexF0?t=2191) · [40:03](https://youtu.be/xKCD8PaexF0?t=2403) · [42:34](https://youtu.be/xKCD8PaexF0?t=2554) · [49:16](https://youtu.be/xKCD8PaexF0?t=2956)
-

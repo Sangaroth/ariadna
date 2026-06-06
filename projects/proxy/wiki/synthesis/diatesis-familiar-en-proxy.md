@@ -201,6 +201,4 @@ Cada habitación de la casa es una persona; el trauma transgeneracional —el fa
 
 ## Citations
 
-
 - **Psicología 101: Genes y ambiente, la diátesis familiar...** — chunks: [40:55](https://youtu.be/lMRgQb20POQ?t=2455) · [1:06:14](https://youtu.be/lMRgQb20POQ?t=3974)
-

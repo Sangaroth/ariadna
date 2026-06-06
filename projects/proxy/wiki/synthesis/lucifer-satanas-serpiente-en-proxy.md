@@ -189,7 +189,4 @@ Esta tesis opera como fundamento canónico de varios análisis del canal:
 
 ## Citations
 
-
-
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [11:49](https://youtu.be/dHDv_oZODYQ?t=709) · [1:32:58](https://youtu.be/dHDv_oZODYQ?t=5578)
-

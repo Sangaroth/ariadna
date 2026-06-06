@@ -107,7 +107,6 @@ La segunda mitad de la tesis aplica el modelo: cada cuadrante corresponde a una 
 > "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo."
 → [Cuento de Navidad y el espíritu Luterano con teleñecos (29:49)](https://youtu.be/s0MkondMt1o?t=1789)
 
-
 ## Refinamientos del modelo: obediencia, eje constrained/unconstrained, poblaciones por cuadrante
 
 Un directo posterior añade tres precisiones operativas al diagrama:
@@ -165,8 +164,6 @@ En el mismo eje analítico:
 → [Experimento 25 (1:14:42)](https://youtu.be/Bn-I6p-AyXc?t=4482)
 
 La misma mecánica neuropsicológica que el diagrama articula como base de la respuesta moral opera aquí en sentido proyectivo: la injusticia no se experimenta directamente sino vicariamente, lo que permite construir tanto victimismos por terceros como auto-percepciones de privilegio inmerecido.
-
-
 
 ## Identificación y proyección como dinámicas básicas
 
@@ -232,7 +229,6 @@ Una pieza adicional: el canal recoge el par eutaxia/distaxia de [[bueno-gustavo|
 
 La pieza añade un criterio normativo al modelo descriptivo del diagrama: la posición no solo describe configuración afectiva-genética sino que admite evaluación funcional respecto a la viabilidad social de su universalización. La antisocial es estructuralmente distáxica (la posición misma destruye las condiciones de posibilidad de su sostenimiento si se generaliza); las posiciones que tematizan reciprocidad y cooperación son eutáxicas. La cláusula es coherente con la observación previa sobre el cuadro antisocial como caso límite de las patologías paterno-egoicas: no solo es clínicamente patológico, es estructuralmente inviable como matriz social.
 
-
 ## Sátira bipartidista como caso aplicado: Don't Look Up y The Boys (T1-T3)
 
 El directo *Fantasía Cero* (13-sept-2024) usa dos productos audiovisuales recientes como caso aplicado del modelo: las obras genuinamente eficaces críticas de la cultura política contemporánea son aquellas que activan el reconocimiento desde **ambos cuadrantes verticales** del diagrama, no solo desde uno.
@@ -284,8 +280,6 @@ La precisión refina el aparato del diagrama: lo que cambia entre cuadrantes no 
 
 La tesis completa el modelo en su flanco antropológico: lo que el cuadrante busca colectivamente es la disolución del conflicto interno individual proyectada al espacio social. Cada orientación ideológica nombra una vía distinta hacia la desaparición del conflicto — abolición de la jerarquía (abajo), restauración del fundamento moral previo (derecha), refundación de la norma desde el poder (arriba-izquierda), liberación del individuo (abajo-derecha) — y todas son funcionalmente imposibles porque el conflicto opera en la asimetría estructural entre deseo y capacidad, no entre el sujeto y el orden social. La consecuencia operativa para el diagrama: ningún cuadrante puede cumplir su promesa, lo que explica la rotación pendular de la política contemporánea entre las cuatro posiciones sin estabilización.
 
-
-
 ## Adherencia ideológica y simetría reactiva entre cuadrantes
 
 En un directo posterior el canal añade el mecanismo psicológico subyacente a la ubicación en el diagrama: la posición política no se elige por argumentación sino por **adherencia** — el sujeto se agrega a grupos cuya estructura dialéctica encaja con su personalidad y le permite manifestar la neurosis o tramitar la catarsis.
@@ -305,7 +299,6 @@ La consecuencia operativa es la **simetría reactiva entre cuadrantes** que el c
 → [Proxy T4, 4x01 "Piloto" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)
 
 La pieza completa el aparato del diagrama por su flanco motivacional: las dos asimetrías neuropsicológicas que clasifican posiciones (jerarquía/anti-jerarquía y fundamentalismo/relativismo) operan como atractor afectivo del que la persona cuelga su identidad ideológica; la disonancia cognitiva — cuando esa identidad se ve amenazada — produce respuestas defensivas estructuralmente uniformes a través del eje político, lo que confirma el sustrato compartido de la mecánica de razonamiento motivado ya documentada en otras secciones. La adherencia opera además como complemento al marketing implícito articulado en [[consumismo-critica]]: el cuadrante funciona como pre-identidad a la que la doctrina se vincula por reconocimiento, no por persuasión.
-
 
 ## Herencia genética y rebeldía como vector dirigido
 
@@ -327,7 +320,6 @@ La precisión refina el modelo: la cultura no es agente neutral que distribuye p
 
 La pieza tiene consecuencia operativa fuerte para la aplicación del modelo: la trayectoria política a lo largo de la vida no es exploración libre del espacio de cuadrantes sino dinámica acotada — herencia genética como atractor, rebeldía como repulsión hacia el cuadrante opuesto. La estabilización en un cuadrante distinto al de los padres no indica autonomía valorativa sino consolidación de la repulsión. La cláusula completa el sustrato genético del diagrama articulado en otras secciones: la posición es heredable, y la desviación cultural es ella misma reactiva, no autónoma.
 
-
 ## Desplazamientos ideológicos siempre laterales, nunca diagonales
 
 En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal añade una regla operativa sobre la trayectoria de la migración ideológica que cierra un flanco abierto en la sección anterior sobre herencia y rebeldía: la dirección de los desplazamientos.
@@ -342,8 +334,6 @@ La precisión es estructural: el cuadrado admite movilidad limitada, y la regla 
 
 La regla complementa el aparato genético-rebelde de la sección previa: la rebeldía no opera como repulsión hacia el cuadrante geométricamente opuesto sino dentro de la celda contigua del eje rebelado, lo que limita a priori el conjunto de trayectorias posibles a lo largo de la vida. La consecuencia operativa es predictiva — el canal afirma poder anticipar trayectorias políticas conociendo el cuadrante de origen y la dirección del primer desplazamiento.
 
-
-
 ## Desplazamientos ideológicos siempre laterales, nunca diagonales
 
 En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal añade una regla operativa sobre la trayectoria de la migración ideológica que cierra un flanco abierto en la sección anterior sobre herencia y rebeldía: la dirección de los desplazamientos.
@@ -357,7 +347,6 @@ En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-202
 La precisión es estructural: el cuadrado admite movilidad limitada, y la regla operativa es que las trayectorias atraviesan **un solo eje a la vez**. Una persona en abajo-izquierda (anti-jerarquía + relativismo) puede migrar a abajo-derecha (anti-jerarquía + fundamentalismo) sin cambiar el eje vertical, o ascender a arriba-izquierda (jerarquía + relativismo) sin cambiar el horizontal. Lo que prácticamente nunca ocurre es la diagonal — un sujeto pasando de abajo-izquierda a arriba-derecha (cambio simultáneo de los dos ejes) o de arriba-izquierda a abajo-derecha. La migración progre→liberal cita el caso paradigmático: cambio del eje vertical (acepta jerarquías de mercado) preservando el horizontal (relativismo moral) — desplazamiento vertical puro.
 
 La regla complementa el aparato genético-rebelde de la sección previa: la rebeldía no opera como repulsión hacia el cuadrante geométricamente opuesto sino dentro de la celda contigua del eje rebelado, lo que limita a priori el conjunto de trayectorias posibles a lo largo de la vida. La consecuencia operativa es predictiva — el canal afirma poder anticipar trayectorias políticas conociendo el cuadrante de origen y la dirección del primer desplazamiento.
-
 
 ## Eje horizontal como dipolo madre tirana / madre ausente
 
@@ -375,8 +364,6 @@ La caracterización añade el cifrado materno como matriz de la respuesta moral-
 → [Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)
 
 La precisión refina la caracterización de los cuadrantes verticales superiores: arriba-izquierda opera con **mínimos formales explícitos** (la regla la fija el poder, la norma es el procedimiento articulado); arriba-derecha opera con **valores difusos de seguridad afectiva con locus interno de autoridad** (la norma se interioriza como sentimiento moral, no como procedimiento). La distinción resuena con la diferencia operativa autoritario/totalitario que la página ya documenta — el autoritario tiene fundamento moral previo (interno, difuso, afectivo), el totalitario carece de tal límite y la jerarquía deviene fuente única.
-
-
 
 ## Cuadrantes canónicos y genealogía parental completa (Psicoanálisis de la orientación política, oct 2023)
 
@@ -540,9 +527,6 @@ La clasificación de tribus urbanas demuestra el alcance operativo del modelo m�
 
 La lectura de Darth Vader como caso clínico-arquetípico del cuadrante arriba-derecha (inquisidor) precisa la mecánica de la transformación de Anakin: los Jedi operan como padre tirano que impone forma de vida sin permitir reflexión, lo que produce herida narcisista — la ira que cristaliza en el lado oscuro es la respuesta defensiva característica del cuadrante. El caso enlaza con [[star-wars-saga]] como aplicación del marco psicoanalítico-político al material de la saga.
 
-
-
-
 ## Magos de Tolkien como aproximación tentativa a los cuadrantes
 
 En un directo posterior el canal advierte primero un límite operativo del modelo: no es asignable un único arquetipo a cada cuadrante de forma directa — los cuadrantes son configuraciones afectivo-noéticas, no figuras míticas. Como ejercicio aproximativo se propone leer la topología del diagrama a través de los **cinco magos** del imaginario tolkieniano (cuatro de color más uno blanco por encima), heredados también por Final Fantasy:
@@ -558,8 +542,6 @@ En un directo posterior el canal advierte primero un límite operativo del model
 
 La asignación queda explícitamente abierta: arriba-izquierda al guerrero/soldado disciplinado al servicio del orden sin fundamento moral previo; arriba-derecha al mago negro como cifra del poder ejercido desde un cuerpo de doctrina cerrado; abajo-derecha al mago rojo (combatiente y conjurador a la vez en la herencia ludológica, autonomía técnica con principios firmes); abajo-izquierda a los magos azul/verde, vinculados a saberes contextuales y a la integración con la naturaleza. La pieza funciona como ejercicio heurístico aplicado a una taxonomía mítica externa, no como mapping cerrado, y enlaza la lectura del diagrama con el corpus tolkieniano del canal — la pentada de colores es material de [[el-silmarillion]] (no de las adaptaciones cinematográficas).
 
-
-
 ## "Hambre y miedo Cero": la articulación foundational del modelo (mayo 2021)
 
 El vídeo *Hambre y miedo (Cero). LOCUS* es el capítulo 0 de la serie homónima que da origen al diagrama de Proxy. La articulación es esquemática (13 min) pero contiene piezas foundational que las secciones anteriores tenían dispersas: la distinción disposición interna / elemento identitario, el locus de control como origen del posicionamiento, los pares hambre/miedo como motores duales que dan nombre a la serie, y el dilema completitud/coherencia como sustrato epistemológico de los cuadrantes horizontales.
@@ -635,9 +617,6 @@ La configuración afectiva es complementaria — cada cuadrante construye su def
 
 La conclusión sintetiza el marco completo del capítulo 0: izquierda y derecha NO son posiciones políticas opcionales sino la cristalización política de la **batalla cultural sobre el origen del mal** — un fenómeno antropológico anclado en la dicotomía como forma elemental de cognición humana (lo que existe solo existe porque existe su contrario). Comprender los cuadrantes como configuraciones defensivas frente al miedo localizado dentro o fuera es prerrequisito para comprender la posmodernidad como cultura. La pieza enlaza con [[mito-polar]] como cosmogonía dipolar: la batalla izquierda/derecha es la versión política contemporánea de la dicotomía cosmogónica que el mito polar articula a escala arquetípica — escisiones por oposición que se materializan en formas diversas según el registro (cosmogónico, político, psíquico) sin perder su estructura dipolar foundational.
 
-
-
-
 ## "Hambre y miedo Cero": la articulación foundational del modelo (mayo 2021)
 
 El vídeo *Hambre y miedo (Cero). LOCUS* es el capítulo 0 de la serie homónima que da origen al diagrama de Proxy. La articulación es esquemática (13 min) pero contiene piezas foundational que las secciones anteriores tenían dispersas: la distinción disposición interna / elemento identitario, el locus de control como origen del posicionamiento, los pares hambre/miedo como motores duales que dan nombre a la serie, y el dilema completitud/coherencia como sustrato epistemológico de los cuadrantes horizontales.
@@ -712,11 +691,6 @@ La configuración afectiva es complementaria — cada cuadrante construye su def
 → [Hambre y miedo (Cero). LOCUS (11:40)](https://youtu.be/n2rtBxP-_e0?t=700)
 
 La conclusión sintetiza el marco completo del capítulo 0: izquierda y derecha NO son posiciones políticas opcionales sino la cristalización política de la **batalla cultural sobre el origen del mal** — un fenómeno antropológico anclado en la dicotomía como forma elemental de cognición humana (lo que existe solo existe porque existe su contrario). Comprender los cuadrantes como configuraciones defensivas frente al miedo localizado dentro o fuera es prerrequisito para comprender la posmodernidad como cultura. La pieza enlaza con [[mito-polar]] como cosmogonía dipolar: la batalla izquierda/derecha es la versión política contemporánea de la dicotomía cosmogónica que el mito polar articula a escala arquetípica — escisiones por oposición que se materializan en formas diversas según el registro (cosmogónico, político, psíquico) sin perder su estructura dipolar foundational.
-
-
-
-
-
 
 ## Lagunas
 
@@ -734,31 +708,6 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
 - **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [48:12](https://youtu.be/NrLnzcceSLY?t=2892)
@@ -766,7 +715,6 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **Lunes sin política** — chunks: [35:57](https://youtu.be/r1SmCsNmLh0?t=2157)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [1:13:47](https://youtu.be/-daRyQwnZy0?t=4427)
 - **Wokismo para Wokes.** — chunks: [25:13](https://youtu.be/Q83ieEVaF5I?t=1513)
-
 
 - **Elisa y su CI** — chunks: [35:43](https://youtu.be/6tfSc45kjyo?t=2143) · [1:01:44](https://youtu.be/6tfSc45kjyo?t=3704)
 
@@ -776,4 +724,3 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:36:55](https://youtu.be/PC5uw1s86eE?t=5815)
 - **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [1:09:28](https://youtu.be/966LWuiirwA?t=4168)
 - **T5x07: Soto Ivars y el Tabú** — chunks: [15:18](https://youtu.be/wixOLxnd68o?t=918)
-

@@ -98,7 +98,6 @@ La pieza precisa un mecanismo psíquico específico de la pasividad lunar: el po
 
 La articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.
 
-
 ## Mecánica operativa del ciclo: descenso, rescate y ascenso
 
 El análisis de [[gothika-2003-film|Gothika]] articula el contenido operativo del ciclo lunar más allá de su nomenclatura: la diosa **desciende cada noche a los infiernos a rescatar a su hijo dios y asciende para volver a empezar**.
@@ -119,7 +118,6 @@ La pieza precisa un mecanismo psíquico específico de la pasividad lunar: el po
 
 La articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.
 
-
 ## Cumplimiento católico del ciclo: la Asunción de María
 
 El directo monográfico *La luna, La Virgen y la Diosa Blanca* articula la conexión específica entre la fase final del mito lunar y la figura católica de la Virgen María. La pieza estructural es la Asunción — el dogma según el cual María no murió, sino que fue elevada en cuerpo a los cielos.
@@ -133,7 +131,6 @@ El directo monográfico *La luna, La Virgen y la Diosa Blanca* articula la conex
 La Asunción cierra operativamente el ciclo lunar. La diosa que desciende cada noche a rescatar a su hijo dios — mecánica articulada arriba con [[gothika-2003-film|Gothika]] — culmina su trayectoria en una elevación corporal que no pasa por la muerte. La fórmula lunar canónica (atravesar el dragón sin que la experiencia destruya al sujeto) recibe en la Asunción su forma teológica plena: la diosa atraviesa la historia entera (incluyendo la Pasión presenciada al pie de la cruz junto a [[virgen-maria|Magdalena y María de Cleofas]] como triple diosa luminosa) sin que la travesía la destruya, y al final del recorrido es asumida en cuerpo por el orden uránico.
 
 La pieza distingue además la respuesta católica frente a otras tradiciones cristianas: solo católicos y ortodoxos sostienen que el arquetipo lunar de la [[diosa-blanca|diosa blanca]] tiene cabida en el monoteísmo cristiano vía la figura mariana. Para la articulación de la diosa blanca como arquetipo de tres virtudes y de María como respuesta católica específica al arquetipo, ver [[diosa-blanca]] y [[virgen-maria]].
-
 
 ## Mutabilidad femenina y las cuatro vidas como privilegio arquetípico
 
@@ -160,8 +157,6 @@ La pieza añade tres precisiones operativas:
 
 El libro [[polaris-libro]] articula 'cuatro vidas del mito lunar' sin enumerarlas exhaustivamente en el directo de presentación. Quedará como pieza pendiente identificar el catálogo explícito (probablemente: virgen, consorte, madre, anciana o equivalentes culturales reconocibles en distintas tradiciones) cuando futuros vídeos del corpus desarrollen la lista. Por ahora se documenta la propiedad estructural (mutabilidad cuádruple) sin fijar nominalmente cada una de las cuatro modalidades.
 
-
-
 ## Las cuatro fases del ciclo lunar: el reloj de la diosa en Cenicienta
 
 El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] articula el catálogo de las cuatro modalidades cíclicas que la sección anterior dejaba como pieza pendiente. La película codifica las cuatro fases del ciclo lunar como cuatro coordenadas horarias del reloj diegético — 3, 6, 9 y 12 — cada una correspondiente a una modalidad existencial de la diosa.
@@ -186,9 +181,6 @@ La pieza completa el aparato canal-canónico: la cuádruple mutabilidad articula
 
 La articulación se solapa parcialmente con las cinco fases del ciclo (despertar/creación/caída/luna-roja/exorcismo) plegadas en cuatro modalidades existenciales: luna roja como fase ctónica, Artemisa como égersis, dama blanca como creación-cumplida, cierre como exorcismo. La diferencia entre las dos numeraciones (cinco fases vs cuatro vidas) es operativa: las fases describen el recorrido temporal continuo del ciclo; las vidas describen las modalidades existenciales discretas que la diosa actualiza, agrupadas en cuatro horas-coordenadas del reloj diegético. Cenicienta es entonces el primer caso del corpus donde el catálogo cuádruple se nombra explícitamente con coordenadas operativas, no solo como propiedad estructural abstracta.
 
-
-
-
 ## Las cuatro fases del ciclo lunar: el reloj de la diosa en Cenicienta
 
 El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] articula el catálogo de las cuatro modalidades cíclicas que la sección anterior dejaba como pieza pendiente. La película codifica las cuatro fases del ciclo lunar como cuatro coordenadas horarias del reloj diegético — 3, 6, 9 y 12 — cada una correspondiente a una modalidad existencial de la diosa.
@@ -212,10 +204,6 @@ El catálogo articulado:
 La pieza completa el aparato canal-canónico: la cuádruple mutabilidad articulada en el libro [[polaris-libro|Polaris]] ('tres son una y una son tres') recibe en Cenicienta su iconografía operativa — cuatro coordenadas temporales que la psique femenina recorre como ciclo arquetípico, no como sucesión biográfica única. El detalle dramatúrgico que cifra la equivalencia: el reloj (el orden masculino, Cronos) y la luna (la diosa) son **las dos esferas blancas** de la película — los dos polos cuya superposición articula el [[mito-polar]] en clave doméstica.
 
 La articulación se solapa parcialmente con las cinco fases del ciclo (despertar/creación/caída/luna-roja/exorcismo) plegadas en cuatro modalidades existenciales: luna roja como fase ctónica, Artemisa como égersis, dama blanca como creación-cumplida, cierre como exorcismo. La diferencia entre las dos numeraciones (cinco fases vs cuatro vidas) es operativa: las fases describen el recorrido temporal continuo del ciclo; las vidas describen las modalidades existenciales discretas que la diosa actualiza, agrupadas en cuatro horas-coordenadas del reloj diegético. Cenicienta es entonces el primer caso del corpus donde el catálogo cuádruple se nombra explícitamente con coordenadas operativas, no solo como propiedad estructural abstracta.
-
-
-
-
 
 ## Posición cosmológica: el eje ctónico
 
@@ -244,43 +232,6 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:38:22](https://youtu.be/rLeMS4-XFrA?t=5902)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275) · [1:35:30](https://youtu.be/aWeuzWLrLtE?t=5730)
@@ -298,4 +249,3 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 - **Tremendo lunes** — chunks: [11:13](https://youtu.be/0YABTLJ-lFY?t=673)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **En Busca de la Diosa Blanca** — chunks: [1:21:02](https://youtu.be/llS9fqsNVvY?t=4862)
-

@@ -1669,17 +1669,20 @@ def _upsert_video_citation_block(
         new_block_text = compact_line + "\n"
 
     if section_exists:
-        # Mantén el "## Citations\n" header y separación trailing
-        leading_blank = ""
-        # Asegúrate de haber un salto entre header y primer bullet
-        if not new_block_text.startswith("\n"):
-            leading_blank = "\n"
+        # Normaliza el header a "## Citations" + EXACTAMENTE una línea en
+        # blanco. El grupo 1 (`## Citations\s*\n`) absorbe con avidez los
+        # blancos existentes bajo el header; el código anterior los preservaba
+        # vía text[:m.end(1)] y además leading_blank sumaba +1 por run → los
+        # blancos se acumulaban indefinidamente bajo "## Citations" (bug
+        # histórico: hasta 89 blancos en algunas páginas). Reconstruimos desde
+        # m.start(1) para descartarlos.
+        rest = text[m.end(2):]
+        tail = ("\n" + rest) if rest.strip() else ""
         new_text = (
-            text[: m.end(1)]
-            + leading_blank
+            text[: m.start(1)]
+            + "## Citations\n\n"
             + new_block_text
-            + "\n"
-            + text[m.end(2):]
+            + tail
         )
     else:
         new_text = (

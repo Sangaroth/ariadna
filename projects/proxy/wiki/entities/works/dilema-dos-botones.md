@@ -135,6 +135,4 @@ En formato experimental, este patrón es análogo al revelado por [[experimento-
 
 ## Citations
 
-
 - **T5x15 A problemas de IA, remedios humanos** — chunks: [16:10](https://youtu.be/hZVL0GXPgSA?t=970)
-

@@ -81,7 +81,6 @@ El marco se articula en cuatro niveles encadenados — distinción foundational 
 
 - **Distinción magia/religión vía noesis**: es filosóficamente aceptable no distinguir entre magia y religión, pero el canal sí distingue. El criterio operativo NO es la fenomenología externa del rito sino la *noesis* — el contenido interno representacional que diferencia una de otra.
 
-
 - **Abraham como gozne foundational del monoteísmo: de la magia mercantilista a la fe personal**. El monográfico *Magia, superstición y Religión* (jul-2024) articula la genealogía histórico-doctrinal sobre la que descansa la distinción canalizar/catalizar. La forma primitiva semítica de relacionarse con la divinidad era la magia: un intercambio mercantilista donde el sujeto realiza X para obtener Z, presuponiendo que los dioses son previsibles y manipulables mediante oraciones, ritos y conjuros. Las jerarquías chamánicas basadas en poder mágico funcionan por miedo, tabú y superstición — los dioses operan como objetos utilitarios, y por extensión los humanos también son tratados como objetos utilitarios en esa economía. Abraham marca el quiebre histórico: dejó de creer en los ídolos al descubrir la contradicción de adorar objetos sin poder real. El ídolo es para el canal el epicentro de un tabú o de lo sagrado construido a posteriori sin relación real con lo que representa — exactamente la operación que la sección 'Las instituciones religiosas no son mágicas por buscar poder' identifica como fracaso de la categoría sagrada. Abraham descubre que lo divino es una persona con voluntad y conciencia, no un objeto manipulable, y la relación pasa de 'hago X para que me des Z' a 'hago X porque me lo pides y me fío de ti'. La consecuencia operativa es antropológica además de teológica: la relación con lo divino tiñe la relación entre humanos — menos usar, más respetar lo personal. El monoteísmo judeocristiano personaliza lo divino como totalidad, a diferencia de los politeísmos donde los dioses encarnan conceptos aislados.
   → [Magia, superstición y Religión (22:49)](https://youtu.be/IbOb3peBSMs?t=1369)
   → [Magia, superstición y Religión (27:24)](https://youtu.be/IbOb3peBSMs?t=1644)
@@ -125,7 +124,6 @@ El marco se articula en cuatro niveles encadenados — distinción foundational 
 - **REZOS DIARIOS sacerdotales como acto de AMOR no instrumental**: si dejaran de rezar «teóricamente no pasaría nada» — el rezo no opera magia sino expresa amor a Dios. Distinción radical frente a lectura instrumental del rito.
 - **Caso aplicado — SACRILEGIO PROGRESISTA**: la misa de Beyoncé en iglesia episcopal de San Francisco (canciones pop como adoración, 50→700 asistentes, reverendo declarando «Beyoncé es mejor teóloga»). Caso paradigmático de teología progresista orientada a comunidades LGBT y racializadas que vacía la categoría sagrada — aplicación operativa del marco estructural.
 
-
 ## Catolicismo filosófico vs islam poético: dos arquitecturas religiosas según el régimen cognitivo
 
 En el directo *Tontas en Potencia* (sept-2024) el canal extiende el marco articulando un eje contrastivo que la sistematización canalizar/catalizar dejaba implícito: la distinción entre catolicismo e islam **no opera en plano doctrinal sino en plano del régimen cognitivo** que cada tradición exige a sus practicantes.
@@ -166,8 +164,6 @@ La precisión es operativa para el marco articulado en esta página. El concepto
 
 La última pieza articula la frontera entre política y religión como tecnologías sociales distintas, lo que cierra el contraste catolicismo/islam con una observación operativa: tradiciones que mezclan ambas funciones (régimen donde la religión administra la fuerza o la política administra la psique de prosperidad) producen iatrogenia estructural — operar la fuerza con criterio psicológico de prosperidad hace ineficaz la fuerza, operar la psique con criterio de fuerza hace iatrogénica la prosperidad. La distinción complementa el aparato canalizar/catalizar de la página: el sacerdote no opera fuerza, opera intercesión; cuando la confusión religión-política convierte al sacerdote en agente de fuerza, la categoría sagrada se vacía por la vía opuesta a la del sacrilegio progresista — no por sustitución de la noesis por adoración identitaria, sino por sustitución de la intercesión por administración coactiva.
 
-
-
 ## Catolicismo filosófico vs islam poético: dos arquitecturas religiosas según el régimen cognitivo
 
 En el directo *Tontas en Potencia* (sept-2024) el canal extiende el marco articulando un eje contrastivo que la sistematización canalizar/catalizar dejaba implícito: la distinción entre catolicismo e islam **no opera en plano doctrinal sino en plano del régimen cognitivo** que cada tradición exige a sus practicantes.
@@ -207,8 +203,6 @@ La precisión es operativa para el marco articulado en esta página. El concepto
 → [Tontas en Potencia (2:14:10)](https://youtu.be/1cKAgkEEbMA?t=8050)
 
 La última pieza articula la frontera entre política y religión como tecnologías sociales distintas, lo que cierra el contraste catolicismo/islam con una observación operativa: tradiciones que mezclan ambas funciones (régimen donde la religión administra la fuerza o la política administra la psique de prosperidad) producen iatrogenia estructural — operar la fuerza con criterio psicológico de prosperidad hace ineficaz la fuerza, operar la psique con criterio de fuerza hace iatrogénica la prosperidad. La distinción complementa el aparato canalizar/catalizar de la página: el sacerdote no opera fuerza, opera intercesión; cuando la confusión religión-política convierte al sacerdote en agente de fuerza, la categoría sagrada se vacía por la vía opuesta a la del sacrilegio progresista — no por sustitución de la noesis por adoración identitaria, sino por sustitución de la intercesión por administración coactiva.
-
-
 
 ## Tres respuestas religiosas al mito del héroe: sumisión, acompañamiento, no-camino
 
@@ -238,8 +232,6 @@ La pieza articula tres modos estructuralmente distintos en que una tradición re
 → [La Virgen, el mito Lunar y la Diosa Blanca. (21:45)](https://youtu.be/tgusJOzuJ7U?t=1305)
 
 La distinción **error / pecado** es operativa para la cualificación del marco moral del canal y enlaza con el aparato pecaminal-soteriológico ya documentado: el pecado requiere voluntad sobre algo conocido como malo (ver sección 'Aparato PECAMINAL-SOTERIOLÓGICO'); el error es desajuste cognitivo-funcional que NO involucra necesariamente voluntad ni daño moral atribuible. La opción contemplativa pura del zen es leída como camino que produce iatrogenia estructural — la psique se atrofia por inacción sostenida — sin que ello convierta a quien lo recorre en agente del mal. La isla de los suricatos en *La vida de Pi* opera como cifra cinematográfica del error: paraíso aparente que canibaliza al sujeto por desactivación de la acción heroica. La pieza añade así un tercer modo de fracaso de la categoría sagrada que el aparato de la página no recogía — no por sustitución de la noesis por adoración identitaria (sacrilegio progresista), ni por sustitución de la intercesión por administración coactiva (confusión religión-política), sino por **sustitución del acompañamiento del héroe por la abstención contemplativa pura**.
-
-
 
 ## Citas del vídeo
 

@@ -137,7 +137,6 @@ La distorsión de autoimagen propia de anorexia y bulimia se inscribe en el ego 
 
 - La tríada **impulsividad / obsesividad** como ejes nucleares queda articulada en [[psicastenia-en-proxy]]: la impulsividad es "el sentimiento de necesito hacer" (actuar sin pensar, ganas indomables), la obsesividad es "el sentimiento de necesito pensar" (rumiación constante, miedo a no tener algo en cuenta). La fobia pertenece al eje obsesivo; la compulsión y la ansiedad al eje impulsivo. Aplicada a los TCAs, esta distribución permite reordenar el cuadro: el atracón gravita hacia el polo impulsivo (necesidad indomable de comer seguida de culpa), mientras que anorexia y bulimia combinan obsesión por autoimagen con conductas compulsivas (restricción, vómito, ejercicio ritualizado). El cuadro evitativo/restrictivo, sin distorsión de autoimagen, opera fuera del eje obsesivo de la autoimagen pero conserva rasgos impulsivos de evitación.
 
-
 ## Lagunas
 
 - **Etiología profunda**: el canal apunta a un origen ansioso y a la herida narcisista, pero no detalla en este vídeo cómo se forma la diátesis específica que predispone a un subtipo (anorexia vs atracón) frente a otros cuadros neuróticos.
@@ -148,11 +147,6 @@ La distorsión de autoimagen propia de anorexia y bulimia se inscribe en el ego 
 - **Distinción impulsividad / compulsividad / obsesividad**: el vídeo introduce esta tríada como nuclear para distinguir TCAs entre sí, pero el material recuperado no la desarrolla con suficiente granularidad para una sección propia.
 
 ## Citations
-
-
-
-
-
 
 - **Psicología 101: Ego, autoestima y TCAs** — chunks: [10:54](https://youtu.be/Sl4coB8bBs4?t=654) · [26:29](https://youtu.be/Sl4coB8bBs4?t=1589) · [31:02](https://youtu.be/Sl4coB8bBs4?t=1862) · [37:36](https://youtu.be/Sl4coB8bBs4?t=2256) · [40:07](https://youtu.be/Sl4coB8bBs4?t=2407) · [42:08](https://youtu.be/Sl4coB8bBs4?t=2528) · [45:40](https://youtu.be/Sl4coB8bBs4?t=2740) · [1:10:05](https://youtu.be/Sl4coB8bBs4?t=4205) · [1:16:08](https://youtu.be/Sl4coB8bBs4?t=4568)
 - **Twitchversario de Proxy** — chunks: [1:57:58](https://youtu.be/UBwUUOKf5UU?t=7078)

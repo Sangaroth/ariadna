@@ -39,7 +39,6 @@ last_human_edit: null
 
 # Fight Club (1999)
 
-
 ## Lectura del canal — tesis principales
 
 ### NO trata de psicosis ni de TID, trata de **fuga depresiva**
@@ -105,7 +104,6 @@ Y la dinámica afectiva entre Marla, Jack y Tyler:
 
 Este es el cierre del arco — la **integración de la sombra (Tyler) y el rescate de la capacidad de amar (Marla) como salida de la fuga depresiva**. Camino hacia la [[individuation]] junguiana.
 
-
 ## Generación criada por madres: el diagnóstico cultural foundational
 
 La lectura del canal abre el análisis arquetípico con un diagnóstico cultural que precisa la condición previa de la fuga depresiva de Jack: la película opera dentro de una cultura específica donde el polo masculino simbólico ha sido vaciado, no biológicamente eliminado.
@@ -257,8 +255,6 @@ La pieza añade el principio operativo cosmológico que la película articula co
 
 El cierre cosmogónico del arco articula el principio canal-específico que organiza la salida de toda depresión existencial: la fuga depresiva se cura solo por **descubrimiento de un sentido más grande que el propio yo**, y el dispositivo operativo de ese descubrimiento es el sacrificio creativo — entrega de la propia seguridad por algo cuya importancia exceda al sujeto que se entrega. El amor opera como caso paradigmático de ese sentido mayor; la creación misma se redefine como acto de amor (entrega de sí en lo que se hace para el otro, no expresión narcisista del yo). La pieza enlaza con [[individuation]] precisando que el cumplimiento del proceso individuativo no es repliegue sobre el self sino entrega del self a un horizonte que lo trasciende — la fórmula es estructuralmente católica (la imitatio Christi articulada en [[viaje-heroe]] como respuesta occidental al monomito) traducida a clave cinematográfica laica.
 
-
-
 ## Generación criada por madres: el diagnóstico cultural foundational
 
 La lectura del canal abre el análisis arquetípico con un diagnóstico cultural que precisa la condición previa de la fuga depresiva de Jack: la película opera dentro de una cultura específica donde el polo masculino simbólico ha sido vaciado, no biológicamente eliminado.
@@ -409,7 +405,6 @@ La pieza añade el principio operativo cosmológico que la película articula co
 → [Análisis arquetípico de el club de la lucha (1:49:10)](https://youtu.be/L4zXftKhU6M?t=6550)
 
 El cierre cosmogónico del arco articula el principio canal-específico que organiza la salida de toda depresión existencial: la fuga depresiva se cura solo por **descubrimiento de un sentido más grande que el propio yo**, y el dispositivo operativo de ese descubrimiento es el sacrificio creativo — entrega de la propia seguridad por algo cuya importancia exceda al sujeto que se entrega. El amor opera como caso paradigmático de ese sentido mayor; la creación misma se redefine como acto de amor (entrega de sí en lo que se hace para el otro, no expresión narcisista del yo). La pieza enlaza con [[individuation]] precisando que el cumplimiento del proceso individuativo no es repliegue sobre el self sino entrega del self a un horizonte que lo trasciende — la fórmula es estructuralmente católica (la imitatio Christi articulada en [[viaje-heroe]] como respuesta occidental al monomito) traducida a clave cinematográfica laica.
-
 
 ## Conexiones cross-corpus
 
@@ -426,8 +421,5 @@ El canal usa Fight Club como referencia recurrente fuera del análisis dedicado:
 
 ## Citations
 
-
-
 - **Lunes basado terminal** — chunks: [58:07](https://youtu.be/oHxXzr5WSbQ?t=3487)
 - **Análisis arquetípico de el club de la lucha** — chunks: [0:45](https://youtu.be/L4zXftKhU6M?t=45) · [17:01](https://youtu.be/L4zXftKhU6M?t=1021) · [1:07:00](https://youtu.be/L4zXftKhU6M?t=4020)
-

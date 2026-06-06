@@ -84,7 +84,6 @@ El canal articula la genealogía del monomito en clave religiosa-occidental: cad
 
 La secuencia Hércules → Cristo → Arturo articula la línea pedagógica del héroe occidental: el monomito recibe en cada época su encarnación moral concreta. Esto matiza el uso del viaje del héroe como vara diagnóstica — la obra fallida no es la que se aparta de Campbell sino la que adopta la silueta sin asumir la imitatio del héroe correspondiente a su tradición. El sacrificio del Grial es para el canal la pieza específicamente católica que distingue al héroe cristiano del solar pagano: "la única forma de hacer eterno a un rey es que muera cumpliendo su misión".
 
-
 ## Tipología comparativa de respuestas religiosas al monomito
 
 El directo *La luna, La Virgen y la Diosa Blanca* extiende la genealogía Hércules→Cristo→Arturo con una tipología de cómo distintas tradiciones religiosas responden al mito del héroe — la plantilla arquetípica común que cada tradición cristaliza en una imitatio específica. La distinción es estructural-operativa, no teológica:
@@ -112,8 +111,6 @@ La pieza específica del héroe católico es el martirio voluntario por el prój
 
 La fórmula precisa la respuesta a la pregunta cosmogónica que el monomito plantea — *¿por qué merece la pena vivir?* — desde el catolicismo: por hacer la vida de los demás mejor, hasta el límite de entregar la propia. Los mártires no son figuras heroicas excepcionales sino encarnaciones operativas del recorrido que la imitatio Christi propone a cualquier sujeto católico — el [[grial-arquetipo|sacrificio del Grial]] como acceso individual al cierre del ciclo. La pieza completa la genealogía Hércules → Cristo → Arturo documentada arriba: cada eslabón articula una versión culturalmente específica del héroe occidental, y el catolicismo añade el componente martirial que distingue su imitatio de las versiones puramente solares (Hércules) o puramente regias (Arturo sin pasión sacrificial).
 
-
-
 ## Tipología comparativa de respuestas religiosas al monomito
 
 El directo *La luna, La Virgen y la Diosa Blanca* extiende la genealogía Hércules→Cristo→Arturo con una tipología de cómo distintas tradiciones religiosas responden al mito del héroe — la plantilla arquetípica común que cada tradición cristaliza en una imitatio específica. La distinción es estructural-operativa, no teológica:
@@ -140,7 +137,6 @@ La pieza específica del héroe católico es el martirio voluntario por el prój
 → [La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)
 
 La fórmula precisa la respuesta a la pregunta cosmogónica que el monomito plantea — *¿por qué merece la pena vivir?* — desde el catolicismo: por hacer la vida de los demás mejor, hasta el límite de entregar la propia. Los mártires no son figuras heroicas excepcionales sino encarnaciones operativas del recorrido que la imitatio Christi propone a cualquier sujeto católico — el [[grial-arquetipo|sacrificio del Grial]] como acceso individual al cierre del ciclo. La pieza completa la genealogía Hércules → Cristo → Arturo documentada arriba: cada eslabón articula una versión culturalmente específica del héroe occidental, y el catolicismo añade el componente martirial que distingue su imitatio de las versiones puramente solares (Hércules) o puramente regias (Arturo sin pasión sacrificial).
-
 
 ## El viaje como diagnóstico de obras fallidas
 
@@ -153,8 +149,6 @@ El canal usa el monomito menos como descripción que como herramienta crítica. 
 → [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (10:12)](https://youtu.be/3Jo2T73pOEs?t=612)
 
 Esta lectura convierte al viaje del héroe en una **prueba de autenticidad arquetípica**: si la identificación con el héroe no exige al espectador un coste interior análogo, la obra es ornamento, no vehículo de [[individuation|cambio alquímico]].
-
-
 
 ## Inocencia vs ingenuidad: vara diagnóstica del aprendizaje heroico
 
@@ -172,9 +166,6 @@ La pieza completa la lectura del monomito como vara crítica: una obra falla no 
 
 La fórmula 'todo estaba bien como estaba: eran los demás los que no les dejaban ser' cifra exactamente el dispositivo: el problema no es el sujeto sino el mundo, y la salida no es la transformación interior sino la afirmación de la propia inocencia preexistente. El monomito queda vaciado por sustitución — donde el héroe debería emerger transformado, el ingenuo emerge confirmado.
 
-
-
-
 ## El héroe truncado: la inversión del monomito
 
 El canal articula como categoría operativa el [[heroe-truncado|héroe truncado]] — la figura del **caballero negro** que recorre la forma externa del monomito pero cuya transformación deriva hacia la destrucción en lugar de la integración.
@@ -186,8 +177,6 @@ El canal articula como categoría operativa el [[heroe-truncado|héroe truncado]
 → [Análisis arquetípico de Unicorn wars (06:09)](https://youtu.be/fLfEbHPJNmU?t=369)
 
 Los casos canónicos que el canal articula — Darth Vader, Anakin, Azulín en [[unicorn-wars-2022-film|Unicorn Wars]] — comparten origen estructural: una ira no canalizada vinculada a la fractura paterna o materna. La pieza completa el marco diagnóstico de esta página: el monomito puede fracasar no solo por escapismo (Harry Potter, Peter Pan) sino por **truncamiento activo** — el héroe que aprende del mundo pero contra él.
-
-
 
 ## El antihéroe ordinario: la inversión por minimum effort
 
@@ -203,7 +192,6 @@ La distinción frente a la [[uranico-telurico-cetonico|narrativa uránica]] es o
 
 La pieza completa el marco diagnóstico del monomito como vara crítica con tres figuras de inversión: el escapismo (Harry Potter, motivación interna ausente), el truncamiento (caballero negro, héroe que aprende contra el mundo), y el antihéroe (héroe sin saberlo). Los Coen aplican la estructura deliberadamente, marcando las tres fases de Campbell con sueños del protagonista y recorriendo los 22 Arcanos del [[tarot-arquetipico|tarot]] en su forma invertida.
 
-
 ## Sacrificio pasivo vs sacrificio heroico: dos modalidades sacrificiales
 
 El monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula una distinción categorial sobre el momento sacrificial del monomito que las secciones anteriores tenían implícita: no toda muerte voluntaria del héroe es sacrificio heroico — hay una modalidad pasiva del sacrificio que opera estructuralmente como inversión de la heroica.
@@ -226,8 +214,6 @@ La pieza completa el aparato diagnóstico de la página con un cuarto modo de fr
 
 La distinción es operativa para la lectura del corpus: el sacrificio pasivo es el destino estructural del [[woke-narrativa-postmoderna-moral|monomito woke]] cuando llega al momento culminante — donde el héroe debería transformarse, la víctima por defecto del marco woke solo puede dejarse padecer.
 
-
-
 ## Sacrificio pasivo vs sacrificio heroico: dos modalidades sacrificiales
 
 El monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula una distinción categorial sobre el momento sacrificial del monomito que las secciones anteriores tenían implícita: no toda muerte voluntaria del héroe es sacrificio heroico — hay una modalidad pasiva del sacrificio que opera estructuralmente como inversión de la heroica.
@@ -249,10 +235,6 @@ La distinción articula dos modalidades estructuralmente distintas:
 La pieza completa el aparato diagnóstico de la página con un cuarto modo de fracaso del monomito masculino, complementario a los tres ya documentados (escapismo, truncamiento, antihéroe). El sacrificio pasivo aplicado a un personaje masculino estructura un **monomito vaciado por inversión sacrificial** — la película preserva la silueta del sacrificio final del héroe pero sustituye la modalidad transformadora por la pasiva, dejando al protagonista como objeto del padecimiento en lugar de agente de la transformación. La fórmula 'habría tenido triple sentido que se convirtiera en hielo' del directo precisa qué habría sido sacrificio heroico genuino: el agua-pasivo-negativo (labilidad emocional) renunciando a su naturaleza para convertirse en algo activamente nuevo (hielo: dureza, durabilidad, capacidad de soporte).
 
 La distinción es operativa para la lectura del corpus: el sacrificio pasivo es el destino estructural del [[woke-narrativa-postmoderna-moral|monomito woke]] cuando llega al momento culminante — donde el héroe debería transformarse, la víctima por defecto del marco woke solo puede dejarse padecer.
-
-
-
-
 
 ## Las dos fases masculinas del monomito en la lectura del canal
 
@@ -306,8 +288,6 @@ El caso límite — el varón cuyo padre fue ausente — no impide la segunda fa
 
 La segmentación cae lateralmente sobre el [[adgrediere-masculino|adgrediere]]: la pulsión arquetípica de avanzar contra la oposición es el motor que mueve al varón por las dos fases, y los cuatro objetos prescritos son cristalizaciones canalizadas de esa pulsión en clave individuativa.
 
-
-
 ## Crítica al camino de la heroína: el viaje femenino es lunar o solar, no paralelo
 
 En el directo *Vacacioff: De la Sartén a Venezuela (parte II)* (30 jul 2024) el canal articula la posición sobre la pretensión contemporánea de construir un 'camino de la heroína' como monomito femenino paralelo al de Campbell. La tesis es polemista y precisa: tal camino paralelo no existe arquetípicamente, y la pretensión de construirlo es síntoma de mitología impropia.
@@ -337,7 +317,6 @@ La asimetría es estructural: la psique femenina puede integrar el mito solar (e
 La tesis cierra el flanco crítico: cuando la cultura contemporánea presenta la emancipación femenina (rechazo de la maternidad, autonomía radical, ruptura con marcos tradicionales) como 'viaje del héroe femenino', está cometiendo error categorial. La estructura arquetípica de esa emancipación no es nueva — corresponde a la figura de la **bruja** dentro del mito lunar, articulada en la [[tipologia-femenina-arquetipica|tipología femenina arquetípica]] como figura terminal que rechaza lo civilizatorio. La emancipación radical contemporánea recapitula esa figura sin nombrarla, y el discurso del 'viaje heroico de la mujer' opera como ocultamiento de la genealogía mítica real: lo que se vende como camino heroico nuevo es figura corruptiva canónica con vocabulario de empoderamiento.
 
 La pieza importa para el marco de la página: el monomito como vara diagnóstica funciona también para detectar **construcciones míticas pseudo-paralelas** que reclaman estatus arquetípico sin haberlo. El libro 'Ser mujer, un viaje heroico' (Maureen Murdock-style) cae del lado de la mitología impropia no por ser sobre mujeres, sino por inventar una plantilla que el corpus arquetípico ya contiene articulada de otra forma — duplicación estructural que el canal lee como ornamento ideológico, no como aporte mitopoético genuino.
-
 
 ## Las siete fases del descenso masculino: el caso operativo de Atrapado en el tiempo
 
@@ -377,9 +356,6 @@ La salida del descenso terminal articulada por el directo opera en cuatro pasos 
 → [Análisis arquetípico de atrapado en el tiempo. (1:07:56)](https://youtu.be/DwmV3c9-Xi0?t=4076)
 
 La elementología cierra el aparato: el héroe descendido era **fuego** (impulso solar sin freno); recibe **agua** del femenino (gracia, escucha) y al integrarla obtiene **aire** (palabra inteligible, capacidad de discurso humano) sobre la **tierra** (pueblo, cuerpo cotidiano). Las cuatro categorías del [[cuatro-elementos-arquetipicos]] se completan en la consumación final.
-
-
-
 
 ### Refinamientos del monográfico de diciembre 2024
 
@@ -437,8 +413,6 @@ La pieza articula la **asimetría operativa** entre los dos mitos cosmogónicos:
 
 La precisión final desactiva el solapamiento conceptual sobre el que Murdock construye su libro: la crisis de identidad contemporánea (que efectivamente exige trabajo psíquico al sujeto que la atraviesa) NO es equivalente al viaje del héroe (que es la estructura arquetípica universal del proceso de [[individuation]]). Muchos sujetos contemporáneos — varones y mujeres por igual — atraviesan crisis de identidad sin recorrer el monomito, y muchos sujetos premoderno-tradicionales recorrieron el monomito sin atravesar crisis de identidad en sentido moderno. La conexión entre ambos es contingente, no estructural; confundirlos produce la pretensión de inventar un 'viaje heroico' específicamente femenino para resolver una crisis identitaria que los varones contemporáneos también padecen y que tampoco resuelven con su 'viaje heroico' tradicional.
 
-
-
 ## Las siete fases del descenso masculino: el caso operativo de Atrapado en el tiempo
 
 El monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] articula la cadena granular del **descenso masculino antes del cambio** que el monomito clásico no enumera. La pieza completa el aparato de las dos fases (seno de la madre / seno del padre) con la articulación operativa de qué le ocurre al varón cuando la primera fase falla y entra en espiral de desocialización terminal antes de la entrega que le permite la reconstrucción.
@@ -478,14 +452,9 @@ La salida del descenso terminal articulada por el directo opera en cuatro pasos 
 
 La elementología cierra el aparato: el héroe descendido era **fuego** (impulso solar sin freno); recibe **agua** del femenino (gracia, escucha) y al integrarla obtiene **aire** (palabra inteligible, capacidad de discurso humano) sobre la **tierra** (pueblo, cuerpo cotidiano). Las cuatro categorías del [[cuatro-elementos-arquetipicos]] se completan en la consumación final.
 
-
-
-
 ## Conexión con otros conceptos
 
 - Es el dispositivo narrativo de la [[individuation]]: la psique se identifica con el viaje y vive en seguridad simbólica un proceso de integración real
-
-
 
 ## Modalidades del cierre: sacrificio masculino innato, apoteosis colectivo, reina de ambos mundos
 
@@ -520,9 +489,6 @@ La pieza articula una modalidad del momento culminante del monomito que la pági
 → [Análisis arquetípico de Los Rescatadores (1:47:29)](https://youtu.be/ryvi2Y7KYB8?t=6449)
 
 La pieza precisa la última fase campbelliana del monomito (regreso con el elixir) en clave infantil-fabulosa: la heroína no regresa con un don a un mundo singular sino que QUEDA COMO REINA SIMULTÁNEA de los dos mundos — el de la fantasía sostenedora y el del mundo real recuperado. La diferencia operativa frente al regreso clásico es categorial: el héroe adulto regresa al mundo único habiendo aprendido del otro; la heroína infantil retiene ambos mundos como territorios propios porque la fantasía NO se descarta al integrarse el rescate, se conserva como capacidad operativa que perpetúa la fábula. La cadena que cierra el directo (la siguiente aventura ya es enviar socorro, no recibirlo) articula esta operación: Penny no abandona el mundo de Bianca y Bernardo al ser rescatada, lo reasume invertido como agente.
-
-
-
 
 ## Modalidades del cierre: sacrificio masculino innato, apoteosis colectivo, reina de ambos mundos
 
@@ -573,78 +539,6 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
@@ -692,4 +586,3 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Directo Navidad y Entrevista a Unicornio** — chunks: [43:28](https://youtu.be/PTgRsC-KwSs?t=2608)
 - **En Busca de la Diosa Blanca** — chunks: [2:44](https://youtu.be/llS9fqsNVvY?t=164) · [4:14](https://youtu.be/llS9fqsNVvY?t=254) · [19:24](https://youtu.be/llS9fqsNVvY?t=1164)
 - **T5x14: Conan** — chunks: [25:10](https://youtu.be/mR2X391fQu4?t=1510)
-

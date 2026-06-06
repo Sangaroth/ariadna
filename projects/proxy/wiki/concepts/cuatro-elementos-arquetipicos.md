@@ -68,7 +68,6 @@ La cuaternidad no es plana. El canal introduce una asimetría interna entre los 
 
 La muerte funciona como umbral: la renuncia a lo material (fuego/tierra) abre el paso a la dimensión inmaterial (aire/agua), donde reside el espíritu. El esquema cuatripartito pasa así de mapa estático a vector de transformación.
 
-
 ## Tierra y fuego como régimen de multiplicación de posibilidades
 
 La asimetría material/inmaterial recibe en otro directo del canal una articulación adicional sobre el Silmarillion: tierra y fuego no son simplemente "lo material", sino los elementos de **máxima potencialidad creativa**. La tierra (materia) ofrece variabilidad infinita; el fuego es potencia pura que se quedó en energía que consume.
@@ -86,8 +85,6 @@ El aire (intelecto) y el agua (espíritu), en cambio, son invariantes: no se tra
 
 La precisión es operativa para la lectura tolkieniana del canal sobre [[el-silmarillion]]: explica por qué Aulë (tierra) y Melkor (fuego) se equiparan en posibilidades creativas mientras Manwë (aire) y Ulmo (agua) operan a otro nivel, y por qué muchos Maiar de Aulë acabaron sirviendo a Melkor — la afinidad estructural entre los dos elementos del régimen de multiplicación lo arrastra.
 
-
-
 ## Tierra y fuego como régimen de multiplicación de posibilidades
 
 La asimetría material/inmaterial recibe en otro directo del canal una articulación adicional sobre el Silmarillion: tierra y fuego no son simplemente "lo material", sino los elementos de **máxima potencialidad creativa**. La tierra (materia) ofrece variabilidad infinita; el fuego es potencia pura que se quedó en energía que consume.
@@ -104,7 +101,6 @@ El aire (intelecto) y el agua (espíritu), en cambio, son invariantes: no se tra
 → [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)
 
 La precisión es operativa para la lectura tolkieniana del canal sobre [[el-silmarillion]]: explica por qué Aulë (tierra) y Melkor (fuego) se equiparan en posibilidades creativas mientras Manwë (aire) y Ulmo (agua) operan a otro nivel, y por qué muchos Maiar de Aulë acabaron sirviendo a Melkor — la afinidad estructural entre los dos elementos del régimen de multiplicación lo arrastra.
-
 
 ## El espíritu como presencia sobrenatural en lo terrenal
 
@@ -125,8 +121,6 @@ El mismo directo despliega una segunda cuaternidad —[[cuatro-formas-del-mal]] 
 
 El directo lo presenta como mapa del yo dentro de la lectura católica de la obra de Tolkien y del ciclo artúrico de [[excalibur-1981-film]], no como teoría general expuesta autónomamente.
 
-
-
 ## La cuaternidad como mapeo a los cuatro palos del tarot
 
 El directo monográfico *Análisis arquetípico: Excalibur* añade un segundo mapeo de la cuaternidad — la correspondencia con los cuatro palos del [[tarot-arquetipico|tarot]]: espadas (intelecto/aire), copas (espíritu/agua), bastos (fuego/voluntad) y oros (tierra/material). El mapeo se aplica a las figuras del mito artúrico:
@@ -145,8 +139,6 @@ El directo monográfico *Análisis arquetípico: Excalibur* añade un segundo ma
 
 El mapeo confirma que la cuaternidad opera como **dispositivo de lectura transversal**, no como articulación local. Donde el directo Excalibur+LOTR mapeaba a personajes tolkienianos (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra), este directo mapea a figuras artúricas vía los palos del tarot. Las dos lecturas son la misma cuaternidad bajo dos vehículos iconográficos distintos — el bestiario tolkieniano y los arcanos del tarot.
 
-
-
 ## El estado pre-cuaternario: el huevo órfico y el caos contenido
 
 El monográfico *[[arquetipo-cero|Arquetipo Cero]]* (mar 2023) articula una pieza foundational que las secciones anteriores tenían implícita: lo que PRECEDE a la cuaternidad. Antes de que los cuatro elementos se diferencien, hay un ESTADO PRE-CUATERNARIO donde el caos está contenido en singularidad sin delimitar.
@@ -167,9 +159,6 @@ La pieza articula tres niveles que las secciones anteriores tenían dispersos:
 3. **Conexión cabalística**: la letra alef tiene valor 1 pero también puede tomar valor 0 o infinito. La pieza enlaza la matemática cabalística con la iconografía órfica — el cero/uno/infinito es la misma figura del caos contenido antes de la diferenciación. Conexión con [[kabbalah]] precisando que la letra primera del alfabeto hebreo cifra precisamente el estado pre-cuaternario donde lo determinado y lo indeterminado coinciden.
 
 La pieza enlaza con el [[arquetipo-cero|Loco del Tarot]] como figura iconográfica que cifra ese estado pre-cuaternario en formato narrativo: el joven al borde del precipicio con perro-instinto, rosa blanca y hatillo es la encarnación del caos contenido en figura humana — antes de que el héroe se diferencie en uno de los cuatro polos cuaternarios. La consecuencia operativa para el aparato general: la cuaternidad NO se postula como punto de partida sino como diferenciación posterior del estado cero. Cualquier sujeto que regrese estructuralmente al estado cero (arlequín desocializado, caballero oscuro neurótico, joker) está operando en territorio pre-cuaternario, no en territorio cuaternario disfuncional.
-
-
-
 
 ## Cuarto mapeo: las gemas de la espada como objeto único de la cuaternidad
 
@@ -200,9 +189,6 @@ El cierre del directo articula la cuaternidad en su modalidad reticular: en luga
 
 La secuencia operativa de los dos cierres del directo (espada-completa para el caballero individual; cuatro-personajes-restituidos para la sociedad simbólica) cierra el aparato con dos modalidades complementarias: la cuaternidad puede integrarse en un sujeto solo (espada como individuación) o distribuirse entre sujetos cuyas funciones se complementan (sociedad simbólica como restitución cosmológica). Ambas modalidades operan en el monomito; el caso Lady Halcón las articula en sucesión narrativa.
 
-
-
-
 ## El estado pre-cuaternario: el huevo órfico y el caos contenido
 
 El monográfico *[[arquetipo-cero|Arquetipo Cero]]* (mar 2023) articula una pieza foundational que las secciones anteriores tenían implícita: lo que PRECEDE a la cuaternidad. Antes de que los cuatro elementos se diferencien, hay un ESTADO PRE-CUATERNARIO donde el caos está contenido en singularidad sin delimitar.
@@ -223,9 +209,6 @@ La pieza articula tres niveles que las secciones anteriores tenían dispersos:
 3. **Conexión cabalística**: la letra alef tiene valor 1 pero también puede tomar valor 0 o infinito. La pieza enlaza la matemática cabalística con la iconografía órfica — el cero/uno/infinito es la misma figura del caos contenido antes de la diferenciación. Conexión con [[kabbalah]] precisando que la letra primera del alfabeto hebreo cifra precisamente el estado pre-cuaternario donde lo determinado y lo indeterminado coinciden.
 
 La pieza enlaza con el [[arquetipo-cero|Loco del Tarot]] como figura iconográfica que cifra ese estado pre-cuaternario en formato narrativo: el joven al borde del precipicio con perro-instinto, rosa blanca y hatillo es la encarnación del caos contenido en figura humana — antes de que el héroe se diferencie en uno de los cuatro polos cuaternarios. La consecuencia operativa para el aparato general: la cuaternidad NO se postula como punto de partida sino como diferenciación posterior del estado cero. Cualquier sujeto que regrese estructuralmente al estado cero (arlequín desocializado, caballero oscuro neurótico, joker) está operando en territorio pre-cuaternario, no en territorio cuaternario disfuncional.
-
-
-
 
 ## Cuarto mapeo: las gemas de la espada como objeto único de la cuaternidad
 
@@ -255,7 +238,6 @@ La pieza añade además una asimetría operativa importante: el aire (buen juici
 El cierre del directo articula la cuaternidad en su modalidad reticular: en lugar de concentrarse en un solo objeto (la espada), los cuatro elementos se distribuyen en cuatro personajes restituidos a su lugar arquetípico — Isabeau (tierra), Navarre (aire/espada), el monje (agua/fe), Phillipe (fuego/héroe nuevo). La pieza precisa la genealogía cristiana del esquema: los cuatro evangelistas (Mateo-hombre/aire, Marcos-león/fuego, Lucas-toro/tierra, Juan-águila/agua) operan como **recapitulación cristiana** de la cuaternidad arquetípica que el arcano El Mundo del tarot también cifra.
 
 La secuencia operativa de los dos cierres del directo (espada-completa para el caballero individual; cuatro-personajes-restituidos para la sociedad simbólica) cierra el aparato con dos modalidades complementarias: la cuaternidad puede integrarse en un sujeto solo (espada como individuación) o distribuirse entre sujetos cuyas funciones se complementan (sociedad simbólica como restitución cosmológica). Ambas modalidades operan en el monomito; el caso Lady Halcón las articula en sucesión narrativa.
-
 
 La pieza importa también porque articula la **separación de los ejes** como operación cognitiva del héroe:
 
@@ -264,7 +246,6 @@ La pieza importa también porque articula la **separación de los ejes** como op
 
 El gesto inaugural del rey (extraer Excalibur de la tierra) cifra la separación de los dos ejes — el dragón (fuego+tierra como pasiones materiales) y la dama del lago (intelecto+espíritu como dones inmateriales). El héroe debe primero distinguir los cuatro elementos para luego integrarlos en la armonía completa de los cuatro palos. La cuaternidad opera así no como mapa estático sino como **secuencia operativa**: separar para luego integrar.
 
-
 ## Tercer mapeo: los cuatro elementos como temperamentos (matriz activo/pasivo × positivo/negativo)
 
 El monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula un tercer vehículo iconográfico para la cuaternidad — el mapeo TEMPERAMENTAL en matriz 2x2 — que extiende los dos ya documentados (figuras tolkienianas, palos del tarot).
@@ -299,8 +280,6 @@ El mapeo temperamental opera como dispositivo de lectura de la película misma. 
 
 La pieza añade además un eje genealógico que las secciones anteriores tenían implícito. El temperamento activo (fuego/aire) se asocia con el polo arquetípico masculino-solar; el temperamento pasivo (agua/tierra) con el polo femenino-lunar. La división activo/pasivo NO es la división masculino/femenino — ambos sexos pueden tener cualquier temperamento — pero los dos ejes se cruzan productivamente: la psique sana integra los cuatro temperamentos con preponderancia adecuada al sexo y a la función vital del momento. La psique disfuncional se polariza en uno solo de los temperamentos (Candela exclusivamente activo-negativo, Wade exclusivamente pasivo-negativo) y opera con el resto de funciones bloqueadas.
 
-
-
 ## Tercer mapeo: los cuatro elementos como temperamentos (matriz activo/pasivo × positivo/negativo)
 
 El monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula un tercer vehículo iconográfico para la cuaternidad — el mapeo TEMPERAMENTAL en matriz 2x2 — que extiende los dos ya documentados (figuras tolkienianas, palos del tarot).
@@ -334,8 +313,6 @@ El mapeo temperamental opera como dispositivo de lectura de la película misma. 
 ### Articulación con masculino/femenino
 
 La pieza añade además un eje genealógico que las secciones anteriores tenían implícito. El temperamento activo (fuego/aire) se asocia con el polo arquetípico masculino-solar; el temperamento pasivo (agua/tierra) con el polo femenino-lunar. La división activo/pasivo NO es la división masculino/femenino — ambos sexos pueden tener cualquier temperamento — pero los dos ejes se cruzan productivamente: la psique sana integra los cuatro temperamentos con preponderancia adecuada al sexo y a la función vital del momento. La psique disfuncional se polariza en uno solo de los temperamentos (Candela exclusivamente activo-negativo, Wade exclusivamente pasivo-negativo) y opera con el resto de funciones bloqueadas.
-
-
 
 ## Lagunas
 
@@ -347,23 +324,6 @@ La pieza añade además un eje genealógico que las secciones anteriores tenían
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [2:15:23](https://youtu.be/K082yiudh-g?t=8123)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [59:39](https://youtu.be/aWeuzWLrLtE?t=3579)
 - **Matrix y el camino del héroe.** — chunks: [1:12:37](https://youtu.be/kF5KHE_fF7g?t=4357)
@@ -374,4 +334,3 @@ La pieza añade además un eje genealógico que las secciones anteriores tenían
 - **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391)
 - **MItología 101: El Gólem** — chunks: [1:14:09](https://youtu.be/IG3dkNBX9uU?t=4449)
 - **T5x14: Conan** — chunks: [26:41](https://youtu.be/mR2X391fQu4?t=1601)
-

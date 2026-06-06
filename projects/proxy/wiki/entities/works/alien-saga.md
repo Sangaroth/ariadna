@@ -126,8 +126,6 @@ La cadena articulada por el canal tiene cinco eslabones:
 4. **Androides** — eslabón pre-Alien; criatura artificial que ya porta el defecto de base
 5. **Alien** — gólem final, el mal crecido que devora toda la cadena
 
-
-
 El monográfico *El mito del Gólem: Transhumanismo* articula la genealogía con una fórmula recursiva que enfatiza la posición humana intermedia en la cadena, no como creador inicial sino como eslabón ya derivado:
 
 > "En Alien, un titán demiurgo se inmola codificando el mal en su propia obra para destruir a la humanidad,"
@@ -137,7 +135,6 @@ El monográfico *El mito del Gólem: Transhumanismo* articula la genealogía con
 → [El mito del Gólem: Transhumanismo (47:31)](https://youtu.be/hjc9L2_kkOo?t=2851)
 
 La cadena ya no es lineal Titanes→humanidad→Weyland→androides→Alien sino recursiva: cada generación se hibrida con el mal heredado, no solo lo replica. El xenomorfo recibe en este vídeo una caracterización psicológica complementaria a la lectura mítica anterior — 'solo sirve para reproducirse y destruir: metáfora del mal devorador que habita en el ser humano'. La saga deja de leer al xenomorfo como exterioridad cósmica para situarlo como proyección del mal latente en la propia genealogía humana, lectura compatible con [[shadow-archetype|la sombra]] colectiva pero articulada aquí en clave de [[golem-arquetipo|gólem terminal]] y no de represión individual.
-
 
 > "La humanidad crea la tecnología, la corporación Weyland es la diosa de la tecnología, Weyland crea hijos humanos y robots,"
 → [Mitología 101: Alien y el mito Polar (51:06)](https://youtu.be/Sszbs7CG0cQ?t=3066)
@@ -182,25 +179,6 @@ Esta duplicidad —Pandora que libera lo que no puede custodiar, Dios maligno qu
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [51:06](https://youtu.be/Sszbs7CG0cQ?t=3066) · [52:36](https://youtu.be/Sszbs7CG0cQ?t=3156) · [55:37](https://youtu.be/Sszbs7CG0cQ?t=3337) · [57:45](https://youtu.be/Sszbs7CG0cQ?t=3465) · [58:46](https://youtu.be/Sszbs7CG0cQ?t=3526) · [59:46](https://youtu.be/Sszbs7CG0cQ?t=3586) · [1:00:48](https://youtu.be/Sszbs7CG0cQ?t=3648) · [1:02:18](https://youtu.be/Sszbs7CG0cQ?t=3738) · [1:04:19](https://youtu.be/Sszbs7CG0cQ?t=3859) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [26:32](https://youtu.be/NjtK76xzV18?t=1592) · [29:33](https://youtu.be/NjtK76xzV18?t=1773) · [33:43](https://youtu.be/NjtK76xzV18?t=2023)
 - **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)
@@ -213,4 +191,3 @@ Esta duplicidad —Pandora que libera lo que no puede custodiar, Dios maligno qu
 - **MItología 101: El Gólem** — chunks: [1:05:29](https://youtu.be/IG3dkNBX9uU?t=3929) · [1:26:19](https://youtu.be/IG3dkNBX9uU?t=5179) · [1:34:29](https://youtu.be/IG3dkNBX9uU?t=5669)
 - **Taxonomía de las criaturas malignas** — chunks: [35:06](https://youtu.be/rG_et1_G7Hs?t=2106) · [39:54](https://youtu.be/rG_et1_G7Hs?t=2394)
 - **Análisis arquetípico de Unicorn wars** — chunks: [20:20](https://youtu.be/fLfEbHPJNmU?t=1220)
-

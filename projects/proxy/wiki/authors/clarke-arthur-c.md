@@ -100,7 +100,4 @@ La diferencia de tono respecto a [[lovecraft-howard]] es estructural: en Lovecra
 
 ## Citations
 
-
-
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [1:41](https://youtu.be/celiAdqrHYA?t=101)
-

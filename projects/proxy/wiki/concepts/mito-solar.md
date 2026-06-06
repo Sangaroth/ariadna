@@ -92,7 +92,6 @@ El mito solar tiene como pieza estructural el destino: el héroe está concebido
 
 El canal cierra la articulación con la tesis fuerte: el [[viaje-heroe]] es la forma narrativa de la masculinidad arquetípica, y esa masculinidad opera según el ciclo solar diario.
 
-
 ## La esvástica como vehículo iconográfico del ciclo solar
 
 El canal añade en directo una precisión sobre el principal vehículo gráfico del mito solar en las tradiciones euroasiáticas: la cruz gamada o esvástica. La lectura corriente que distingue la esvástica horaria (signo nazi) de la antihoraria (emblema pacifista) es, según el canal, errónea — ambas son la misma cruz gamada solar y la asignación moral diferenciada es secundaria respecto a la función simbólica común.
@@ -112,8 +111,6 @@ Las variantes gráficas locales (orientación a derecha o izquierda) son adaptac
 
 La precisión opera como contrapeso a la apropiación contemporánea del símbolo: la lectura nazi del siglo XX es el caso atípico, no el régimen original. La esvástica solar pertenece al mismo dispositivo arquetípico que las figuras de Apolo, Hércules o Cristo — distintas cristalizaciones culturales (antropomórfica, geométrica) del mismo ciclo astronómico.
 
-
-
 ## La esvástica como vehículo iconográfico del ciclo solar
 
 El canal añade en directo una precisión sobre el principal vehículo gráfico del mito solar en las tradiciones euroasiáticas: la cruz gamada o esvástica. La lectura corriente que distingue la esvástica horaria (signo nazi) de la antihoraria (emblema pacifista) es, según el canal, errónea — ambas son la misma cruz gamada solar y la asignación moral diferenciada es secundaria respecto a la función simbólica común.
@@ -132,7 +129,6 @@ Las variantes gráficas locales (orientación a derecha o izquierda) son adaptac
 → [¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)
 
 La precisión opera como contrapeso a la apropiación contemporánea del símbolo: la lectura nazi del siglo XX es el caso atípico, no el régimen original. La esvástica solar pertenece al mismo dispositivo arquetípico que las figuras de Apolo, Hércules o Cristo — distintas cristalizaciones culturales (antropomórfica, geométrica) del mismo ciclo astronómico.
-
 
 > "El camino del héroe se trabaja desde que nacemos hasta que morimos, y la masculinidad arquetípica sigue el ciclo solar diario,"
 → [Análisis arquetípico El Hombre de Acero (06:11)](https://youtu.be/HgLlH8Ta2qk?t=371)
@@ -152,8 +148,6 @@ El mito solar incluye antagonistas que NO son figuras del mal puro sino visiones
 
 Esta lectura de los antagonistas como funcionales y no malignos refina la estructura solar: el héroe no se mide contra la pura negatividad sino contra una alternativa coherente que él tiene que superar internamente.
 
-
-
 ## La secuencia canónica: caída-camino-muerte-apoteosis
 
 En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal articula la secuencia interna canónica del mito solar tal como queda fijada en su libro [[del-origen-del-mal-libro|Del origen del mal]]:
@@ -172,9 +166,6 @@ La secuencia es la forma canónica que el libro fija frente a articulaciones cam
 
 El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónica es despertar-creación-caída-luna roja-exorcismo. La superposición de ambas secuencias produce el [[mito-polar]] como tercer camino transformador — articulación que el libro fija como triada cosmogónica completa de los mitos primarios genuinos.
 
-
-
-
 ## La secuencia canónica: caída-camino-muerte-apoteosis
 
 En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal articula la secuencia interna canónica del mito solar tal como queda fijada en su libro [[del-origen-del-mal-libro|Del origen del mal]]:
@@ -192,8 +183,6 @@ Las cuatro fases articulan la trayectoria mítica completa del héroe solar:
 La secuencia es la forma canónica que el libro fija frente a articulaciones campbellianas más extensas (12 fases del monomito) o más reducidas (la triada partida/iniciación/regreso). Las cuatro fases del canal operan como mínimo arquetípico: cualquier mito solar concreto puede recorrerlas con mayor detalle (Excalibur, Man of Steel) o de modo invertido cuando la película articula un anti-héroe (El Gran Lebowski como recorrido completo de los 22 Arcanos invertidos), pero las cuatro están siempre presentes estructuralmente.
 
 El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónica es despertar-creación-caída-luna roja-exorcismo. La superposición de ambas secuencias produce el [[mito-polar]] como tercer camino transformador — articulación que el libro fija como triada cosmogónica completa de los mitos primarios genuinos.
-
-
 
 ## Formalización extensa: génesis, tránsito, éxesis y sus fases internas
 
@@ -249,8 +238,6 @@ El Hércules de cebada es el sub-tipo opuesto: el héroe solar **fallido por exc
 
 La tipología cierra el cuadro de los sub-tipos solares: el civilizatorio funda la ciudad, el de cebada se disuelve en ella sin fundarla. Entre ambos, una obra dada se ubica según hacia dónde se inclina su protagonista — y el diagnóstico es estructural, no moral: el Quijote es objetivamente Hércules de cebada aunque la simpatía del lector lo redima.
 
-
-
 ## Conexión con otros conceptos
 
 - Es uno de los dos polos cíclicos cuya conjunción con el mito lunar genera el [[mito-polar]] como tercer camino transformador
@@ -269,33 +256,7 @@ La tipología cierra el cuadro de los sub-tipos solares: el civilizatorio funda 
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
-
 
 - **Análisis arquetípico: Excalibur** — chunks: [1:30:28](https://youtu.be/daC37T5cbWs?t=5428)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [46:25](https://youtu.be/aWeuzWLrLtE?t=2785) · [52:05](https://youtu.be/aWeuzWLrLtE?t=3125)
@@ -311,4 +272,3 @@ La tipología cierra el cuadro de los sub-tipos solares: el civilizatorio funda 
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [46:45](https://youtu.be/O4OkDuc3uPQ?t=2805)
-

@@ -97,8 +97,6 @@ Matrix permite al canal articular una distinción que cruza buena parte del corp
 
 Esta lectura conecta la película con el [[gnosticismo]] estructural: el despertar no se conquista por mérito moral sino que sobreviene a quien porta la chispa, mientras los demás permanecen dormidos en la matriz. La magia que el canal ve operando en la película es psicomagia — "modifica tu intelecto y vivirás otra realidad, el principio de mente sobre la materia".
 
-
-
 ## Matrix como recorrido completo de los 22 Arcanos Mayores
 
 El monográfico foundational sobre la película (*Matrix y el camino del héroe*, oct 2022, 88 min) articula la estructura narrativa de Matrix 1 como **recorrido completo de los 22 Arcanos Mayores del Tarot Rider-Waite**. La lectura es complementaria a la cábala-sefirótica documentada arriba: cosmológicamente Neo opera como mago (chispa divina pasiva), pero **estructuralmente** su trayectoria recorre la secuencia clásica del viaje del héroe articulada en el lenguaje del Tarot.
@@ -185,7 +183,6 @@ La precisión genealógica importa: el Tarot Rider-Waite (1909) sintetiza simbol
 
 La pieza articula el rendimiento operativo de la lectura: Matrix opera como alegoría del funcionamiento mismo de la conciencia humana, no solo del despertar gnóstico-cabalista. El recurso narrativo de los saltos fuera del sistema es la cifra cinematográfica del aprendizaje recursivo que la cognición humana ejecuta cada vez que comprende algo nuevo. Por eso la película está **deliberadamente ambientada en lo informático**: la informática es la única gramática creada por la mente humana cuyas reglas son lo bastante estrictas para que los saltos fuera del sistema operen como diferencia categorial visible. La articulación formal de este mecanismo en lenguaje matemático queda registrada en thesis_candidate aparte sobre 'saltos fuera del sistema'.
 
-
 ## Inscripción en la genealogía neoplatónica
 
 El análisis del canal sitúa la película en una línea larga: del Uno plotiniano y la epístrofe (la gravedad que tira de todo hacia el origen), pasando por la [[kabbalah]] medieval con su árbol de sefirot, hasta el sincretismo teosófico moderno. La Matrix, leída así, es una reformulación cinematográfica de un esquema metafísico antiguo, no una invención contemporánea.
@@ -201,35 +198,6 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 - La lectura del camino del mago frente al [[viaje-heroe]] abre una distinción que merece desarrollo propio en página de concepto, no solo como caso de Matrix
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:38:03](https://youtu.be/Dtp1_RLb7S0?t=5883) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [55:46](https://youtu.be/hx9creRpdnY?t=3346)
@@ -250,4 +218,3 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 - **De Platón A The Matrix** — chunks: [59:05](https://youtu.be/zr_ZKX60N54?t=3545)
 - **Patreons y Conciencia Artificial** — chunks: [11:25](https://youtu.be/1BWyXULOoQQ?t=685)
 - **T5x19: Realismo y mitología.** — chunks: [41:56](https://youtu.be/GDQSqtdFjBs?t=2516)
-

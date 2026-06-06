@@ -86,7 +86,6 @@ El mecanismo del vaciamiento se ilustra en el tratamiento estereotípico del ref
 
 La categoría es por tanto más estrecha que "progresista" o "postmoderno": una obra puede ser progresista sin ser woke (Frozen), o postmoderna sin ser woke (el canal cita Ad Astra y Her como casos), o cero postmoderna (Mad Max Fury Road). El woke ocurre solo cuando narrativa postmoderna y ámbito moral coinciden, vaciando el sustrato arquetípico de la obra. Esto lo emparenta con el [[autotipo]] como categoría general — el prototipo vaciado de sentido moral — del cual el woke sería la modalidad cultural sistemática.
 
-
 ### El caso Elemental: análisis monográfico del vaciamiento
 
 La página enumera Elemental entre las películas genuinamente woke pero no articula el análisis monográfico que el canal le dedicó (~109 min) en el directo *Análisis arquetípico de Elemental* (nov 2023). La página propia [[elemental-2023-film]] desarrolla el caso obra-por-obra; este resumen integra las piezas decisivas para el marco woke.
@@ -147,8 +146,6 @@ La distinción precisa una asimetría categorial entre dos modalidades de sacrif
 
 La fórmula 'habría tenido triple sentido que se convirtiera en hielo' cifra el sacrificio masculino que la película no articuló: el agua renunciando a su labilidad emocional para convertirse en algo duro (hielo) que no era antes. Esa transformación sí habría sido viaje del héroe — sustitución del agua-pasivo-negativo por algo activamente nuevo. El sacrificio pasivo que la obra ofrece en su lugar opera dentro del registro woke de la víctima por defecto: el sujeto no se transforma, padece. Esta articulación generaliza el aparato woke con una pieza nueva — la modalidad sacrificial pasiva como dispositivo narrativo del vaciamiento, donde el padecimiento sustituye a la transformación incluso en el momento culminante del arco.
 
-
-
 ### El caso Elemental: análisis monográfico del vaciamiento
 
 La página enumera Elemental entre las películas genuinamente woke pero no articula el análisis monográfico que el canal le dedicó (~109 min) en el directo *Análisis arquetípico de Elemental* (nov 2023). La página propia [[elemental-2023-film]] desarrolla el caso obra-por-obra; este resumen integra las piezas decisivas para el marco woke.
@@ -208,7 +205,6 @@ La distinción precisa una asimetría categorial entre dos modalidades de sacrif
 - **Sacrificio heroico (masculino-transformador)**: renunciar a algo propio para convertirse en algo nuevo que no era. Implica acto activo de auto-modificación + transformación cualitativa irreversible. El sujeto subsiste pero como otro.
 
 La fórmula 'habría tenido triple sentido que se convirtiera en hielo' cifra el sacrificio masculino que la película no articuló: el agua renunciando a su labilidad emocional para convertirse en algo duro (hielo) que no era antes. Esa transformación sí habría sido viaje del héroe — sustitución del agua-pasivo-negativo por algo activamente nuevo. El sacrificio pasivo que la obra ofrece en su lugar opera dentro del registro woke de la víctima por defecto: el sujeto no se transforma, padece. Esta articulación generaliza el aparato woke con una pieza nueva — la modalidad sacrificial pasiva como dispositivo narrativo del vaciamiento, donde el padecimiento sustituye a la transformación incluso en el momento culminante del arco.
-
 
 ## Fábula vs mito: por qué Pixar funcionaba y ahora no
 
@@ -255,7 +251,6 @@ El dispositivo opera por composición: cada paso retórico parece plausible al r
 
 La categoría es generalizable: las fórmulas pseudo-aritméticas que pretenden derivar normas relacionales de operaciones numéricas (rangos de edad como funciones de la edad propia) son casos paradigmáticos de pendiente resbaladiza con ropaje matemático. La precisión cierra el catálogo retórico woke que la página articula: vaciamiento arquetípico (sustrato) + sofisma estético (mecanismo puntual) + pendiente resbaladiza (mecanismo estructural).
 
-
 ### Iconografía arquetípica de la pendiente: el arcoíris como umbral del pecado
 
 El monográfico de diciembre 2023 sobre [[eyes-wide-shut-1999-film|Eyes Wide Shut]] añade la **iconografía mítica precisa** de la pendiente resbaladiza que la sección anterior articulaba en plano retórico. La pieza precisa el sustrato simbólico que el dispositivo retórico moviliza inconscientemente.
@@ -278,8 +273,6 @@ El caso operativo es la **tienda Arcoíris** en Eyes Wide Shut: el local de disf
 
 La pieza tiene consecuencia operativa para la lectura cultural contemporánea de la página: cuando el dispositivo retórico postmoderno usa el símbolo del arcoíris como signo de progreso o liberación moral, está activando inconscientemente la iconografía mítica del camino al infierno — eso es lo que la pendiente resbaladiza woke recapitula sin saberlo. La elección iconográfica del arcoíris como bandera de movimientos identitarios es leída por el canal no como casualidad estética sino como activación estructural del símbolo de la transgresión justificada en cadena.
 
-
-
 ### Iconografía arquetípica de la pendiente: el arcoíris como umbral del pecado
 
 El monográfico de diciembre 2023 sobre [[eyes-wide-shut-1999-film|Eyes Wide Shut]] añade la **iconografía mítica precisa** de la pendiente resbaladiza que la sección anterior articulaba en plano retórico. La pieza precisa el sustrato simbólico que el dispositivo retórico moviliza inconscientemente.
@@ -301,9 +294,6 @@ La iconografía cierra el aparato retórico de la página con sustrato mítico-a
 El caso operativo es la **tienda Arcoíris** en Eyes Wide Shut: el local de disfraces se llama literalmente 'Rainbow' y opera como umbral hacia lo prohibido. El custodio tiene una hija ninfómana que comete actos libidinosos — la simple cercanía a la tienda ya es proximidad a la depravación. Más tarde el custodio vende a su hija a clientes orientales: la pendiente del primer paso ha llevado al padre a normalizar la prostitución infantil de su propia hija. La iconografía es decisiva: el arcoíris no representa diversidad ni cumplimiento, representa el camino que parece llevar al cumplimiento pero conduce estructuralmente al infierno.
 
 La pieza tiene consecuencia operativa para la lectura cultural contemporánea de la página: cuando el dispositivo retórico postmoderno usa el símbolo del arcoíris como signo de progreso o liberación moral, está activando inconscientemente la iconografía mítica del camino al infierno — eso es lo que la pendiente resbaladiza woke recapitula sin saberlo. La elección iconográfica del arcoíris como bandera de movimientos identitarios es leída por el canal no como casualidad estética sino como activación estructural del símbolo de la transgresión justificada en cadena.
-
-
-
 
 ## Refutación a 'no hay modelos masculinos': el referente revela, no instala
 
@@ -335,8 +325,6 @@ El argumento se extiende a un caso específico: los cuentos populares no son veh
 
 La precisión cierra el aparato anti-constructivista del canal con la fórmula recursiva: el constructivismo postmoderno produce un diagnóstico (carencia de modelos / patriarcado en cuentos) cuya solución solo se formula desde el mismo constructivismo (más construcción cultural deliberada), instalando un bucle donde la enfermedad alimenta su propia receta. El [[sofisma-estetico]] queda así complementado por el **sofisma constructivista**: la convicción de que la cultura es íntegramente fabricable a voluntad y que las dificultades culturales se resuelven necesariamente por más fabricación.
 
-
-
 ## La destrucción específica de la fantasía infantil: el flanco pediátrico del aparato woke
 
 El monográfico sobre [[los-rescatadores-1977-film|Los Rescatadores]] (jun 2024) articula el flanco pediátrico de la operación postmoderna que la página articulaba en plano cultural-adulto: la postmodernidad NO solo vacía la fantasía arquetípica adulta, ejecuta una operación específica sobre la fantasía infantil con consecuencias estructurales sobre el desarrollo psíquico del niño.
@@ -356,9 +344,6 @@ La pieza articula así una dimensión específica del marco woke que las seccion
 
 La consecuencia diagnóstica para el aparato anti-constructivista articulado arriba: el constructivismo postmoderno no solo fabrica adversarios y soluciones que requieren más constructivismo, también **fabrica niños cuya capacidad de soñar ha sido neutralizada de antemano** — y por eso el bucle generacional se cierra sin posibilidad de salida desde dentro del propio dispositivo. Solo desde fuera del marco postmoderno (recuperación de fábulas con esperanza arquetípica genuina) puede reactivarse la función fantástica infantil, condición de posibilidad de cualquier desarrollo psíquico ulterior.
 
-
-
-
 ## La destrucción específica de la fantasía infantil: el flanco pediátrico del aparato woke
 
 El monográfico sobre [[los-rescatadores-1977-film|Los Rescatadores]] (jun 2024) articula el flanco pediátrico de la operación postmoderna que la página articulaba en plano cultural-adulto: la postmodernidad NO solo vacía la fantasía arquetípica adulta, ejecuta una operación específica sobre la fantasía infantil con consecuencias estructurales sobre el desarrollo psíquico del niño.
@@ -377,10 +362,6 @@ La operación postmoderna sobre la fantasía infantil tiene **doble movimiento e
 La pieza articula así una dimensión específica del marco woke que las secciones anteriores trataban en plano cultural-adulto. La cuarta característica diagnóstica (víctimas en lugar de héroes) y la inversión adulto-niño documentada en [[harry-potter-saga|Harry Potter]] son síntomas culturales del mismo dispositivo: la fantasía postmoderna opera contra la función psíquica que la fantasía cumple en el niño sano. El caso operativo positivo — Los Rescatadores como fábula con esperanza arquetípica genuina — sirve como contraejemplo: muestra qué cumple la fantasía cuando no ha sido vaciada, y por contraste qué se sustrae cuando sí lo es.
 
 La consecuencia diagnóstica para el aparato anti-constructivista articulado arriba: el constructivismo postmoderno no solo fabrica adversarios y soluciones que requieren más constructivismo, también **fabrica niños cuya capacidad de soñar ha sido neutralizada de antemano** — y por eso el bucle generacional se cierra sin posibilidad de salida desde dentro del propio dispositivo. Solo desde fuera del marco postmoderno (recuperación de fábulas con esperanza arquetípica genuina) puede reactivarse la función fantástica infantil, condición de posibilidad de cualquier desarrollo psíquico ulterior.
-
-
-
-
 
 ## Emotivismo como motor meta-ético del woke
 
@@ -412,8 +393,6 @@ El segundo principio impone pluralismo de fundamentaciones rigurosas frente a mo
 → [T5 1x01: Piloto (52:39)](https://youtu.be/6oOAZotwPQk?t=3159)
 
 La precisión es decisiva: el canal no defiende una posición moral única contra el woke, defiende el **género filosófico de la fundamentación** contra el género emotivista de la justificación afectiva. Dos sujetos rigurosos pueden discrepar sobre eutanasia, aborto u otras cuestiones límite y ambas posiciones ser legítimas si están construidas desde coordenadas filosóficas estables. Lo ilegítimo no es la conclusión opuesta, es la justificación caso-por-caso por afecto que, aunque coincida en la conclusión con una posición rigurosa, falsea el procedimiento moral mismo y hace inestable cualquier inferencia ulterior.
-
-
 
 ## El monográfico foundational: las cuatro características diagnósticas + el wokismo como regresión psicológica
 
@@ -526,8 +505,6 @@ El diagnóstico unificador articula las cuatro características como manifestaci
 
 ### El moralismo woke: mal=sufrimiento, bien=voluntad del yo
 
-
-
 ### Dignidad moderna: la cifra léxica del moralismo woke como eliminación de incertidumbre afectiva
 
 El clip *Cómo desparasitar humanos* (abr 2024), en su segunda mitad polémica, articula el desplazamiento semántico de **dignidad** que cifra léxicamente la equivalencia mal=sufrimiento del moralismo woke documentada arriba. La dignidad clásica era categoría formal-moral; la moderna opera como demanda de eliminación de incertidumbre afectiva.
@@ -555,7 +532,6 @@ La dignidad clásica opera como **teorema moral**: axioma del sistema ético-pol
 La traducción operativa cierra la cifra del moralismo woke documentado en la sección anterior. 'Vivienda digna' NO significa 'vivienda que reconoce mi estatus de fin-en-sí-mismo' (lectura kantiana clásica) sino 'vivienda que elimina la incertidumbre afectiva de mi situación habitacional'. 'Muerte digna' NO significa 'muerte que preserva mi condición de fin en sí mismo' sino 'muerte sin sufrimiento gestionable'. El léxico de la dignidad opera entonces como vehículo retórico de la equivalencia mal=sufrimiento: cualquier situación que produzca emocionalidad negativa no gestionable es 'indigna' por definición, y por tanto debe ser eliminada como cuestión moral. La consecuencia estructural es que el régimen woke instrumentaliza la categoría kantiana original (cuyo contenido es estatus moral formal) para movilizar un programa de eliminación afectiva (cuyo contenido es bienestar emocional garantizado). El desplazamiento no es defecto retórico sino mecanismo: usar el peso moral de la categoría clásica para justificar demandas que no la cumplen ni la invocan en sentido propio.
 
 La pieza enlaza con la articulación previa sobre el progresismo posmoderno y su componente traumática: el sufrimiento se experimenta siempre con locus externo de autoridad ('algo/alguien me lo causa') y la demanda de dignidad como ausencia de sufrimiento es la versión moralizada de esa atribución externa. El léxico de la dignidad funciona así como vehículo retórico del [[teocracia-agnostica-y-victimologia-institucional|programa victimológico institucional]] que la página articula en otras secciones — sacralización del sufriente vía cifra léxica de la dignidad moderna.
-
 
 > "Identifican el mal como el sufrimiento y el bien como la voluntad del yo,"
 → [Wokismo para Wokes (1:25:25)](https://youtu.be/Q83ieEVaF5I?t=5125)
@@ -585,8 +561,6 @@ La pieza terminal del monográfico responde a por qué el wokismo opera específ
 
 El canal sitúa a Beauvoir en la cadena genealógica de la degeneración postmoderna sin convertirla en origen único. La precisión clínica añadida — en mujeres, el trastorno histriónico grave y el antisocial se parecen muchísimo — es el aparato diagnóstico que el canal aplica retrospectivamente a la figura. La pieza queda como hilo abierto para futura síntesis sobre la relación específica entre el wokismo y los trastornos inmaduros del cluster B (cluster que el canal nombra explícitamente como 'inmaduros' por motivo directamente relacionado con el cuadro regresivo aquí articulado).
 
-
-
 ## El wokismo como herramienta política: élites, victimismo y movilización de masas
 
 El canal extiende el aparato más allá del diagnóstico cultural-narrativo y meta-ético: el wokismo opera también como **herramienta política instalada deliberadamente** por élites supranacionales, donde el victimismo funciona como infraestructura de movilización de bases.
@@ -606,9 +580,6 @@ La pieza añade un eslabón genealógico-instrumental: el dispositivo retórico-
 → [Ha vuelto a ocurrir (1:14:51)](https://youtu.be/C0Io49giVY8?t=4491)
 
 La precisión cierra una dimensión que el aparato anterior tematizaba solo como diagnóstico cultural-narrativo. Si el [[camino-victima|camino de la víctima]] articula la posición de víctima como matriz narrativa de la psique regresiva, y si las cuatro características diagnósticas articulan su síntoma cultural, esta sección fija su función como **infraestructura de movilización política**: la posición de víctima como combustible de cohesión grupal explotable por actores con interés convergente. La operación es deliberada y financiada, no emergencia espontánea — el woke entra al sistema cultural por inyección, sale por movilización electoral. La isomorfía con independentismos territoriales precisa además que el dispositivo no es ideológicamente woke en sustancia: es la mecánica del victimismo identitario aplicable a cualquier sustrato.
-
-
-
 
 ## El wokismo como herramienta política: élites, victimismo y movilización de masas
 
@@ -645,8 +616,6 @@ En el directo *La PSOE lo ha conseguido* (3-jun-2025) el canal documenta lo que 
 
 La pieza completa el aparato político del marco articulado en la sección anterior: si el wokismo entró al sistema cultural por inyección financiada de élites supranacionales y salió por movilización electoral, su cierre opera por el mismo mecanismo invertido — cuando deja de fluir dinero hacia el dispositivo, las corporaciones que lo señalizaban como rito de pertenencia abandonan el rito sin transición ideológica visible. La consecuencia diagnóstica precisa que las empresas nunca fueron militantes wokes; fueron infraestructura indicadora de hacia dónde fluía el incentivo financiero. La retirada empresarial coordinada en 2025 funciona como índice de que ese incentivo se ha desplazado.
 
-
-
 ## Las políticas identitarias como meme de rebeldía para fantasmas
 
 El monográfico sobre [[ghost-in-the-shell-sac|Ghost in the Shell: Stand Alone Complex]] (oct 2023) articula una pieza estructural que cierra el flanco memético del aparato: las políticas identitarias funcionan como **meme de rebeldía operativo solo cuando el sujeto ha perdido su sentimiento de espíritu**. La pieza precisa la posición psíquica específica del consumidor de identidad-política y la mecánica memética por la que se propaga.
@@ -663,9 +632,6 @@ El monográfico sobre [[ghost-in-the-shell-sac|Ghost in the Shell: Stand Alone C
 La articulación opera con la taxonomía de cuatro capas de conciencia que la serie articula (IA blanda → individualidad → fantasma → espíritu): el paso de espíritu a fantasma describe el proceso por el cual el sujeto pierde su sentimiento de individualidad genuina por compartir conciencia en la misma red hiperconectada. El fantasma — sujeto cuya conciencia se ha vuelto trasladable y mezclable — busca reafirmar lo que ha perdido mediante mecanismos que precisamente cancelan lo que reclaman: la política identitaria funciona como rebeldía sin contenido, gesto de individualidad que automáticamente se incorpora al patrón homogéneo del grupo.
 
 La pieza cierra el aparato con una mecánica memética complementaria a las ya articuladas (vaciamiento arquetípico + sofisma estético + pendiente resbaladiza + emotivismo + élites supranacionales): el [[complejo-de-autosuficiencia]] como fenómeno por el cual surgen ideas que son **copias sin original**, propagándose como virus de mente en mente. El complejo es el proceso difusivo; el [[autotipo]] es su producto final; las políticas identitarias son su cristalización política específica para sujetos en posición de fantasma. La consecuencia operativa que el monográfico documenta — 'cuanto más intentas demostrar que eres original, más vacío te sientes' — describe exactamente la auto-vivencia del usuario terminal del aparato: el agotamiento que produce el dispositivo es síntoma de su éxito, no de su fracaso.
-
-
-
 
 ## Estar en medio no como sabiduría sino como inhabilidad cognitiva
 
@@ -704,8 +670,6 @@ La tibieza no es defecto de virtud (poca prudencia, poca fortaleza) sino **cance
 
 La pieza añade simetría diagnóstica al marco que la sección 'Crítica simétrica al fundamentalismo estético conservador' ya articulaba. Ambos polos tienen un pecado específico: el tradicionalismo peca por **rigidez incapaz de adaptación**; el progresismo peca por **doble vector** — destrucción irreflexiva de estructuras heredadas Y relativismo que cancela el régimen de la convicción. La asimetría no es valoración: es estructural — el pecado del progresismo opera por dos mecanismos correlativos cuya combinación produce la tibieza terminal arriba documentada, mientras que el pecado del tradicionalismo es defecto de un único mecanismo (adaptabilidad) cuya corrección no destruye el régimen virtuoso del sujeto.
 
-
-
 ## "Hambre y Miedo Uno: PATHOS" — el diagnóstico histriónico foundational (mayo 2021)
 
 El capítulo 1 de la serie *Hambre y Miedo* (mayo 2021) articula la pieza diagnóstico-clínica foundational que el resto del aparato cultural-narrativo de la página refina sin nombrar explícitamente: el patrón woke como **cuadro histriónico aplicado a la psique colectiva**, con cuatro distinciones operativas que la página no contenía como articulación sistemática.
@@ -772,9 +736,6 @@ La pieza articula el **dispositivo nuclear** que el aparato cultural posterior l
 
 La precisión operativa del par envidia/ambición es decisiva para entender la mecánica violenta del fenómeno woke: la **ambición** quiere TRANSFERIR al sí mismo lo que el otro tiene; la **envidia** quiere DESTRUIR lo que el otro tiene (sin transferencia — la destrucción es el fin). El uso de la violencia woke como llamada de atención (no estratégica, sino gratuita con objeto de causar daño) cifra la diferencia: si fuera ambición política, los movimientos woke buscarían tomar las instituciones para administrarlas; el síntoma de envidia es que prefieren quemarlas. El **odio** complementa el cuadro como afecto que NUNCA SE RESARCE — el sujeto dolido busca infligir daño hasta sentir resarcimiento, pero el resarcimiento nunca ocurre porque el daño es estructural, no episódico. La consecuencia: la espiral de violencia identitaria es psíquicamente **insaciable por construcción**, no por contingencia. Esta articulación enlaza con [[iconotropias-de-la-rabia-narcisista]] como pieza foundational temprana del aparato sobre la rabia narcisista que el corpus posterior refinará con casos canónicos (Lilit, Lucifer, Hermes Trismegisto).
 
-
-
-
 ## "Hambre y Miedo Uno: PATHOS" — el diagnóstico histriónico foundational (mayo 2021)
 
 El capítulo 1 de la serie *Hambre y Miedo* (mayo 2021) articula la pieza diagnóstico-clínica foundational que el resto del aparato cultural-narrativo de la página refina sin nombrar explícitamente: el patrón woke como **cuadro histriónico aplicado a la psique colectiva**, con cuatro distinciones operativas que la página no contenía como articulación sistemática.
@@ -840,13 +801,6 @@ La pieza articula el **dispositivo nuclear** que el aparato cultural posterior l
 → [Hambre y Miedo (Uno) PATHOS (08:43)](https://youtu.be/BuMbdEoN8zY?t=523)
 
 La precisión operativa del par envidia/ambición es decisiva para entender la mecánica violenta del fenómeno woke: la **ambición** quiere TRANSFERIR al sí mismo lo que el otro tiene; la **envidia** quiere DESTRUIR lo que el otro tiene (sin transferencia — la destrucción es el fin). El uso de la violencia woke como llamada de atención (no estratégica, sino gratuita con objeto de causar daño) cifra la diferencia: si fuera ambición política, los movimientos woke buscarían tomar las instituciones para administrarlas; el síntoma de envidia es que prefieren quemarlas. El **odio** complementa el cuadro como afecto que NUNCA SE RESARCE — el sujeto dolido busca infligir daño hasta sentir resarcimiento, pero el resarcimiento nunca ocurre porque el daño es estructural, no episódico. La consecuencia: la espiral de violencia identitaria es psíquicamente **insaciable por construcción**, no por contingencia. Esta articulación enlaza con [[iconotropias-de-la-rabia-narcisista]] como pieza foundational temprana del aparato sobre la rabia narcisista que el corpus posterior refinará con casos canónicos (Lilit, Lucifer, Hermes Trismegisto).
-
-
-
-
-
-
-
 
 ## Lagunas
 
@@ -857,24 +811,6 @@ La precisión operativa del par envidia/ambición es decisiva para entender la m
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
 - **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
@@ -883,7 +819,6 @@ La precisión operativa del par envidia/ambición es decisiva para entender la m
 - **Progresterona** — chunks: [59:12](https://youtu.be/7f-iHJpDMVQ?t=3552)
 - **T5 1x01: Piloto** — chunks: [59:13](https://youtu.be/6oOAZotwPQk?t=3553)
 - **Wokismo para Wokes.** — chunks: [18:20](https://youtu.be/Q83ieEVaF5I?t=1100) · [25:13](https://youtu.be/Q83ieEVaF5I?t=1513) · [30:15](https://youtu.be/Q83ieEVaF5I?t=1815) · [35:17](https://youtu.be/Q83ieEVaF5I?t=2117) · [40:22](https://youtu.be/Q83ieEVaF5I?t=2422) · [1:02:29](https://youtu.be/Q83ieEVaF5I?t=3749) · [1:19:16](https://youtu.be/Q83ieEVaF5I?t=4756) · [1:22:53](https://youtu.be/Q83ieEVaF5I?t=4973) · [1:25:25](https://youtu.be/Q83ieEVaF5I?t=5125) · [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215) · [1:28:26](https://youtu.be/Q83ieEVaF5I?t=5306) · [1:43:50](https://youtu.be/Q83ieEVaF5I?t=6230)
-
 
 - **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [1:11:25](https://youtu.be/NYZEm8mcPiQ?t=4285) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
 
@@ -895,4 +830,3 @@ La precisión operativa del par envidia/ambición es decisiva para entender la m
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [22:43](https://youtu.be/5uFhZcARjYQ?t=1363) · [55:44](https://youtu.be/5uFhZcARjYQ?t=3344)
 - **El asunto Imani Khalif** — chunks: [1:00](https://youtu.be/ol1dFNxC1uQ?t=60) · [9:34](https://youtu.be/ol1dFNxC1uQ?t=574)
 - **T5x21: Noticias, y desaparición de buzos en Maldivas.** — chunks: [56:31](https://youtu.be/dPQk2iNPshc?t=3391)
-

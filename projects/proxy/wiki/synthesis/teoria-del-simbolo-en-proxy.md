@@ -129,8 +129,6 @@ Sobre ese sustrato, el speaker propone una definición operativa de símbolo: **
 - [[genesis-mitologico]] — el isomorfismo Génesis/síntesis mental encuentra en la matriz N y el UAL sus herramientas formales: cómo se compone una representación nueva desde representaciones previas.
 - [[diagrama-de-proxy]] — clasifica orientación moral-política con correlato neuropsicológico; esta tesis aporta el modelo cognitivo subyacente sobre el que esos correlatos operan.
 
-
-
 ## Parte I: filosofía contra la poética (preliminar al símbolo)
 
 En el directo *Filosofía contra la poética. ¿Qué es un símbolo? Parte I* (mar 2025), preliminar al monográfico Parte 2 que articula la definición operativa del símbolo, el canal sostiene durante 55 minutos el aparato discriminante que separa filosofía de poética, ideología e idealismo. La pieza no es lateral: el speaker afirma que sin esa criba previa no puede definirse 'símbolo' desde las coordenadas del [[realismo-cognitivo]] y no desde acepciones poéticas o coloquiales.
@@ -217,8 +215,6 @@ La etimología es definitoria, no decorativa. *Interpretari* = *inter-pretium*: 
 
 La pieza de cierre recapitula el motor del [[sofisma-estetico|sofisma estético]] desde el lado del receptor: la operación no funciona porque sea formalmente válida sino porque el aparato cognitivo del receptor RESUENA con la firma afectiva del enunciado. La matriz noética del receptor reconoce el enunciado como suyo no por inferencia formal sino por convergencia afectiva — y la convergencia afectiva opera con la lógica del [[pensamiento-poetico|pensamiento poético]] (fusión por semejanza imaginario-afectiva, no por identidad estructural). La resonancia es la condición de posibilidad cultural del sofisma: explica por qué la pieza poética ideológica se transmite y se acepta como si fuera filosofía pese a no serlo.
 
-
-
 ### Anatomía operativa de la mente filosófica: conciencia unitaria, etimología filos/sofos y 12 bits/segundo
 
 Una versión más extensa del mismo monográfico Parte I (id 6cSsI85qCp8, 112 min) añade tres piezas foundational del aparato que la sección anterior presupone sin articular: la ontología de la conciencia como fenómeno unitario, la etimología histórica que separa filosofía de su versión deportiva-idealista, y el límite operativo cuantitativo de la conciencia explícita.
@@ -259,8 +255,6 @@ La etimología es operativa, no decorativa, y precisa la distinción de la secci
 
 La cifra empírica acota el aparato. La conciencia operativa — memoria de trabajo activa — opera con un ancho de banda diminuto (~12 bits/segundo) frente a la enorme masa de noesis inconsciente que la sustenta. Esta asimetría es coherente con la articulación del [[inconsciente-en-proxy|inconsciente]] como capa representacional vastamente mayor que la consciente, con la cual mantiene relación de continuo. Funcionalmente, los 12 bits/segundo no son limitación que la mente padezca sino diseño: el aparato existe para CONCEDER VALENCIA (interpretar = inter-pretium = dar valor) a un fragmento de la realidad que orientará la siguiente acción, optimizando la entropía química del cerebro. La pieza precisa la teleología del aparato cognitivo articulada por la [[algebra-afectiva|álgebra afectiva]]: la mente NO computa el mundo, evalúa el siguiente instante con un canal operativo deliberadamente estrecho que la fuerza a apoyarse en la matriz noética inconsciente.
 
-
-
 ## Articulaciones posteriores: oposición al psicoanálisis y mecanismo de la meditación
 
 En el directo experimental de 8 horas de estudio (8 enero 2025), el canal articula con más detalle el estatuto de [[realismo-cognitivo]] como cierre epistemológico del marco y añade dos piezas nuevas a la teoría:
@@ -299,7 +293,6 @@ La pieza es genealógica: el speaker sitúa esta postulación en su trabajo de f
 → [4x03 Directo experimental, 19:10](https://youtu.be/sVLpdolZZUE?t=1150)
 
 El ahorro ontológico es deliberado: el canal trabaja en el campo humano y no necesita decidir sobre la realidad como tal, solo sobre las representaciones.
-
 
 ## Refinamiento de la componente imaginaria: lo imaginario no es lo visual
 
@@ -375,8 +368,6 @@ Finalmente el canal añade un nivel cognitivo superior: la **metarrepresentació
 
 La estructura completa enlaza con [[pensamiento-poetico]] (modo de operación que privilegia las componentes imaginaria y afectiva sobre la formal) y con [[golem-de-cobre]] (donde la tríada original queda ahora más finamente articulada).
 
-
-
 ## Clase cognitiva como unidad mínima representacional y axioma de transitoriedad
 
 En el directo *Tremendo lunes* (03 mar 2026) el canal nombra explícitamente la unidad mínima sobre la que opera el marco — **clase cognitiva** — y enuncia su axioma fundacional. La pieza es terminológica y axiomática: la página articulaba la matriz noética con tres componentes (afectivo, imaginario, gramatical) sin nombrar la unidad subyacente. La sesión cierra ese flanco proponiendo *clase cognitiva* como sustituto operativo del concepto filosófico de **qualia**, con la diferencia decisiva de que la clase es objetiva, universal y medible — es decir, traducible a procedimiento neurocientífico, no atributo privado e inefable.
@@ -393,7 +384,6 @@ Las tres naturalezas mantienen la tripartición ya articulada en el marco — af
 → [Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)
 
 La transitoriedad como función primaria refuerza la tesis nuclear de irrepetibilidad de la matriz noética que esta página articulaba: ningún estado mental es estable, los componentes son gradientes en resíntesis continua. La novedad axiomática es que la transitoriedad no es contingencia operativa sino *función definitoria* de la unidad — una clase que no caduca ya no es clase. La consecuencia para [[realismo-cognitivo]] es directa: el sustrato representacional es estructuralmente entrópico, lo que cierra la coherencia con el postulado de la cognición como parte de la realidad material entrópica.
-
 
 ## Jerarquía ontogenética y filogenética de las tres componentes Q
 
@@ -416,10 +406,6 @@ La pieza precisa una asimetría estructural que la articulación matricial dejab
 La consecuencia operativa para el aparato: cuando el marco postula la **ambiguación** entre componentes Q (sección 'Mónadas universales objetivas...') como mecanismo nuclear de la cognición humana, está postulando una operación que requiere las tres componentes desarrolladas — operación que la mayoría de organismos no humanos no pueden ejecutar plenamente porque carecen del sustrato Q sub-f maduro. La ambigüación es la conquista evolutiva tardía que distingue la cognición humana del resto del espectro animal, sostenida sobre el sustrato Q sub-a más antiguo y compartido.
 
 La pieza añade además una predicción operativa para el flanco patológico del marco: estados regresivos (lesiones prefrontales, intoxicaciones, fatiga extrema) deberían producir caída desde Q sub-f hacia Q sub-i hacia Q sub-a — el orden filogenético-ontogenético inverso opera como cascada de degradación. La psicosis como exceso bottom-up de Q sub-i (ver sección 'Tres patologías como falsadores empíricos') es coherente con este patrón: la falla del control top-down de Q sub-f libera el material imaginario sin filtro, devolviendo al sujeto a un registro ontogenéticamente más temprano.
-
-
-
-
 
 ## La inteligencia como recreación, no como representación: el problema del cuervo
 
@@ -463,8 +449,6 @@ La consecuencia teórica que el speaker extrae es contraintuitiva: **la intelige
 → [Investigación en directo (1:38:12)](https://youtu.be/DQ_EAobZykw?t=5892)
 
 En el cuervo, además, memoria episódica y procedimental están prácticamente fusionadas — no es que tenga las tres dimensiones representacionales separadas como el humano, sino que Q sub-f opera como módulo independiente sobre un sustrato representacional menos diferenciado.
-
-
 
 ## Cuantitativo, tiempo y lenguaje: refinamientos sobre los componentes Q
 
@@ -526,7 +510,6 @@ La pieza es genealógica y estructural: el lenguaje no se añade al aparato cogn
 
 La consecuencia para el flanco anti-constructivista que la página ya articula es directa: el lenguaje no estructura el pensamiento porque deriva de la memoria procedimental, que es ontogenética y filogenéticamente anterior. La compresión lingüística de 12 bits/s opera sobre un sustrato procedimental que ya tenía estructura — la sintaxis del mundo (cosas que actúan sobre cosas) precede a la sintaxis de las palabras y la modela.
 
-
 ### Definición operativa de inteligencia: representar vs recrear
 
 La sesión cierra con una refinación de la definición de inteligencia que la página venía articulando: representar es el hecho neto, pero **recrear** introduce la componente temporal y neuroeconómica. Resolver un problema requiere operar con una concatenación de representaciones, no solo representar. La inteligencia es la capacidad de **recrear el mundo con fiabilidad y eficacia** — un nivel de complejidad operatoria superior a la mera representación.
@@ -538,8 +521,6 @@ La sesión cierra con una refinación de la definición de inteligencia que la p
 → [Investigación en directo (1:57:38)](https://youtu.be/DQ_EAobZykw?t=7058)
 
 La pieza articula el problema abierto que el monográfico sobre el símbolo (Parte 2) deja implícito y que la página enuncia en lagunas como 'articulación con el self / individuación': la relación entre las memorias (procedimental, episódica, semántica) y las componentes representacionales (formal, imaginaria, afectiva) que el marco postula. La sesión declara explícitamente esa relación como problema abierto que el canal está investigando en directo — el matiz importa porque sitúa el marco como programa de investigación vivo, no como sistema cerrado.
-
-
 
 ## Evidencia clínica de los tres componentes Q y el tiempo como sucesión procedimental
 
@@ -589,9 +570,6 @@ La pieza complementa la articulación previa del tiempo (ver sección 'Cuantitat
 La precisión arquitectónica completa el cuadro temporal del marco: la **sucesión** es procedimental (la memoria procedimental opera por encadenamiento de instrucciones que solo pueden ejecutarse secuencialmente — cuello de botella estructural del aparato cognitivo), el **orden de los recuerdos episódicos** modula la sucesión (más claro / menos claro como gradiente que sustituye la información temporal-cronológica directa, no disponible para la psique), y la **valencia afectiva nuevo/viejo** (articulada en el directo previo) colorea fenomenológicamente cada elemento de la sucesión.
 
 La articulación 3-capas del tiempo cognitivo queda así: procedimental (sucesión) + imaginario-episódico (orden de claridad) + afectivo (valencia nuevo/viejo). Las tres capas operan simultáneamente; ninguna sola produce experiencia temporal. La consecuencia teórica para el flanco anti-computacional del marco es directa: una arquitectura computacional con timestamps explícitos NO produce experiencia temporal — produce datos cronológicos sin la composición Q sub-procedimental + sub-i + sub-a que la cognición humana requiere para sentir el tiempo.
-
-
-
 
 ## Crítica al constructivismo lingüístico: el lenguaje no estructura el pensamiento
 
@@ -657,9 +635,6 @@ Los dos casos clásicamente invocados a favor de Sapir-Whorf (orientación de lo
 
 La pieza articula la tesis cognitiva con el aparato del [[diagrama-de-proxy]]: el constructivismo lingüístico es atractivo para configuraciones afectivas con locus externo de control porque permite atribuir la propia mente a la presión cultural-lingüística — versión sofisticada del 'el mal está fuera' que la página del diagrama documenta como cifra paterna del eje vertical. La crítica al constructivismo gana así un flanco diagnóstico: por qué la tesis falsa persiste, no solo por qué es falsa.
 
-
-
-
 ## Refinamiento del componente imaginario: representación modular vs distribuida y la falacia imaginaria del meme 2+2=5
 
 En el directo *Twitchversario de Proxy* (01 oct 2024) el canal precisa la mecánica interna de la componente imaginaria de la matriz N con dos piezas operativas: la doble vía por la que opera toda representación visual (modular y distribuida simultáneamente, con la pareidolia como caso paradigmático), y un caso operativo de cómo la confusión entre Q sub-i (imaginaria) y Q sub-f (formal) produce falacias categoriales — el meme 2+2=5.
@@ -703,8 +678,6 @@ La falacia opera por **confusión categorial entre dos componentes Q**: la suma 
 
 La precisión formal cierra el caso: para que 2+2=5 fuera válido en teoría de grupos, el conjunto vacío tendría que comportarse como operación unaria — lo que viola el axioma de cierre. La falacia imaginaria no se refuta produciendo una mejor imagen; se refuta separando los planos operatorios. Variantes del mismo meme (cuadrados de Exit, grafos de Isu) operan con el mismo fundamento confuso: una operación de Q sub-f disfrazada de operación de Q sub-i.
 
-
-
 ## Disociación como descomposición de la matriz N (mecánica inversa de la ambiguación)
 
 En el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la mecánica inversa al aparato de ambiguación que la página despliega: la **disociación como descomposición** de las representaciones mentales. Si la matriz noética opera por composición continua (ambiguación, UAL, resíntesis), la disociación es su límite operativo cuando el trabajo analítico introspectivo opera sobre la propia matriz.
@@ -735,9 +708,6 @@ La precisión opera como criterio diagnóstico: la disociación operativa por ex
 
 La pieza completa el aparato: la matriz noética admite operaciones de composición (ambiguación productiva) y de descomposición (disociación operativa), y ambas operan sobre la misma materia con el mismo aparato de componentes Q. La diferencia es direccional, no ontológica.
 
-
-
-
 ## Disociación como descomposición de la matriz N (mecánica inversa de la ambiguación)
 
 En el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la mecánica inversa al aparato de ambiguación que la página despliega: la **disociación como descomposición** de las representaciones mentales. Si la matriz noética opera por composición continua (ambiguación, UAL, resíntesis), la disociación es su límite operativo cuando el trabajo analítico introspectivo opera sobre la propia matriz.
@@ -767,12 +737,9 @@ La consecuencia operativa es importante: el trabajo introspectivo intenso de des
 La precisión opera como criterio diagnóstico: la disociación operativa por exceso analítico es reversible (deja de operar cuando cesa el trabajo de descomposición) y selectiva (afecta primariamente la memoria episódica, no las componentes Q individuales). Se distingue de cuadros disociativos clínicos genuinos (TID, despersonalización persistente, amnesia disociativa) que la página de [[tid-personaje-en-proxy]] articula con criterios distintos.
 
 La pieza completa el aparato: la matriz noética admite operaciones de composición (ambiguación productiva) y de descomposición (disociación operativa), y ambas operan sobre la misma materia con el mismo aparato de componentes Q. La diferencia es direccional, no ontológica.
-
 
 La pieza es operativa para la teoría del símbolo del canal: muestra que la distinción de componentes Q no es solo descriptiva sino **discriminadora de validez** — permite identificar qué demostraciones aparentes son sofismas categoriales. El símbolo opera bien cuando ambas componentes coinciden en lo evocado; produce error cuando una se suplanta a la otra sin marca explícita.
 
-
-
 ## Semiótica cognitiva como disciplina marco del canal
 
 En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula explícitamente la **disciplina marco** bajo la cual el aparato del símbolo, la cognición y la cultura quedan integrados — flanco meta-disciplinar que el monográfico sobre el símbolo presuponía pero no nombraba.
@@ -806,9 +773,6 @@ El **emergentismo de la cultura** que el canal declara articula la dirección ca
 
 La pieza cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' que la página declaraba: el cierre no es solo 'realismo cognitivo' como stance epistemológica sino **semiótica cognitiva** como disciplina constituida — la teoría de la interpretación mental opera al mismo nivel que las ciencias cognitivas y la antropología, no las subordina ni se subordina a ellas.
 
-
-
-
 ## Semiótica cognitiva como disciplina marco del canal
 
 En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula explícitamente la **disciplina marco** bajo la cual el aparato del símbolo, la cognición y la cultura quedan integrados — flanco meta-disciplinar que el monográfico sobre el símbolo presuponía pero no nombraba.
@@ -841,7 +805,6 @@ La precisión disciplinar es decisiva para el aparato del símbolo articulado en
 El **emergentismo de la cultura** que el canal declara articula la dirección causal del marco: la cultura no es ámbito autónomo desde el cual la cognición es modelada (lectura constructivista clásica) sino **manifestación** de procesos cognitivos que adquiere, una vez emergida, **funciones propias** — patrones operativos que la cognición individual ya no controla unilateralmente pero que tampoco son ajenos a ella. La consecuencia teórica para [[mitologia-propia-impropia]] y para los seis mitos primarios articulados en [[collective-unconscious]] es directa: los mitos son a la vez manifestación de la matriz noética humana (el sustrato cognitivo) y estructuras emergentes con función propia (el plano cultural). Ninguno de los dos planos absorbe al otro — la semiótica cognitiva los articula como fenómenos del mismo aparato operando a escalas distintas.
 
 La pieza cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' que la página declaraba: el cierre no es solo 'realismo cognitivo' como stance epistemológica sino **semiótica cognitiva** como disciplina constituida — la teoría de la interpretación mental opera al mismo nivel que las ciencias cognitivas y la antropología, no las subordina ni se subordina a ellas.
-
 
 ## Panpsiquismo y el hard problem: definir antes de explicar
 
@@ -875,12 +838,6 @@ La pieza encadena con el criterio metodológico que el marco exige a toda teorí
 → [Noticias 100tíficas (1:58:22)](https://youtu.be/VgdybZKruwk?t=7102)
 
 La consecuencia para el marco articulado en esta página: el panpsiquismo cae en el mismo error categorial que el conductismo (ver [[realismo-cognitivo]] sección 'Crítica al conductismo como tautológico'), aunque por la vía opuesta — donde el conductismo evita el problema disolviendo la categoría de mente, el panpsiquismo lo evita disolviendo la categoría de no-mente. En ambos casos la indefinición operativa permite que el modelo "explique" todo sin discriminar nada. La clase cognitiva como mónada universal objetiva (ver sección 'Clase cognitiva como unidad mínima representacional') opera precisamente como intento de definir antes de explicar — sustituir el qualia inefable por una unidad operativa medible que la conciencia humana puede compartir entre individuos sin colapsar en privacidad subjetiva ni en omnipresencia panpsiquista.
-
-
-
-
-
-
 
 ## Lagunas
 

@@ -140,7 +140,6 @@ Matización propia del canal sobre la mecánica de la disociación recurrente: l
 
 Esta hipótesis conecta el cuadro clínico con la dinámica de [[excision-psicologica]] sostenida en el tiempo: la mente que ha aprendido a partirse para aislar dolor sigue disponiendo de ese mecanismo ante cada nueva confrontación.
 
-
 ## Espectro graduado histriónico/Münchhausen/disociativo + mecánica de la excisión disociativa
 
 En el directo *Primer stream del año* (02 ene 2026) el canal articula el espectro graduado de simulación clínica según la conciencia que el sujeto tiene de su propio acto, la mecánica específica de la excisión disociativa como proxy de personalidad temporal, y dos casos clínicos complementarios (masking en psicópatas/autistas, enacting en madres Reborn).
@@ -236,7 +235,6 @@ La pieza añade una categoría adicional al espectro de simulación: el **enacti
 
 La pieza articula la mecánica relacional entre histriónicos y identifica el anti-perfil paradigmático que los desestabiliza. La colusión positiva entre histriónicos opera por complementariedad de personajes (ambos sienten cómoda la dramatización mutua). La competencia destructiva opera cuando ambos pretenden ocupar la misma posición central — lucha por la abeja reina con conflictos muy intensos. El anti-perfil es Rei Ayanami (referencia a Evangelion): el esquizoide inexpresivo cuya no-respuesta a la dramatización opera como espejo neutro que refleja la artificialidad del histriónico sin contraparte que la valide. La consecuencia operativa para [[colusion-heroe-ninfa]]: las colusiones entre cuadros inmaduros del cluster B se rigen por las mismas leyes — colusión positiva por complementariedad funcional, colusión negativa por dependencia mutua del trastorno, anti-perfil que rompe el espejo simbólico necesario para sostener el cuadro.
 
-
 ## Relectura del cine: Fight Club y Memento
 
 La tesis se cierra con una operación de relectura que separa el constructo disociativo del trastorno clínico: el canal sostiene que [[fight-club-1999-film]] no es una película sobre TID, sino sobre fuga depresiva que se sirve del recurso narrativo de la disociación.
@@ -262,14 +260,7 @@ La lectura recoloca cada obra: Fight Club queda dentro del campo de la escisión
 
 ## Citations
 
-
-
-
-
-
-
 - **Lunes basado terminal** — chunks: [32:10](https://youtu.be/oHxXzr5WSbQ?t=1930) · [36:13](https://youtu.be/oHxXzr5WSbQ?t=2173)
 - **Primer stream del año** — chunks: [54:49](https://youtu.be/kEgjSN3uKy4?t=3289)
 - **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [1:30:56](https://youtu.be/xdT-SCW89cw?t=5456)
 - **No entendiste HEREDITARY** — chunks: [51:34](https://youtu.be/r_4BY6W4lcU?t=3094)
-

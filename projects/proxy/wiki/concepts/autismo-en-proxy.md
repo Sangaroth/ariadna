@@ -85,8 +85,6 @@ La consecuencia clínica es directa:
 
 > "No tiene sentido diagnosticar trastorno de personalidad esquizoide junto con autismo porque tratar el autismo cubriría el aparente trastorno esquizoide
 
-
-
 Un refinamiento del directo *Navidad y Entrevista a Unicornio* (ene 2022) precisa la distinción operativa entre el cuadro autista y el cuadro esquizotípico — ambos producen aislamiento social pero por mecánicas categorialmente distintas:
 
 > "El autista recibe mucha información pero no sabe procesarla; el esquizotípico recibe la información pero no comprende su intención"
@@ -168,8 +166,5 @@ Respecto a la fenomenología ritual compartida con el TOC (ver [[psicastenia-en-
 
 ## Citations
 
-
-
 - **Psicología 101. Autismo. Algunas consideraciones.** — chunks: [0:07](https://youtu.be/0mxxhGA5Oh0?t=7) · [3:08](https://youtu.be/0mxxhGA5Oh0?t=188) · [6:16](https://youtu.be/0mxxhGA5Oh0?t=376) · [13:19](https://youtu.be/0mxxhGA5Oh0?t=799) · [14:19](https://youtu.be/0mxxhGA5Oh0?t=859) · [17:21](https://youtu.be/0mxxhGA5Oh0?t=1041) · [22:24](https://youtu.be/0mxxhGA5Oh0?t=1344) · [35:06](https://youtu.be/0mxxhGA5Oh0?t=2106) · [46:17](https://youtu.be/0mxxhGA5Oh0?t=2777) · [1:03:51](https://youtu.be/0mxxhGA5Oh0?t=3831) · [1:15:35](https://youtu.be/0mxxhGA5Oh0?t=4535) · [1:33:20](https://youtu.be/0mxxhGA5Oh0?t=5600) · [1:42:23](https://youtu.be/0mxxhGA5Oh0?t=6143) · [1:54:02](https://youtu.be/0mxxhGA5Oh0?t=6842) · [2:02:10](https://youtu.be/0mxxhGA5Oh0?t=7330) · [2:05:42](https://youtu.be/0mxxhGA5Oh0?t=7542)
 - **Directo Navidad y Entrevista a Unicornio** — chunks: [1:20:14](https://youtu.be/PTgRsC-KwSs?t=4814)
-

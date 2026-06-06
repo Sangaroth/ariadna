@@ -78,8 +78,6 @@ Cuando ese instinto se vuelve involuntario aparece un espectro clínico continuo
 
 - **Definición operativa de fantasía**: representación recreativa onánica orientada al interior — existe para que el individuo esté bien consigo mismo, NO refiere al exterior del universo.
 
-
-
 El monográfico *Inteligencia Real e Inteligencia Artificial* (feb 2024) añade una caracterización complementaria de la fantasía desde el eje desarrollista-motivacional. La fantasía se distingue operativamente del **futuro deseable** y del **anhelo** por el reconocimiento de imposibilidad:
 
 > "La fantasía es una ficción que sabemos imposible y en la que nos quedamos sin forzar que ocurra,"
@@ -158,8 +156,6 @@ La precisión cierra un flanco del marco que la definición operativa central de
 - [[algebra-afectiva]] — el TOC como fantasía afectiva no recreativa conecta con la dinámica de afectos involuntarios
 - [[magia-postmoderna-en-proxy]] — la mecánica de secreto vs complejidad y la custodia esotérica como instrumento de dominio sobre el curioso
 
-
-
 ## Función juego, mecanismos de defensa y la asimetría fantasía/ficción
 
 En el directo monográfico *La teoría de la teoría de la mente* (28 may 2025) el canal articula la inscripción de la fantasía dentro de la función juego y la frontera operativa que separa la fantasía recreativa de los mecanismos de defensa ansiosos. La pieza añade el criterio motivacional que separa fantasía sana de patología.
@@ -230,7 +226,6 @@ La consecuencia teleosemántica para la página: las clases cognitivas son en-ac
 
 Las clases cognitivas se ordenan en un **gradiente de explicitud** (de internas-implícitas a externas-explícitas), y las estructuras super-meta (yo, identidad, super-yo) solo se pueden construir con las clases más externas porque son las únicas suficientemente explícitas para sostener la operación metarrepresentacional. Una fantasía sobre el interior 'puro' carecería de soporte representacional explícito y por tanto no sería vivencia. Esta restricción es la fuente cognitiva del criterio operativo que la página articula como 'la fantasía siempre se refiere al interior del mundo' — la fantasía se refiere a un yo (interior del mundo del sujeto) pero usando exclusivamente clases externas (no al interior qua interior).
 
-
 ## Lagunas
 
 - El canal articula el espectro fantástico hasta la esquizofrenia pero NO desarrolla aquí los criterios diagnósticos diferenciales clínicos finos entre trastorno delirante, esquizofrenia paranoide y esquizofrenia desorganizada.
@@ -246,7 +241,4 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minut
 
 ## Citations
 
-
-
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [37:39](https://youtu.be/NKFWUxt5VQ4?t=2259)
-

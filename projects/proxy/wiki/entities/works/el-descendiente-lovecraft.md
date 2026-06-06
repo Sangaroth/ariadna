@@ -90,6 +90,4 @@ El cuento se inscribe en el núcleo mitológico que el directo identifica como e
 
 ## Citations
 
-
 - **Otoño de cuentos. Lovecraft** — chunks: [52:44](https://youtu.be/SwEqFdvBI9M?t=3164)
-

@@ -93,8 +93,6 @@ El síndrome de Wendy no es síntoma clínico aislado: es un nombre canal-espec�
 - Sin esa integración, la mutación a ninfa abre la puerta a configuraciones más destructivas (el amante vampírico, el sacrilegio de sangre)
 - En la lógica del canal, abortar el síndrome es condición previa para cualquier [[hieros-gamos]] real, ya que sin sujeto femenino constituido no hay unión sino captura mutua
 
-
-
 ## Wendy en transición doncella→consorte: la articulación monográfica
 
 El monográfico del directo *El síndrome de Wendy* (30 ene 2026) refina el lugar arquetípico de Wendy con varias precisiones operativas. La primera es topológica: Wendy NO emerge antes de la maduración sino exactamente en la transición de la primera figura femenina (doncella, gracia natural, Atenea) a la segunda (consorte, mitad armónica, Venus). El sustrato es la concupiscencia que la transición naturalmente activa; la corrupción es la instrumentación de la gracia para captar contacto en lugar del despliegue de la consorte por encuentro real.
@@ -229,9 +227,6 @@ Criterio diferencial fino que el monográfico añade y que precisa la distinció
 
 El test operativo es la **respuesta ante la falta de deseo intenso**: la Wendy auténtica produce vínculo desde la ternura sin exigir intensidad sexual explosiva; la ninfa que se disfraza de Wendy se indigna si el deseo del varón no se inflama. El criterio permite distinguir motivaciones psíquicas que producen conductas externamente similares (cuidado, dedicación) pero estructuralmente distintas.
 
-
-
-
 ## Wendy en transición doncella→consorte: la articulación monográfica
 
 El monográfico del directo *El síndrome de Wendy* (30 ene 2026) refina el lugar arquetípico de Wendy con varias precisiones operativas. La primera es topológica: Wendy NO emerge antes de la maduración sino exactamente en la transición de la primera figura femenina (doncella, gracia natural, Atenea) a la segunda (consorte, mitad armónica, Venus). El sustrato es la concupiscencia que la transición naturalmente activa; la corrupción es la instrumentación de la gracia para captar contacto en lugar del despliegue de la consorte por encuentro real.
@@ -365,9 +360,6 @@ Criterio diferencial fino que el monográfico añade y que precisa la distinció
 → [El síndrome de Wendy (1:45:54)](https://youtu.be/L7oSZTTK8Gg?t=6354)
 
 El test operativo es la **respuesta ante la falta de deseo intenso**: la Wendy auténtica produce vínculo desde la ternura sin exigir intensidad sexual explosiva; la ninfa que se disfraza de Wendy se indigna si el deseo del varón no se inflama. El criterio permite distinguir motivaciones psíquicas que producen conductas externamente similares (cuidado, dedicación) pero estructuralmente distintas.
-
-
-
 
 ## Distinción Wendy / Ninfa por motivación: criterio psicológico complementario al arquetípico
 
@@ -385,9 +377,6 @@ El caso del 'objeto narcisista' es paradigmático del polo Wendy: la mujer se vi
 
 La distinción matiza la articulación de la mutación Artemisa→Afrodita que la página presenta como mecánica nuclear: la mutación opera arquetípicamente como tránsito del eje femenino, pero dentro del polo Wendy persisten configuraciones psicológicas distintas (Wendy de espera idealizada vs Wendy de objeto narcisista) que requieren lectura clínica complementaria al diagnóstico arquetípico. Misma figura mítica, motivaciones intrapsíquicas distinguibles.
 
-
-
-
 ## La versión masculina del síndrome
 
 El canal articula también la operación del síndrome en la psique masculina infantil, donde toma la forma del **anhelo de huida del hogar**: el niño se siente injustamente tratado, fantasea con que su verdadero destino aguarda más allá de la ventana, pero no se atreve a actuar la huida real porque no es disocial:
@@ -400,9 +389,6 @@ El canal articula también la operación del síndrome en la psique masculina in
 
 Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura real, capacidad de iniciar el viaje) sino desde el ello (necesidad de validar la propia injusticia sentida) — de la misma forma que la Wendy femenina espera al héroe imaginario sin trabajar la integración del eterno aventurero como contenido propio. [[harry-potter-saga|Harry Potter]] funciona, en la lectura del canal, como quintaesencia narrativa de esta configuración masculina: el niño rico pero "injustamente tratado" para quien la solución narrativa no es la maduración interior sino la confirmación externa de su carácter especial.
 
-
-
-
 ## La versión masculina del síndrome
 
 El canal articula también la operación del síndrome en la psique masculina infantil, donde toma la forma del **anhelo de huida del hogar**: el niño se siente injustamente tratado, fantasea con que su verdadero destino aguarda más allá de la ventana, pero no se atreve a actuar la huida real porque no es disocial:
@@ -414,7 +400,6 @@ El canal articula también la operación del síndrome en la psique masculina in
 → [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (03:31)](https://youtu.be/3Jo2T73pOEs?t=211)
 
 Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura real, capacidad de iniciar el viaje) sino desde el ello (necesidad de validar la propia injusticia sentida) — de la misma forma que la Wendy femenina espera al héroe imaginario sin trabajar la integración del eterno aventurero como contenido propio. [[harry-potter-saga|Harry Potter]] funciona, en la lectura del canal, como quintaesencia narrativa de esta configuración masculina: el niño rico pero "injustamente tratado" para quien la solución narrativa no es la maduración interior sino la confirmación externa de su carácter especial.
-
 
 ## Lagunas
 
@@ -425,9 +410,6 @@ Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura r
 - **Vías de salida**: el canal nombra la integración del eterno aventurero como solución pero no expone aquí los mecanismos concretos por los que esa integración ocurre psíquicamente
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Casos no-trágicos**: todos los ejemplos elaborados muestran la mutación hacia -->
 - **Casos no-trágicos**: todos los ejemplos elaborados muestran la mutación hacia configuraciones destructivas (ninfa, vampiro); el corpus no aborda en este fragmento qué aspecto tendría un síndrome de Wendy que se resuelve sin pasar por el polo oscuro
-
-
-
 
 ## Articulación primaria del cuadro: Wendy Darling como caso epónimo
 
@@ -473,8 +455,6 @@ La pieza articula la cadena clínica que va del síndrome de Wendy a su variante
 
 La pieza cierra el cuadro epónimo con su corolario operativo: el síndrome de Wendy NO se cura del todo en la maduración aparente del sujeto. Wendy crece pero RETIENE la fantasía de Peter Pan como ánimus ideal eterno — el único lugar donde no abandona la infancia es el ánimus. La consecuencia diagnóstica: la mujer adulta con síndrome de Wendy puede operar formalmente como adulta funcional pero retiene una fantasía masculina ideal-aventurera-imposible que organiza secretamente sus expectativas afectivas reales y produce decepción crónica con cualquier varón real (que jamás puede igualar al ánimus eterno fantaseado).
 
-
-
 ## Wendy → Stacy → Karen: la progresión cuando el problema no se atiende a tiempo
 
 El análisis arquetípico de [[barbie-2023-film|Barbie]] (Greta Gerwig, 2023) articula una pieza estructural que la página dejaba implícita: la **progresión cronológica del cuadro Wendy** cuando la integración de la sombra (sección anterior) no opera en su ventana de oportunidad. Wendy no es estado terminal sino primer momento de una secuencia degenerativa.
@@ -523,9 +503,6 @@ Frente a la secuencia Wendy → Stacy → Karen, el análisis articula la altern
 
 La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo (como Wendy), pero a diferencia de Wendy posee intuición femenina genuina que opera como criterio interno cuando la mentira de lo utópico se revela. Wendy carece de ese criterio porque su yo femenino aún no está constituido; Cenicienta es Wendy con yo constituido. La pieza completa el cuadro: la salida estructural existe y tiene nombre — el tránsito por la decepción de lo utópico que activa la intuición femenina genuina.
 
-
-
-
 ## Wendy → Stacy → Karen: la progresión cuando el problema no se atiende a tiempo
 
 El análisis arquetípico de [[barbie-2023-film|Barbie]] (Greta Gerwig, 2023) articula una pieza estructural que la página dejaba implícita: la **progresión cronológica del cuadro Wendy** cuando la integración de la sombra (sección anterior) no opera en su ventana de oportunidad. Wendy no es estado terminal sino primer momento de una secuencia degenerativa.
@@ -573,41 +550,13 @@ Frente a la secuencia Wendy → Stacy → Karen, el análisis articula la altern
 → [No entendiste Barbie. Análisis arquetípico (12:39)](https://youtu.be/CEa517aakr8?t=759)
 
 La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo (como Wendy), pero a diferencia de Wendy posee intuición femenina genuina que opera como criterio interno cuando la mentira de lo utópico se revela. Wendy carece de ese criterio porque su yo femenino aún no está constituido; Cenicienta es Wendy con yo constituido. La pieza completa el cuadro: la salida estructural existe y tiene nombre — el tránsito por la decepción de lo utópico que activa la intuición femenina genuina.
-
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [3:31](https://youtu.be/3Jo2T73pOEs?t=211) · [8:41](https://youtu.be/3Jo2T73pOEs?t=521)
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [32:35](https://youtu.be/JmCqIk6NDsM?t=1955) · [36:37](https://youtu.be/JmCqIk6NDsM?t=2197) · [3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
 - **Fenomenología Trans** — chunks: [13:05](https://youtu.be/grs5EqRZBnQ?t=785)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [58:09](https://youtu.be/sTnxDjo1v3o?t=3489)
-
 
 - **Análisis arquetípico Frozen** — chunks: [2:13:35](https://youtu.be/NYZEm8mcPiQ?t=8015)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [3:31](https://youtu.be/X2c2a3mQBOs?t=211) · [4:31](https://youtu.be/X2c2a3mQBOs?t=271) · [7:34](https://youtu.be/X2c2a3mQBOs?t=454)
@@ -620,4 +569,3 @@ La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo 
 - **Cerebros rosas y azules** — chunks: [1:54:26](https://youtu.be/x7A9nfoRfu0?t=6866)
 - **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [16:11](https://youtu.be/966LWuiirwA?t=971)
 - **Consultorio EXIT INSIDE** — chunks: [46:38](https://youtu.be/IP9f-1gSJ1c?t=2798)
-

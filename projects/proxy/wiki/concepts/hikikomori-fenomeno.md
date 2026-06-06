@@ -88,8 +88,6 @@ La precisión es operativamente importante para el diagnóstico: ante un sujeto 
 
 La pieza enlaza con el marco general del [[dominio-y-franja-de-incertidumbre]]: el hikikomori es caso donde la franja de incertidumbre socialmente accesible se ha aplanado completamente — no porque falte capacidad, sino porque las representaciones de éxito social han sido calibradas a un horizonte irreal por la sobrepromesa cultural.
 
-
-
 ## El marco cultural japonés: Wa, Rey y la geometría social del honor
 
 En el directo monográfico *"Hikikomori" Luna roja sobre el varón. Parte I* (jun 2023), en diálogo con Marta como especialista en cultura japonesa, el canal articula la armadura cultural sin la cual el cuadro no se entiende: el hikikomori no es patología que surge en cualquier contexto sino caso extremo de una sociedad colectivista cuya estructura está organizada en torno al honor y la armonía.
@@ -351,7 +349,6 @@ Tres ejes terapéuticos: **rehabilitación cultural** (actividades manuales, ter
 
 Protocolo diagnóstico operativo: rastrear en el entorno los tres mensajes tóxicos ('el mundo es horrible', 'es tu culpa', 'puedes ser todo si te esfuerzas') e identificar las carencias clave (desidia, decepción, ausencia de firmeza/seguridad/autonomía). La aparición conjunta es señal de superyó disfuncional ya instalado y de probabilidad alta de cuadro en evolución.
 
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Especificidad cultural japonesa**: el canal usa el término en su acepción orig -->
@@ -363,14 +360,6 @@ Protocolo diagnóstico operativo: rastrear en el entorno los tres mensajes tóxi
 
 ## Citations
 
-
-
-
-
-
-
-
-
 - **Experimento 25** — chunks: [47:52](https://youtu.be/Bn-I6p-AyXc?t=2872)
 - **Experimento 25** — chunks: [47:52](https://youtu.be/p-93qXOPrDk?t=2872) · [1:02:36](https://youtu.be/p-93qXOPrDk?t=3756)
 - **Ghost in the Shell: Arquetipo cero y transhumanismo.** — chunks: [37:36](https://youtu.be/yp1gyKHdOJc?t=2256)
@@ -378,4 +367,3 @@ Protocolo diagnóstico operativo: rastrear en el entorno los tres mensajes tóxi
 - **"Hikikomori" Luna roja sobre el varón. Parte I** — chunks: [1:00](https://youtu.be/mWzi6Mjbjvk?t=60) · [35:03](https://youtu.be/mWzi6Mjbjvk?t=2103) · [52:45](https://youtu.be/mWzi6Mjbjvk?t=3165) · [57:20](https://youtu.be/mWzi6Mjbjvk?t=3440) · [1:02:52](https://youtu.be/mWzi6Mjbjvk?t=3772) · [1:07:54](https://youtu.be/mWzi6Mjbjvk?t=4074) · [1:14:58](https://youtu.be/mWzi6Mjbjvk?t=4498) · [1:19:34](https://youtu.be/mWzi6Mjbjvk?t=4774) · [1:31:22](https://youtu.be/mWzi6Mjbjvk?t=5482) · [1:34:26](https://youtu.be/mWzi6Mjbjvk?t=5666) · [1:47:34](https://youtu.be/mWzi6Mjbjvk?t=6454) · [1:50:06](https://youtu.be/mWzi6Mjbjvk?t=6606) · [1:58:10](https://youtu.be/mWzi6Mjbjvk?t=7090) · [2:04:14](https://youtu.be/mWzi6Mjbjvk?t=7454)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [0:00](https://youtu.be/5uFhZcARjYQ?t=0)
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [1:06:53](https://youtu.be/zLRhDHyq3gs?t=4013)
-

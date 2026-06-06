@@ -142,6 +142,4 @@ El antecedente narrativo en la trama incluye el síndrome de ostracismo ciber-ce
 
 ## Citations
 
-
 - **Ghost in the Shell: Arquetipo cero y transhumanismo.** — chunks: [49:11](https://youtu.be/yp1gyKHdOJc?t=2951)
-

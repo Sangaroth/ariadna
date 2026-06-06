@@ -260,8 +260,6 @@ La pieza más importante para la taxonomía de la página es la distinción psiq
 
 El criterio operativo de demarcación es **temporal y estructural**: la disforia genuina afecta a la integridad psíquica del propio cuerpo (no a la identidad social) y persiste; el problema de identidad opera como conflicto neurótico que las fases vitales modulan o resuelven. La crítica del canal al movimiento trans es categorial: meter neurosis de identidad en la categoría psiquiátrica de la disforia produce dos errores simultáneos — invisibiliza el cuadro genuino al expandir indiscriminadamente la categoría, y prescribe intervenciones somáticas para problemas que pertenecen al registro neurótico de la identidad social. La fenomenología trans como disciplina, en la lectura del canal, exige sostener esta distinción para no colapsar dos objetos clínicos heterogéneos en un único sintagma político.
 
-
-
 ## Confusión autismo-trans: la diferencia cognitiva reinterpretada como disforia de género
 
 El monográfico *Psicología 101: Autismo* (oct 2023) articula un mecanismo específico por el que personas del [[autismo-en-proxy|espectro autista]] reciben del entorno el mensaje de que su diferencia es disforia de género, sumándose como tercer cuadro confundido al inventario ya documentado (problema de identidad histriónico, dismorfia).
@@ -279,8 +277,6 @@ La pieza añade un tercer cuadro al criterio diferencial que la página ya artic
 
 La consecuencia metodológica refuerza la tesis nuclear de la página: el sintagma trans contemporáneo absorbe heterogeneidad clínica bajo etiqueta política única, con coste diagnóstico tanto para el cuadro genuino de disforia (que queda invisibilizado por dilución de la categoría) como para los cuadros realmente distintos que reciben prescripciones terapéuticas inadecuadas. El caso autista añade la dimensión cognitivo-estructural: una diferencia que opera en el nivel de la representación pre-lingüística y que no se resuelve con intervención sobre la identidad social ni sobre la circunstancia corporal.
 
-
-
 ## Disforia vs dismorfia: distinción técnica psicológica
 
 En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal precisa la distinción categorial entre dos cuadros clínicos que el discurso público y a veces el propio movimiento trans tienden a confundir o solapar. La distinción es importante para la fenomenología trans porque articula qué tipo de malestar opera realmente bajo cada uso del término.
@@ -314,8 +310,6 @@ La pieza añade además la consecuencia ontológica que el canal extrae de su mo
 
 La pieza articula la doble acepción técnica que la página manejaba implícitamente. La acepción **psicológica/médica** trata el género como conjunto de **constructos psíquicos** que articulan la vivencia subjetiva del sexo — opera a nivel intrapsíquico, presupone el sexo cromosómico como dato biológico y describe los modos en que ese dato es vivido. La acepción **sociológica** trata el género como **elementos culturales asociados a un rol sexual** — opera a nivel cultural-conductual, y en su variante posmoderna añade el postulado constructivista de que el sexo mismo es construcción social. La consecuencia metodológica de la página queda precisada: cuando el discurso público mezcla ambas acepciones bajo la misma palabra, opera elipsis estructural — se traslada al registro psicológico la fuerza de la atomización categorial sociológica, o se proyecta sobre el registro sociológico la legitimidad clínica del registro psicológico, sin que ninguno de los dos conserve su contenido original. La fenomenología trans en sentido estricto opera en el primer registro; el sintagma político posmoderno (ya criticado en la sección 'Acepciones: lo médico frente a lo político') opera en el segundo y se reviste lingüísticamente del primero.
 
-
-
 ## Disforia vs dismorfia: distinción técnica psicológica
 
 En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal precisa la distinción categorial entre dos cuadros clínicos que el discurso público y a veces el propio movimiento trans tienden a confundir o solapar. La distinción es importante para la fenomenología trans porque articula qué tipo de malestar opera realmente bajo cada uso del término.
@@ -348,8 +342,6 @@ La pieza añade además la consecuencia ontológica que el canal extrae de su mo
 → [Transhumanismo, IA y Ciencia Ficción. (17:00)](https://youtu.be/kdk8mi7-Y1s?t=1020)
 
 La pieza articula la doble acepción técnica que la página manejaba implícitamente. La acepción **psicológica/médica** trata el género como conjunto de **constructos psíquicos** que articulan la vivencia subjetiva del sexo — opera a nivel intrapsíquico, presupone el sexo cromosómico como dato biológico y describe los modos en que ese dato es vivido. La acepción **sociológica** trata el género como **elementos culturales asociados a un rol sexual** — opera a nivel cultural-conductual, y en su variante posmoderna añade el postulado constructivista de que el sexo mismo es construcción social. La consecuencia metodológica de la página queda precisada: cuando el discurso público mezcla ambas acepciones bajo la misma palabra, opera elipsis estructural — se traslada al registro psicológico la fuerza de la atomización categorial sociológica, o se proyecta sobre el registro sociológico la legitimidad clínica del registro psicológico, sin que ninguno de los dos conserve su contenido original. La fenomenología trans en sentido estricto opera en el primer registro; el sintagma político posmoderno (ya criticado en la sección 'Acepciones: lo médico frente a lo político') opera en el segundo y se reviste lingüísticamente del primero.
-
-
 
 ## Género como categoría circular y vacía: el yo imaginario y los mecanismos de poder como poética
 
@@ -383,10 +375,6 @@ El canal aplica el aparato del [[sofisma-estetico]] a la pretensión foucaultian
 → [Eva, Lucifer, Satanás y la Serpiente. (49:20)](https://youtu.be/dHDv_oZODYQ?t=2960)
 
 La argumentación es **prueba diagnóstica de poética**: si la fórmula descriptiva opera sobre cualquier objeto (cables, lápices, bolígrafos) con la misma corrección retórica, entonces no describe nada propio del objeto — es lenguaje poético aplicado, no análisis filosófico. La pieza cierra el flanco metodológico que la página articulaba implícitamente: el discurso identitario contemporáneo opera transversalmente como poética que se presenta como filosofía, y la prueba operativa para detectarlo es comprobar si la fórmula sobrevive al cambio de objeto sin perder precisión ni fuerza retórica.
-
-
-
-
 
 ## Feminismo queer vs feminismo clásico: dos estrategias psicológicas en conflicto
 
@@ -429,9 +417,6 @@ La pieza cierra el conflicto operativo: en el mapa mental del feminismo clásico
 
 La coexistencia de las dos estrategias es estructuralmente conflictiva porque operan sobre **mecanismos psíquicos opuestos**: la queer necesita disolver el adversario; la clásica necesita preservarlo. La unidad superficial del campo feminista postmoderno oculta una guerra interna por la categoría 'hombre' como recurso simbólico — la clásica la quiere viva como diana, la queer la quiere muerta como liberación. La pieza importa para el análisis del canal: las disputas entre Carmen Calvo e Irene Montero, entre TERFs y queer, no son matices internos sino **antagonismo estructural** entre dos modos psicológicos incompatibles de gestionar la relación con lo masculino.
 
-
-
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Los **tres núcleos trans** y los **fenómenos no-trans** que componen la taxonomí -->
@@ -441,8 +426,6 @@ La coexistencia de las dos estrategias es estructuralmente conflictiva porque op
 - No se aborda en el fragmento cómo encaja la **bisexualidad** (mencionada al inicio como "dos medias mitades del todo con partes masculinas y femeninas contradictorias") dentro de la taxonomía trans/no-trans; queda como hilo pendiente.
 
 ## Citations
-
-
 
 - **Fenomenología Trans** — chunks: [21:52](https://youtu.be/grs5EqRZBnQ?t=1312)
 - **Wokismo para Wokes.** — chunks: [40:22](https://youtu.be/Q83ieEVaF5I?t=2422)

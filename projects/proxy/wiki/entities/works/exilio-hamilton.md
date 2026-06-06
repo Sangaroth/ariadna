@@ -117,7 +117,4 @@ Esta extensión ancla el cuento en el marco de [[mitologia-propia-impropia]]: el
 
 ## Citations
 
-
-
 - **Cuento contigo (resub)** — chunks: [14:45](https://youtu.be/6oOGKh2TRHE?t=885)
-

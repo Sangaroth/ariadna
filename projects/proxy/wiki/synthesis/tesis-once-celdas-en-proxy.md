@@ -167,8 +167,6 @@ La tesis de las once celdas es la formalización académica de lo que [[teoria-d
 
 El brazo computacional del mismo proyecto es [[galatea-modelo-protomente]]: si esta tesis define qué son las once celdas y cómo validarlas, Galatea implementa el modelo que las simula. La celda 11 también ancla [[conciencia-e-inteligencia-en-proxy]], dándole definición técnica precisa desde el marco de la tesis.
 
-
-
 ## Workflow metodológico: extracción de redes vía IA y Teseo
 
 T5x17 (may-2026) precisa el método operativo para poblar empíricamente las 11 celdas evitando el sesgo confirmatorio que la sección 'Marco teleosemántico' presupone como riesgo. La trampa metodológica es estructural: cualquier consulta por palabras clave directas a la literatura científica recupera el aparato categorial preexistente (memoria episódica vs procedural según taxonomías clásicas) que NO coincide celda-por-celda con el marco proxy.

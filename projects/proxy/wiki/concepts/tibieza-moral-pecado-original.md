@@ -105,25 +105,6 @@ La tibieza moral es, en este sentido, el sofisma estético aplicado al orden mor
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [17:18](https://youtu.be/wIhH72UFUPY?t=1038)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [17:18](https://youtu.be/lw7XI2lQntM?t=1038)
 - **T5x07: Soto Ivars y el Tabú** — chunks: [49:53](https://youtu.be/wixOLxnd68o?t=2993)
@@ -137,4 +118,3 @@ La tibieza moral es, en este sentido, el sofisma estético aplicado al orden mor
 - **MItología 101: El Gólem** — chunks: [48:50](https://youtu.be/IG3dkNBX9uU?t=2930)
 - **De Platón A The Matrix** — chunks: [1:10:17](https://youtu.be/zr_ZKX60N54?t=4217)
 - **T5x17 Mitología 101: Babel, el Diluvio y Sodoma.** — chunks: [34:28](https://youtu.be/L_zQUykelsA?t=2068)
-

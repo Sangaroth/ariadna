@@ -121,7 +121,6 @@ El canal abre una sección sobre valencia que rompe la asociación habitual entr
 
 La valencia se mide por su función adaptativa, no por su agradabilidad subjetiva. Una emoción displacentera puede ser estructuralmente positiva si cumple su función motivacional. Esto permite al canal recuperar afectos habitualmente proscritos (ira, tristeza, asco) como piezas legítimas de la vida psíquica madura, en línea con la integración de la [[shadow-archetype]].
 
-
 ## Instintos fundamentales: el catálogo de seis y el juego como mecanismo mamífero
 
 En el directo *¿Porqué hay categorías masculina y femenina en ajedrez?* (03 ene 2026) el canal articula un catálogo de seis instintos fundamentales que complementa la taxonomía Panksepp-style ya documentada en la sección anterior. Las dos articulaciones operan en planos distintos: la primera sobre afectos primarios como motores neurobiológicos (buscar, cuidado, apego, terror, pánico); esta sobre instintos fundamentales como categorías psicobiológicas más amplias que articulan también la conducta dirigida.
@@ -182,7 +181,6 @@ La composición coincide con el modelo SEEKING / RAGE / FEAR / PLAY / LUST / CAR
 
 El desarrollo completo del sistema (operaciones de composición, oposición y transición entre clases cognitivas; filogénesis de los siete afectos desde la ameba al mamífero; lectura clínica de TDAH, autismo y psicopatía como disfunciones de afectos específicos) pertenece a la articulación dedicada de [[algebra-afectiva]].
 
-
 ## La articulación formal como álgebra afectiva
 
 En *Psicología 101: Valencia y emoción* (26 feb 2025) el canal nombra el sistema operativo completo — **álgebra afectiva** — y explicita por primera vez la taxonomía cerrada de siete motores afectivos biológicos, completando los catálogos parciales de cinco y seis que la página ya documentaba.
@@ -206,12 +204,9 @@ La composición coincide con el modelo SEEKING / RAGE / FEAR / PLAY / LUST / CAR
 
 El desarrollo completo del sistema (operaciones de composición, oposición y transición entre clases cognitivas; filogénesis de los siete afectos desde la ameba al mamífero; lectura clínica de TDAH, autismo y psicopatía como disfunciones de afectos específicos) pertenece a la articulación dedicada de [[algebra-afectiva]].
 
-
-
 ## Lugar en el corpus: por qué importa
 
 La teoría de las emociones del canal es **infraestructura**: aparece como introducción psicoeducativa al análisis de [[inside-out-2015-film]] pero opera de fondo en cualquier lectura arquetípica donde haya material afectivo (la mayoría). Las cinco básicas, la valencia y las sinestesias son el vocabulario con que el canal nombra lo que las películas hacen al espectador. Conecta hacia adelante con la [[individuation]] (proceso que opera sobre material afectivo integrado) y hacia atrás con el sustrato biológico-evolutivo que el canal asume como real.
-
 
 ## Afectos primarios (taxonomía Panksepp-style) y la depresión como descenso afectivo
 
@@ -255,7 +250,6 @@ La pieza desambigua tres estados que el aparato afectivo del canal trata como ca
 
 La consecuencia clínica es operativa: los ISRS, al actuar sobre serotonina (sistema modulador de la angustia/pánico), palian la angustia derivada de la depresión mucho mejor que la falta de motivación que define el cuadro nuclear. El antidepresivo opera funcionalmente como ansiolítico de larga duración cuando la depresión cursa con angustia secundaria significativa — lo que coincide con el grueso de los casos clínicos. La articulación crítica completa al farmacocentrismo psiquiátrico, al dualismo eliminativo del conductismo y al hombre de paja antipsiquiátrico está en [[psiquiatria-y-teoria-de-la-mente]].
 
-
 ### Depresión como falta de motivación, tristeza como forma de angustia
 
 En *Psiquiatría, antipsiquiatría y teoría de la mente* (02 abr 2025) el canal puntualiza la distinción categorial que la lectura coloquial colapsa en un único polo displacentero: depresión y tristeza son estados afectivos con motores neurobiológicos distintos.
@@ -270,8 +264,6 @@ La pieza desambigua tres estados que el aparato afectivo del canal trata como ca
 
 La consecuencia clínica es operativa: los ISRS, al actuar sobre serotonina (sistema modulador de la angustia/pánico), palian la angustia derivada de la depresión mucho mejor que la falta de motivación que define el cuadro nuclear. El antidepresivo opera funcionalmente como ansiolítico de larga duración cuando la depresión cursa con angustia secundaria significativa — lo que coincide con el grueso de los casos clínicos. La articulación crítica completa al farmacocentrismo psiquiátrico, al dualismo eliminativo del conductismo y al hombre de paja antipsiquiátrico está en [[psiquiatria-y-teoria-de-la-mente]].
 
-
-
 ## Lagunas
 
 - **Tristeza vs depresión**: el vídeo continúa más allá del fragmento recuperado articulando la distinción tristeza-como-marcador-de-importancia frente a depresión-como-déficit-de-feedback-motivacional. Pendiente de desarrollar con citas literales adicionales
@@ -282,11 +274,9 @@ La consecuencia clínica es operativa: los ISRS, al actuar sobre serotonina (sis
 
 ## Citations
 
-
 - video_id: `V-ixEcJuLzw` — Análisis arquetípico Inside Out
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [1:06:20](https://youtu.be/cbdLR0HTE3w?t=3980) · [1:29:05](https://youtu.be/cbdLR0HTE3w?t=5345)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [27:14](https://youtu.be/-daRyQwnZy0?t=1634)
-

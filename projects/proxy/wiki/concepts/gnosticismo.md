@@ -148,8 +148,6 @@ La triada teologal cristiana (fe-esperanza-caridad/amor) se reordena en Matrix s
 - Comparte sustrato cosmogónico (emanación, hipóstasis, eones) con la cábala y la lectura arquetípica del [[tarot-arquetipico]]
 - Los cinco mitos fundamentales del canal (Génesis, Apocalipsis, dios, diosa, mago) operan como sustrato común que el gnosticismo recombina en clave soteriológica
 
-
-
 ## El Apocalipsis de Adán (Nag Hammadi, sethianismo s.II-III d.C.)
 
 El monográfico *Los Apocalipsis (Parte I)* (mar-2025) trata el texto gnóstico setiano que articula el cruce entre las dos estructuras — gnosticismo y mitema apocalíptico — y cierra parcialmente la laguna sobre 'Corrientes históricas concretas' enunciada al cierre de esta página. El **Apocalipsis de Adán** es el último tratado del códice V de la biblioteca de Nag Hammadi (descubierta en 1945 y comúnmente referida como 'los pergaminos del Mar Muerto' aunque sea distinta del Qumrán bíblico), texto sethianista del siglo II-III d.C.:
@@ -207,7 +205,6 @@ La pieza precisa el mecanismo psicológico subyacente: los gnósticos NO descubr
 
 [[magia-postmoderna-en-proxy|La magia postmoderna]] queda así reinscrita como heredera directa de la línea sethianista, no como innovación contemporánea: el New Age recapitula la operación gnóstica original (conocimiento iluminador convertido en técnica de poder) con material cultural reciente.
 
-
 ## Lagunas
 
 - **Corrientes históricas concretas**: el canal expone la estructura común pero no detalla diferencias entre valentinianismo, sethianismo, basilidianismo, manqueísmo, mandeísmo. Posible desarrollo en otros vídeos
@@ -218,27 +215,8 @@ La pieza precisa el mecanismo psicológico subyacente: los gnósticos NO descubr
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [33:13](https://youtu.be/Dtp1_RLb7S0?t=1993) · [37:16](https://youtu.be/Dtp1_RLb7S0?t=2236) · [41:18](https://youtu.be/Dtp1_RLb7S0?t=2478) · [46:22](https://youtu.be/Dtp1_RLb7S0?t=2782) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097) · [1:46:17](https://youtu.be/Dtp1_RLb7S0?t=6377)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [1:13:56](https://youtu.be/1WEQmzUM41M?t=4436)
-
 
 - **Análisis arquetípico de Unicorn wars** — chunks: [22:53](https://youtu.be/fLfEbHPJNmU?t=1373)
 - **Directo casual** — chunks: [24:19](https://youtu.be/ECN5C9rsaZg?t=1459)
@@ -248,4 +226,3 @@ La pieza precisa el mecanismo psicológico subyacente: los gnósticos NO descubr
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [12:33](https://youtu.be/JKoWJmSR6VY?t=753) · [22:12](https://youtu.be/JKoWJmSR6VY?t=1332) · [30:22](https://youtu.be/JKoWJmSR6VY?t=1822) · [40:27](https://youtu.be/JKoWJmSR6VY?t=2427) · [46:37](https://youtu.be/JKoWJmSR6VY?t=2797) · [55:13](https://youtu.be/JKoWJmSR6VY?t=3313) · [1:03:51](https://youtu.be/JKoWJmSR6VY?t=3831) · [1:09:54](https://youtu.be/JKoWJmSR6VY?t=4194) · [1:26:18](https://youtu.be/JKoWJmSR6VY?t=5178)
 - **Los Apocalipsis. (Parte I)** — chunks: [1:37:55](https://youtu.be/lLRGemLUCtY?t=5875) · [1:43:30](https://youtu.be/lLRGemLUCtY?t=6210) · [2:02:22](https://youtu.be/lLRGemLUCtY?t=7342)
 - **De Platón A The Matrix** — chunks: [43:14](https://youtu.be/zr_ZKX60N54?t=2594) · [51:23](https://youtu.be/zr_ZKX60N54?t=3083) · [53:57](https://youtu.be/zr_ZKX60N54?t=3237) · [59:05](https://youtu.be/zr_ZKX60N54?t=3545) · [1:10:17](https://youtu.be/zr_ZKX60N54?t=4217) · [1:21:26](https://youtu.be/zr_ZKX60N54?t=4886)
-

@@ -71,8 +71,6 @@ El ejemplo del canal es la democracia: un dispositivo cultural que funciona como
 
 Esta lectura conecta con la crítica del canal a los constructos modernos que ocupan el lugar del mito sin reclamar para sí esa categoría, hilo que también atraviesa [[mito-moderno-en-proxy]] y [[consumismo-critica]].
 
-
-
 ## Refinamiento: iconotropía de mito propio sigue siendo mito propio
 
 El canal añade en T5x15 (may-2026) una precisión operativa sobre el alcance de la distinción: una **iconotropía** —la torsión cultural por la que un símbolo se desplaza de su sentido original a uno distinto— **no transforma un mito propio en mito impropio**. La condición de propio/impropio se determina por la conciencia que el autor y el público tienen del carácter mítico de la construcción en su origen, no por los desplazamientos hermenéuticos posteriores que sufra. La pieza es decisiva para evitar deslizamientos clasificatorios: aunque Lilith haya sido iconotropizada culturalmente como figura feminista (caso documentado en [[lilit-mito]]), si su origen es mito propio (construcción mitográfica consciente), sigue siendo mito propio aunque su recepción contemporánea la lea como verdad histórica.
@@ -86,9 +84,6 @@ La precisión amplía además el catálogo de **mitos impropios** que el canal a
 → [T5x15 A problemas de IA, remedios humanos (1:33:13)](https://youtu.be/hZVL0GXPgSA?t=5593)
 
 Esto enlaza con [[amor-cortes-y-monogamia-civilizatoria]] como caso del amor romántico que el canal articula desde su forma mítica antropológica histórica — no como mito impropio sino como cristalización civilizatoria de un mito polar. La distinción importa: el amor romántico **contemporáneo** opera como mito impropio (idea idealizada asumida como criterio de éxito vital); el amor cortés **histórico-antropológico** opera como mito propio cristalizado en práctica civilizatoria. La felicidad como mito impropio queda pendiente de desarrollo por el canal en monográfico futuro, pero su nombramiento aquí completa la triada paradigmática de mitos impropios contemporáneos junto a democracia y amor romántico.
-
-
-
 
 ## La democracia como caso desarrollado de mito impropio
 
@@ -144,11 +139,9 @@ El cierre del análisis identifica el dispositivo defensivo que sostiene al mito
 
 La conexión con [[teocracia-agnostica-y-victimologia-institucional]] es estructural: ambos análisis describen el mismo aparato institucional desde ángulos complementarios. Allí el Estado contemporáneo sacraliza víctimas mediante personalidad jurídica y oráculo intermediario; aquí opera como mito impropio cuya apariencia de garantía institucional encubre la dependencia última de la voluntad del gobernante de turno.
 
-
 ## Por qué importa la distinción
 
 La propia/impropia no es taxonomía neutral: es **diagnóstico cultural**. Permite preguntar de cualquier producción simbólica si su autor (y su público) saben que están haciendo mito o creen que están haciendo otra cosa (ciencia, política, entretenimiento, sentido común). El canal usa esta vara para distinguir mitos modernos vivos —los que operan con conciencia de su densidad simbólica— de mitos modernos opacos, que ejercen efecto mítico sin que nadie lo nombre como tal.
-
 
 ## Definición materialista de mito y mecánica de la conspiración
 
@@ -170,7 +163,6 @@ La teoría de la conspiración es el caso clínico que el canal usa para ilumina
 
 Esta lectura empalma con la distinción propia/impropia: la conspiración funciona como variante operacional del mito impropio (relato no certificable asumido como verdad), pero con una diferencia significativa — la conspiración cumple su función cognitiva precisamente porque su autor y su público no la reconocen como construcción simplificadora, sino como descubrimiento de la verdad oculta. Es mito impropio en estado puro, donde la pretensión de develar coincide con la operación de eliminar.
 
-
 ## La autorreferencialidad de los mitos propios
 
 En el análisis del Génesis tolkieniano el canal añade una dimensión cognitiva a la distinción: los mitos propios funcionan estructuralmente como las representaciones mentales mismas — son autorreferenciales. Donde el mito impropio se presenta como verdad ya dada, el mito propio refleja la operación de la mente que genera ideas. "Hágase la luz" tiene la misma estructura que la síntesis representacional: paso del silencio al sentido, de lo no-articulado a lo articulado.
@@ -188,8 +180,6 @@ En el análisis del Génesis tolkieniano el canal añade una dimensión cognitiv
 → [el Génesis en Tolkien (Parte 1), 35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 
 Esto arroja luz sobre por qué los autores que construyen mitos propios — como [[lovecraft-howard]] y [[tolkien-jrr]] — pueden producir piezas con tanta potencia simbólica: están reproduciendo, en escala literaria, la dinámica básica de la cognición humana al generar sentido a partir del vacío representacional. La conexión enlaza esta página con el [[genesis-mitologico|Génesis arquetípico]] como concepto-bisagra entre mitología y representación mental.
-
-
 
 ## Refinamiento: la trichotomía propio literario / impropio / arquetípico
 
@@ -325,28 +315,9 @@ La articulación cierra el bucle marco: el mito arquetípico NO es ética en sí
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444)
-
 
 - **Análisis arquetípico La Bruja** — chunks: [13:30](https://youtu.be/rRlks0e0oxU?t=810) · [23:09](https://youtu.be/rRlks0e0oxU?t=1389) · [2:15:15](https://youtu.be/rRlks0e0oxU?t=8115)
 - **¿Es ciencia la psicología?** — chunks: [34:01](https://youtu.be/1cF9VayHtRI?t=2041)
@@ -357,4 +328,3 @@ La articulación cierra el bucle marco: el mito arquetípico NO es ética en sí
 - **¿Democracia?** — chunks: [1:05](https://youtu.be/WNR-gfv48mg?t=65)
 - **T5x15 A problemas de IA, remedios humanos** — chunks: [1:33:13](https://youtu.be/hZVL0GXPgSA?t=5593)
 - **T5x19: Realismo y mitología.** — chunks: [46:25](https://youtu.be/GDQSqtdFjBs?t=2785)
-

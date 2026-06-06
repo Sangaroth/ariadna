@@ -187,7 +187,6 @@ La lectura precisa el déficit del marco masculino que la película ofrece: ning
 
 La pieza completa el diagnóstico ya articulado en la página: la película no falla por ausencia de figura masculina sino por la imposibilidad estructural de que en este aparato cristalizado pueda emerger una. El [[hieros-gamos]] queda cancelado no porque el guion lo sustituya por el vínculo sororal — queda cancelado porque ninguna de las dos protagonistas puede reconocer al varón como interlocutor arquetípico, solo como tirano del que protegerse o niño con quien jugar.
 
-
 ## Lagunas
 
 - El tratamiento del [[mito-solar]] / [[mito-lunar]] como marcos posibles para leer las dos hermanas no se desarrolla — el canal opta por la lectura del doble psíquico
@@ -197,13 +196,7 @@ La pieza completa el diagnóstico ya articulado en la página: la película no f
 
 ## Citations
 
-
-
-
-
-
 - **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [57:48](https://youtu.be/NYZEm8mcPiQ?t=3468) · [58:48](https://youtu.be/NYZEm8mcPiQ?t=3528) · [1:14:27](https://youtu.be/NYZEm8mcPiQ?t=4467) · [1:24:03](https://youtu.be/NYZEm8mcPiQ?t=5043) · [1:31:05](https://youtu.be/NYZEm8mcPiQ?t=5465) · [2:13:35](https://youtu.be/NYZEm8mcPiQ?t=8015) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407) · [2:28:16](https://youtu.be/NYZEm8mcPiQ?t=8896)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:27:53](https://youtu.be/NjtK76xzV18?t=5273)
 - **Elon Musk, Riverss, Alien y chill** — chunks: [43:17](https://youtu.be/SeXIQBrgaSA?t=2597)
 - **Directo Navidad y Entrevista a Unicornio** — chunks: [36:45](https://youtu.be/PTgRsC-KwSs?t=2205) · [40:56](https://youtu.be/PTgRsC-KwSs?t=2456)
-

@@ -124,7 +124,4 @@ Son dos respuestas simétricas al mismo problema: ¿qué ocurre cuando la concie
 
 ## Citations
 
-
-
 - **Cuento contigo (resub)** — chunks: [35:53](https://youtu.be/6oOGKh2TRHE?t=2153)
-

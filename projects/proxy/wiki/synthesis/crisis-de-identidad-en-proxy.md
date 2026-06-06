@@ -129,7 +129,6 @@ La tesis incluye método operativo. El terapeuta no convence ni argumenta: funci
 
 > "El objetivo es que el paciente descubra su identidad real en el mapa de socialización,
 
-
 ## Las siete fases de la espiral de desocialización
 
 El monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] articula la trayectoria descendente granular que el sujeto recorre cuando la crisis de identidad no encuentra elaboración terapéutica. La página articulaba la dinámica del cuestionamiento del mapa preconsciente y la metodología del espejo y la caja negra; la pieza añade qué le ocurre al sujeto cuando ningún espejo opera y la caja negra permanece blindada.
@@ -175,8 +174,6 @@ La lectura inversa de la película articula la cara complementaria del cuadro qu
 El Doctor Phil consolidado tras 35 años de matrimonio recorre una secuencia inversa: pequeño fracaso (no salvar al anciano) → recuerdos perturbadores → depresión recurrente → pesadillas con suicidios → crisis psicóticas → pérdida de memoria → conductas erráticas → incapacidad de distinguir realidad de ficción → pérdida total de personalidad → expulsión social → internamiento → tareas sencillas → delirio terminal frente a una pantalla azul fingiendo dirigir el tiempo.
 
 La estructura formal coincide en sus fases terminales con la espiral de desocialización articulada arriba (pérdida de respeto, conductas erráticas, narcisismo del dolor) pero su mecánica es categorialmente distinta: en la espiral la regresión es por agotamiento del marco de sentido sobre aparato cognitivo intacto; en la modalidad orgánica el aparato cognitivo mismo se desorganiza y el marco de sentido se pierde por imposibilidad estructural de sostenerlo. La pieza completa el cuadro de la página con el caso límite donde la metodología del espejo y la caja negra deja de operar — no porque el paciente blinde la caja, sino porque la caja misma se desintegra. El terapeuta queda en posición de 'amigo que recuerda al hombre perfecto que fue pero que ya no existe', no de espejo. Esta articulación abre la dimensión paliativa-terminal del cuadro que la metodología activa de las secciones anteriores no contemplaba.
-
-
 
 ## Las siete fases de la espiral de desocialización
 
@@ -228,8 +225,6 @@ La estructura formal coincide en sus fases terminales con la espiral de desocial
 
 La fórmula clínica condensada — *meter la duda en la caja negra* — es la operación inversa a la del paciente: él blinda la zona donde reside la creencia identitaria conflictiva; el terapeuta abre una rendija sin forzarla, dejando que el propio paciente reconozca el desajuste de su mapa.
 
-
-
 ## La adolescencia como crisis de identidad PRIMARIA: Inside Out 2 como aparato articulador
 
 El monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula tres piezas operativas que la página tenía implícitas: la adolescencia como crisis fundamental, la identidad transitoria falsa como mecanismo de defensa, y la semilla mental insuficientista como cristalización del cuadro.
@@ -280,9 +275,6 @@ La pieza articula el mecanismo CULMINANTE del fracaso de la identidad transitori
 
 La pieza cierra el aparato con la modalidad de salida operativa: la INTEGRIDAD como aceptación de coexistencia entre rasgos aparentemente incompatibles del yo, no como construcción artificial de un yo coherente. La consecuencia diagnóstica es estructural: cuando la integración adolescente NO OCURRE, queda un trastorno de personalidad con deber ser erróneo INAMOVIBLE. Conexión con [[trastorno-limite-y-eutanasia-en-proxy]]: el TLP como caso operativo del trastorno donde la integración no ocurrió y la enredadera del deber ser quedó cristalizada.
 
-
-
-
 ## La adolescencia como crisis de identidad PRIMARIA: Inside Out 2 como aparato articulador
 
 El monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula tres piezas operativas que la página tenía implícitas: la adolescencia como crisis fundamental, la identidad transitoria falsa como mecanismo de defensa, y la semilla mental insuficientista como cristalización del cuadro.
@@ -332,7 +324,6 @@ La pieza articula el mecanismo CULMINANTE del fracaso de la identidad transitori
 → [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:18:47)](https://youtu.be/TmQiM16HIpU?t=8327)
 
 La pieza cierra el aparato con la modalidad de salida operativa: la INTEGRIDAD como aceptación de coexistencia entre rasgos aparentemente incompatibles del yo, no como construcción artificial de un yo coherente. La consecuencia diagnóstica es estructural: cuando la integración adolescente NO OCURRE, queda un trastorno de personalidad con deber ser erróneo INAMOVIBLE. Conexión con [[trastorno-limite-y-eutanasia-en-proxy]]: el TLP como caso operativo del trastorno donde la integración no ocurrió y la enredadera del deber ser quedó cristalizada.
-
 
 ## Conexiones con el corpus
 
@@ -351,21 +342,8 @@ La pieza cierra el aparato con la modalidad de salida operativa: la INTEGRIDAD c
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
 - **Psicología 101: Identidad y depresión.** — chunks: [1:55:40](https://youtu.be/mG-05eFJsCQ?t=6940) · [2:09:24](https://youtu.be/mG-05eFJsCQ?t=7764) · [2:20:01](https://youtu.be/mG-05eFJsCQ?t=8401) · [2:34:11](https://youtu.be/mG-05eFJsCQ?t=9251)
 - **Wokismo para Wokes.** — chunks: [1:02:29](https://youtu.be/Q83ieEVaF5I?t=3749)
-
 
 - **Análisis arquetípico Inside Out** — chunks: [43:24](https://youtu.be/V-ixEcJuLzw?t=2604) · [2:55:16](https://youtu.be/V-ixEcJuLzw?t=10516)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [1:23:50](https://youtu.be/yLd7j3fcR1w?t=5030)
@@ -373,4 +351,3 @@ La pieza cierra el aparato con la modalidad de salida operativa: la INTEGRIDAD c
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [16:16](https://youtu.be/TmQiM16HIpU?t=976) · [21:49](https://youtu.be/TmQiM16HIpU?t=1309) · [1:07:46](https://youtu.be/TmQiM16HIpU?t=4066)
 - **Magia, superstición y Religión** — chunks: [1:03:53](https://youtu.be/IbOb3peBSMs?t=3833)
 - **Taxonomía de la No transexualidad** — chunks: [2:00:46](https://youtu.be/3rYql6aTAsQ?t=7246)
-

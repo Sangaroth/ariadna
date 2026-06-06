@@ -131,6 +131,4 @@ El cuento forma parte de la sesión *Otoño de cuentos* dedicada a Lovecraft, ju
 
 ## Citations
 
-
 - **Otoño de cuentos. Lovecraft** — chunks: [1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)
-

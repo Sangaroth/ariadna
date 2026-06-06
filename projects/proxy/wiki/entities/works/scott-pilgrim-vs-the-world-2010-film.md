@@ -145,6 +145,4 @@ El grupo de la banda funciona como espejo coral del propio Scott: cada compañer
 
 ## Citations
 
-
 - **Análisis arquetípico Scott Pilgrim** — chunks: [0:30](https://youtu.be/X2c2a3mQBOs?t=30) · [26:25](https://youtu.be/X2c2a3mQBOs?t=1585)
-

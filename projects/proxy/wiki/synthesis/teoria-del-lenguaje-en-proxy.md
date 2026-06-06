@@ -174,7 +174,6 @@ El vídeo recorre el espacio teórico completo y ubica al canal en él:
 
 El autoposicionamiento explícito del canal —representacionalista, realista, cognitivista— lo sitúa en la línea Fodor-Chomsky antes que en el funcionalismo social de Halliday.
 
-
 ## Crítica aplicada al constructivismo neurocultural divulgativo
 
 El directo *La Mala Ciencia* aplica el marco representacionalista de esta página a una versión contemporánea del determinismo lingüístico-cultural: la tesis de que 'la cultura moldea el cerebro y los genes' promovida por divulgadoras antropológicas en redes sociales (caso paradigmático: Candelios Fang). La crítica del canal opera al mismo nivel metodológico que con la PNL, extendiendo ahora el marco al constructivismo cerebral/cultural.
@@ -214,8 +213,6 @@ La objeción metodológica es que el divulgador constructivista usa 'cultura' si
 
 La pieza completa la lectura que la página ya articula con la PNL: el determinismo lingüístico y el determinismo cultural son la misma operación retórica con vocabularios distintos, ambas invalidadas por el mismo triple problema (definir lenguaje/cultura, definir pensamiento, definir determinar) y por la misma evidencia de invariancia representacional transcultural. La crítica detallada de las referencias falseadas que el divulgador constructivista emplea — y la articulación del fenómeno como caso del modelo divulgativo psicoinfluencer — queda en [[psicoinfluencers-en-proxy]].
 
-
-
 ## Crítica aplicada al constructivismo neurocultural divulgativo
 
 El directo *La Mala Ciencia* aplica el marco representacionalista de esta página a una versión contemporánea del determinismo lingüístico-cultural: la tesis de que 'la cultura moldea el cerebro y los genes' promovida por divulgadoras antropológicas en redes sociales (caso paradigmático: Candelios Fang). La crítica del canal opera al mismo nivel metodológico que con la PNL, extendiendo ahora el marco al constructivismo cerebral/cultural.
@@ -254,7 +251,6 @@ La precisión del canal cierra la objeción al constructivismo en tres movimient
 La objeción metodológica es que el divulgador constructivista usa 'cultura' sin definirla, lo que permite atribuirle cualquier efecto cerebral observable. La definición antropológica clásica — herencia no biológica, distinción que se conoce desde el siglo XVIII — opera como demarcación necesaria: si la cultura es lo no biológico, la afirmación 'la cultura modifica los genes' pierde sentido porque traspasa la definición operativa misma del término.
 
 La pieza completa la lectura que la página ya articula con la PNL: el determinismo lingüístico y el determinismo cultural son la misma operación retórica con vocabularios distintos, ambas invalidadas por el mismo triple problema (definir lenguaje/cultura, definir pensamiento, definir determinar) y por la misma evidencia de invariancia representacional transcultural. La crítica detallada de las referencias falseadas que el divulgador constructivista emplea — y la articulación del fenómeno como caso del modelo divulgativo psicoinfluencer — queda en [[psicoinfluencers-en-proxy]].
-
 
 ## Mapa clínico: trastornos del lenguaje como argumento de disociación
 
@@ -333,7 +329,6 @@ La página articulaba la distinción categoría gramatical / categoría represen
 
 La generalización es operativa: el **arte** funciona como lenguaje no verbal — implementa la función lingüística (compresión + evocación de representaciones) usando código no gramatical. Una pintura, una pieza musical, una arquitectura ritual, comprimen contenido representacional complejo en un significante percibido y lo evocan en el receptor capacitado para decodificarlo. La metáfora opera en la frontera: usa gramática verbal pero ejecuta la función a través del registro poético (ver [[pensamiento-poetico]]) cuando la articulación formal se queda corta para representaciones afectivas. La pieza cierra una asimetría que la página dejaba implícita: la función lingüística no se identifica con el código verbal — el código verbal es solo una de sus implementaciones posibles, y existen culturas que codifican explícitamente representaciones (vía arte, gesto, ritual) que otras culturas no han comprimido en palabra.
 
-
 ## Lenguaje como función cognitiva innata vs idioma como código aprendido
 
 En el directo *Las piezas que faltan* (16 sept 2024) el canal precisa una distinción que la página articulaba implícitamente: **lenguaje** y **idioma** son dos categorías diferentes — la primera función cognitiva innata, la segunda código culturalmente aprendido.
@@ -378,9 +373,6 @@ La página articulaba la distinción categoría gramatical / categoría represen
 → [Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)
 
 La generalización es operativa: el **arte** funciona como lenguaje no verbal — implementa la función lingüística (compresión + evocación de representaciones) usando código no gramatical. Una pintura, una pieza musical, una arquitectura ritual, comprimen contenido representacional complejo en un significante percibido y lo evocan en el receptor capacitado para decodificarlo. La metáfora opera en la frontera: usa gramática verbal pero ejecuta la función a través del registro poético (ver [[pensamiento-poetico]]) cuando la articulación formal se queda corta para representaciones afectivas. La pieza cierra una asimetría que la página dejaba implícita: la función lingüística no se identifica con el código verbal — el código verbal es solo una de sus implementaciones posibles, y existen culturas que codifican explícitamente representaciones (vía arte, gesto, ritual) que otras culturas no han comprimido en palabra.
-
-
-
 
 ## Construcción de un lenguaje ideográfico paleolítico: el experimento del grimorio
 
@@ -520,10 +512,6 @@ El cierre del bloque cita a [[bueno-gustavo]] y su obra *El animal divino* como 
 
 ## Citations
 
-
-
-
 - video_id: `PWUUY7vVgUk` — El lenguaje no determina el pensamiento.
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [44:24](https://youtu.be/NjtK76xzV18?t=2664)
 - **Las piezas que faltan** — chunks: [1:06:47](https://youtu.be/DAW1HiYxnVk?t=4007)
-

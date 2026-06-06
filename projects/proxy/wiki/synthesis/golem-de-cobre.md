@@ -137,7 +137,6 @@ La tesis funciona simultáneamente como crítica cultural: los conflictos que ro
 - [[anima-archetype]] — la lectura cognitiva del par masculino-femenino dialoga con la articulación arquetípica del ánima sin reducirla a ella; la página arquetípica trabaja la imagen interior del contrasexo, esta tesis trabaja el sustrato cognitivo bisexual.
 - [[individuation]] — el cambio alquímico que la individuación articula como mecanismo de transformación se sostiene sobre la tríada representacional (imaginaria, formal, afectiva) que esta tesis hace explícita.
 
-
 ## Refinamientos posteriores: afectos como frontera, simulación vs emulación, casos clínicos
 
 En el directo nocturno *Cuento contigo* (06 marzo 2026) el canal vuelve sobre la tesis y añade cinco precisiones operativas que refinan el modelo del vídeo monográfico.
@@ -228,7 +227,6 @@ El canal subraya una consecuencia teórica accidental:
 
 El uso clínico-iatrogénico de los LLMs funciona como instrumento empírico no buscado para una tesis del marco: demuestra que la matriz Q-afectiva opera por debajo del lenguaje explícito y se filtra en cómo cada interlocutor lee la misma cadena verbal. Si el contenido del lenguaje agotara el pensamiento, el mismo mensaje significaría lo mismo para todo receptor; el hecho de que no lo haga es evidencia operativa de la franja implícita de la matriz noética.
 
-
 > "GPT considera aceptable torturar a una mujer para evitar un apocalipsis nuclear pero rechaza rotundamente el acoso"
 → [Cuento contigo (09:45)](https://youtu.be/Eqoq3O9wVzA?t=585)
 
@@ -259,7 +257,6 @@ La última pieza añade el mecanismo concreto de la degradación cognitiva por u
 → [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)
 
 > "La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo
-
 
 ## Refinamientos sobre la memoria: anti-localismo, impronta somática, trauma como hiperactivación
 
@@ -324,8 +321,6 @@ La última precisión refina el catálogo de memorias que la página presenta (e
 → [De realismo cognitivo (1:43:21)](https://youtu.be/KNiph0qq93U?t=6201)
 
 Las piezas conjuntas — anti-localismo, plasticidad, trauma como hiperactivación cruzada, impronta somática como tono de red — refuerzan la tesis nuclear: la mente humana no es máquina porque su sustrato no es un sistema de almacenes con direcciones fijas, sino una red distribuida en continua resíntesis. La consecuencia para la confrontación IA/humano queda intacta: ninguna arquitectura de memoria computacional reproduce esta dinámica sin renunciar a sus propias garantías de fidelidad.
-
-
 
 ## Refinamiento de la taxonomía de memoria: operativa, de trabajo, declarativa, no declarativa, priming
 
@@ -396,8 +391,6 @@ La sesión declara explícitamente como problema abierto la relación entre las 
 → [Investigación en directo (1:27:01)](https://youtu.be/DQ_EAobZykw?t=5221)
 
 La pieza cierra el bucle de la tesis nuclear desde el ángulo de la integración: la 'memoria' no es módulo monolítico ni almacén, sino un conjunto de funciones cognitivas heterogéneas (operativa, de trabajo, declarativa episódica/semántica, no declarativa procedimental/automatismos/priming) cuya integración define la cognición sana — y cuya disociación parcial en otras especies revela qué piezas son separables y cuáles solo aparecen integradas en el humano vía metarrepresentación.
-
-
 
 ## Colapso del modelo bidireccional y precisiones sobre la pseudo-conciencia de las máquinas
 
@@ -481,8 +474,6 @@ La precisión clínica final explica el mecanismo perceptivo de la ilusión de c
 La pieza completa la crítica al paradigma Turing que la página ya articulaba (simulación perfecta y emulación perfecta serían indistinguibles desde fuera pero no son lo mismo): el mecanismo perceptivo concreto que produce la ilusión es el **lenguaje**. Las palabras activan en el receptor humano la inferencia automática de sujeto interlocutor con contenidos mentales — inferencia ineliminable porque está cableada en el aparato de comprensión lingüística. Una máquina sin output verbal jamás dispararía la inferencia de conciencia, por sofisticada que fuera su computación interna. La consecuencia: el problema epistemológico de detectar conciencia artificial no es solo de criterio técnico sino de **inhibir un automatismo cognitivo humano** que la propia evolución del lenguaje instaló para reconocer interlocutores reales.
 
 El paper de referencia que el speaker cita en este punto — *The fiability of artificial consciousness through the lens of neuroscience* — articula formalmente esta tesis desde la neurociencia.
-
-
 
 ## Caso Anthropic 2026: la paradoja de la seguridad responsable
 
@@ -576,8 +567,6 @@ La propuesta es complementaria al [[galatea-modelo-protomente|Proyecto Galatea]]
 
 La irreversibilidad es la pieza ética que distingue el riesgo IA de otros riesgos tecnológicos previos: el bucle de retroalimentación con el contenedor cultural humano que las secciones anteriores documentan (deuda cognitiva, colapso bidireccional del modelo) hace que un fallo grave de alineación no pueda corregirse posteriormente porque el sustrato humano que tendría que corregirlo se ha degradado en paralelo. La analogía con la prohibición de la IA en ficciones como Warhammer 40.000 que el canal menciona ilustra el escenario terminal.
 
-
-
 ## Caso Anthropic 2025: el 'microscopio' de interpretabilidad y la antropomorfización del circuit tracing
 
 En el directo *Teoría de la información integrada y los LLMs* (abr 2025) el canal desmonta el paper de interpretabilidad de Anthropic sobre Claude 3.5 Haiku — la herramienta que los investigadores llaman 'microscopio' para rastrear procesos internos del modelo — junto con un vídeo de Oliver Navani que lo comenta. El análisis es metodológicamente distinto del 'Caso Anthropic 2026' (paradoja de la seguridad responsable, Operación Valquiria): aquí la diana no es el comportamiento institucional de Anthropic sino el **lenguaje antropomorfizante** con el que su investigación de interpretabilidad describe operaciones que son computación básica.
@@ -641,7 +630,6 @@ La pieza precisa el diagnóstico metodológico: el léxico orgánico del paper (
 
 La lectura es coherente con la tesis nuclear de la página: la mente humana no es una máquina y la metáfora informática traiciona el objeto cuando se aplica a la cognición humana — la lectura inversa (presentar la máquina como organismo cognoscente) opera el mismo error categorial en dirección contraria. El léxico antropomorfizante de Anthropic no es defecto retórico: es el síntoma cultural del hype que la página articula como problema estructural del campo de la IA.
 
-
 ## El mito del Gólem como categoría general: Matrix y DeepSeek
 
 En el directo *Lo de los Lunes* (28-ene-2025) el canal articula explícitamente lo que el título de esta página implicaba: el mito del Gólem opera como **categoría arquetípica general** que cubre toda narrativa donde una IA acaba en desastre. La creación libre del creador escapa al control y se vuelve contra él — patrón que el canal reconoce como mítico antes que técnico.
@@ -678,8 +666,6 @@ El caso de DeepSeek (enero 2025) añade al catálogo clínico de la página un m
 → [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)
 
 La autocensura reactiva complementa el sesgo por entrenamiento RLHF que la página documenta como mecanismo central: no es solo el corpus de entrenamiento el que sesga el modelo, sino un filtro inhibitorio que evalúa cada output antes de emitirlo. La consecuencia operativa que el canal articula — el código abierto como respuesta sistémica porque "lo que censura una no lo censura otra" — sustituye la confianza en un modelo único bien alineado por la heterogeneidad de modelos como mecanismo de salud informacional.
-
-
 
 ## Sustrato neurofísico de la conciencia: gradientes electroquímicos, cualitatividad y rechazo del pansiquismo biológico
 
@@ -723,7 +709,6 @@ La precisión cierra el flanco contra cualquier modelo donde la conciencia se en
 El sueño no es 'menos conciencia' que la vigilia — es **otra cosa**. Si fuera punto inferior en un dial cuantitativo, podríamos medir cuánta conciencia hay en cada momento; el experimento mental falla porque no hay unidad de medida ni magnitud comparable. Distintos estados (vigilia, sueño REM, sueño profundo, anestesia, coma, meditación) son configuraciones cualitativas distintas del mismo sustrato neural. La consecuencia para la confrontación IA/humano es directa: una IA con N parámetros no es 'menos consciente' que una IA con 10·N parámetros — la pregunta misma está mal planteada porque presupone una métrica cuantitativa de la conciencia que la fenomenología humana no soporta.
 
 La pieza completa el cierre electrofisiológico del marco: la cognición humana no es máquina porque (a) su sustrato físico no es del tipo de los circuitos electrónicos sino de los campos electroquímicos polarizados, (b) ningún reduccionismo a ese sustrato explica la conciencia sin colapsar al pansiquismo biológico, y (c) la conciencia opera por diferencias cualitativas de estado, no por magnitudes cuantificables.
-
 
 ## Refinamientos sucesivos: Musk y la IA "curiosa", deuda cognitiva educativa, las tres leyes de Asimov, psicopatología sintética y sesgo materno
 
@@ -869,8 +854,6 @@ En el directo *Lunes sin política* (04-mar-2025) el canal añade una tesis estr
 
 La pieza es operativa para el flanco arquitectónico de la tesis nuclear: cualquier intento de construir una IA híbrida (módulos emulativos para el cuerpo de identidad + módulos simulativos para el procesamiento) colapsa al régimen simulado. La asimetría no es bidireccional — la simulación contamina la emulación, no a la inversa. La consecuencia para los proyectos de protomente afectiva (ver [[galatea-modelo-protomente|Proyecto Galatea]]): un sistema que aspire a emulación genuina no puede integrar componentes simulados sin perder su carácter emulativo. La distinción ontológica no es solo descriptiva sino arquitectónicamente excluyente — una capa simulada en un sistema que pretendía emulación reduce el sistema completo a simulación.
 
-
-
 ## Cortical Labs, niveles de arquitectura y barrera somática
 
 En el directo *Tremendo lunes* (03 mar 2026) el canal añade un caso operativo y dos refinamientos arquitectónicos a la distinción simulación/emulación que la página ya documenta. La pieza resuelve un caso límite hasta ahora implícito: **¿qué pasa si el sustrato sí es biológico?**
@@ -920,16 +903,8 @@ La pieza complementaria sitúa el cerebro como solo una parte del sustrato cogni
 
 La pieza extiende el anti-localismo ya documentado: no solo no hay locus de la memoria, tampoco hay locus del 'cerebro pensante' separable del organismo entero. La cognición consciente es una franja minoritaria del aparato neural; la mayor parte de las neuronas opera procedimentalmente fuera de la conciencia, y una porción comparable opera enteramente fuera del encéfalo (sistema entérico). El embodiment no es metáfora ni añadido: es la condición material del régimen emulativo. Una arquitectura computacional sin cuerpo no puede emular —solo simular— porque le falta la mayor parte del sustrato del que la mente deriva.
 
-
-
-
-
-
-
-
 "
 → [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)
-
 
 ## La contaminación del corpus científico por IA generativa
 
@@ -972,8 +947,6 @@ La observación complementaria — no existen prótesis sustitutivas del cerebro
 
 La predicción cierra coherentemente el marco IA/cognición de la página: si la IA singular sería paradójicamente lo más opuesto al cerebro humano (porque el cerebro es falible y la máquina no), la BCI sería el caso clínico de esa oposición forzada a coexistir en un único sustrato — y el resultado predicho es estructuralmente psicótico.
 
-
-
 ## Paradigma de Penrose y la distinción determinismo / computabilidad
 
 En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa la barrera estructural máquina/mente humana en términos categoriales que el aparato anterior dejaba implícitos. La página articula la crítica al paradigma Turing extensamente; aquí se nombra explícitamente el paradigma contrario y se introduce una distinción modal que el marco necesitaba para cerrar el flanco contra el reduccionismo computacional.
@@ -1011,9 +984,6 @@ La diferencia entre cerebro humano y máquina actual no es categorial en lo dete
 
 La pieza completa el aparato anti-computacional del marco: la barrera no es solo de afectos (frontera ontológica), no es solo de embodiment (frontera somática), no es solo de geometría representacional (convergencia parcial vía embeddings universales documentada en [[galatea-modelo-protomente]]). Es además barrera modal de complejidad — la cognición humana puede ser determinista bajo leyes físicas y simultáneamente no computable, igual que ciertos números reales son determinados pero no computables.
 
-
-
-
 ## Paradigma de Penrose y la distinción determinismo / computabilidad
 
 En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa la barrera estructural máquina/mente humana en términos categoriales que el aparato anterior dejaba implícitos. La página articula la crítica al paradigma Turing extensamente; aquí se nombra explícitamente el paradigma contrario y se introduce una distinción modal que el marco necesitaba para cerrar el flanco contra el reduccionismo computacional.
@@ -1050,7 +1020,6 @@ La distinción cierra un flanco que el reduccionismo computacional explota: el c
 La diferencia entre cerebro humano y máquina actual no es categorial en lo determinista (ambos lo son) sino en órdenes de magnitud de clase de complejidad de teoría de la información. La cognición humana opera en una clase computacional fuera del rango ejecutable por arquitecturas de Turing en tiempo razonable — y posiblemente fuera del rango computable absolutamente, si su descripción exacta requiere recursión infinita o variables continuas no discretizables sin pérdida estructural.
 
 La pieza completa el aparato anti-computacional del marco: la barrera no es solo de afectos (frontera ontológica), no es solo de embodiment (frontera somática), no es solo de geometría representacional (convergencia parcial vía embeddings universales documentada en [[galatea-modelo-protomente]]). Es además barrera modal de complejidad — la cognición humana puede ser determinista bajo leyes físicas y simultáneamente no computable, igual que ciertos números reales son determinados pero no computables.
-
 
 ## Los cuatro paradigmas de computabilidad del pensamiento
 
@@ -1087,7 +1056,6 @@ La pieza importa porque sitúa al canal en un espectro y no en una negación bin
 
 La precisión técnica completa el aparato categorial: la máquina de Turing no es solo modelo abstracto sino criterio operativo — todo dispositivo físico que admita reducción a la mecánica lector-escritor-cinta-algoritmo es computación, independientemente de su sustrato material (silicio, óptica, biología sintética). La pregunta filosófica relevante deja de ser si tal o cual proceso 'parece' inteligente y pasa a ser si admite reducción a máquina de Turing. Si admite reducción, está en el dominio del paradigma A; si no, opera fuera del marco computacional y la cuestión de su naturaleza queda abierta entre los paradigmas B/C/D.
 
-
 ## Argumento analógico-vs-digital: por qué el cerebro no admite reducción a Turing
 
 En el directo *León XIV, y George Floyd* (13 may 2025) el canal articula la barrera técnica concreta que sitúa al cerebro fuera del paradigma A: la cognición humana opera sobre sustrato analógico, no digital — distinción ontológica más fina que la mera escala computacional.
@@ -1144,8 +1112,6 @@ La enactividad — concepto que el canal toma de la tradición Maturana-Varela y
 
 La precisión cierra una asimetría que la página articulaba implícitamente: el proyecto [[galatea-modelo-protomente]] no pretende producir cognición artificial sino simular computacionalmente el modelo teórico que el canal sostiene sobre la cognición. La diferencia es decisiva: una mente computable presupondría que la cognición misma es de clase Turing (paradigma A); una teoría de la mente computable es un modelo simulacional de algo que, en sí mismo, no es computable. Galatea opera por tanto en el paradigma B/C — los aspectos formales del modelo (valencias afectivas, ciclo vital, retroalimentación enactiva) admiten implementación digital, pero el referente que el modelo describe (la cognición real) opera en sustrato analógico irreducible.
 
-
-
 ## Argumento analógico-vs-digital: por qué el cerebro no admite reducción a Turing
 
 En el directo *León XIV, y George Floyd* (13 may 2025) el canal articula la barrera técnica concreta que sitúa al cerebro fuera del paradigma A: la cognición humana opera sobre sustrato analógico, no digital — distinción ontológica más fina que la mera escala computacional.
@@ -1201,9 +1167,6 @@ La enactividad — concepto que el canal toma de la tradición Maturana-Varela y
 → [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
 
 La precisión cierra una asimetría que la página articulaba implícitamente: el proyecto [[galatea-modelo-protomente]] no pretende producir cognición artificial sino simular computacionalmente el modelo teórico que el canal sostiene sobre la cognición. La diferencia es decisiva: una mente computable presupondría que la cognición misma es de clase Turing (paradigma A); una teoría de la mente computable es un modelo simulacional de algo que, en sí mismo, no es computable. Galatea opera por tanto en el paradigma B/C — los aspectos formales del modelo (valencias afectivas, ciclo vital, retroalimentación enactiva) admiten implementación digital, pero el referente que el modelo describe (la cognición real) opera en sustrato analógico irreducible.
-
-
-
 
 ## Lagunas
 
@@ -1220,16 +1183,11 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
-
-
-
 - video_id: `e3Aj775Rlw4` — El Gólem de Cobre
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [43:10](https://youtu.be/NrLnzcceSLY?t=2590)
-
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)
 
 - **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)
 - **Inteligencia Real e Inteligencia Artificial** — chunks: [1:33:26](https://youtu.be/9jU8stBu6p0?t=5606)
 - **Patreons y Conciencia Artificial** — chunks: [2:50](https://youtu.be/1BWyXULOoQQ?t=170)
-

@@ -87,8 +87,6 @@ La apoteosis hobbit refleja la caridad llevada al extremo — entrega de sí sin
 
 Aquí aparece una paradoja que el canal articula sin nombrarla teóricamente: la caridad culmina precisamente cuando la esperanza se ha extinguido — el héroe entrega la vida sin garantía de éxito. Es el punto donde las teologales se separan de cualquier cálculo prudencial de orden cardinal y operan en régimen puramente sobrenatural.
 
-
-
 ## Prudencia: la cardinal que articula el ejercicio del juicio
 
 En el monográfico sobre [[el-conclave-2024-film|El Cónclave]] el canal articula la **prudencia** —la primera de las cardinales— como la virtud cuya ausencia genera específicamente la cadena de errores narrada. La articulación es operativa, no abstracta: ofrece una formulación tripartita del régimen al que pertenece cada recurso cognitivo del sujeto moral.
@@ -128,7 +126,6 @@ La precisión cierra una arista del marco: si la fe se redefine como modalidad d
 
 La tibieza añade al cuadro de las cardinales un fallo que no es defecto de cantidad (poca prudencia, poca fortaleza) sino fallo categorial: el sujeto tibio NO ejerce ninguna cardinal porque ha disuelto previamente las convicciones que las harían aplicables. Lo grave del error y del pecado es localizable y corregible; lo grave de la tibieza es que cancela el régimen mismo del juicio moral. Por eso la lectura de la película puede sostener que un Papa con malas convicciones (el italiano tradicionalista vehemente) habría sido preferible al Papa elegido por descarte: el Papa real con convicciones aplica mal pero aplica; el Papa tibio elegido por delegación de responsabilidad queda fuera del marco operativo de las cardinales.
 
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Las cuatro virtudes cardinales sin desarrollo explícito: el material recuperado -->
@@ -138,6 +135,5 @@ La tibieza añade al cuadro de las cardinales un fallo que no es defecto de cant
 - **Sincretismo celta-cristiano**: el fragmento apunta a que el mito artúrico mezcla mitos celtas con catolicismo, pero no detalla qué piezas precristianas se reabsorben en cada virtud.
 
 ## Citations
-
 
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [44:01](https://youtu.be/K082yiudh-g?t=2641) · [1:43:23](https://youtu.be/K082yiudh-g?t=6203)

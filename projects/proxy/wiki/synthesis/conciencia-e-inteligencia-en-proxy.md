@@ -124,7 +124,6 @@ El corolario operativo de esta arquitectura es la tesis unificadora del directo:
 - **Tres componentes 3Q de toda representación**: afectiva, formal/gramatical, imaginaria — generan los tres tipos representacionales (procedimentales, semánticas, episódicas).
 - **Crítica al criterio «inteligencia = resolver problemas»**: «problema» es categoría AFECTIVA, no lógica; existe porque provoca angustia/miedo/necesidad. Una máquina no tiene problemas propios; un maníaco no ve problemas pero es inteligente.
 
-
 ### La habitación cerrada y el origen del nombre del canal
 
 En el directo *Tontas en Potencia* (sept-2024) el canal articula dos figuras que la página dejaba implícitas: la metáfora foundational con que el speaker explica la opacidad estructural de la conciencia ajena, y el origen genealógico del nombre 'Proxy' como materialización pedagógica del marco metarrepresentacional.
@@ -140,8 +139,6 @@ En el directo *Tontas en Potencia* (sept-2024) el canal articula dos figuras que
 
 La metáfora de la habitación cerrada articula el corolario fenomenológico de la posición HOT del canal: si la conciencia es jerarquía metarrepresentacional, el contenido subjetivo de otra mente no se puede inferir desde fuera porque no hay acceso al nivel meta — solo se ven las salidas (conducta, reporte verbal) sin el aparato que las produce. La opacidad no es contingente sino estructural. El nombre del canal materializa pedagógicamente esa estructura: un *proxy* informático es un meta-programa que adopta funciones de otros y los media; el muñeco-narrador opera como dispositivo retórico que encarna la operación metarrepresentacional misma — pensar sobre el pensar como condición de posibilidad de la conciencia.
 
-
-
 ### La habitación cerrada y el origen del nombre del canal
 
 En el directo *Tontas en Potencia* (sept-2024) el canal articula dos figuras que la página dejaba implícitas: la metáfora foundational con que el speaker explica la opacidad estructural de la conciencia ajena, y el origen genealógico del nombre 'Proxy' como materialización pedagógica del marco metarrepresentacional.
@@ -156,7 +153,6 @@ En el directo *Tontas en Potencia* (sept-2024) el canal articula dos figuras que
 → [Tontas en Potencia (1:34:45)](https://youtu.be/1cKAgkEEbMA?t=5685)
 
 La metáfora de la habitación cerrada articula el corolario fenomenológico de la posición HOT del canal: si la conciencia es jerarquía metarrepresentacional, el contenido subjetivo de otra mente no se puede inferir desde fuera porque no hay acceso al nivel meta — solo se ven las salidas (conducta, reporte verbal) sin el aparato que las produce. La opacidad no es contingente sino estructural. El nombre del canal materializa pedagógicamente esa estructura: un *proxy* informático es un meta-programa que adopta funciones de otros y los media; el muñeco-narrador opera como dispositivo retórico que encarna la operación metarrepresentacional misma — pensar sobre el pensar como condición de posibilidad de la conciencia.
-
 
 ### Tesis unificadora
 
@@ -180,7 +176,6 @@ La metáfora de la habitación cerrada articula el corolario fenomenológico de 
 - **Componentes explícitas vs no explícitas de la representación**: una duda puede tener afecto consciente de incompletitud sin gramática verbal aún articulada.
 - **Angustia como señal afectiva de incompletitud o incoherencia**: sabes que algo no encaja sin poder verbalizarlo; las preguntas que parecen genéricas pueden ser intuiciones sin lenguaje, no curiosidad.
 
-
 ## Turing fenomenológico vs Penrose simulacionista: dos criterios de IA filosóficamente desiguales
 
 En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal precisa una distinción que la sección 'Tipología de cuatro niveles de IA' englobaba en una sola etiqueta ('Nivel 2 — IA Penrose-Turing'): los dos criterios filosóficos tras esa etiqueta son **estructuralmente desiguales** y operan a profundidades distintas. La precisión es decisiva para determinar qué cuenta como inteligencia y por qué los LLM actuales no superan el umbral.
@@ -267,8 +262,6 @@ La pieza-cierre del directo articula la conexión entre el aparato de inteligenc
 
 La formulación cierra el aparato de la página por su flanco operacional: si conciencia e inteligencia son el mismo fenómeno, y la conciencia es apercibimiento de la matriz afectiva como objeto a modular, entonces inteligencia es ejecución de esa modulación — capacidad de optimizar cuándo cada afecto emerge y cuándo se inhibe. La pieza precisa por qué los LLM no son inteligentes: no tienen matriz afectiva que modular, y por tanto la operación que define inteligencia es categóricamente inejecutable por ellos. La definición es coherente con HOT — la modulación es metarrepresentacional, opera sobre los afectos como objetos, no como la actividad afectiva inmediata — y con la tesis 3Q — sin componente afectiva no hay matriz que modular. La conexión con [[algebra-afectiva]] es directa: el álgebra afectiva describe formalmente las operaciones disponibles para esa modulación.
 
-
-
 ## Turing fenomenológico vs Penrose simulacionista: dos criterios de IA filosóficamente desiguales
 
 En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal precisa una distinción que la sección 'Tipología de cuatro niveles de IA' englobaba en una sola etiqueta ('Nivel 2 — IA Penrose-Turing'): los dos criterios filosóficos tras esa etiqueta son **estructuralmente desiguales** y operan a profundidades distintas. La precisión es decisiva para determinar qué cuenta como inteligencia y por qué los LLM actuales no superan el umbral.
@@ -354,7 +347,6 @@ La pieza-cierre del directo articula la conexión entre el aparato de inteligenc
 → [Transhumanismo, IA y Ciencia Ficción. (1:34:45)](https://youtu.be/kdk8mi7-Y1s?t=5685)
 
 La formulación cierra el aparato de la página por su flanco operacional: si conciencia e inteligencia son el mismo fenómeno, y la conciencia es apercibimiento de la matriz afectiva como objeto a modular, entonces inteligencia es ejecución de esa modulación — capacidad de optimizar cuándo cada afecto emerge y cuándo se inhibe. La pieza precisa por qué los LLM no son inteligentes: no tienen matriz afectiva que modular, y por tanto la operación que define inteligencia es categóricamente inejecutable por ellos. La definición es coherente con HOT — la modulación es metarrepresentacional, opera sobre los afectos como objetos, no como la actividad afectiva inmediata — y con la tesis 3Q — sin componente afectiva no hay matriz que modular. La conexión con [[algebra-afectiva]] es directa: el álgebra afectiva describe formalmente las operaciones disponibles para esa modulación.
-
 
 ## Citas del vídeo
 

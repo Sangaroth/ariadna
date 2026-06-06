@@ -133,8 +133,6 @@ El debate del directo apunta a dos rutas para tramitar el rencor, abriendo el ci
 
 El arco completo del directo desarrolla la técnica de Exit del perdón racional separado del afecto, la cuestión del locus de culpa interno/externo como variable que define la vivencia del rencor, el origen infantil del rencor patológico, el doble bucle neurótico del rencor-sobre-rencor, la ira como alquimia terapéutica frente a la depresión y el riesgo opuesto de perdonar demasiado como camino a la depresión. La articulación con [[camino-victima]] queda implícita: el rencor sostenido sin tramitación se cristaliza como identidad de víctima.
 
-
-
 ## Anatomía del rencor: definición operativa precisa
 
 En el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la definición operativa del rencor que la página enunciaba como taxonomía pendiente de material literal. La fórmula cierra una de las lagunas declaradas (distinción precisa rencor/odio/ira):
@@ -192,9 +190,6 @@ La pieza complementaria corta otra confusión derivada del discurso anti-perdón
 
 La distinción operativa es categorial: perdonar (operación interna de desmontar el rencor) es independiente de permitir (operación externa de tolerar el comportamiento del ofensor). Ambas operaciones son ortogonales — se puede perdonar y simultáneamente cortar la relación, denunciar el delito, exigir reparación; o se puede aguantar la humillación sin perdonar (codependencia). La crítica al **empoderamiento postmoderno** articula la inversión categorial que el discurso pop feminista opera: pretende que la emoción dicte lo que ocurre fuera de uno (el rencor justifica el acto retaliatorio externo), cuando estructuralmente la emoción debería dictar lo que ocurre dentro (la operación interna de tramitación). La inversión convierte la emoción en justificación de la acción externa, lo que es la mecánica precisa del [[woke-narrativa-postmoderna-moral|sofisma estético postmoderno]] aplicada al campo afectivo.
 
-
-
-
 ## Anatomía del rencor: definición operativa precisa
 
 En el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la definición operativa del rencor que la página enunciaba como taxonomía pendiente de material literal. La fórmula cierra una de las lagunas declaradas (distinción precisa rencor/odio/ira):
@@ -251,7 +246,6 @@ La pieza complementaria corta otra confusión derivada del discurso anti-perdón
 → [El Hate Bombing de la izquierda (1:35:32)](https://youtu.be/DTP3syEtxP4?t=5732)
 
 La distinción operativa es categorial: perdonar (operación interna de desmontar el rencor) es independiente de permitir (operación externa de tolerar el comportamiento del ofensor). Ambas operaciones son ortogonales — se puede perdonar y simultáneamente cortar la relación, denunciar el delito, exigir reparación; o se puede aguantar la humillación sin perdonar (codependencia). La crítica al **empoderamiento postmoderno** articula la inversión categorial que el discurso pop feminista opera: pretende que la emoción dicte lo que ocurre fuera de uno (el rencor justifica el acto retaliatorio externo), cuando estructuralmente la emoción debería dictar lo que ocurre dentro (la operación interna de tramitación). La inversión convierte la emoción en justificación de la acción externa, lo que es la mecánica precisa del [[woke-narrativa-postmoderna-moral|sofisma estético postmoderno]] aplicada al campo afectivo.
-
 
 ## Lagunas
 

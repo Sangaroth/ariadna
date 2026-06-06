@@ -125,6 +125,4 @@ La elección del cónclave se lee no como acto de apertura sino como elección s
 
 ## Citations
 
-
 - **El Cónclave** — chunks: [17:20](https://youtu.be/faUVtOicasg?t=1040) · [27:25](https://youtu.be/faUVtOicasg?t=1645) · [49:08](https://youtu.be/faUVtOicasg?t=2948) · [1:13:02](https://youtu.be/faUVtOicasg?t=4382)
-

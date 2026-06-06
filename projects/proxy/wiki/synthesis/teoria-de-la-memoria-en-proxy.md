@@ -326,7 +326,6 @@ La página articulaba la oposición al psicoanálisis y al conductismo en plano 
 
 El criterio metodológico es **mínimo de framework**: una definición que solo opera dentro de las coordenadas teóricas que la generan no es definición filosófica sino tautología disfrazada — el lector externo no la entenderá porque reactivar el framework completo es la única vía de acceso a su significado. La definición filosófica genuina debe reducirse a la menor expresión ontológica posible, articulada en términos accesibles sin necesidad de adoptar previamente el sistema teórico que la produce. La consecuencia operativa para esta página es retroactiva: las definiciones que el canal propone (memoria como fenómeno noético de repetición de submatrices, memoria como función propia, memoria semántica como composición no-inferencial) se construyen para ser legibles fuera del realismo cognitivo, no para validarse solo dentro de él.
 
-
 ## La memoria como función propia, no capacidad
 
 En el directo *Laboratorio de teoría de la mente en biología* (22 ene 2026) el canal afina la categorización del fenómeno memorial con una distinción que la página articulaba implícitamente: memoria no es **capacidad** sino **función propia** (en sentido de Millikan).
@@ -394,8 +393,6 @@ La página articulaba la falibilidad memorial pero no desarmaba el sesgo de nega
 
 La precisión disocia dos preguntas que el folclore mezcla: cuán frecuentemente se re-instancia un recuerdo y cuánto satura el estado mental cuando se re-instancia. Las experiencias buenas se re-instancian constantemente pero quedan integradas en la matriz noética sin ocupar el primer plano fenomenológico — el sujeto no las "recuerda" porque están operando como sustrato continuo. Las experiencias malas, cuando se re-instancian, anulan más e impiden disfrutar lo demás — son fenomenológicamente salientes precisamente porque ocupan ancho de banda exclusivo. La pieza añade el principio explicativo: no es la valencia (positiva/negativa) lo que produce el efecto, es la **magnitud del cambio**. Un cambio positivo brusco (lotería) produce el mismo efecto de saturación que un trauma — todo lo anterior pierde significancia funcional. La memoria opera por contraste, no por valencia.
 
-
-
 ## La memoria como constituyente del tiempo: el argumento del cerebro en un tarro
 
 El monográfico sobre [[la-llegada-2016-film|La Llegada]] (abr 2024) articula una pieza foundational que la página tenía implícita: el TIEMPO no es una dimensión externa que la memoria registra — es una construcción CONSTITUIDA POR la memoria misma. Sin memoria, no hay percepción temporal; sin recuerdos ordenados, no hay relación de causalidad ni cognición humana posible.
@@ -421,7 +418,6 @@ La pieza articula tres niveles encadenados:
 → [Análisis: La Llegada (Parte dos) (10:09)](https://youtu.be/tOn66qFS2-M?t=609)
 
 La pieza añade un cierre cognitivo: la CAUSALIDAD que el sujeto experimenta NO es propiedad ontológica del mundo sino RELACIÓN DE ORDEN MATEMÁTICA derivada de la concatenación memorial de eventos. Sin memoria que ordena no hay causalidad subjetiva. La consecuencia para [[libre-albedrio-ilusion-funcional]] es directa: si la causalidad es output de la operación memorial, la sensación de agencia causal del sujeto sobre el mundo es función de su aparato memorial, no de operaciones causales reales sobre él. La articulación enlaza con el caso operativo de La Llegada: cuando Louise aprende un lenguaje atemporal (heptápodo) y deja de operar memoriamente lineal, la causalidad subjetiva colapsa y emerge un estado simultáneo donde pasado, presente y futuro coexisten.
-
 
 ## Memoria semántica: composición no-inferencial por clases de equivalencia
 
@@ -454,7 +450,6 @@ La página articulaba la oposición al psicoanálisis y al conductismo en plano 
 → [Laboratorio de teoría de la mente en biología (28:28)](https://youtu.be/i_mVTgnbwHA?t=1708)
 
 El criterio metodológico es **mínimo de framework**: una definición que solo opera dentro de las coordenadas teóricas que la generan no es definición filosófica sino tautología disfrazada — el lector externo no la entenderá porque reactivar el framework completo es la única vía de acceso a su significado. La definición filosófica genuina debe reducirse a la menor expresión ontológica posible, articulada en términos accesibles sin necesidad de adoptar previamente el sistema teórico que la produce. La consecuencia operativa para esta página es retroactiva: las definiciones que el canal propone (memoria como fenómeno noético de repetición de submatrices, memoria como función propia, memoria semántica como composición no-inferencial) se construyen para ser legibles fuera del realismo cognitivo, no para validarse solo dentro de él.
-
 
 ## Lagunas
 

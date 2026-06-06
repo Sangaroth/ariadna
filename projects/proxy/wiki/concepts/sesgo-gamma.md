@@ -113,6 +113,4 @@ El sesgo gamma es así, en lectura del canal, **el operador cognitivo subyacente
 
 ## Citations
 
-
 - **T5x04 De Héroes y Hombres** — chunks: [27:47](https://youtu.be/OLphDg-DL-0?t=1667) · [29:18](https://youtu.be/OLphDg-DL-0?t=1758)
-

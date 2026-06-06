@@ -82,7 +82,6 @@ La formulación más contundente del canal compacta el mecanismo en una serie de
 
 El patrón es siempre el mismo: el acto sustantivo (revolución, antirracismo) se sustituye por su estética (performance, racismo estético — agrupar y juzgar a las personas por sus categorías raciales con intención "buena"). El sofisma no es solo error individual: es un dispositivo cultural que se transmite y se inocula.
 
-
 ## Feminismo como caso paradigmático: identificación proyectiva como motor del sofisma colectivo
 
 En el directo *Tontas en Potencia* (sept-2024) el canal aplica el aparato del sofisma estético al feminismo contemporáneo como caso paradigmático y articula el motor psíquico que sostiene la operación a escala colectiva: la identificación proyectiva como mecanismo de defensa que fabrica enemigos exteriores.
@@ -103,8 +102,6 @@ La pieza añade dos articulaciones operativas. Primera: una formulación más pr
 
 La consecuencia diagnóstica es operativa: el sofisma estético colectivo no se desactiva con argumento porque su función no es persuadir sino sostener la posición psíquica que lo produce. Quien argumenta filosófica o empíricamente contra el feminismo postmoderno entra automáticamente en el rol del enemigo digno que la identificación proyectiva necesita — la objeción confirma la estructura. Esto enlaza con la analogía del daltonismo articulada en [[woke-narrativa-postmoderna-moral]]: el dispositivo es no-introspectable desde dentro porque su función defensiva exige no reconocerse como defensa.
 
-
-
 ## Sofisma estético terminológico: la jerga inventada que suena técnica
 
 El directo *La Mala Ciencia* extiende el sofisma estético al plano del vocabulario especializado. La operación rebasa la falacia de la claridad (palabras simples que aparentan profundidad) y opera ahora por **inflación terminológica**: palabras inventadas que pasan por jerga técnica:
@@ -118,9 +115,6 @@ El directo *La Mala Ciencia* extiende el sofisma estético al plano del vocabula
 → [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)
 
 La crítica articulada en [[psicoinfluencers-en-proxy]] integra este caso como variante neurocultural-constructivista del mismo dispositivo: el sofisma estético opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con vocabulario que aparenta especialización sin tenerla, encaja en la tipología sea cual sea su signo. La pieza añade así una segunda dimensión al concepto: además del sofisma sobre VALORES (palabras morales sin conducta), hay sofisma sobre PRECISIÓN (palabras técnicas sin referente disciplinar real).
-
-
-
 
 ## Poética vs filosofía: la operación postmoderna que sostiene el sofisma
 
@@ -153,8 +147,6 @@ El test de la falsabilidad operativa que el canal aplica: si la categoría 'meca
 
 La articulación encaja con la lectura de [[woke-narrativa-postmoderna-moral]] y refuerza el diagnóstico previo de la página: el dispositivo cultural que el sofisma inocula opera porque el plano de la racionalización poética ha sustituido al plano del argumento filosófico en la educación pública contemporánea.
 
-
-
 ## Feminismo como caso paradigmático: identificación proyectiva como motor del sofisma colectivo
 
 En el directo *Tontas en Potencia* (sept-2024) el canal aplica el aparato del sofisma estético al feminismo contemporáneo como caso paradigmático y articula el motor psíquico que sostiene la operación a escala colectiva: la identificación proyectiva como mecanismo de defensa que fabrica enemigos exteriores.
@@ -175,8 +167,6 @@ La pieza añade dos articulaciones operativas. Primera: una formulación más pr
 
 La consecuencia diagnóstica es operativa: el sofisma estético colectivo no se desactiva con argumento porque su función no es persuadir sino sostener la posición psíquica que lo produce. Quien argumenta filosófica o empíricamente contra el feminismo postmoderno entra automáticamente en el rol del enemigo digno que la identificación proyectiva necesita — la objeción confirma la estructura. Esto enlaza con la analogía del daltonismo articulada en [[woke-narrativa-postmoderna-moral]]: el dispositivo es no-introspectable desde dentro porque su función defensiva exige no reconocerse como defensa.
 
-
-
 ## Sofisma estético terminológico: la jerga inventada que suena técnica
 
 El directo *La Mala Ciencia* extiende el sofisma estético al plano del vocabulario especializado. La operación rebasa la falacia de la claridad (palabras simples que aparentan profundidad) y opera ahora por **inflación terminológica**: palabras inventadas que pasan por jerga técnica:
@@ -191,7 +181,6 @@ El directo *La Mala Ciencia* extiende el sofisma estético al plano del vocabula
 
 La crítica articulada en [[psicoinfluencers-en-proxy]] integra este caso como variante neurocultural-constructivista del mismo dispositivo: el sofisma estético opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con vocabulario que aparenta especialización sin tenerla, encaja en la tipología sea cual sea su signo. La pieza añade así una segunda dimensión al concepto: además del sofisma sobre VALORES (palabras morales sin conducta), hay sofisma sobre PRECISIÓN (palabras técnicas sin referente disciplinar real).
 
-
 ## Articulación con el woke como narrativa postmoderna
 
 En el mismo bloque de directo el canal define woke como "narrativa postmoderna aplicada al ámbito moral en la creación cultural". El sofisma estético es el **mecanismo individual** que el woke generaliza al plano cultural: el woke es el sistema, el sofisma es la operación elemental que lo hace funcionar persona a persona. De ahí la analogía del daltonismo que el canal aplica al woke — quien opera bajo sofisma estético no puede demostrarse a sí mismo que lo hace, porque el criterio para detectarlo (la conducta vs. el enunciado) ha sido neutralizado de antemano.
@@ -204,46 +193,6 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **Salida del sofisma**: qué condiciones permitirían a una cultura o a un individuo recuperar la cadena entre valor enunciado y conducta demostrada. El corpus diagnostica pero aún no prescribe.
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
@@ -264,4 +213,3 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [14:33](https://youtu.be/hqXmKZ77TEQ?t=873)
-

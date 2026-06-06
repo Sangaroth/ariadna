@@ -152,8 +152,6 @@ La vulnerabilidad de un fenómeno a la sugestión no demuestra que el fenómeno 
 
 La crítica no es solo metodológica: el speaker lee el caso como manifestación contemporánea del cuadro narcisista de la divulgadora salvífica que ofrece un atajo cognitivo —"todo es conducta, todo es refuerzo"— a cambio de adhesión a su autoridad. Conecta así con [[herida-narcisista-en-proxy]] y con la posición que el [[diagrama-de-proxy]] asignaría al fundamentalismo moral con jerarquía aplanada propio del influencer pseudoterapéutico.
 
-
-
 ## El conductismo como sistema autorreferente axiomático: la crítica fundacional
 
 En el directo *Último Stream del Año* (31 dic 2025) el canal añade a la crítica metodológica al conductismo divulgativo una objeción filosófica más profunda: el conductismo, leído no ya como práctica divulgativa imprecisa sino como **sistema teórico**, colapsa por autocircularidad axiomática. La pieza eleva la crítica del plano operativo (términos sin definir, dicotomías falsas, hombre de paja) al plano fundacional (incoherencia estructural del axioma conductista mismo).
@@ -186,14 +184,10 @@ La pieza extiende la crítica al borrado nominal del diagnóstico que la página
 
 El cierre es lógico-estructural y no admite tercera vía operativa: cualquier sistema cuyo axioma se aplique reflexivamente a sí mismo (autorreferente) y pretenda fundación última (axiomático) cae en una de dos posiciones — o el axioma es factualmente falso (y el sistema entero pierde base), o es verdadero pero genera contradicciones internas inelimnables (paradoja del barbero, etc.). La pieza no es ataque ad hoc al conductismo divulgativo sino **diagnóstico filosófico de su forma sistémica**: cualquier sistema con esa estructura tiene la misma vulnerabilidad. La consecuencia metodológica es restrictiva: el conductismo solo puede sostenerse pragmáticamente como herramienta operativa de modificación conductual en contextos acotados — no como teoría fundacional de la mente.
 
-
-
 La articulación foundational de esta crítica filosófica al conductismo —cuyas piezas reproducidas en esta sección proceden del directo de diciembre 2025 *Último Stream del Año*— tiene su monográfico canónico previo en [[conductismo-como-sofisma|*Psicología 101: Conductismo, sofisma y filosofía*]] (abr 2025). Allí el canal articula el aparato filosófico completo del que esta página recoge fragmentos aplicados a los psicoinfluencers: la categoría **sofisma** importada del materialismo filosófico de [[bueno-gustavo]] (apariencia de filosofía sin referente real), la distinción operativa entre giro semántico y sofisma, los **cuatro fallos del conductismo como sistema** enumerados explícitamente (mitológico por prescindir de la psique, sincategoremático en sus términos, ni filosofía ni ciencia, definición insuficiente para distinguir virus de bacteria de persona de ordenador), la **rehabilitación positiva de Freud** como primer filósofo de una psique susceptible de enfermar dentro de un cuerpo sano (frente al conductismo que 'hace lo mismo que Freud pero peor y con más petulancia'), la **desmitificación histórica de Skinner** (condicionamiento como práctica existe desde la doma de caballos; Skinner solo formalizó que los patrones seguían reglas estandarizadas), y la importación del concepto **función propia** de Ruth Garrett Millikan al [[realismo-cognitivo]]. La página dedicada captura el plano filosófico-sistémico; esta página captura su manifestación divulgativa contemporánea (Froxan, Lidia Viñuela / Think Healthy, Candelios Fang).
-
 
 La pieza cierra una laguna implícita de la página: la crítica a la divulgación conductista quedaba en plano metodológico-operativo (qué hace mal el divulgador en concreto); este vídeo le añade el plano filosófico-estructural (por qué la forma misma del sistema no puede tener éxito como teoría de la mente, independientemente de quién lo divulgue y cómo).
 
-
 ## Caso paralelo: la divulgación pseudocientífica constructivista (Candelios Fang)
 
 El directo monográfico *La Mala Ciencia* (~104 min) extiende el marco de esta página al **eje constructivista** de la divulgación pseudocientífica — una axis estructuralmente paralela a la del conductismo divulgativo (Lidia Viñuela / Think Healthy) pero ideológicamente opuesta. El caso es Candelios Fang ('Tu antropóloga de confianza', ~300 000 seguidores en Instagram), antropóloga divulgadora cuya tesis recurrente es que la cultura 'moldea el cerebro y los genes' en sentido fuerte. La crítica del canal opera en el mismo nivel metodológico que con el conductismo divulgativo, ahora aplicada al constructivismo neurocultural.
@@ -254,8 +248,6 @@ El cierre articula una posición editorial del canal: la crítica al psicoinflue
 
 Aunque el divulgador concreto cambia (Viñuela / conductismo / antipsiquiatría difusa → Candelios / constructivismo / neurosexismo) y la posición ideológica se invierte, la **estructura del fallo divulgativo es la misma**: simplificación que se vende como claridad, términos sin definir que aparentan precisión, referencias bibliográficas usadas como signo de autoridad sin verificación de su contenido, hombre de paja contra las posiciones rivales. La crítica del canal a los psicoinfluencers no es por tanto crítica a una corriente psicológica concreta sino a un **modelo de divulgación** que opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con aparato científico falsificado, encaja en la tipología sea cual sea su signo político.
 
-
-
 ## Caso paralelo: la divulgación pseudocientífica constructivista (Candelios Fang)
 
 El directo monográfico *La Mala Ciencia* (~104 min) extiende el marco de esta página al **eje constructivista** de la divulgación pseudocientífica — una axis estructuralmente paralela a la del conductismo divulgativo (Lidia Viñuela / Think Healthy) pero ideológicamente opuesta. El caso es Candelios Fang ('Tu antropóloga de confianza', ~300 000 seguidores en Instagram), antropóloga divulgadora cuya tesis recurrente es que la cultura 'moldea el cerebro y los genes' en sentido fuerte. La crítica del canal opera en el mismo nivel metodológico que con el conductismo divulgativo, ahora aplicada al constructivismo neurocultural.
@@ -315,8 +307,6 @@ El cierre articula una posición editorial del canal: la crítica al psicoinflue
 ### Convergencia con la crítica al conductismo divulgativo
 
 Aunque el divulgador concreto cambia (Viñuela / conductismo / antipsiquiatría difusa → Candelios / constructivismo / neurosexismo) y la posición ideológica se invierte, la **estructura del fallo divulgativo es la misma**: simplificación que se vende como claridad, términos sin definir que aparentan precisión, referencias bibliográficas usadas como signo de autoridad sin verificación de su contenido, hombre de paja contra las posiciones rivales. La crítica del canal a los psicoinfluencers no es por tanto crítica a una corriente psicológica concreta sino a un **modelo de divulgación** que opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con aparato científico falsificado, encaja en la tipología sea cual sea su signo político.
-
-
 
 ## Lagunas
 
@@ -327,6 +317,4 @@ Aunque el divulgador concreto cambia (Viñuela / conductismo / antipsiquiatría 
 
 ## Citations
 
-
 - **Psicoinfluencers** — chunks: [10:54](https://youtu.be/frbMVcThuRw?t=654)
-

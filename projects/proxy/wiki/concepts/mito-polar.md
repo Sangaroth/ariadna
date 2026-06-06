@@ -61,7 +61,6 @@ Esta tesis posiciona al mito polar como la **única estructura mitológica genui
 
 Por eso el canal lo trata como mito de **transición histórica**: las grandes obras del corpus que articulan cambio real (Matrix, Tolkien, Alien) son lecturas polares.
 
-
 ### El mito católico como sustitución de lo lunar
 
 En la lectura comparada de Excalibur y El Señor de los Anillos, el canal añade un movimiento histórico-teológico al esquema solar/lunar/polar: el mito católico se construye estructuralmente como solución a las trampas de lo lunar.
@@ -70,7 +69,6 @@ En la lectura comparada de Excalibur y El Señor de los Anillos, el canal añade
 → [Excalibur, El Señor de los Anillos, y el mito Católico. (29:22)](https://youtu.be/K082yiudh-g?t=1762)
 
 La magia opera como atajo lunar (poder concedido por la sabiduría inconsciente sin haber atravesado la prueba); el catolicismo civilizatorio sustituye ese atajo por la disciplina solar de las virtudes y la conjunción polar diferida (matrimonio sagrado, sacrificio, Grial). El sincretismo celta-cristiano que estructura el mito artúrico es para el canal el caso más limpio de esta operación: lo lunar pagano queda integrado pero subordinado al armazón solar-polar católico.
-
 
 ## Lugar dentro de la tipología de mitos primarios
 
@@ -102,8 +100,6 @@ Aclaración insistente del canal — la polaridad NO es esencialismo biológico:
 
 Esta aclaración entronca con la página de [[anima-archetype]]: la polaridad es un eje cognitivo presente en toda psique, no un mapa de roles sexuales.
 
-
-
 ### Aplicación al aparato psíquico individual: consciente solar, inconsciente lunar
 
 El canal extiende en directo la cosmogonía polar al aparato psíquico individual mediante un mapping operativo que prolonga la triada solar/lunar/polar al eje consciente/inconsciente:
@@ -115,9 +111,6 @@ El canal extiende en directo la cosmogonía polar al aparato psíquico individua
 → [Directo casual (29:23)](https://youtu.be/ECN5C9rsaZg?t=1763)
 
 La operación traduce la cosmogonía polar a clave psicológica individual: lo activo/voluntario opera bajo régimen solar-masculino, lo que ocurre sin agencia consciente bajo régimen lunar-femenino. La pieza permite leer arquetipos del lado oscuro del inconsciente (Lilit como luna negra, formas de anhelo sin objeto, ansiedades sin causa identificable) como manifestaciones del polo lunar dentro del psiquismo individual, no como cosmogonías externas. La cosmogonía polar deja de ser solo mapa de mitos y pasa a ser mapa funcional del aparato psíquico cotidiano.
-
-
-
 
 ## Gramática arquetípica: verbos transitivos vs intransitivos
 
@@ -168,9 +161,6 @@ La mecánica del polar invertido descansa sobre un mecanismo recursivo que el mo
 
 La cadena articula la mecánica generativa del polar invertido: cada eslabón de la creación introduce un grado adicional de autonomía, y por la paradoja del [[golem-arquetipo]] ('cuanto más libre, más se aleja de los planes iniciales'), cada eslabón es estructuralmente más imperfecto que el anterior. La consecuencia narrativa: el último eslabón devora las entrañas del primero — el alien devora a la humanidad, la corporación devora a la naturaleza, los dioses-malignos devoran al cosmos. La cadena fractal cierra el aparato del mito polar con su contraparte oscura: donde el polar transformador cierra el ciclo en el hieros gamos ascendente, el polar invertido cierra el ciclo en la devoración descendente.
 
-
-
-
 ### Aplicación al aparato psíquico individual: consciente solar, inconsciente lunar
 
 El canal extiende en directo la cosmogonía polar al aparato psíquico individual mediante un mapping operativo que prolonga la triada solar/lunar/polar al eje consciente/inconsciente:
@@ -182,7 +172,6 @@ El canal extiende en directo la cosmogonía polar al aparato psíquico individua
 → [Directo casual (29:23)](https://youtu.be/ECN5C9rsaZg?t=1763)
 
 La operación traduce la cosmogonía polar a clave psicológica individual: lo activo/voluntario opera bajo régimen solar-masculino, lo que ocurre sin agencia consciente bajo régimen lunar-femenino. La pieza permite leer arquetipos del lado oscuro del inconsciente (Lilit como luna negra, formas de anhelo sin objeto, ansiedades sin causa identificable) como manifestaciones del polo lunar dentro del psiquismo individual, no como cosmogonías externas. La cosmogonía polar deja de ser solo mapa de mitos y pasa a ser mapa funcional del aparato psíquico cotidiano.
-
 
 ## Aplicaciones canónicas en el corpus
 
@@ -226,8 +215,6 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 - Forma triada con [[mito-solar]] y [[mito-lunar]] como las tres estructuras mitológicas primarias del eje sexual cosmológico
 - En el plano contemporáneo, su lectura más recurrente del canal pasa por [[fight-club-1999-film]] (consumismo polar fallido), Matrix (mito polar tecnológico) y Tolkien (mito polar cosmogónico)
 
-
-
 ### El polar oscuro: Unicorn Wars como cosmogonía polar fallida
 
 El análisis arquetípico de [[unicorn-wars-2022-film|Unicorn Wars]] articula la versión inversa del polar transformador: una cosmogonía polar **en clave oscura** donde la conjunción de lo masculino y lo femenino no produce un tercer ascendente sino una abominación venenosa. Lo azul (masculino) y lo rosa (femenino) se juntan al beber la sangre del último unicornio, pero como alma negra y sangre roja — una mala integración que engendra al hombre como resultado venenoso. La película no afirma que el hombre sea el mal absoluto: afirma que existe una posibilidad estructural — la mala conjunción polar — que lo convierte en ello.
@@ -239,7 +226,6 @@ El análisis arquetípico de [[unicorn-wars-2022-film|Unicorn Wars]] articula la
 → [Análisis arquetípico de Unicorn wars (00:00)](https://youtu.be/fLfEbHPJNmU?t=0)
 
 La pieza completa el catálogo de polares del corpus añadiendo el caso paradigmático de **polar fallido**: donde Tolkien y Matrix articulan la conjunción transformadora, Unicorn Wars articula la conjunción venenosa.
-
 
 ## Aparato técnico del libro Polaris: arquetipo como eigenvector y cinco dimensiones semióticas
 
@@ -281,8 +267,6 @@ Las cinco dimensiones funcionan como gate operativo de validación arquetípica.
 
 La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: estructuras cognitivas, no biología' añadiendo precisión sobre el contenido específico de cada polo cognitivo: lo masculino opera con ideas concretas, objetos y explícitos; lo femenino con presupuestos, memoria afectiva e interrelaciones implícitas. La distinción no es esencialista pero sí es asimétrica estadísticamente — los hombres tienden al polo masculino arquetípico y las mujeres al femenino, sin que ello impida la coexistencia parcial de ambos polos en cada psique. Esta articulación enlaza con el aparato Q de [[teoria-del-simbolo-en-proxy]]: la perspectiva masculina opera dominantemente con Q sub-f (formal, lo explícito) mientras la femenina opera dominantemente con Q sub-i (imaginario interrelacionado) y Q sub-a (memoria afectiva).
 
-
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Mito polar negativo o fallido -->
@@ -295,52 +279,11 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
 - **Último Stream del Año** — chunks: [23:39](https://youtu.be/SSa1pF9Bw6U?t=1419)
 - **Análisis arquetípico de Unicorn wars** — chunks: [1:51:20](https://youtu.be/fLfEbHPJNmU?t=6680)
-
 
 - **Análisis arquetípico: Excalibur** — chunks: [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)
@@ -360,4 +303,3 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 - **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57)
 - **Femenino (I)** — chunks: [9:35](https://youtu.be/VR3snBjNrsc?t=575)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
-

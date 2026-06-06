@@ -96,8 +96,6 @@ status: stub_in_session
 
 El canal articula tres figuras míticas — Lilith, Lucifer y Hermes Trismegisto — como **tres modalidades de iconotropía motivadas por la rabia narcisista**.
 
-
-
 ### Bafomet como iconotropía del s. XVII-XVIII
 
 En *Del origen del mal (III): La fe y los demonios* el canal añade una cuarta iconotropía a la serie, esta vez sin ancla bíblica directa: Bafomet como invención moderna deliberada de Eliphas Lévi para sustentar su doctrina de «alta magia».
@@ -140,8 +138,6 @@ La síntesis foundational del canal cierra el ciclo conectando estas tres modali
 - **Lógica del no-servicio**: Lucifer no elige de quién ser sirviente — dice que no quiere servir a nada, salvo que otros sean sirvientes suyos. La rebeldía masculina narcisista se autoexime de toda relación de servidumbre excepto la inversa.
 - **Distinción demonológica frecuentemente colapsada**: Lucifer NO es Satanás. Son figuras bíblicamente distintas; la confusión es endémica incluso entre católicos porque la demonología no se enseña en catequesis. El opositor bíblico es Satanás; Lucifer es la figura del lucero caído.
 
-
-
 #### Desarrollo monográfico de la triple distinción Lucifer / Satanás / Serpiente
 
 El directo *Eva, Lucifer, Satanás y la Serpiente* (oct-2024) extiende la distinción demonológica anunciada al final de la capa Lucifer convirtiéndola en sistema teológico de tres figuras irreductibles. Lucifer es el primer ángel caído cuyo pecado es vanidad — no orgullo, no narcisismo en sentido fuerte — y representa 'la excisión del mal' que después 'no vuelve a aparecer en el resto de la Biblia':
@@ -163,7 +159,6 @@ La distinción frente a Satanás se articula tipológicamente con vocabulario na
 La pieza añade un corolario operativo sobre la economía interna de los siete pecados capitales que recalibra la lectura habitual del canal sobre la rabia narcisista: 'el orgullo no es la raíz de todo mal; los siete pecados capitales son siete orígenes diferentes'. La iconotropía luciferina no es por tanto la matriz universal del pecado sino la modalidad **vanidad** de la herida narcisista, distinta tanto del **orgullo** como de la **tibieza** moral con la que el canal articula el pecado original de Adán y Eva ([[tibieza-moral-pecado-original]]).
 
 La lectura confronta también la genealogía miltoniana ya invocada en el bloque Lucifer: Milton 'intercambió a Satanás, Lucifer y la serpiente' produciendo la confusión teológica endémica, y proyectó sobre Eva el pecado de Lucifer (ego/envidia) cuando lo que la Biblia atribuye a Eva es una operación distinta — flexibilizar el mandato, no rivalizar con Dios.
-
 
 ### Capa 5 — Iconotropía 3: Hermes Trismegisto (modalidad infantil-mago)
 

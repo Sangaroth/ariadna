@@ -72,8 +72,6 @@ La secuencia operativa que el canal sugiere:
 - **Estereotipo**: rasgos simplificados pero todavía mediados por la ficción
 - **Autotipo**: el nombre y el rasgo coinciden — desaparece la mediación
 
-
-
 ## La cadena articulada con casos paradigmáticos: Hércules / Super López / Capitana Marvel
 
 El monográfico *Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos* (nov-2024) articula la cadena de cuatro categorías con casos paradigmáticos que la página presupone sin nombrar:
@@ -117,9 +115,6 @@ La pieza extiende el alcance del concepto autotipo del plano onomástico (los no
 
 La precisión completa la página añadiendo el caso paradigmático cosmológico al catálogo de los casos onomásticos (Harry Potter), arquetípicos invertidos (Voldemort como inversión luciferina autotípica) y New Age (Lilit moderna, Hermes Trismegisto). La autotipia opera transversalmente al material — onomástica, doctrinal, metafísica, mítica — siempre que el significante se preserve estéticamente vaciando el referente psíquico operativo.
 
-
-
-
 ## La cadena articulada con casos paradigmáticos: Hércules / Super López / Capitana Marvel
 
 El monográfico *Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos* (nov-2024) articula la cadena de cuatro categorías con casos paradigmáticos que la página presupone sin nombrar:
@@ -162,7 +157,6 @@ El mismo monográfico aplica la categoría autotipo más allá del personaje ind
 La pieza extiende el alcance del concepto autotipo del plano onomástico (los nombres de Harry Potter como autotipia pura) al **plano cosmológico-doctrinal**: una metafísica de obra puede ser autotípica si sus categorías centrales operan como amalgama estético de referentes místicos diversos (taoísmo + hinduismo + zen) sin dar contenido operativo a ninguna. 'Devolver el equilibrio a la Fuerza' es la frase paradigmática — opera con estética de gesta heroica pero sin definir qué sería el equilibrio, qué lo rompió o cómo se restaura. Los jedai son entonces 'héroes autotípicos' por construcción doble: heredan la forma del monje guerrero (samurái, monje shaolín, caballero artúrico) sin la doctrina específica que sostiene su disciplina en cada tradición original; y operan por intuición pura mientras pretenden encarnar virtud, contradicción que el canal identifica como cifra de la autotipia metafísica.
 
 La precisión completa la página añadiendo el caso paradigmático cosmológico al catálogo de los casos onomásticos (Harry Potter), arquetípicos invertidos (Voldemort como inversión luciferina autotípica) y New Age (Lilit moderna, Hermes Trismegisto). La autotipia opera transversalmente al material — onomástica, doctrinal, metafísica, mítica — siempre que el significante se preserve estéticamente vaciando el referente psíquico operativo.
-
 
 ## Implicaciones para la lectura cultural del canal
 
@@ -170,8 +164,6 @@ El concepto opera como herramienta diagnóstica de la degradación del [[mito-mo
 
 De ahí la lectura del canal sobre el sacrificio final de Harry, que en la misma sesión describe como inevitabilidad estructural y no como transformación heroica: cuando el material es autotípico, hasta el clímax sacrificial pierde su carga simbólica.
 
-
-
 ## Autotipia en mitología New Age y truncamientos modernos
 
 La categoría se aplica fuera del corpus literario de masas a dos fenómenos contemporáneos donde el canal diagnostica autotipia masiva: la mitología New Age y los héroes truncados fabricados por extracción de contexto.
@@ -200,9 +192,6 @@ La pieza articula la diferencia entre [[heroe-truncado|héroe truncado genuino]]
 
 La consecuencia editorial es que la cadena `arquetipo → prototipo → estereotipo → autotipo` se completa con un movimiento adicional: la autotipia no solo es degradación pasiva de material previo, también puede ser fabricación activa cuando un afecto personal infantil se mitologiza sin haber pasado por la mediación arquetípica genuina.
 
-
-
-
 ## Autotipia en mitología New Age y truncamientos modernos
 
 La categoría se aplica fuera del corpus literario de masas a dos fenómenos contemporáneos donde el canal diagnostica autotipia masiva: la mitología New Age y los héroes truncados fabricados por extracción de contexto.
@@ -230,7 +219,6 @@ El mecanismo psicogenético de la autotipia se hace explícito en una de las pie
 La pieza articula la diferencia entre [[heroe-truncado|héroe truncado genuino]] (Azulín, Vader: el viaje del héroe se trunca dentro de un contexto coherente) y truncamiento autotípico (la figura es fabricada por extracción de contexto y reelaboración iconotrópica del material original). El primero conserva dignidad trágica porque mantiene el armazón del viaje; el segundo solo conserva la postura, no la estructura.
 
 La consecuencia editorial es que la cadena `arquetipo → prototipo → estereotipo → autotipo` se completa con un movimiento adicional: la autotipia no solo es degradación pasiva de material previo, también puede ser fabricación activa cuando un afecto personal infantil se mitologiza sin haber pasado por la mediación arquetípica genuina.
-
 
 ## Sistema cuádruple de divisiones de la emulación + simulación vs emulación
 
@@ -273,8 +261,6 @@ La distinción categorial es operativa para todo el aparato del canal sobre cogn
 
 La cuádruple cadena (estereotipia/prototipia/arquetipia/autotipia) opera dentro del régimen de emulación: son modalidades de cómo el material fantástico se elabora sin ser simulado en sentido fuerte. La autotipia es entonces el caso límite donde la emulación se reduce a su mínimo operativo — el significante coincide con el rasgo, no hay capa imaginaria que emular más allá del propio nombre.
 
-
-
 ## Lagunas
 
 - **Genealogía teórica del término**: el canal usa "autotipia" como categoría establecida sin atribuirla. Pendiente confirmar si es acuñación propia, semiótica clásica reapropiada (Peirce, Hjelmslev) o reformulación de "tipo" en sentido weberiano
@@ -285,28 +271,10 @@ La cuádruple cadena (estereotipia/prototipia/arquetipia/autotipia) opera dentro
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [12:13](https://youtu.be/3Jo2T73pOEs?t=733)
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839)
 - **Tremendo lunes** — chunks: [1:14:48](https://youtu.be/0YABTLJ-lFY?t=4488)
 - **Wokismo para Wokes.** — chunks: [52:16](https://youtu.be/Q83ieEVaF5I?t=3136)
-
 
 - **Análisis arquetípico Frozen** — chunks: [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
 - **Primer stream del año** — chunks: [47:42](https://youtu.be/kEgjSN3uKy4?t=2862)
@@ -314,4 +282,3 @@ La cuádruple cadena (estereotipia/prototipia/arquetipia/autotipia) opera dentro
 - **El síndrome de Wendy** — chunks: [2:00:03](https://youtu.be/L7oSZTTK8Gg?t=7203)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:29:57](https://youtu.be/DNxx4qwb944?t=5397) · [1:31:27](https://youtu.be/DNxx4qwb944?t=5487) · [1:38:32](https://youtu.be/DNxx4qwb944?t=5912)
 - **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [14:27](https://youtu.be/4P5hxaG7i6c?t=867)
-

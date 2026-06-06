@@ -75,8 +75,6 @@ El canal identifica explícitamente al héroe truncado con el caballero negro de
 
 Dos rasgos quedan así fijados como diagnósticos del arquetipo: (a) origen en una herida del vínculo parental, (b) ira no canalizada como motor — no maldad esencial, sino energía heroica desviada por falta de elaboración.
 
-
-
 ## Truncamiento genuino vs reelaboración iconotrópica
 
 El canal añade una distinción operativa que separa al héroe truncado genuino del truncamiento fabricado por extracción de contexto:
@@ -88,9 +86,6 @@ La pieza es metodológica: un truncamiento puede ser estructura genuina (Azulín
 
 La distinción importa para el diagnóstico crítico de obras: no toda figura del caballero negro en cultura contemporánea es un héroe truncado en sentido fuerte; muchas son truncamientos por iconotropía — Lilit moderna como rebelde luciferiana fabricada, antagonistas postmodernos cuyo trauma fundacional es retórico antes que estructural.
 
-
-
-
 ## Truncamiento genuino vs reelaboración iconotrópica
 
 El canal añade una distinción operativa que separa al héroe truncado genuino del truncamiento fabricado por extracción de contexto:
@@ -101,7 +96,6 @@ El canal añade una distinción operativa que separa al héroe truncado genuino 
 La pieza es metodológica: un truncamiento puede ser estructura genuina (Azulín, Vader: el viaje se trunca dentro de un contexto coherente y la ira tiene origen identificable en el vínculo parental) o fabricación cultural (la figura conserva la postura del truncado pero el contexto del trauma original ha sido extraído y sustituido por reelaboración iconotrópica). El segundo caso pertenece más al campo del [[autotipo|autotipo]] que al del héroe truncado genuino: se conserva el significante (el caballero negro, el rebelde luciferino) pero el rasgo ya no remite a una herida elaborable sino a una proyección.
 
 La distinción importa para el diagnóstico crítico de obras: no toda figura del caballero negro en cultura contemporánea es un héroe truncado en sentido fuerte; muchas son truncamientos por iconotropía — Lilit moderna como rebelde luciferiana fabricada, antagonistas postmodernos cuyo trauma fundacional es retórico antes que estructural.
-
 
 ## La catarsis de la violencia como síntoma
 
@@ -128,25 +122,6 @@ El síntoma distingue al héroe truncado del villano puro: hay todavía un sujet
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Análisis arquetípico de Unicorn wars** — chunks: [3:36](https://youtu.be/fLfEbHPJNmU?t=216) · [6:09](https://youtu.be/fLfEbHPJNmU?t=369)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:12:54](https://youtu.be/yoWJWwYH_pE?t=4374)
 - **Directo casual** — chunks: [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
@@ -156,4 +131,3 @@ El síntoma distingue al héroe truncado del villano puro: hay todavía un sujet
 - **¿Qué es la magia?** — chunks: [59:48](https://youtu.be/AMXVKxN0Ccw?t=3588)
 - **Taxonomía de las criaturas malignas** — chunks: [0:01](https://youtu.be/rG_et1_G7Hs?t=1)
 - **Matrix, Gnosticismo, Cábala y mitología comparada** — chunks: [5:30](https://youtu.be/Dtp1_RLb7S0?t=330)
-

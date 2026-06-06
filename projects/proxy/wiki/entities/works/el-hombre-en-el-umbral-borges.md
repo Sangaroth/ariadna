@@ -77,6 +77,4 @@ La elección no es ornamental. La sesión *Cuento contigo* ejerce el método ped
 
 ## Citations
 
-
 - **Cuento contigo** — chunks: [49:50](https://youtu.be/Eqoq3O9wVzA?t=2990)
-

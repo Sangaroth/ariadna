@@ -50,7 +50,6 @@ last_human_edit: null
 
 # Carl Gustav Jung
 
-
 ## Perfil
 
 Carl Gustav Jung (1875-1961), psiquiatra y psicólogo suizo, fundador de la psicología analítica. En el corpus Proxy es la **referencia teórica más recurrente**: prácticamente todo análisis arquetípico de obras del canal (películas, mitos, fenómenos sociales) opera con vocabulario junguiano, aunque el canal mantiene distancia crítica con algunas formulaciones.
@@ -131,17 +130,11 @@ Aspectos donde el canal extiende o matiza al junguiano clásico:
 
 3. **Tipología arquetipo / prototipo / estereotipo / autotipo** — extensión del canal sobre el concepto junguiano de arquetipo (no presente en Jung con esa terminología)
 
-
-
 4. **Arquetipo psicobiológico — homologías noéticas trascendentes a la especie** (extensión del canal sobre Jung): el efecto Buba-Kiki replicado en pollos de un solo día, sin entrenamiento ni recompensa, confirma que ciertas estructuras representacionales son innatas e independientes de la cultura, y existen en especies evolutivamente distantes. El canal acuña [[clases-ancestrales]] para nombrar estas homologías noéticas, situando el arquetipo junguiano en continuidad con la psicobiología comparada — no como entidad metafísica, sino como hipótesis empírica falsable
    → [Psicología 101: Cómo un Pollo demostró a Jung, 1:16:31](https://youtu.be/cbfhVqYDbdE?t=4591)
 
-
-
-
 4. **Arquetipo psicobiológico — homologías noéticas trascendentes a la especie** (extensión del canal sobre Jung): el efecto Buba-Kiki replicado en pollos de un solo día, sin entrenamiento ni recompensa, confirma que ciertas estructuras representacionales son innatas e independientes de la cultura, y existen en especies evolutivamente distantes. El canal acuña [[clases-ancestrales]] para nombrar estas homologías noéticas, situando el arquetipo junguiano en continuidad con la psicobiología comparada — no como entidad metafísica, sino como hipótesis empírica falsable
    → [Psicología 101: Cómo un Pollo demostró a Jung, 1:16:31](https://youtu.be/cbfhVqYDbdE?t=4591)
-
 
 ## Sincronicidad: el lince blanco como caso de identificación inmediata
 
@@ -173,37 +166,6 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 - **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:09:06](https://youtu.be/cbfhVqYDbdE?t=4146)
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
@@ -226,4 +188,3 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 - **De Platón A The Matrix** — chunks: [46:51](https://youtu.be/zr_ZKX60N54?t=2811)
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [1:10:24](https://youtu.be/9wJQ9tm9Yuc?t=4224)
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [8:09](https://youtu.be/zLRhDHyq3gs?t=489)
-

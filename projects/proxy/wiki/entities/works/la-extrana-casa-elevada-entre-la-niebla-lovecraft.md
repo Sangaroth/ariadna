@@ -97,6 +97,4 @@ Esa lectura inscribe el cuento como **escalón previo** del ciclo de Kingsport /
 
 ## Citations
 
-
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [47:57](https://youtu.be/_S6kQYk9O98?t=2877)
-

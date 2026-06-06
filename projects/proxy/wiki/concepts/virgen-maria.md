@@ -68,8 +68,6 @@ La necesidad de la encarnación real se argumenta invocando el concepto de [[gol
 
 > "Para que Dios fuera hombre real tenía que nacer de una mujer; si hubiera nacido de otro modo habría sido un golem o una trampa
 
-
-
 ### "Ocurrir" como pasivo-femenino: la encarnación que se alberga, no que se ejecuta
 
 En el reprise *La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas* (ene-2026) el canal precisa la dimensión gramatical-arquetípica del verbo que articula la encarnación. María no EJECUTA la encarnación, la ALBERGA — el verbo 'ocurrir' opera estructuralmente como pasivo-femenino.
@@ -86,9 +84,6 @@ En el reprise *La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades feno
 La pieza añade dos articulaciones operativas. Primera: la **estructura gramatical del fíat mariano** ('hágase en mí según tu palabra') opera como verbo de la modalidad lingüística femenina articulada en [[diosa-blanca]] sección 'El lenguaje de la diosa: significado puro frente a significante articulado' — significado puro vivencial que el sujeto alberga, no significante articulado que el sujeto ejecuta. La encarnación es el tipo de evento que SOLO PUEDE OCURRIR EN una mujer real, no producirse POR ella — el sujeto femenino es el SITIO donde el evento se realiza, no el agente que lo realiza.
 
 Segunda: la estructura mítico-lunar de albergar-al-héroe-y-buscarlo-en-los-infiernos se cumple en María por **acompañamiento hasta la cruz sin morir**. El descenso a los infiernos lo realiza Cristo; María lo acompaña sin necesidad de morir ni resucitar porque su función arquetípica es albergar el evento, no replicarlo. Esto explica estructuralmente por qué la Asunción opera como ascenso directo (sin muerte intermedia documentada en los evangelios canónicos): el ciclo lunar no requiere que la diosa muera para cumplirse, requiere que albergue al héroe en su descenso y que ascienda al concluir el ciclo. La asimetría es operativa para distinguir la modalidad lunar femenina de la modalidad solar masculina del [[mito-solar]] — el héroe solar muere y resucita; la diosa lunar alberga, acompaña y asciende.
-
-
-
 
 ### "Ocurrir" como pasivo-femenino: la encarnación que se alberga, no que se ejecuta
 
@@ -142,8 +137,6 @@ El papel de María no se limita al de madre pasiva. El dogma de la corredención
 > "María es corredentora con Cristo, dogma actualmente en discusión"
 → [La luna, La Virgen y la Diosa Blanca (1:01:28)](https://youtu.be/C5q89bw1G9E?t=3688)
 
-
-
 ### Pasivo-femenino: 'ocurrir' como cifra gramatical de la posición arquetípica
 
 El monográfico breve *La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas* (ene-2026) precisa la posición arquetípica de María en la encarnación mediante una lectura gramatical operativa: el verbo que describe el evento no es activo sino pasivo-femenino. María NO ejecuta la encarnación — la alberga:
@@ -165,7 +158,6 @@ La misma sesión articula con precisión cómo María cumple el último requisit
 
 La pieza añade el mecanismo concreto del cumplimiento: el descenso-a-los-infiernos del mito lunar (Inanna en busca de Dumuzi, Isis en busca de Osiris, Deméter en busca de Perséfone) se traduce en clave mariana en la **co-presencia hasta el límite extremo del padecimiento del hijo**. No es el cuerpo de María el que desciende físicamente, sino su presencia sostenida hasta la cruz. La articulación cierra la simetría con la lectura solar de Cristo: él DESCIENDE a los infiernos antes de resucitar (acción transitiva del héroe), ella ASCIENDE corporal sin morir (recepción intransitiva de la diosa). Las dos modalidades cumplen el ciclo arquetípico desde sus posiciones polares.
 
-
 ## María en el mapa de los mitemas: las religiones como respuestas prototípicas
 
 El análisis de la Virgen se inscribe en el mapa general de los cinco grandes mitemas que el canal elabora. Las religiones son entendidas como respuestas prototípicas a preguntas arquetípicas, no como doctrinas arbitrarias:
@@ -182,8 +174,6 @@ En este mapa, María es la respuesta católica al mitema del [[mito-lunar]], par
 → [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)
 
 La comparación con el Islam marca la distinción estructural: el Islam es caracterizado como «sumisión a las exigencias de un hombre (Mahoma)», mientras el catolicismo propone «acompañamiento e imitación de Cristo, no sumisión». La diferencia no es de grado de devoción sino de estructura arquetípica: una tradición que integra el polo femenino produce una respuesta cualitativamente distinta al mitema.
-
-
 
 ### Tres respuestas religiosas al mito del héroe: sumisión, acompañamiento, no-camino
 
@@ -205,7 +195,6 @@ La tipología cierra el cuadro inter-religioso con tres modalidades irreductible
 
 La distinción **error vs pecado** es operativa: la contemplación pura no es ofensa moral (pecado) sino respuesta estructuralmente inadecuada al mitema (error). La referencia a la isla de los suricatos en *La vida de Pi* (Ang Lee, 2012) funciona como ilustración narrativa del diagnóstico: la isla parece paraíso pero atrapa al sujeto en una pasividad que excluye el camino heroico. La pieza enlaza con la articulación general del canal en [[teologia-catolica-en-proxy]] sobre la fe católica como virtud teologal ordenada hacia acción salvífica externa, distinta tanto de la fe-obediencia protestante como del vaciamiento contemplativo zen.
 
-
 ## Lagunas
 
 - **Reverso oscuro en el catolicismo**: el canal trabaja las tres formas del mal materno en el mismo vídeo pero no desarrolla explícitamente una figura opuesta a María dentro de la tradición católica; la conexión con [[lilit-mito]] queda implícita en el sistema del canal, sin articularse en este material
@@ -215,24 +204,6 @@ La distinción **error vs pecado** es operativa: la contemplación pura no es of
 - **Comparación con otras instanciaciones del mito lunar**: el canal nombra el mitema pero no contrasta la versión mariana con figuras como Isis, Inanna o Deméter; la perspectiva comparada queda pendiente en corpus posterior
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **Perro no come Perro** — chunks: [38:05](https://youtu.be/Dv3caRUYzuc?t=2285)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275)
@@ -244,4 +215,3 @@ La distinción **error vs pecado** es operativa: la contemplación pura no es of
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:58:49](https://youtu.be/nw7fSEAJr-U?t=7129)
 - **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [7:34](https://youtu.be/tgusJOzuJ7U?t=454) · [10:06](https://youtu.be/tgusJOzuJ7U?t=606) · [14:10](https://youtu.be/tgusJOzuJ7U?t=850) · [16:11](https://youtu.be/tgusJOzuJ7U?t=971) · [18:43](https://youtu.be/tgusJOzuJ7U?t=1123)
 - **Los Apocalipsis. (Parte I)** — chunks: [57:34](https://youtu.be/lLRGemLUCtY?t=3454) · [1:43:30](https://youtu.be/lLRGemLUCtY?t=6210)
-

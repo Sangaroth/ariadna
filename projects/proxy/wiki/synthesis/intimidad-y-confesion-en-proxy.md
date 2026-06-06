@@ -127,7 +127,6 @@ La tesis sobre la intimidad presupone la definición de [[vinculo]] como relaci�
 
 La intimidad máxima (confesión del propio mal) es el grado más intenso de activación del [[vinculo]]: la modificación mutua entre representaciones personales alcanza su punto de mayor profundidad cuando lo revelado es el contenido más protegido. Sin [[vinculo]] previo como marco de reciprocidad, la confesión no produce intimidad sino exposición desnuda.
 
-
 ## Intimidad como proximidad en las debilidades y el compromiso supremo
 
 En el directo *¿Porqué el amor? Introducción* (16 dic 2024) el canal precisa dos piezas de la teoría de la intimidad que la articulación de la confesión dejaba implícitas: la definición operativa de intimidad como ámbito sin riesgos de exposición, y el compromiso total como nivel supremo de la jerarquía intima.
@@ -165,7 +164,6 @@ La pieza completa la jerarquía interna de la intimidad articulada en la página
 → [¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)
 
 La pieza cierra la articulación con un principio operativo: el sexo fuera del campo de intimidad no es categoría moral negativa pero sí categoría material peligrosa por el desequilibrio de exposición sin marco de seguridad. La consecuencia ética que el canal extrae no es prohibitiva sino proporcional: cuanto más riesgo asume el sujeto, más responsabilidad debe sostener sobre las consecuencias. La pieza enlaza con la categoría coherencia/responsabilidad articulada en [[libre-albedrio-ilusion-funcional]] sección 'Coherencia y conciencia de responsabilidad como aproximación operativa' — la responsabilidad asumida es el sustituto operativo del par voluntad/libertad cuando el sujeto opera fuera del campo de intimidad protector.
-
 
 ## Lagunas
 

@@ -121,8 +121,6 @@ El cuerpo no solo transmite daño: lo recuerda, lo reorganiza, y distribuye la e
 
 El priming hiperalgésico es el nivel mínimo donde biología del daño y psicología del aprendizaje convergen formalmente. El nociceptor no solo transmite: aprende (cambia su expresión genética) y ese aprendizaje tiene consecuencias funcionales duraderas — la sensibilización persistente. Esto ancla la teoría del dolor en continuidad estructural con [[teoria-de-las-emociones-en-proxy]], donde el canal desarrolla cómo los estados afectivos tienen función biológica irreductible a sus correlatos físicos. En ambos casos la unidad de análisis relevante no es el sustrato sino la función.
 
-
-
 ## Imperativismo de Klein: el dolor como orden, no indicación
 
 En el directo *Filosofía y ciencia del dolor* (feb 2025) el canal articula explícitamente la posición teleosemántica del dolor que la página declaraba como pieza nuclear pendiente. La articulación se inscribe en el marco del **imperativismo de Klein**: el dolor no es percepción con contenido indicativo (no te dice qué causa el daño) sino sensación con contenido intencional **imperativo** — orden de protección y recuperación homeostática.
@@ -229,9 +227,6 @@ La distinción Kierkegaard-Heidegger entre miedo (con objeto) y angustia (sin ob
 
 La pieza añade la crítica cultural-sanitaria que la página dejaba implícita: la teoría del dolor del canal NO se opone al modelo biopsicosocial por motivos epistemológicos sino por sus efectos institucionales. Cuando todo se medicaliza bajo el paraguas biopsicosocial, la patología se expande sin freno y la sociedad del bienestar se invierte en sociedad del malestar. El criterio pragmático del canal: distinguir cuándo el componente representacional es el driver clínico (fenotipo cognitivo alto + cuerpo poco dañado + episodio agudo + perfil neurótico + psicotrauma iatrogénico) y cuándo NO lo es. El abordaje cognitivo a patología somática genuina produce iatrogenia en cadena (mal diagnóstico → intervención innecesaria → opioides → depresión → más medicación → deterioro global), documentada en estudios con 485.000 pacientes sobre resonancias lumbares innecesarias.
 
-
-
-
 ## Imperativismo de Klein: el dolor como orden, no indicación
 
 En el directo *Filosofía y ciencia del dolor* (feb 2025) el canal articula explícitamente la posición teleosemántica del dolor que la página declaraba como pieza nuclear pendiente. La articulación se inscribe en el marco del **imperativismo de Klein**: el dolor no es percepción con contenido indicativo (no te dice qué causa el daño) sino sensación con contenido intencional **imperativo** — orden de protección y recuperación homeostática.
@@ -337,7 +332,6 @@ La distinción Kierkegaard-Heidegger entre miedo (con objeto) y angustia (sin ob
 → [Filosofía y ciencia del dolor (2:12:21)](https://youtu.be/vgS1u1Kejkk?t=7941)
 
 La pieza añade la crítica cultural-sanitaria que la página dejaba implícita: la teoría del dolor del canal NO se opone al modelo biopsicosocial por motivos epistemológicos sino por sus efectos institucionales. Cuando todo se medicaliza bajo el paraguas biopsicosocial, la patología se expande sin freno y la sociedad del bienestar se invierte en sociedad del malestar. El criterio pragmático del canal: distinguir cuándo el componente representacional es el driver clínico (fenotipo cognitivo alto + cuerpo poco dañado + episodio agudo + perfil neurótico + psicotrauma iatrogénico) y cuándo NO lo es. El abordaje cognitivo a patología somática genuina produce iatrogenia en cadena (mal diagnóstico → intervención innecesaria → opioides → depresión → más medicación → deterioro global), documentada en estudios con 485.000 pacientes sobre resonancias lumbares innecesarias.
-
 
 ## Lagunas
 

@@ -115,8 +115,6 @@ La unificación es una síntesis original del canal: el caso Noelia no es anécd
 - **Crianza esquizogénica**: tribus donde adultos fingen odiar a niños generan apego inseguro hereditario — caso documentado
 - **Suicidio como llamada de atención**: acto desesperado de comprobar si el mundo te quiere; alimentar al sufriente con la posibilidad del suicidio lo lleva a contemplarlo como única salida
 
-
-
 ### Aparato clínico ampliado: el caso Inocencia interrumpida
 
 El monográfico de diciembre 2023 sobre [[inocencia-interrumpida-1999-film|Inocencia interrumpida]] añade cinco piezas clínicas que la articulación nuclear del TLP en esta página tenía implícitas o ausentes.
@@ -189,9 +187,6 @@ La pieza añade una fase clínica que la página tenía declarada como laguna ('
 
 La pieza articula un caso límite distinto del cuadro borderline general: el trastorno irreductible donde la diátesis preexistente se combina con un abuso paterno retroalimentativo (la víctima tiene respuesta afectiva positiva al abuso, lo que cierra el bucle). El cuadro Daisy es operativamente diferente del TLP genuino: no hay introyección 'no merezco amor' a partir de hechos que la confirman, hay una psique que estaba ya estropeada de serie y que el abuso confirmó por refuerzo positivo en lugar de por refuerzo negativo. La consecuencia clínica es que el caso es **terapéuticamente irreductible** — Lisa al decirle 'toda la verdad' lo lleva al suicidio porque la verdad sobre el cuadro NO opera redentivamente cuando la psique no puede sostener la elaboración. El caso completa el cuadro de la página con un caso límite de irreductibilidad estructural distinto de la crítica general a la eutanasia.
 
-
-
-
 ### Aparato clínico ampliado: el caso Inocencia interrumpida
 
 El monográfico de diciembre 2023 sobre [[inocencia-interrumpida-1999-film|Inocencia interrumpida]] añade cinco piezas clínicas que la articulación nuclear del TLP en esta página tenía implícitas o ausentes.
@@ -263,8 +258,6 @@ La pieza añade una fase clínica que la página tenía declarada como laguna ('
 → [Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)
 
 La pieza articula un caso límite distinto del cuadro borderline general: el trastorno irreductible donde la diátesis preexistente se combina con un abuso paterno retroalimentativo (la víctima tiene respuesta afectiva positiva al abuso, lo que cierra el bucle). El cuadro Daisy es operativamente diferente del TLP genuino: no hay introyección 'no merezco amor' a partir de hechos que la confirman, hay una psique que estaba ya estropeada de serie y que el abuso confirmó por refuerzo positivo en lugar de por refuerzo negativo. La consecuencia clínica es que el caso es **terapéuticamente irreductible** — Lisa al decirle 'toda la verdad' lo lleva al suicidio porque la verdad sobre el cuadro NO opera redentivamente cuando la psique no puede sostener la elaboración. El caso completa el cuadro de la página con un caso límite de irreductibilidad estructural distinto de la crítica general a la eutanasia.
-
-
 
 #### Polarización binaria del mundo y doble ausencia parental
 
@@ -282,8 +275,6 @@ El análisis arquetípico de [[barbie-2023-film|Barbie]] añade dos piezas opera
 La pieza articula la **polarización binaria del mundo** como marca diagnóstica del cuadro borderline complementaria al pensamiento dicotómico ya documentado en 'Crisis límite' de la sección clínica. Donde el pensamiento dicotómico opera sobre afectos puntuales (te amo / te odio), la polarización binaria opera sobre mapas globales del mundo (todo es rosa / todo es horrible) — modalidad cognitiva que impide la integración de matices y obliga al sujeto a oscilar entre extremos.
 
 La etiología propuesta —**doble ausencia parental: falta de madre Y falta de padre**— refina la diátesis articulada en la sección 'Aparato clínico del TLP'. La página declaraba la ventana etaria 8-12 años y la diátesis familiar (TLP/narcisismo/histrionismo parental) como condiciones; la pieza añade la condición específica de doble carencia simultánea. La consecuencia operativa: el cuadro borderline no requiere abuso ni trauma agudo necesariamente — basta con que ambas figuras parentales estén estructuralmente ausentes en su función (la madre que sostiene afectivamente, el padre que firma el principio de realidad) durante la ventana de constitución del yo. Sin material parental para integrar, el yo no puede construir las gradaciones que permiten habitar el matiz, y queda condenado a la polarización binaria como modalidad cognitiva única. La etiología conecta operativamente con la articulación de [[sindrome-wendy]]: la progresión Wendy → Stacy → Karen documentada allí cristaliza típicamente sobre el mismo sustrato de doble ausencia parental, lo que sugiere parentesco estructural (no equivalencia) entre el cuadro borderline y la cristalización terminal del síndrome de Wendy.
-
-
 
 ### Articulación filosófica afecto / emoción / razón
 

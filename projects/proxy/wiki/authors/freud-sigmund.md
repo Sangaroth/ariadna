@@ -70,8 +70,6 @@ La misma vara freudiana se extiende a otros productos culturales que el canal cr
 
 El canal liga así el aparato freudiano con su crítica del sentimentalismo: lo sentimentalista apela al ello (afecto infantil sin elaboración), lo sentimental al yo (afecto integrado en aprendizaje real). Esta operación conecta con el [[camino-victima]], donde la identificación desde el ello sostiene la fantasía de injusticia estructural sin demanda transformadora.
 
-
-
 ## Sublimación como aparato diagnóstico
 
 Más allá de la pareja ello/yo, el canal invoca también la **sublimación** freudiana como herramienta de lectura de la conducta pública. En el análisis del [[sindrome-xocas]], abre el diagnóstico con la operación:
@@ -85,7 +83,6 @@ La definición operativa que el canal usa precisa el mecanismo:
 → [El Xocas y la Personalidad (00:00)](https://youtu.be/i1zxa2uxnPs?t=1)
 
 La distinción frente a la desinhibición orgánica (Tourette) es deliberada: la sublimación no es fallo neurológico sino **economía psíquica** — el yo encuentra una forma públicamente tolerable para una pulsión introyectadamente intolerable. El BDSM ilustra el mecanismo en clave sexual: violencia consentida que canaliza odio hacia el propio sexo o el contrario sin convertir al sujeto en violento real. En la articulación del canal, sublimación queda emparentada con canalización y, en su versión más cruda, con catarsis.
-
 
 ## La pulsión de muerte aplicada: el caso del pingüino y el adgrediere
 
@@ -174,7 +171,6 @@ El concepto opera articuladamente con otras piezas del aparato freudiano de la p
 
  La precisión clínica importa porque la lectura común del afecto público lo toma como transparente; el aparato freudiano abre la posibilidad de que el contenido manifiesto sea vehículo de un contenido latente distinto, sin que el sujeto lo reconozca como tal.
 
-
 ## Posición frente a [[jung-carl-gustav]]
 
 El marco dominante del canal es junguiano (arquetipos, individuación, inconsciente colectivo), pero Freud no es desplazado: se mantiene como **genealogía obligada** y proveedor de distinciones tópicas que el canal usa cuando necesita diagnosticar la *cualidad* de una identificación, más allá de su contenido arquetípico. Donde Jung aporta el qué (qué arquetipo se está activando), Freud aporta el cómo (desde qué instancia psíquica se está consumiendo el material).
@@ -189,18 +185,6 @@ El marco dominante del canal es junguiano (arquetipos, individuación, inconscie
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
 - video_id: `3Jo2T73pOEs` — Harry Potter, el síndrome de Wendy y por qué es escoria fántastica
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [30:28](https://youtu.be/JVEsIdv6emI?t=1828)
 - **Análisis arquetípico La Bruja** — chunks: [10:25](https://youtu.be/rRlks0e0oxU?t=625)
@@ -212,4 +196,3 @@ El marco dominante del canal es junguiano (arquetipos, individuación, inconscie
 - **Psicología 101: Conductismo, sofisma y filosofía.** — chunks: [20:29](https://youtu.be/TVK5kpPC3Qs?t=1229) · [1:18:15](https://youtu.be/TVK5kpPC3Qs?t=4695)
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [59:48](https://youtu.be/9wJQ9tm9Yuc?t=3588) · [1:08:24](https://youtu.be/9wJQ9tm9Yuc?t=4104)
 - **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [8:38](https://youtu.be/966LWuiirwA?t=518)
-

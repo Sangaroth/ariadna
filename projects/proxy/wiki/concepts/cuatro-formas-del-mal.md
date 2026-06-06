@@ -84,8 +84,6 @@ El mal como degradación lenta de algo que originalmente no era malo. Los orcos 
 
 El mal como toma activa del sujeto por un agente superior: ya no es corrupción gradual sino **fabricación** del mal. Los Uruk-hai son criaturas hechas, instrumentos engendrados por una voluntad maligna que los habita. Es la forma más extrema porque elimina la posibilidad misma de retorno: no hay un yo previo al que regresar.
 
-
-
 ## La formulación canónica de la tradición semítico-cristiana
 
 En la sesión monográfica *Del origen del mal (III): La fe y los demonios* el canal articula la versión canónica de la que procede el mapeo SdA expuesto arriba. La diferencia es importante: el mapeo a SdA aplica las cuatro formas a personajes concretos del corpus tolkieniano; la formulación canónica describe los **mecanismos generales** del mal en la tradición teológica.
@@ -128,7 +126,6 @@ La versión canónica precisa el mecanismo: **sustitución de la voluntad** y **
 
 La formulación canónica y la SdA-mapeada **no son redundantes**: describen el mismo fenómeno desde dos planos. La canónica articula los mecanismos teológicos generales; la SdA-mapeada articula sus encarnaciones narrativas en una obra del corpus. La pieza nueva que la canónica aporta y el mapeo SdA omite es el **mal de padecimiento** — la dimensión receptiva del mal, lo que se sufre sin agencia.
 
-
 ## Inserción en el marco católico-polar del canal
 
 La tipología no se sostiene aislada: forma parte de la red de correspondencias católicas que el speaker traza entre el mito artúrico y el corpus tolkieniano. La pieza positiva que la equilibra son las tres virtudes teologales encarnadas en los anillos élficos:
@@ -155,10 +152,6 @@ Las cuatro formas del mal no son sólo categorías descriptivas: marcan **camino
 
 ## Citations
 
-
-
-
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [1:43:23](https://youtu.be/K082yiudh-g?t=6203)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [36:30](https://youtu.be/L4ayDmaUO9Y?t=2190)
 - **Epstein y el Mal.** — chunks: [5:05](https://youtu.be/Tiu6cZFq6sE?t=305)
-

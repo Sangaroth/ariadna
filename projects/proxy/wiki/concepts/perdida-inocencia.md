@@ -77,8 +77,6 @@ El canal introduce un criterio normativo sobre *cuándo* corresponde perder la i
 
 Este criterio resuena con la lógica del umbral en el [[viaje-heroe]]: el héroe no cruza hacia el mundo desconocido por decisión arbitraria sino cuando ha reunido las condiciones mínimas para sostener lo que encontrará. La pérdida de inocencia forzada — antes de estar preparado — sería funcionalmente equivalente a un umbral cruzado sin llamada genuina: exposición traumática, no iniciación.
 
-
-
 Una precisión fenomenológica adicional emerge en el análisis arquetípico de [[pinocho-1940-film|Pinocho]]: la cualidad estructural que vuelve dolorosa la pérdida no es el sufrimiento que sigue, sino la **conciencia anticipada de su irreversibilidad**.
 
 > "La sensación del pecado la primera vez que pierdes una forma de inocencia es que sabes que es irreversible — eso es lo verdaderamente terrible,"
@@ -86,10 +84,7 @@ Una precisión fenomenológica adicional emerge en el análisis arquetípico de 
 
 La escena de los niños transformados en burros funciona como caso operativo: lo que articula la angustia narrativa no es el dolor presente sino el reconocimiento, en el momento mismo de la transformación, de que el estado anterior ya no es accesible. La distinción ingenuidad/corrupción se completa así con una nota fenomenológica: el subtipo «corrupción» se experimenta como tal porque el sujeto registra simultáneamente la pérdida y su carácter definitivo.
 
-
 El criterio tiene implicaciones para el marco del [[trauma-en-proxy]]: si el sujeto no estaba preparado cuando ocurrió la pérdida, el sufrimiento subsiguiente no es evidencia de que era mejor no haberla experimentado — sino de que el momento o la forma fueron inadecuados.
-
-
 
 ## Estructura adolescente: no hay madurez sin herida
 
@@ -125,7 +120,6 @@ La cabaña-edén opera arquetípicamente como inocencia preservada por dispositi
 
 La menarquía cifra la primera puerta biológica estructural por la que la inocencia femenina se atraviesa sin posibilidad de elección — el cuerpo decide antes que la voluntad. El motivo de las fresas rojas y la salida al bosque articula el patrón: el adentramiento en lo desconocido es preparación gradual de la herida central, ensayo de salidas controladas hacia los salvajes. La pieza precisa una dimensión específicamente femenina de la pérdida de inocencia que la taxonomía ingenuidad/corrupción/inocencia tenía sin articular — el cuerpo femenino marca un calendario propio que el dispositivo parental no puede sincronizar con la madurez psíquica del sujeto.
 
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Desarrollo cross-vídeo: el bloque procede de un único directo (~12 min). No se d -->
@@ -137,16 +131,7 @@ La menarquía cifra la primera puerta biológica estructural por la que la inoce
 
 ## Citations
 
-
-
-
-
-
-
-
-
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [14:44](https://youtu.be/t8v5w3s0USA?t=884)
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [53:00](https://youtu.be/celiAdqrHYA?t=3180)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [1:43:23](https://youtu.be/TmQiM16HIpU?t=6203)
 - **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [50:02](https://youtu.be/CEa517aakr8?t=3002)
-

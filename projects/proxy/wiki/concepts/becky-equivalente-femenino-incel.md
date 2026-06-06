@@ -113,8 +113,5 @@ Ambas figuras son víctimas de la misma lógica cultural (la visibilidad como ú
 
 ## Citations
 
-
-
 - **En Busca de la Diosa Blanca** — chunks: [24:28](https://youtu.be/llS9fqsNVvY?t=1468) · [50:02](https://youtu.be/llS9fqsNVvY?t=3002)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:53:16](https://youtu.be/BOIcK1Rpdvo?t=6796)
-

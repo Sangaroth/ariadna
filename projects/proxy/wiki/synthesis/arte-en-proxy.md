@@ -125,8 +125,6 @@ Esto cierra el sistema: trabajo, estética, símbolo y universalidad son los cri
 - La tesis aparece en el mismo directo donde el canal critica la [[woke-narrativa-postmoderna-moral]]: el arte conceptual masturbatorio comparte estructura con la "complejidad artificial" denunciada en el bloque previo
 - El juego plástico privado y la masturbación intelectual caen, en términos del canal, del lado del [[sofisma-estetico]]
 
-
-
 ## Responsabilidad simbólica de la performance y subversión-restauración de símbolos
 
 En el directo *Vacacioff: De la Sartén a Venezuela* (29 jul 2024) el canal extiende la teoría del arte con un marco operativo sobre cómo se atribuye responsabilidad simbólica a una performance pública y cómo opera la subversión histórica de símbolos — pieza disparada por el debate sobre la inauguración de los Juegos Olímpicos de París 2024.
@@ -191,7 +189,6 @@ La pieza cierra con la posibilidad real de la restauración: un símbolo subvert
 
 La pieza es operativa para la teoría del arte de la página: si el arte requiere símbolo universalmente reconocible, el productor debe responsabilizarse no solo de la composición técnica sino del **estado actual** de los símbolos que invoca. Trabajar con símbolos subvertidos sin marca explícita de restauración es importar la contaminación a la propia obra, aunque la intención del autor sea recuperar el sentido previo.
 
-
 ## Lagunas
 
 - **Música como caso**: Mozart se nombra como ejemplar pero no se desarrolla. Falta articular cómo se aplican los tres criterios (trabajo, estética, símbolo) a una obra musical donde el "símbolo" no es figurativo
@@ -203,6 +200,4 @@ La pieza es operativa para la teoría del arte de la página: si el arte requier
 
 ## Citations
 
-
 - **Luto** — chunks: [44:45](https://youtu.be/5eRSU7lRELI?t=2685)
-

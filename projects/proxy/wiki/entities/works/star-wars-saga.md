@@ -107,33 +107,6 @@ El canal lo caracteriza como acierto accidental: la saga acertó con Palpatín s
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:31:28](https://youtu.be/NjtK76xzV18?t=5488)
 - **El síndrome de Wendy** — chunks: [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
 - **Gothika: De Profundis** — chunks: [37:13](https://youtu.be/Gx2740if0Ho?t=2233) · [1:01:39](https://youtu.be/Gx2740if0Ho?t=3699)
@@ -158,4 +131,3 @@ El canal lo caracteriza como acierto accidental: la saga acertó con Palpatín s
 - **En Busca de la Diosa Blanca** — chunks: [21:27](https://youtu.be/llS9fqsNVvY?t=1287)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [2:16:20](https://youtu.be/BOIcK1Rpdvo?t=8180)
 - **T5x17 Mitología 101: Babel, el Diluvio y Sodoma.** — chunks: [1:13:12](https://youtu.be/L_zQUykelsA?t=4392)
-

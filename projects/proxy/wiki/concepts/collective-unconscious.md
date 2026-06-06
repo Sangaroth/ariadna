@@ -37,7 +37,6 @@ last_human_edit: null
 
 # Inconsciente colectivo
 
-
 ## Definición y precisión clave del canal
 
 El canal Proxy explicita una corrección permanente al concepto popular:
@@ -56,7 +55,6 @@ El canal articula explícitamente la convergencia entre Jung, Lévi-Strauss y la
 
 Esta convergencia desplaza el debate desde la metafísica neoplatónica (Jung mal leído) hacia la **psicología cognitiva estructural**: los arquetipos son hipótesis empíricas sobre la cognición, no entidades sobrenaturales.
 
-
 ## El arquetipo como hecho psicobiológico: el efecto Buba-Kiki en pollos
 
 El canal aporta un caso empírico que extiende la lectura cognitiva del inconsciente colectivo al plano biológico comparado. El **efecto Buba-Kiki** — asociación universal entre el sonido "buba" y formas redondeadas, y entre "kiki" y formas puntiagudas, observada en humanos de cualquier cultura — se ha confirmado en **pollos de un solo día sin entrenamiento ni recompensa**:
@@ -99,8 +97,6 @@ La representación arquetípica es así composición de estructuras cognitivas e
 
 Esta distinción sitúa el arquetipo en el nivel **afectivo** (clasificación de importancia) y no en el emocional (sensación corporal): el arquetipo organiza la atención antes de que cualquier emoción somática se active. La página de [[shadow-archetype]] y la de [[anima-archetype]] heredan esta precisión: cuando se habla de "experiencia arquetípica" lo que primero se activa es la clasificación de importancia, no el correlato somático.
 
-
-
 ## El arquetipo como hecho psicobiológico: el efecto Buba-Kiki en pollos
 
 El canal aporta un caso empírico que extiende la lectura cognitiva del inconsciente colectivo al plano biológico comparado. El **efecto Buba-Kiki** — asociación universal entre el sonido "buba" y formas redondeadas, y entre "kiki" y formas puntiagudas, observada en humanos de cualquier cultura — se ha confirmado en **pollos de un solo día sin entrenamiento ni recompensa**:
@@ -142,7 +138,6 @@ La representación arquetípica es así composición de estructuras cognitivas e
 → [Psicología 101: Cómo un Pollo demostró a Jung, 1:02:07](https://youtu.be/cbfhVqYDbdE?t=3727)
 
 Esta distinción sitúa el arquetipo en el nivel **afectivo** (clasificación de importancia) y no en el emocional (sensación corporal): el arquetipo organiza la atención antes de que cualquier emoción somática se active. La página de [[shadow-archetype]] y la de [[anima-archetype]] heredan esta precisión: cuando se habla de "experiencia arquetípica" lo que primero se activa es la clasificación de importancia, no el correlato somático.
-
 
 ## Contenidos: los mitos primarios
 
@@ -179,8 +174,6 @@ El canal separa:
 
 Esta distinción es importante para el canal porque permite diferenciar lo verdaderamente arquetípico de lo culturalmente compartido pero no universal — un patrón que aplica a una sola tradición no es del inconsciente colectivo aunque sea inconsciente y compartido.
 
-
-
 ## Lista canónica del libro: los seis mitos propios primarios
 
 El directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) fija la formulación canónica de los mitos primarios que articula el libro [[del-origen-del-mal-libro|Del origen del mal]] del canal. La lista es más reducida y operativa que articulaciones anteriores del corpus: en lugar de enumerar masculino/femenino, héroe/diosa y polar como entradas separadas, el libro absorbe héroe en solar y diosa en lunar y deja seis mitos propios primarios:
@@ -200,9 +193,6 @@ Las secuencias completas se articulan en las páginas correspondientes: [[mito-s
 
 La pieza precisa el catálogo arquetípico del canal frente a articulaciones anteriores menos reducidas: los seis mitos primarios son las únicas estructuras genuinamente arquetípicas del inconsciente colectivo según la formulación final del libro. Otras estructuras tradicionalmente listadas (mito del héroe, mito de la diosa, masculino/femenino) son **manifestaciones operativas** de las seis categorías canónicas, no entradas independientes del catálogo.
 
-
-
-
 ## Lista canónica del libro: los seis mitos propios primarios
 
 El directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) fija la formulación canónica de los mitos primarios que articula el libro [[del-origen-del-mal-libro|Del origen del mal]] del canal. La lista es más reducida y operativa que articulaciones anteriores del corpus: en lugar de enumerar masculino/femenino, héroe/diosa y polar como entradas separadas, el libro absorbe héroe en solar y diosa en lunar y deja seis mitos propios primarios:
@@ -221,7 +211,6 @@ La formulación compacta importa porque cada mito tiene en el libro una secuenci
 Las secuencias completas se articulan en las páginas correspondientes: [[mito-solar]] (caída-camino-muerte-apoteosis), [[mito-lunar]] (despertar-creación-caída-luna roja-exorcismo) y [[mito-polar]] (composición de ambos). Las páginas de [[genesis-mitologico]] y la futura página de apocalipsis articulan los otros dos mitos canónicos. El mito del mago, sexto del catálogo, se trata en la sección sobre el arcano del Mago de [[tarot-arquetipico]] con su esquema cuatripartito propio (activo/pasivo × divino/mágico).
 
 La pieza precisa el catálogo arquetípico del canal frente a articulaciones anteriores menos reducidas: los seis mitos primarios son las únicas estructuras genuinamente arquetípicas del inconsciente colectivo según la formulación final del libro. Otras estructuras tradicionalmente listadas (mito del héroe, mito de la diosa, masculino/femenino) son **manifestaciones operativas** de las seis categorías canónicas, no entradas independientes del catálogo.
-
 
 ## Los arquetipos: se descubren, no se inventan
 
@@ -267,8 +256,6 @@ Estructura analítica del canal para desplegar el material arquetípico:
 
 El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al monismo libidinal freudiano.
 
-
-
 ## Defensa empírica del inconsciente: trauma reprimido y memorias episódicas latentes
 
 En el directo *Psicoinfluencers* (marzo 2025) el canal articula una defensa empírica del inconsciente contra el negacionismo conductista difuso de la divulgación pop-psicológica, que tiende a equiparar el inconsciente al alma, al horóscopo o a la magia. La precisión clave es categorial: una conducta automática no es inconsciente si el sujeto es consciente al realizarla — confundir consciencia con percepción es el error nuclear de esa equiparación.
@@ -285,8 +272,6 @@ La batería positiva que el speaker invoca como prueba operativa del inconscient
 → [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
 
 > "La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente
-
-
 
 Un refinamiento posterior del clip *Cómo desparasitar humanos* (abr 2024) precisa que la **tripofobia** no opera sola sino como mitad de un par innato — su contraparte fílica es el **instinto de desparasitar** (granofilia), atracción visceral igualmente innata y universal por explotar granos, limpiar superficies, vaciar agujeros con contenido. La estructura simétrica del par confirma su carácter evolutivo:
 
@@ -316,8 +301,6 @@ El caso paradigmático que el canal articula es un cuadro real de estrés postra
 
 La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en pollos, [[clases-ancestrales]]) un segundo registro de evidencia: si la primera prueba opera por convergencia evolutivo-comparada (estructuras innatas heredadas), esta opera por necesidad explicativa clínica (cuadros que el aparato consciente-percepción no cubre). El conjunto cierra el flanco anti-negacionista: el inconsciente no es metáfora ni anterior espiritualista, es categoría operativa exigida tanto por la psicología comparada como por la clínica del trauma. La crítica sistemática a la divulgación pop-psicológica que niega esta categoría se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva.
 
-
-
 ## El fucsia como prueba paradigmática de representación sin correlato perceptivo
 
 El monográfico *Psicología 101: ¿Qué es el Inconsciente?* (mar 2025), articulación foundational del [[inconsciente-en-proxy|inconsciente en general]] del que el inconsciente colectivo es sub-dominio, añade al cuadro empírico de esta página una prueba especialmente nítida de la existencia de representaciones cognitivas universales sin correlato perceptivo directo:
@@ -343,8 +326,6 @@ El monográfico foundational articula además que el **inconsciente colectivo re
 
 La pieza extiende el catálogo de mitos primarios articulado en otras secciones (solar/lunar/polar/mago/apocalipsis/génesis del libro) con un registro complementario: las **clases cognitivas universales** que operan por debajo de los mitos como estructuras representacionales independientes de cultura. La madre vinculada a las clases pánico y apego conecta con [[clases-ancestrales]] como inventario general; el misterium fascinans con la lectura del horror cósmico en [[lovecraft-howard]]; el caos con [[genesis-mitologico]]. La articulación general — el inconsciente como categoría operativa que excede el junguiano — vive en [[inconsciente-en-proxy]].
 
-
-
 ## Conexión con otros conceptos
 
 - Contiene a la [[shadow-archetype]] como uno de sus contenidos centrales
@@ -366,16 +347,6 @@ La pieza extiende el catálogo de mitos primarios articulado en otras secciones 
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Stream Navidad 2025** — chunks: [18:16](https://youtu.be/hVfKOHEM_wU?t=1096)
 - **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:02:47](https://youtu.be/Qui4WMSQ99k?t=3767)
@@ -384,4 +355,3 @@ La pieza extiende el catálogo de mitos primarios articulado en otras secciones 
 - **Gothika: De Profundis** — chunks: [26:28](https://youtu.be/Gx2740if0Ho?t=1588)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [15:22](https://youtu.be/QSggWfjOkHk?t=922) · [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [19:30](https://youtu.be/QSggWfjOkHk?t=1170)
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [1:10:24](https://youtu.be/9wJQ9tm9Yuc?t=4224) · [1:20:23](https://youtu.be/9wJQ9tm9Yuc?t=4823)
-

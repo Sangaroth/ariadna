@@ -150,6 +150,4 @@ La liberación de Smith por Neo invierte el gesto iniciático: en lugar del ment
 
 ## Citations
 
-
 - **Matrix II y III** — chunks: [0:00](https://youtu.be/tkVwAclFrsI?t=0) · [3:36](https://youtu.be/tkVwAclFrsI?t=216)
-

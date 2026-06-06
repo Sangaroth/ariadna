@@ -79,7 +79,6 @@ El canal aplica el aparato a casos históricos concretos en un directo posterior
 > "El pueblo nunca se gobierna a sí mismo: instituye cosas para que mediante la fuerza mantengan el orden"
 → [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)
 
-
 El canal aplica el aparato a casos históricos concretos en un directo posterior, mostrando cómo la democracia formal opera como tautología desactivada por la historia: el régimen franquista se autodenominaba "democracia orgánica" y la República Popular China comparte la misma etiqueta de "democracia" con cualquier sistema parlamentario occidental. La pieza añade una formulación más afilada del positivismo jurídico aplicado a la soberanía popular: el pueblo no se gobierna efectivamente a sí mismo en ninguna formalización — instituye dispositivos que mediante la fuerza mantienen el orden, y la ficción representativa solo opera mientras esos dispositivos no se rompan.
 
 > "La democracia formal es tautológica: formalmente ya somos democracia igual que la República Popular China"
@@ -91,7 +90,6 @@ El canal aplica el aparato a casos históricos concretos en un directo posterior
 > "El pueblo nunca se gobierna a sí mismo: instituye cosas para que mediante la fuerza mantengan el orden"
 → [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)
 
-
 - **Distinción idealismo / materialismo en la definición de democracia**: el problema no es formalizar — la formalización es legítima y necesaria — sino mentir sobre el cumplimiento material. El principio representativo es ficción necesaria; presentarlo como representación real del pueblo es la operación ideológica.
 
 - **Las tres únicas opciones ante el concepto de democracia**:
@@ -101,7 +99,6 @@ El canal aplica el aparato a casos históricos concretos en un directo posterior
   No hay cuarta vía técnica. Toda pretensión de resolver el concepto desde el formalismo recae encubiertamente en alguna de las tres.
 
 - **Imposibilidad estructural de garantizar una transición democrática**: cualquier proceso constituyente que abra el concepto de democracia produce un vacío de poder que es anarquía de facto. La 'transición' suave es un artefacto retórico — estructuralmente, abrir el significado equivale a suspender la regla, y ningún formalismo puede garantizar el resultado material del re-cierre.
-
 
 ## La Constitución del 78 como caso operativo: positivismo jurídico aplicado
 
@@ -139,7 +136,6 @@ La consecuencia diagnóstica refuerza la tesis nuclear de la página: la democra
 → [Perro no come Perro (15:18)](https://youtu.be/Dv3caRUYzuc?t=918)
 
 La pieza articula la categoría de **poesía política** —complementaria al [[sofisma-estetico]]— como dispositivo retórico que vacía conceptos jurídicos de su sustrato material. Donde el sofisma estético opera sobre los valores morales (palabras de virtud sin conducta), la poesía política opera sobre los conceptos jurídico-institucionales: 'democracia', 'separación de poderes', 'soberanía popular' funcionan como significantes evocadores de afecto sin que su materialidad operacional esté garantizada por mecanismo material alguno. La consecuencia para el aparato del marco: el formalismo jurídico de Gisbert opera dentro de este horizonte poético — toma los significantes con su carga afectiva pero los formaliza como si su contenido material estuviese resuelto, cuando precisamente la materialidad del poder reside en quien controla la fuerza física, no en la formalización del texto. La crítica del canal a la 'batalla cultural' (ver [[woke-narrativa-postmoderna-moral]] sección 'La batalla cultural como ilusión') es la consecuencia operativa: el campo cultural es horizonte poético; la disputa real se juega en la materialidad de las palancas institucionales y de la fuerza.
-
 
 ## Citas del vídeo
 
@@ -185,8 +181,6 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
-
 - **Estructuras ideológicas:  Gisbertocracia o racional-formalismo.** — chunks: [0:59](https://youtu.be/RojGI6fQWhE?t=59) · [1:03:26](https://youtu.be/RojGI6fQWhE?t=3806)
-
 
 - **El país del fin del Mundo II. DANA.** — chunks: [22:20](https://youtu.be/DNHgjIgU_-c?t=1340) · [24:21](https://youtu.be/DNHgjIgU_-c?t=1461)

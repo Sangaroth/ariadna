@@ -57,8 +57,6 @@ El canal articula una cosmología vertical de tres regiones arquetípicas que or
 
 La triada no describe geografía física: describe **regiones del alma y del cosmos** que la psique reconoce como ejes verticales del sentido.
 
-
-
 ### Locus textual: el esquema cosmológico del libro Del origen del mal
 
 En el directo *Directo doble Parte 1* (29 may 2025) el canal confirma que la triada uránico/ctónico/telúrico opera como esquema cosmológico canónico del libro [[del-origen-del-mal-libro|Del origen del mal]] en su forma final:
@@ -68,9 +66,6 @@ En el directo *Directo doble Parte 1* (29 may 2025) el canal confirma que la tri
 
 La pieza importa por dos razones operativas. Primera: fija la triada como pieza editorial canónica del corpus, no como articulación dispersa entre directos — el libro la adopta como mapa cosmológico de fondo sobre el que articular los seis mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis). Segunda: el directo usa la variante ortográfica 'ctónico' (chthonic) frente a la 'cetónico' del corpus previo del canal — ambas formas operan en el wiki como aliases de la misma región arquetípica, sin diferencia conceptual.
 
-
-
-
 ### Locus textual: el esquema cosmológico del libro Del origen del mal
 
 En el directo *Directo doble Parte 1* (29 may 2025) el canal confirma que la triada uránico/ctónico/telúrico opera como esquema cosmológico canónico del libro [[del-origen-del-mal-libro|Del origen del mal]] en su forma final:
@@ -79,8 +74,6 @@ En el directo *Directo doble Parte 1* (29 may 2025) el canal confirma que la tri
 → [Directo doble Parte 1 (1:36:06)](https://youtu.be/t8v5w3s0USA?t=5766)
 
 La pieza importa por dos razones operativas. Primera: fija la triada como pieza editorial canónica del corpus, no como articulación dispersa entre directos — el libro la adopta como mapa cosmológico de fondo sobre el que articular los seis mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis). Segunda: el directo usa la variante ortográfica 'ctónico' (chthonic) frente a la 'cetónico' del corpus previo del canal — ambas formas operan en el wiki como aliases de la misma región arquetípica, sin diferencia conceptual.
-
-
 
 ## Memoria de Lovecraft: el caso paradigmático del esquema en literatura
 
@@ -109,10 +102,6 @@ El mismo directo añade una pieza estructural que la página declaraba como lagu
 
 La pieza precisa el alcance del esquema: lo uránico NO es región monolítica sino territorio que admite su propia bisección interna. La narrativa uránica clásica (gran padre celestial que aguarda al héroe digno, articulada en sección anterior) opera en el sub-registro uránico benévolo; el horror cósmico lovecraftiano opera en el sub-registro uránico maldito (los dioses indiferentes-hostiles que vigilan a los benévolos). La consecuencia para la cosmología del canal: el equilibrio telúrico articulado en [[gothika-2003-film|Gothika]] como criterio de salud psíquica debe entenderse como integración entre los polos saludables (uránico benévolo, telúrico habitable, cetónico contenido), distinto del desequilibrio que opera por contacto con uránico maldito o con cetónico desbordado. La triada gana así matiz operativo: cada región tiene su propia bisección interna entre modalidad sostenible y modalidad maldita.
 
-
-
-
-
 ## La narrativa uránica: el gran padre celestial que espera al héroe digno
 
 El canal articula como expresión narrativa derivada de lo uránico la **narrativa uránica**: la estructura mítica del padre celestial que aguarda que el héroe sea digno de sus dones. Es la cara aspiracional-paterna de la región uránica, que opera como expectativa estructural sobre el [[viaje-heroe|héroe solar]].
@@ -121,7 +110,6 @@ El canal articula como expresión narrativa derivada de lo uránico la **narrati
 → [El Gran Lebowsky y el Tarot Invertido (03:46)](https://youtu.be/yoWJWwYH_pE?t=226)
 
 La pieza importa porque permite leer simétricamente la inversión del antihéroe ordinario como inversión específicamente uránica: donde la narrativa uránica espera dignidad y dones, el antihéroe carece de ambos y recorre la estructura sin que el padre celestial lo reconozca. El análisis arquetípico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] desarrolla esta inversión deliberada como pieza estructural — el horizonte uránico sigue presente, simplemente vacío de cumplimiento.
-
 
 ## Correspondencias alquímicas
 
@@ -168,7 +156,6 @@ La triada se aplica también a elementos naturales leídos simbólicamente. El m
 
 La lectura permite identificar cuándo una obra invoca cetónico genuino (las profundidades del corazón humano, el inconsciente como abismo) frente a cuándo solo invoca telúrico amenazante (lo terrestre hostil).
 
-
 ## El equilibrio telúrico como criterio de salud psíquica
 
 El análisis de [[gothika-2003-film|Gothika]] articula explícitamente el equilibrio entre las tres regiones como **criterio diagnóstico**: la salud psíquica requiere que el yo permanezca integrado entre lo uránico y lo ctónico, con lo telúrico como zona media donde ambos polos se conjugan.
@@ -187,8 +174,6 @@ La articulación confirma que la triada opera no solo como mapa cosmológico des
 > "El amarillo marca el límite entre lo uránico y lo ctónico donde debería haber conjugación"
 → [Gothika: De Profundis (25:26)](https://youtu.be/Gx2740if0Ho?t=1526)
 
-
-
 ## El equilibrio telúrico como criterio de salud psíquica
 
 El análisis de [[gothika-2003-film|Gothika]] articula explícitamente el equilibrio entre las tres regiones como **criterio diagnóstico**: la salud psíquica requiere que el yo permanezca integrado entre lo uránico y lo ctónico, con lo telúrico como zona media donde ambos polos se conjugan.
@@ -206,7 +191,6 @@ La articulación confirma que la triada opera no solo como mapa cosmológico des
 
 > "El amarillo marca el límite entre lo uránico y lo ctónico donde debería haber conjugación"
 → [Gothika: De Profundis (25:26)](https://youtu.be/Gx2740if0Ho?t=1526)
-
 
 ## Lagunas
 

@@ -87,8 +87,6 @@ Arturo se lanza contra Mordred y muere encarnando el patrón; Frodo fracasa en e
 
 Esta lectura ubica al Grial como núcleo del [[mito-polar]] cristiano del canal: la entrega del rey reabre el ciclo de la tierra, restaura la flor sobre la podredumbre, y prolonga la liturgia (ver [[liturgia-como-rito]]) más allá de la muerte concreta del héroe.
 
-
-
 ## El secreto del Grial: rey y tierra son uno
 
 El directo monográfico *Análisis arquetípico: Excalibur* articula la fórmula precisa del secreto del Grial — la tesis que cifra el mecanismo entero:
@@ -108,7 +106,6 @@ La fórmula complementa la tesis ya documentada del Grial como sacrificio trasce
 
 El pecado precedente que la integración resuelve es el del rey que se cree separado de su reino — la **obsesión con el yo individual**. Por eso el corolario operativo es el perdón: Arturo pide perdón a Ginebra reconociendo que no había sabido ver su humanidad por estar obsesionado con lo que ella le hizo. El [[mito-polar|mito polar]] cristiano se cierra cuando el héroe deja de defender su yo y comprende que el reino no es propiedad sino extensión.
 
-
 ## Lagunas
 
 - El canal articula el Grial desde el marco católico-arturiano y tolkieniano; faltan en el corpus tratamientos comparativos con el Graal celta precristiano (caldero de Dagda, Bran) o con paralelos no occidentales del rey sacrificado
@@ -117,19 +114,10 @@ El pecado precedente que la integración resuelve es el del rey que se cree sepa
 
 ## Citations
 
-
-
-
-
-
-
-
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [59:52](https://youtu.be/K082yiudh-g?t=3592) · [1:13:29](https://youtu.be/K082yiudh-g?t=4409) · [1:15:29](https://youtu.be/K082yiudh-g?t=4529) · [1:48:26](https://youtu.be/K082yiudh-g?t=6506)
 - **Análisis arquetípico: Excalibur** — chunks: [54:05](https://youtu.be/daC37T5cbWs?t=3245) · [1:14:17](https://youtu.be/daC37T5cbWs?t=4457) · [1:18:20](https://youtu.be/daC37T5cbWs?t=4700) · [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)
 - **Análisis arquetípico La Bruja** — chunks: [2:04:12](https://youtu.be/rRlks0e0oxU?t=7452)
 
-
 - **Haciendo la bolbición** — chunks: [40:16](https://youtu.be/vM1-wWpB1PU?t=2416)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:18:49](https://youtu.be/aWeuzWLrLtE?t=4729)
 - **Los Apocalipsis. (Parte I)** — chunks: [1:43:30](https://youtu.be/lLRGemLUCtY?t=6210)
-

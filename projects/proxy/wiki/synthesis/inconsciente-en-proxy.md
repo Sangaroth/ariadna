@@ -164,8 +164,6 @@ El inconsciente afectivo no es amorfo — tiene estructura. El canal adopta los 
 
 La convergencia con [[teoria-de-las-emociones-en-proxy]] y con [[algebra-afectiva]] establece que las clases afectivas no son constructos voluntarios sino estructuras dadas filogenéticamente, con correlato neuroquímico preciso. El canal trata esto como evidencia empírica a favor de la existencia del inconsciente, no como metáfora: si los afectos primarios tienen sustrato neuroquímico identificable y operan antes de cualquier procesamiento consciente, el inconsciente es un hecho cognitivo antes que una hipótesis psicoanalítica.
 
-
-
 ## Filogenia ampliada del aparato afectivo y barreras somáticas
 
 El directo *Teoría de la mente y opción política* (ene 2026) refina la escala filogenética articulada arriba con dos piezas adicionales: la **secuencia evolutiva específica** desde organismos minimales hasta primates, y el constructo de **barreras somáticas** como mecanismo por el que los afectos se traducen en emociones.
@@ -195,7 +193,6 @@ La escala explícita ordena el aparato afectivo en cuatro niveles operativos: (1
 → [Teoría de la mente y opción política (11:16)](https://youtu.be/pgIY-zfcO4I?t=676)
 
 Las **barreras somáticas** son el constructo operativo por el que un afecto (representación implícita, profundamente inconsciente) se convierte en emoción (representación más explícita, parcialmente consciente). Las neuronas receptoras que traducen sensaciones — del exterior y del interior corporal — operan como interfaz somática: cuando un afecto activa la barrera, la representación gana corporeidad (sentir el miedo en el estómago, la ira en la mandíbula) y con ella grado de explicitud. La consecuencia para el continuo consciente/inconsciente que la página articula: la emoción es el afecto somatizado, y por eso el lenguaje — forma más explícita del pensamiento gramatical, diseñado para conectar con el cuerpo — es el vehículo más cómodo de la conciencia ordinaria. Pensar en palabras es operación cognitiva relativamente barata porque las palabras están preconfiguradas para movilizar el sustrato somático que el afecto puro no puede movilizar directamente.
-
 
 ## Pruebas de la existencia del inconsciente
 
@@ -280,17 +277,6 @@ Esta articulación del inconsciente es la categoría general de la que derivan l
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [31:45](https://youtu.be/9wJQ9tm9Yuc?t=1905) · [41:20](https://youtu.be/9wJQ9tm9Yuc?t=2480) · [42:50](https://youtu.be/9wJQ9tm9Yuc?t=2570) · [54:16](https://youtu.be/9wJQ9tm9Yuc?t=3256) · [58:18](https://youtu.be/9wJQ9tm9Yuc?t=3498) · [59:48](https://youtu.be/9wJQ9tm9Yuc?t=3588) · [1:00:18](https://youtu.be/9wJQ9tm9Yuc?t=3618) · [1:04:22](https://youtu.be/9wJQ9tm9Yuc?t=3862) · [1:05:22](https://youtu.be/9wJQ9tm9Yuc?t=3922) · [1:10:24](https://youtu.be/9wJQ9tm9Yuc?t=4224) · [1:20:23](https://youtu.be/9wJQ9tm9Yuc?t=4823) · [1:22:25](https://youtu.be/9wJQ9tm9Yuc?t=4945) · [1:28:28](https://youtu.be/9wJQ9tm9Yuc?t=5308)
 - **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:04:07](https://youtu.be/6cSsI85qCp8?t=3847)
 - **Teoría de la mente y opción política** — chunks: [11:16](https://youtu.be/pgIY-zfcO4I?t=676)
@@ -302,4 +288,3 @@ Esta articulación del inconsciente es la categoría general de la que derivan l
 - **T5x18 Tecnoética** — chunks: [52:32](https://youtu.be/k619QHupD5k?t=3152)
 - **T5x19: Realismo y mitología.** — chunks: [26:56](https://youtu.be/GDQSqtdFjBs?t=1616)
 - **Presentación del canal** — chunks: [1:01](https://youtu.be/vey4ah6vEOA?t=61)
-

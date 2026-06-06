@@ -60,8 +60,6 @@ status: stub_in_session
 
 > "El libro tiene casi todos los capítulos escritos excepto uno entero y dos medios capítulos,
 
-
-
 ### Series de directos *Del origen del mal* como capítulos en vivo
 
 La redacción del libro se acompaña de una serie de directos largos que sistematizan capítulos antes de la publicación. La parte III de la serie, titulada *La fe y los demonios* (122 min, marzo 2025), articula sostenidamente la demonología del canal con siete subestructuras internas (tres acepciones del demonio, cuatro formas canónicas del mal, cuatro formas de influencia demoníaca, cinco indicios patognomónicos de posesión, seis puertas de vulnerabilidad, cuatro personificaciones bíblicas y siete demonios capitales). Recibe tratamiento sistemático autónomo en [[demonios-en-proxy]].
@@ -140,13 +138,6 @@ El *sueño colectivo* del canal no postula identidad psíquica transpersonal —
 
 ## Citations
 
-
-
-
-
-
-
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [2:41:21](https://youtu.be/yAIPr0HzQqE?t=9681)
 - **Hambre y miedo (Cero). LOCUS** — chunks: [11:40](https://youtu.be/n2rtBxP-_e0?t=700)
-

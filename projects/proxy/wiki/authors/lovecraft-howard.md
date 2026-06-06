@@ -48,7 +48,6 @@ last_human_edit: null
 
 # H. P. Lovecraft
 
-
 ## Perfil
 
 Howard Phillips Lovecraft (Providence, Rhode Island, 1890 – 1937), escritor estadounidense, fundador del **horror cósmico** como subgénero literario y arquitecto de los **Mitos de Cthulhu**. En el corpus Proxy es el **autor literario más recurrente**: el canal organiza "noches de cuentos" monotemáticas dedicadas a leer e interpretar su obra completa.
@@ -88,7 +87,6 @@ La técnica conecta con un fenómeno conceptual independiente que el canal artic
 
 Lovecraft lleva esta inefabilidad al terror: lo aterrador no es lo que se ve sino lo que **no puede ser visto sin que el lenguaje colapse**.
 
-
 ## Barroquismo como recurso de credibilidad
 
 En el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula la **función** del barroquismo lovecraftiano que la sección anterior dejaba en plano descriptivo (la prosa como 'arbotantes de catedrales'). La pieza explica POR QUÉ el exceso narrativo opera y no fracasa.
@@ -129,8 +127,6 @@ La página articulaba 'La extraña casa elevada entre la niebla' como cuento le�
 - **'Ex oblivione'** (1921): prosa-poema breve donde el narrador huye de la locura cotidiana refugiándose en sueños recurrentes de un valle dorado con muro de hiedra y pequeña puerta de bronce; al obtener una droga que abre la cancela, atraviesa la puerta y es disuelto en el blanco vacío del olvido cristalino. Caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio). Página propia: [[ex-oblivione-lovecraft]].
   → [Análisis arquetípico: Asimov y Lovecraft. (1:22:42)](https://youtu.be/celiAdqrHYA?t=4962)
 
-
-
 ## Barroquismo como recurso de credibilidad
 
 En el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula la **función** del barroquismo lovecraftiano que la sección anterior dejaba en plano descriptivo (la prosa como 'arbotantes de catedrales'). La pieza explica POR QUÉ el exceso narrativo opera y no fracasa.
@@ -169,7 +165,6 @@ La página articulaba 'La extraña casa elevada entre la niebla' como cuento le�
   → [Análisis arquetípico: Asimov y Lovecraft. (58:40)](https://youtu.be/celiAdqrHYA?t=3520)
 
 - **'Ex oblivione'** (1921): prosa-poema breve donde el narrador huye de la locura cotidiana refugiándose en sueños recurrentes de un valle dorado con muro de hiedra y pequeña puerta de bronce; al obtener una droga que abre la cancela, atraviesa la puerta y es disuelto en el blanco vacío del olvido cristalino. Caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio). Página propia: [[ex-oblivione-lovecraft]].
-
 
 - **'Memoria'** (1919): prosa-poema temprana donde un genio lunar y un demonio del valle dialogan sobre las ruinas de un templo. El giro final revela que las criaturas-arquitectos eran hombres, recontextualizando el cuento como ciencia ficción retrospectiva. Caso paradigmático del esquema uránico/telúrico/cetónico ([[uranico-telurico-cetonico]]) articulado iconográficamente: genio arriba, demonio abajo, hombre fracasado dominado por monos en la superficie. Página propia: [[memoria-lovecraft]].
   → [Terror: Lovecraft y lo incompleto (27:18)](https://youtu.be/JzfcmEKWm1c?t=1638)
@@ -199,7 +194,6 @@ La lectura íntegra de 'Los otros dioses' permite articular un dispositivo cosmo
 La pieza extiende la articulación ya documentada del horror cósmico como inversión arquetípica del animismo. Donde el animismo arcaico tenía un solo cielo benévolo poblado de espíritus protectores, Lovecraft instaura un **doble cielo** en el que los dioses primarios (telúricos, dioses-de-la-tierra retirados a cumbres altas) están a su vez sometidos a una potencia superior más oscura (los otros dioses, uránicos malditos). La consecuencia operativa: la elevación contemplativa hacia lo divino — gesto canónico del místico clásico — en Lovecraft NO conduce a la teofanía sino al descubrimiento del segundo nivel donde la divinidad benigna queda revelada como custodiada por entidades indiferentes u hostiles. La fórmula que Lovecraft instaura en 'Los otros dioses' (Barzai contempla a los dioses telúricos y descubre el abismo de los uránicos malditos detrás) opera estructuralmente en [[bloodborne-game]] como mecánica del Insight: cuanto más conocimiento esotérico acumula el cazador, más se le revelan los Grandes que estaban operando detrás del cosmos del juego. La pieza añade al aparato la cifra cosmológica que las secciones anteriores tenían dispersa: el horror lovecraftiano no es solo indiferencia cósmica genérica sino arquitectura específica de doble nivel divino.
 
   → [Análisis arquetípico: Asimov y Lovecraft. (1:22:42)](https://youtu.be/celiAdqrHYA?t=4962)
-
 
 ## El horror cósmico: doble negación
 
@@ -277,24 +271,6 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Biblioteca de Babel II** — chunks: [22:35](https://youtu.be/IytpR6sGWXg?t=1355)
 - **Otoño de cuentos. Lovecraft** — chunks: [8:40](https://youtu.be/SwEqFdvBI9M?t=520) · [9:41](https://youtu.be/SwEqFdvBI9M?t=581) · [51:39](https://youtu.be/SwEqFdvBI9M?t=3099) · [1:05:01](https://youtu.be/SwEqFdvBI9M?t=3901) · [2:14:51](https://youtu.be/SwEqFdvBI9M?t=8091)
 - **Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne** — chunks: [3:04](https://youtu.be/9x8zTqpyZ5Q?t=184) · [15:12](https://youtu.be/9x8zTqpyZ5Q?t=912)
@@ -307,4 +283,3 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Terror: Lovecraft y lo incompleto.** — chunks: [11:34](https://youtu.be/JzfcmEKWm1c?t=694) · [26:18](https://youtu.be/JzfcmEKWm1c?t=1578) · [1:05:19](https://youtu.be/JzfcmEKWm1c?t=3919) · [1:06:50](https://youtu.be/JzfcmEKWm1c?t=4010) · [1:27:22](https://youtu.be/JzfcmEKWm1c?t=5242) · [1:53:45](https://youtu.be/JzfcmEKWm1c?t=6825)
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [1:28:28](https://youtu.be/9wJQ9tm9Yuc?t=5308)
 - **Directo Navidad y Entrevista a Unicornio** — chunks: [13:53](https://youtu.be/PTgRsC-KwSs?t=833)
-

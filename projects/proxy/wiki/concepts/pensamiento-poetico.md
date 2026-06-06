@@ -100,7 +100,6 @@ El canal extiende la categoría a dos territorios donde el pensamiento poético 
 
 Esto enlaza con la distinción canal-específica entre [[mitologia-propia-impropia]]: el mito propio es pensamiento poético consciente de serlo (legítimo); el mito impropio es pensamiento poético que se postula como descripción formal de la realidad (sofisma estético a escala cultural). El [[genesis-mitologico]] y otras estructuras cosmogónicas trabajadas por el canal se leen desde aquí.
 
-
 ## Razonamiento poético como motor de fusión categorial en política
 
 En el directo *Tontas en Potencia* (sept-2024) el canal aplica el aparato del pensamiento poético al dominio político-cognitivo: el mismo modo de encadenar representaciones por afinidad imaginaria/afectiva — legítimo en metáfora consciente, falaz cuando se postula como descripción formal — opera en la mente del receptor político fundiendo en una sola categoría figuras estructuralmente heterogéneas que comparten carga emocional.
@@ -121,8 +120,6 @@ La pieza articula la operación cognitiva: tres referentes históricamente, ideo
 
 La segunda articulación cierra el aparato con una pieza arquetípica: si el pensamiento poético funde por carga afectiva, la inversión del afecto adscrito al héroe (de admirable a patético) reorganiza la categoría disponible — donde antes operaba como modelo, opera ahora como objeto de compasión, y el lugar narrativo del bien se desliza del héroe a la víctima. La transición no es ideológica sino arquetípica: misma matriz noética, distinta valencia afectiva, distinto repertorio categorial disponible para la imaginación moral.
 
-
-
 ## Razonamiento poético como motor de fusión categorial en política
 
 En el directo *Tontas en Potencia* (sept-2024) el canal aplica el aparato del pensamiento poético al dominio político-cognitivo: el mismo modo de encadenar representaciones por afinidad imaginaria/afectiva — legítimo en metáfora consciente, falaz cuando se postula como descripción formal — opera en la mente del receptor político fundiendo en una sola categoría figuras estructuralmente heterogéneas que comparten carga emocional.
@@ -142,7 +139,6 @@ La pieza articula la operación cognitiva: tres referentes históricamente, ideo
 → [Tontas en Potencia (2:22:23)](https://youtu.be/1cKAgkEEbMA?t=8543)
 
 La segunda articulación cierra el aparato con una pieza arquetípica: si el pensamiento poético funde por carga afectiva, la inversión del afecto adscrito al héroe (de admirable a patético) reorganiza la categoría disponible — donde antes operaba como modelo, opera ahora como objeto de compasión, y el lugar narrativo del bien se desliza del héroe a la víctima. La transición no es ideológica sino arquetípica: misma matriz noética, distinta valencia afectiva, distinto repertorio categorial disponible para la imaginación moral.
-
 
 ## Conexiones con el marco del canal
 
@@ -158,33 +154,6 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - Sub-régimen no tematizado: el pensamiento poético en contextos no-lingüísticos (música, arquitectura, ritual) — el canal lo trata casi siempre desde casos verbales
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
@@ -203,4 +172,3 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - **Avisos parroquiales** — chunks: [8:18](https://youtu.be/F1isbFH_FeM?t=498)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:26:26](https://youtu.be/BOIcK1Rpdvo?t=5186)
 - **Biblioteca de Babel II** — chunks: [0:17](https://youtu.be/IytpR6sGWXg?t=17)
-

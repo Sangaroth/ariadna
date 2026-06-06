@@ -202,8 +202,6 @@ La lectura del canal: lo que Bueno trata como tercer género de materialidad (M3
 
 La precisión cierra el flanco crítico que ya estaba abierto: el canal usa el aparato buenista como **infraestructura ontológica orientativa** (especialmente la distinción material/fisicalismo y la noción de symploké), pero rechaza tanto los términos poéticos (paso al límite, cierre categorial) como la suficiencia de la tripartición para una teoría de la mente. Para esa teoría, articula un marco propio — el [[realismo-cognitivo]] como axiomática de clases — y un modelo formal-computacional que la operacionaliza ([[galatea-modelo-protomente]]).
 
-
-
 ## Eutaxia y distaxia: la teoría buenista del estado aplicada a España
 
 En el directo *Tremendo martes* (04 mar 2026) el canal aplica explícitamente el par buenista **eutaxia / distaxia** como diagnóstico operativo de la situación española. La pieza cubre parcialmente la laguna de filosofía política buenista que la página listaba: hasta aquí el aprovechamiento del aparato buenista era ontológico (M1/M2/M3, ego trascendental, hiperrealidad); ahora se incorpora la dimensión política del sistema con su vocabulario propio.
@@ -227,8 +225,6 @@ La lectura sitúa el estado de autonomías como mecanismo distáxico estructural
 
 El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada del canal frente al sistema buenista: se hereda el vocabulario operativo y la categorización política, pero la articulación con el [[realismo-cognitivo]] cierra la causalidad psíquica del fenómeno (ver pending_update herida-narcisista-en-proxy y thesis_candidate sobre asimetría de la introyección de culpa por sexo) — Bueno aporta la categoría del proceso, el canal aporta su mecanismo psíquico subyacente.
 
-
-
 ## Refinamientos del laboratorio dialéctico con Sofía (jul 2025)
 
 El directo *T4 Laboratorio de... filo, con Sofía* opera como pieza dialéctica donde Proxy confronta su realismo cognitivo con una estudiante directa del sistema buenista (Sofía). La sesión añade refinamientos operativos del aparato que las secciones anteriores tenían dispersos.
@@ -296,9 +292,6 @@ La objeción del canal a esta articulación queda explícita en la sesión: 'cad
 
 La pieza articula el ejemplo canónico de la inconmensurabilidad M1-M2 vía caso paradigmático: el cerebro de Newton es M1 (estructura física), las ideas de Newton son M2 (interioridad), y aunque no puedas hallar las ideas examinando el órgano (la inconmensurabilidad es real), tampoco puedes sustituir el cerebro sin perder al sujeto-Newton (la coextensividad es real). La doble afirmación captura la posición buenista frente al fisicalismo crudo (que reduciría M2 a M1) y al idealismo subjetivo (que separaría completamente M2 de M1) en una sola fórmula operativa: las dos materialidades coexisten en el mismo entreteijido (estroma) pero ninguna puede expresarse en términos de la otra.
 
-
-
-
 ## Refinamientos del laboratorio dialéctico con Sofía (jul 2025)
 
 El directo *T4 Laboratorio de... filo, con Sofía* opera como pieza dialéctica donde Proxy confronta su realismo cognitivo con una estudiante directa del sistema buenista (Sofía). La sesión añade refinamientos operativos del aparato que las secciones anteriores tenían dispersos.
@@ -365,8 +358,6 @@ La objeción del canal a esta articulación queda explícita en la sesión: 'cad
 → [Laboratorio de filo, con Sofía (25:21)](https://youtu.be/GizCbTycY4U?t=1521)
 
 La pieza articula el ejemplo canónico de la inconmensurabilidad M1-M2 vía caso paradigmático: el cerebro de Newton es M1 (estructura física), las ideas de Newton son M2 (interioridad), y aunque no puedas hallar las ideas examinando el órgano (la inconmensurabilidad es real), tampoco puedes sustituir el cerebro sin perder al sujeto-Newton (la coextensividad es real). La doble afirmación captura la posición buenista frente al fisicalismo crudo (que reduciría M2 a M1) y al idealismo subjetivo (que separaría completamente M2 de M1) en una sola fórmula operativa: las dos materialidades coexisten en el mismo entreteijido (estroma) pero ninguna puede expresarse en términos de la otra.
-
-
 
 ## Refinamientos del laboratorio T4Lx02 con Santiago: M3 y cierre categorial (jul 2025)
 
@@ -480,9 +471,6 @@ La pieza articula la inversión foundational de Aristóteles que define la **teo
 
 La pieza precisa el límite operativo de la verdad científica y por qué la filosofía sigue siendo necesaria. Las verdades científicas son las verdades dentro de un cierre categorial concreto — operan por construcción operatoria con aparatos. Pero hay situaciones donde múltiples verdades científicas coexisten produciendo conflicto (el ejemplo del pan: ambos morirán sin comer y solo hay una barra). La filosofía como saber de segundo grado opera precisamente donde las ciencias no alcanzan: articula las ideas trans-categoriales (justicia, propiedad, sacrificio) que las ciencias particulares no pueden resolver desde su propio cierre. La articulación cierra el ciclo del materialismo filosófico: ciencias = construcción operatoria de cierres categoriales; filosofía = articulación trans-categorial de ideas que desbordan los cierres particulares.
 
-
-
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Teoría del cierre categorial**: la sesión cubre ego trascendental y géneros de -->
@@ -494,83 +482,6 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **Bibliografía citada**: la sesión es de estudio sobre fuente directa pero el summary no nombra qué textos de Bueno se trabajan (¿*Ensayos materialistas*? ¿*El ego trascendental*?). Pendiente identificar fuentes primarias
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
@@ -618,4 +529,3 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 - **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [19:51](https://youtu.be/GdQY1iOa68w?t=1191) · [20:51](https://youtu.be/GdQY1iOa68w?t=1251) · [1:42:01](https://youtu.be/GdQY1iOa68w?t=6121)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:09:43](https://youtu.be/NKFWUxt5VQ4?t=4183)
-

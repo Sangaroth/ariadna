@@ -128,8 +128,6 @@ El canal codifica el cabello de Rapunzel como símbolo de la transferencia vital
 
 Esta figura condensa el mecanismo central de la tipología: la madre oscura no solo niega el crecimiento del hijo, sino que requiere activamente drenar su sustancia vital —alma, recursos, emociones, belleza— para mantener su propia apariencia de vida. El pelo que crece durante el encierro mide literalmente el potencial no liberado.
 
-
-
 ## Anticristo (von Trier, 2009): la madre oscura como inversión consumada de la diosa madre
 
 [[anticristo-2009-film|Anticristo]] de Lars von Trier opera en el corpus como **una de las descripciones más logradas del arquetipo** — paradigma cinematográfico de la madre oscura no en su modalidad protectora-disney (Gothel, la madrastra) sino en su modalidad culpa-brujería:
@@ -166,9 +164,6 @@ El indicio narrativo que el canal subraya como cifra del arquetipo es operativo 
 
 La equivalencia explícita madre-oscura ↔ [[lilit-mito|Lilit]] (la madre que hace daño a su hijo) cierra una articulación que la articulación previa de la página dejaba implícita. La cifra de los zapatos al revés añade además criterio diagnóstico operativo: el daño deliberado al hijo en la madre oscura es **indetectable por el observador exterior** (parece cuidado — la madre le pone los zapatos), lo que distingue este vector del abuso explícito tratado por la psiquiatría clásica.
 
-
-
-
 ## Anticristo (von Trier, 2009): la madre oscura como inversión consumada de la diosa madre
 
 [[anticristo-2009-film|Anticristo]] de Lars von Trier opera en el corpus como **una de las descripciones más logradas del arquetipo** — paradigma cinematográfico de la madre oscura no en su modalidad protectora-disney (Gothel, la madrastra) sino en su modalidad culpa-brujería:
@@ -204,8 +199,6 @@ El indicio narrativo que el canal subraya como cifra del arquetipo es operativo 
 → [No entendiste Anticristo. Análisis arquetípico (1:50:53)](https://youtu.be/0EeqbwZJUQw?t=6653)
 
 La equivalencia explícita madre-oscura ↔ [[lilit-mito|Lilit]] (la madre que hace daño a su hijo) cierra una articulación que la articulación previa de la página dejaba implícita. La cifra de los zapatos al revés añade además criterio diagnóstico operativo: el daño deliberado al hijo en la madre oscura es **indetectable por el observador exterior** (parece cuidado — la madre le pone los zapatos), lo que distingue este vector del abuso explícito tratado por la psiquiatría clásica.
-
-
 
 ## Hereditary (Ari Aster, 2018): la madre oscura abuela y la usurpación transgeneracional
 
@@ -246,8 +239,6 @@ La película articula deliberadamente tres niveles de interpretación irresuelto
 
 Las tres lecturas convergen sobre el mismo mecanismo arquetípico: la replicación transgeneracional de la corrupción del polo materno opera estructuralmente igual sea cual sea el vehículo causal (ritual demoníaco, transmisión psicológica, herencia genético-clínica). La pieza importa para el catálogo: la madre oscura como categoría arquetípica precede ontológicamente a sus encarnaciones causales — el mecanismo sobreviva a la indeterminación entre brujería, neurosis y psicosis, lo que confirma su estatus arquetípico genuino frente a su mera ocurrencia narrativa.
 
-
-
 ## Suspiria (Guadagnino, 2018): la triple madre oscura como Trinidad invertida
 
 [[suspiria-2018-film|Suspiria]] articula una pieza estructural que las secciones anteriores tenían dispersa: la madre oscura tiene **una tipología arquetípica triple paralela e invertida** a la triple diosa blanca articulada en [[diosa-blanca]]. El diario de Patricia (personaje del aquelarre) sistematiza tres modalidades canónicas que la película codifica como Trinidad de feminidades prohibidas:
@@ -287,9 +278,6 @@ La película extiende la tipología más allá del eje psicológico individual h
 
 La correspondencia mítica/institucional/personal cifra el alcance del arquetipo: no es solo descripción de figuras individuales sino mapa estructural de cómo la corrupción del polo materno se distribuye en formas culturales reconocibles. El aquelarre es el espacio terminal de la bruja como modalidad cancelada del eje sano (eco operativo de [[diosa-blanca|Medusa como bruja terminal]]); la escuela es el espacio donde la tutora mediatiza la relación adulta-joven; la iglesia es el espacio donde la madre figura como modelo cultural. La triple correspondencia añade al aparato la dimensión institucional que las secciones previas tenían dispersa entre los casos individuales (Gothel, madrastra, Anticristo, Hereditary): la madre oscura no es solo configuración psíquica individual sino **modelo institucional reproducible** cuyas tres modalidades canónicas tienen encarnaciones culturales reconocibles.
 
-
-
-
 ## Suspiria (Guadagnino, 2018): la triple madre oscura como Trinidad invertida
 
 [[suspiria-2018-film|Suspiria]] articula una pieza estructural que las secciones anteriores tenían dispersa: la madre oscura tiene **una tipología arquetípica triple paralela e invertida** a la triple diosa blanca articulada en [[diosa-blanca]]. El diario de Patricia (personaje del aquelarre) sistematiza tres modalidades canónicas que la película codifica como Trinidad de feminidades prohibidas:
@@ -328,9 +316,6 @@ La película extiende la tipología más allá del eje psicológico individual h
 → [Suspiria: El Maligno y el Mito Lunar (2:01:52)](https://youtu.be/nw7fSEAJr-U?t=7312)
 
 La correspondencia mítica/institucional/personal cifra el alcance del arquetipo: no es solo descripción de figuras individuales sino mapa estructural de cómo la corrupción del polo materno se distribuye en formas culturales reconocibles. El aquelarre es el espacio terminal de la bruja como modalidad cancelada del eje sano (eco operativo de [[diosa-blanca|Medusa como bruja terminal]]); la escuela es el espacio donde la tutora mediatiza la relación adulta-joven; la iglesia es el espacio donde la madre figura como modelo cultural. La triple correspondencia añade al aparato la dimensión institucional que las secciones previas tenían dispersa entre los casos individuales (Gothel, madrastra, Anticristo, Hereditary): la madre oscura no es solo configuración psíquica individual sino **modelo institucional reproducible** cuyas tres modalidades canónicas tienen encarnaciones culturales reconocibles.
-
-
-
 
 ## Conexión con otros conceptos
 
@@ -347,39 +332,6 @@ La madre oscura como tipología se inscribe en la [[tipologia-femenina-arquetipi
 - **Relación con el polo lunar sano**: el canal sitúa la madre oscura como inversión del polo femenino lunar, pero la articulación completa de ese contraste con el [[mito-lunar]] y la [[diosa-blanca]] excede el fragmento disponible
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [14:36](https://youtu.be/OT2DW4zoKsE?t=876) · [17:07](https://youtu.be/OT2DW4zoKsE?t=1027) · [21:39](https://youtu.be/OT2DW4zoKsE?t=1299) · [32:16](https://youtu.be/OT2DW4zoKsE?t=1936) · [35:18](https://youtu.be/OT2DW4zoKsE?t=2118)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [26:32](https://youtu.be/NjtK76xzV18?t=1592)
@@ -402,4 +354,3 @@ La madre oscura como tipología se inscribe en la [[tipologia-femenina-arquetipi
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [42:28](https://youtu.be/DNxx4qwb944?t=2548)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [41:32](https://youtu.be/5uFhZcARjYQ?t=2492)
 - **TikTok  y la Madre Oscura #arquetipos** — chunks: [0:30](https://youtu.be/5LSzvknVFYM?t=30)
-

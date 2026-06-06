@@ -58,8 +58,6 @@ El canal articula el par **dominio / franja de incertidumbre** como constructo p
 
 El dominio aporta la **certeza** (lo que el yo sabe hacer); la franja de incertidumbre aporta el **margen** que mantiene activa la voluntad. Sin franja, el sistema motivacional colapsa hacia la depresión; con franja desbordada, se desplaza hacia la ansiedad.
 
-
-
 ## Dominio funcional vs control obsesivo, y polaridad arquetípica del dominio
 
 En sesión navideña el canal precisa el dominio en dos direcciones complementarias a la formulación posicional original: una reformulación funcional (qué busca el dominio) y una diferenciación clínica (qué NO es).
@@ -82,7 +80,6 @@ El canal añade una articulación gendered del dominio que conecta el par domini
 → [Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)
 
 En la psique masculina el dominio opera como **inhibición top-down** sobre los impulsos motores que el entorno solicita: el cerebro masculino estaría preparado para poner objetos en movimiento y para ejercer dominio sobre el entorno inmediato, y el dominio sano consiste precisamente en sostener inhibida esa pulsión cuando el contexto no la pide. En la psique femenina el dominio opera como sostenimiento de presencia: dejarse atravesar por la emoción sin desestabilizar el contexto. La pieza extiende el par dominio/franja desde el plano motivacional-serotoninérgico al plano arquetípico, y permite leer fenómenos como el comportamiento de utilización (pulsión motora sobre objetos sin filtro inhibitorio) como la falla específica del dominio masculino.
-
 
 ## La felicidad como equilibrio, no como tamaño del dominio
 
@@ -206,94 +203,6 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -350,4 +259,3 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Femenino (I)** — chunks: [35:58](https://youtu.be/VR3snBjNrsc?t=2158) · [1:16:29](https://youtu.be/VR3snBjNrsc?t=4589)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [2:16:20](https://youtu.be/BOIcK1Rpdvo?t=8180)
 - **T5x14: Conan** — chunks: [1:05:09](https://youtu.be/mR2X391fQu4?t=3909)
-

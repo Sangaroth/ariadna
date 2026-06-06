@@ -141,9 +141,6 @@ La película articula el evento canónico vía la maternidad de Louise: el conoc
 - **Comparativa con otras obras de ciencia ficción**: posible análisis comparativo con Contact, Interstellar u otras obras con cosmovisión femenino-receptiva; no recuperado en el fragmento disponible
 - **La oposición Louise / Ian Donnelly**: la pareja lingüista (femenino-receptiva) / físico (masculino-calculador) es esperable en el marco del canal como encarnación del dipolo [[mito-solar]]/[[mito-lunar]]; no desarrollada en el fragmento disponible
 
-
-
-
 ## Marco teórico (Parte 1 del análisis): mito lunar, Sapir-Whorf y teorías lingüísticas
 
 La Parte 1 del análisis monográfico (sin entender la teoría del lenguaje, la película no se comprende correctamente) articula el marco teórico que sostiene la lectura arquetípica desplegada en la Parte 2.
@@ -281,20 +278,6 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [14:17](https://youtu.be/wIhH72UFUPY?t=857) · [47:41](https://youtu.be/wIhH72UFUPY?t=2861) · [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [14:47](https://youtu.be/lw7XI2lQntM?t=887) · [24:55](https://youtu.be/lw7XI2lQntM?t=1495)
 - **La Mala Ciencia** — chunks: [46:28](https://youtu.be/hD6YeyjukGA?t=2788)
@@ -304,4 +287,3 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:35:20](https://youtu.be/iPqOn-ynSlE?t=5720)
 - **Educación, escuela y tecnología** — chunks: [18:33](https://youtu.be/TnbtB4d68wU?t=1113)
 - **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [30:28](https://youtu.be/FllWy0fpkrM?t=1828)
-

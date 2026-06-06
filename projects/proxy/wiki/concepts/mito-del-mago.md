@@ -113,8 +113,6 @@ Esta operación reproduce la estructura alquímica clásica: el mago intenta **c
 
 El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el héroe sale al mundo exterior y enfrenta el umbral de la muerte para renacer transformado, el mago se encierra en su laboratorio e intenta vencer la muerte desde dentro, sin transformarse. El mago no cruza ningún umbral — construye un muro frente a él.
 
-
-
 ## La oposición operativa héroe vs mago en Conan el Bárbaro
 
 T5x14 (abr-2026) articula explícitamente la OPOSICIÓN OPERATIVA entre el héroe y el mago a partir del análisis arquetípico de [[conan-el-barbaro-1982-film]]. Donde la sección 'Estructura arquetípica' contrastaba al mago con el viaje del héroe en clave de inversión espacial (el héroe sale al mundo, el mago se encierra), Conan precisa la diferencia en clave **moral-operativa**: ambos manejan poder, pero el héroe lo dirige hacia el AUTODOMINIO mientras el mago lo dirige hacia el DOMINIO DE OTROS por consumo de sus pasiones.
@@ -188,52 +186,6 @@ La consecuencia editorial cierra la oposición operativa: donde el mago se conde
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:34:59](https://youtu.be/t8v5w3s0USA?t=5699)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
@@ -258,4 +210,3 @@ La consecuencia editorial cierra la oposición operativa: donde el mago se conde
 - **T5x14: Conan** — chunks: [1:00:37](https://youtu.be/mR2X391fQu4?t=3637) · [1:05:09](https://youtu.be/mR2X391fQu4?t=3909) · [1:08:41](https://youtu.be/mR2X391fQu4?t=4121) · [1:10:43](https://youtu.be/mR2X391fQu4?t=4243) · [1:15:18](https://youtu.be/mR2X391fQu4?t=4518)
 - **BUT WHY?** — chunks: [10:17](https://youtu.be/4tAWgX7-yXk?t=617)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:16:25](https://youtu.be/xc8e2i_nREE?t=4585)
-

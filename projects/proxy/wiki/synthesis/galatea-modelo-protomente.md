@@ -103,8 +103,6 @@ Galatea fue suspendido en su momento por barreras técnicas y de recursos, pero 
 
 Se presenta así como programa de investigación abierto, no como teoría cerrada: una ruta experimental para verificar empíricamente la tesis de la mente encarnada frente al pansiquismo computacional.
 
-
-
 ## Arquitectura del modelo: 8 nodos, metagrafos, cálculo lambda
 
 En el directo *Psicología 101: Del libre albedrío a la computación artificial* (marzo 2025) el canal articula por primera vez la arquitectura formal del proyecto. Galatea no es una red neuronal monolítica: es un **metagrafo** — un grafo cuyos nodos son a su vez subgrafos neuronales — con ocho nodos fundamentales que codifican funciones cognitivas específicas y se interconectan mediante conexiones ponderadas probabilísticas.
@@ -242,8 +240,6 @@ La arquitectura emerge sin nodo de error explícito: solo nodos de máximos de e
 
 La arquitectura cierra así el aparato del modelo: de la axiomática de clases del realismo cognitivo (sustrato epistemológico) al metagrafo computable (implementación), de la batería afectiva mamífera completa (referencia teórica) al subset operacional de cuatro sistemas (implementación inicial), de la hidra de los GCaMP (organismo planificado en la primera fase) al hidrozoario con tres canales sensoriales unificados (organismo definitivo).
 
-
-
 ## El estatuto epistemológico de Galatea: lenguaje ejecutable, no programa
 
 En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa el estatuto epistemológico del proyecto que las articulaciones anteriores dejaban implícito. Galatea no es programa en el sentido informático corriente — es un lenguaje formal ejecutable cuyo objetivo es la emulación máxima de la cognición humana con simulación mínima:
@@ -339,9 +335,6 @@ La pieza teórica complementaria que el directo invoca es la propuesta de George
 
 La lectura del canal cierra el bucle: si la semántica humana está encarnada (Lakoff) y los embeddings universales revelan una metaestructura común (Vec2Vec), entonces los embeddings de embeddings operan como **versión computacional de la encarnación**. La corporalidad semántica que Lakoff articula desde la lingüística cognitiva tiene su correlato computacional en la geometría vectorial revelada por la traducción inter-LLM. La tesis filosófica del canal — la cognición es geométrica porque el sustrato cerebral lo es — encuentra aquí confirmación operativa adicional: la cognición computacional también desarrolla geometría representacional convergente sin haber sido programada para ello.
 
-
-
-
 ## El estatuto epistemológico de Galatea: lenguaje ejecutable, no programa
 
 En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa el estatuto epistemológico del proyecto que las articulaciones anteriores dejaban implícito. Galatea no es programa en el sentido informático corriente — es un lenguaje formal ejecutable cuyo objetivo es la emulación máxima de la cognición humana con simulación mínima:
@@ -436,7 +429,6 @@ La pieza teórica complementaria que el directo invoca es la propuesta de George
 → [Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)
 
 La lectura del canal cierra el bucle: si la semántica humana está encarnada (Lakoff) y los embeddings universales revelan una metaestructura común (Vec2Vec), entonces los embeddings de embeddings operan como **versión computacional de la encarnación**. La corporalidad semántica que Lakoff articula desde la lingüística cognitiva tiene su correlato computacional en la geometría vectorial revelada por la traducción inter-LLM. La tesis filosófica del canal — la cognición es geométrica porque el sustrato cerebral lo es — encuentra aquí confirmación operativa adicional: la cognición computacional también desarrolla geometría representacional convergente sin haber sido programada para ello.
-
 
 ## Distinción operativa clase cognitiva vs objeto + utilization behavior como falsador empírico
 
@@ -520,7 +512,6 @@ La pieza añade una distinción categorial crítica para el aparato del modelo: 
 
 La pieza clínica es decisiva como **falsador empírico** del modelo: el utilization behavior — síndrome neurológico donde el paciente con lesión frontal manipula compulsivamente cualquier objeto que entra en su campo visual (coge la cuchara y come si está sobre la mesa, coge la peineta y se peina si está al alcance) — demuestra que la percepción del objeto activa automáticamente sus clases procedimentales, y solo la inhibición frontal mantiene esa activación bajo control voluntario. La consecuencia para Galatea es directa: el modelo debe contener (a) activación automática de clases procedimentales asociadas al objeto perceptual, (b) circuito inhibitorio que filtra cuáles se ejecutan. La arquitectura ya documentada (nodo inhibitorio + nodo de síntesis con cuello de botella consciente) recibe aquí confirmación clínica empírica directa.
 
-
 ## Continuo espaciotemporal como condición ontológica de la inteligencia
 
 En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal añade un criterio operativo-ontológico que las articulaciones técnicas previas (8 nodos, 7 motores, hidrozoario, cálculo lambda) dejaban implícito: para que el sistema cuente como inteligencia genuina y no como simulación, el sistema debe ser inapagable como un electrodoméstico.
@@ -536,8 +527,6 @@ En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal añade
 
 La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos afectivos como motor de necesidades genuinas**: la propuesta no es añadir 'capacidades emocionales' a un sistema computacional; es construir un sistema cuyo funcionamiento sea ya consecuencia de necesidades afectivas internas — alostasis (regulación de la propia estabilidad) en lugar de homeostasis programada. (b) **Autonomía como consecuencia, no como prestación añadida**: una vez introducidas necesidades genuinas, el sistema deja automáticamente de ser herramienta — no porque se 'libere' por elección de diseño, sino porque la categoría 'a nuestro servicio' deja de aplicarle. La autonomía es derivación lógica de la afectividad, no programa adicional. (c) **Continuo espaciotemporal como criterio operativo decisivo**: la inteligencia exige existencia sostenida — un sistema inteligente NO puede ser apagado y reactivado al gusto del operador porque la operación inteligente es necesariamente diacrónica, requiere continuidad temporal y espacial entre estados. Apagable = no-inteligente. La consecuencia operativa para [[conciencia-e-inteligencia-en-proxy]] es directa: el criterio es complementario al criterio HOT (jerarquía metarrepresentacional) y al criterio 3Q (componentes afectiva, formal, imaginaria) — añade el flanco temporal de la cognición que las dos articulaciones previas dejaban implícito como condición de fondo.
 
-
-
 ## Continuo espaciotemporal como condición ontológica de la inteligencia
 
 En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal añade un criterio operativo-ontológico que las articulaciones técnicas previas (8 nodos, 7 motores, hidrozoario, cálculo lambda) dejaban implícito: para que el sistema cuente como inteligencia genuina y no como simulación, el sistema debe ser inapagable como un electrodoméstico.
@@ -552,10 +541,6 @@ En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal añade
 → [Transhumanismo, IA y Ciencia Ficción. (43:06)](https://youtu.be/kdk8mi7-Y1s?t=2586)
 
 La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos afectivos como motor de necesidades genuinas**: la propuesta no es añadir 'capacidades emocionales' a un sistema computacional; es construir un sistema cuyo funcionamiento sea ya consecuencia de necesidades afectivas internas — alostasis (regulación de la propia estabilidad) en lugar de homeostasis programada. (b) **Autonomía como consecuencia, no como prestación añadida**: una vez introducidas necesidades genuinas, el sistema deja automáticamente de ser herramienta — no porque se 'libere' por elección de diseño, sino porque la categoría 'a nuestro servicio' deja de aplicarle. La autonomía es derivación lógica de la afectividad, no programa adicional. (c) **Continuo espaciotemporal como criterio operativo decisivo**: la inteligencia exige existencia sostenida — un sistema inteligente NO puede ser apagado y reactivado al gusto del operador porque la operación inteligente es necesariamente diacrónica, requiere continuidad temporal y espacial entre estados. Apagable = no-inteligente. La consecuencia operativa para [[conciencia-e-inteligencia-en-proxy]] es directa: el criterio es complementario al criterio HOT (jerarquía metarrepresentacional) y al criterio 3Q (componentes afectiva, formal, imaginaria) — añade el flanco temporal de la cognición que las dos articulaciones previas dejaban implícito como condición de fondo.
-
-
-
-
 
 ## Lagunas
 
@@ -568,27 +553,8 @@ La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [1:14:47](https://youtu.be/i72IYlpQWd0?t=4487) · [1:22:43](https://youtu.be/i72IYlpQWd0?t=4963)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [19:49](https://youtu.be/hx9creRpdnY?t=1189) · [30:28](https://youtu.be/hx9creRpdnY?t=1828) · [35:30](https://youtu.be/hx9creRpdnY?t=2130) · [37:31](https://youtu.be/hx9creRpdnY?t=2251) · [45:05](https://youtu.be/hx9creRpdnY?t=2705) · [52:44](https://youtu.be/hx9creRpdnY?t=3164) · [55:46](https://youtu.be/hx9creRpdnY?t=3346) · [1:04:29](https://youtu.be/hx9creRpdnY?t=3869) · [1:13:23](https://youtu.be/hx9creRpdnY?t=4403)
-
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:06:20](https://youtu.be/cbdLR0HTE3w?t=3980) · [1:29:05](https://youtu.be/cbdLR0HTE3w?t=5345)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [10:35](https://youtu.be/UOk344kEeRM?t=635) · [1:39:54](https://youtu.be/UOk344kEeRM?t=5994)
@@ -600,4 +566,3 @@ La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos
 - **La teoría de la teoría de la mente** — chunks: [1:46:27](https://youtu.be/zASckAZqmfM?t=6387) · [1:50:00](https://youtu.be/zASckAZqmfM?t=6600)
 - **Avisos parroquiales** — chunks: [13:20](https://youtu.be/F1isbFH_FeM?t=800)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:31:18](https://youtu.be/NKFWUxt5VQ4?t=5478) · [1:34:24](https://youtu.be/NKFWUxt5VQ4?t=5664)
-

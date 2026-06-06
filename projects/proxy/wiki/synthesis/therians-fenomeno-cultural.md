@@ -163,6 +163,4 @@ Esta lectura conecta el fenómeno con patrones más amplios de infantilización 
 
 ## Citations
 
-
 - **Lunes 100 tífiko: Therians** — chunks: [35:34](https://youtu.be/aaIT2JDaL6c?t=2134) · [43:14](https://youtu.be/aaIT2JDaL6c?t=2594) · [46:47](https://youtu.be/aaIT2JDaL6c?t=2807) · [55:24](https://youtu.be/aaIT2JDaL6c?t=3324) · [1:04:03](https://youtu.be/aaIT2JDaL6c?t=3843) · [1:18:18](https://youtu.be/aaIT2JDaL6c?t=4698)
-

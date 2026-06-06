@@ -97,6 +97,4 @@ Esta distinción es clave en el argumento: la [[inteligencia-y-adaptacion-en-pro
 
 ## Citations
 
-
 - **Inteligencia Artificial en las aulas: La evaluación a examen** — chunks: [0:30](https://youtu.be/mTxqaNIoyyU?t=30)
-

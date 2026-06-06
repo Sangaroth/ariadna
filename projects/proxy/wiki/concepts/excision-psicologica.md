@@ -86,8 +86,6 @@ La excisión se relaciona con varias categorías ya tratadas en el corpus:
 - Funciona como condición previa a la [[individuation]]: liberar el yo de las metas heterónomas del entorno es paso necesario para que la madurez psicológica no consista en ser una copia de los valores del colectivo.
 - Se aplica como respuesta cuando el propio país deriva hacia un cuadrante del [[diagrama-de-proxy]] que uno rechaza, sin que ello obligue a renunciar al vínculo identitario.
 
-
-
 ## La excisión como mecanismo psíquico: distinción frente a disociación y despersonalización
 
 En el directo *Twitchversario de Proxy* (01 oct 2024) el canal articula explícitamente la distinción operativa entre excisión y disociación que esta página declaraba como laguna abierta, e introduce además la despersonalización como sub-tipo de disociación. La pieza es importante para la página: la 'excisión' como estrategia consciente sobre el vínculo identitario es solo una de las manifestaciones de un mecanismo psíquico más general — la **contemplación polarizada** — que opera tanto a nivel relacional (vínculo con país, familia) como a nivel intrapsíquico (relación con representaciones del propio yo o del entorno).
@@ -122,8 +120,6 @@ La preferencia terminológica es operativa: el speaker analiza un testimonio de 
 
 La pieza cierra parcialmente la laguna sobre el criterio diferencial entre excisión y disociación, y abre el alcance del término hacia procesos clínicos donde el canal mantiene la primacía analítica de la integridad del yo frente a las lecturas que reducen toda separación interna a fragmentación patológica.
 
-
-
 ## Suspiria (Guadagnino, 2018): la excisión como denouement del vínculo madre-hija
 
 El análisis arquetípico de [[suspiria-2018-film|Suspiria]] de Luca Guadagnino articula la pieza que la página declaraba como laguna abierta: la dimensión clínica de la excisión cuando el entorno NO es un país abstracto sino un vínculo primario cargado afectivamente. La película plantea explícitamente la disyuntiva binaria que la madre moribunda formula en su lecho de muerte:
@@ -160,9 +156,6 @@ La pieza añade al aparato el dispositivo operativo del perdón excisorio. NO es
 
 La consecuencia para el aparato: la excisión opera idénticamente en vínculos primarios y en vínculos identitarios colectivos. La diferencia es de grado de carga afectiva (máxima en lo primario), no de estructura. El criterio operativo se cifra en el binario que Suspiria expone explícitamente — condensación (síntoma patológico, todo el material colapsa en una valencia única) vs excisión (operación sana, las piezas se distinguen y cada una opera en su registro).
 
-
-
-
 ## Suspiria (Guadagnino, 2018): la excisión como denouement del vínculo madre-hija
 
 El análisis arquetípico de [[suspiria-2018-film|Suspiria]] de Luca Guadagnino articula la pieza que la página declaraba como laguna abierta: la dimensión clínica de la excisión cuando el entorno NO es un país abstracto sino un vínculo primario cargado afectivamente. La película plantea explícitamente la disyuntiva binaria que la madre moribunda formula en su lecho de muerte:
@@ -198,8 +191,6 @@ La pera en rodajas opera como cifra visual de la mecánica excisoria: dividir el
 La pieza añade al aparato el dispositivo operativo del perdón excisorio. NO es justificación retrospectiva de los hechos (la madre se equivocó), NO es olvido (los recuerdos siguen ahí), es **abandono del peso afectivo de los recuerdos** mientras se preserva su contenido cognitivo. La protagonista comprende que la madre suspiraba por temor a su hija, no por maldad — la reinterpretación del afecto materno preserva el vínculo identitario sin obligar a sostener las metas (heterónomas) que la madre quería imponer. La continuidad operativa con el caso identitario nacional articulado en la sección 'Caso paradigmático: convivir con la deriva del propio país' es estructural: igual que el sujeto puede dejar de perseguir las metas del país sin renegar de la pertenencia, la hija puede dejar de cargar el peso afectivo del juicio materno sin renegar de la madre.
 
 La consecuencia para el aparato: la excisión opera idénticamente en vínculos primarios y en vínculos identitarios colectivos. La diferencia es de grado de carga afectiva (máxima en lo primario), no de estructura. El criterio operativo se cifra en el binario que Suspiria expone explícitamente — condensación (síntoma patológico, todo el material colapsa en una valencia única) vs excisión (operación sana, las piezas se distinguen y cada una opera en su registro).
-
-
 
 ## Lagunas
 
@@ -211,28 +202,6 @@ La consecuencia para el aparato: la excisión opera idénticamente en vínculos 
 - No se conecta explícitamente con la tradición psicoanalítica del *duelo* ni con la noción de elaboración: la excisión parece operar antes del duelo (no hay pérdida del objeto, hay redefinición del vínculo), pero la articulación queda pendiente.
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **La Huida** — chunks: [54:03](https://youtu.be/x4peEvI8L5o?t=3243)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [26:11](https://youtu.be/i72IYlpQWd0?t=1571)
@@ -248,4 +217,3 @@ La consecuencia para el aparato: la excisión opera idénticamente en vínculos 
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:31:27](https://youtu.be/nw7fSEAJr-U?t=5487) · [1:52:44](https://youtu.be/nw7fSEAJr-U?t=6764) · [1:55:15](https://youtu.be/nw7fSEAJr-U?t=6915)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [1:32:58](https://youtu.be/dHDv_oZODYQ?t=5578)
 - **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [18:10](https://youtu.be/K7MAqw1q3dk?t=1090)
-

@@ -139,7 +139,6 @@ El canal añade además una matización del cuadro disocial del Frente Obrero qu
 
 La precisión disocia diagnóstico clínico de juicio analítico: que el perfil sea patológico no significa que toda inferencia política que produce sea falsa. Donde el activista boomer "deeply concerned" se queda en la indignación intelectual, el perfil disocial-beligerante reconoce el plano material — la fuerza, la preparación ciudadana — donde se juega efectivamente la disposición política. La pieza no rehabilita el cuadro psicológico; señala que la patología puede coincidir con un acierto operativo precisamente sobre la dimensión que el cuadro sano (pero adormecido) ignora.
 
-
 ## El 15M boomer y la trampa del "deeply concerned"
 
 En un directo posterior el canal vuelve sobre el legado psicológico del 15M con un diagnóstico afilado: el movimiento fracasó no por falta de razón sino por confundir indignación intelectual con acción material, y ese error sigue operando hoy en el perfil sociodemográfico que lo protagonizó.
@@ -157,7 +156,6 @@ El canal añade además una matización del cuadro disocial del Frente Obrero qu
 → [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (50:51)](https://youtu.be/2CsRnGBT9gg?t=3051)
 
 La precisión disocia diagnóstico clínico de juicio analítico: que el perfil sea patológico no significa que toda inferencia política que produce sea falsa. Donde el activista boomer "deeply concerned" se queda en la indignación intelectual, el perfil disocial-beligerante reconoce el plano material — la fuerza, la preparación ciudadana — donde se juega efectivamente la disposición política. La pieza no rehabilita el cuadro psicológico; señala que la patología puede coincidir con un acierto operativo precisamente sobre la dimensión que el cuadro sano (pero adormecido) ignora.
-
 
 ## Documentación directa: presencia del CNI y el caso Corpus
 
@@ -185,7 +183,4 @@ Este fragmento funciona como caso de cierre del análisis: demuestra que la acam
 
 ## Citations
 
-
-
 - **El acabóse** — chunks: [1:28:49](https://youtu.be/94OQnbWfe1E?t=5329)
-

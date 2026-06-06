@@ -72,8 +72,6 @@ El canal articula la psicastenia como un **espectro compartido** que atraviesa m
 
 El interés del término para el canal radica en que permite nombrar una dinámica interna común a cuadros que la nosología oficial agrupa por nombre clínico, no por mecanismo compartido. Sin "psicastenia" como categoría transversal, TOC, TPOC y psicosis obsesiva quedan como entidades independientes que ocultan su substrato compartido.
 
-
-
 ## Etiología genética y carencia afectiva
 
 Un monográfico complementario sobre la orientación política (*Psicoanálisis de la orientación política*, oct 2023) articula el componente etiológico que el vídeo foundational presupone: la psicastenia tiene **alto componente genético** y opera como carencia afectiva estructural.
@@ -88,7 +86,6 @@ Un monográfico complementario sobre la orientación política (*Psicoanálisis 
 → [Psicoanálisis de la orientación política (21:16)](https://youtu.be/-2u3CAw1xCs?t=1276)
 
 La pieza añade tres precisiones operativas. Primero, el rasgo psicasténico tiene base genética, lo que sitúa la psicastenia en la categoría de **carencias congénitas** del aparato afectivo y no de las cicatrices puramente experienciales — esto refina la articulación del rasgo como tipología de conducta interna añadiendo su sustrato biológico. Segundo, su firma conductual nuclear es la **dificultad ante la novedad y ante la toma de decisiones** — la rigidez cognitiva característica del eje obsesivo. Tercero, el síntoma se llama "carencia afectiva" porque su lenitivo es precisamente el afecto exterior: dar afecto reduce los síntomas como si compensase un déficit estructural de cuidado. La consecuencia clínica es que la respuesta terapéutica nuclear al cuadro psicasténico ansioso pasa por la provisión sostenida de cuidado afectivo, no exclusivamente por la corrección cognitiva de las obsesiones — éstas son síntoma del déficit, no su origen.
-
 
 ## TOC vs TPOC: la máxima expresión de la psicastenia
 
@@ -105,10 +102,7 @@ La distinción entre Trastorno Obsesivo-Compulsivo (TOC) y Trastorno de Personal
 
 La diferencia no es de intensidad sino de **alcance estructural**: el TOC es una neurosis circunscrita que no tiñe toda la conducta; el TPOC es una neurosis de personalidad que desalinea medios y fines en la totalidad de la conducta del individuo. Esta distinción solo es operativa si se dispone de una categoría transversal — la psicastenia — que permita ver que ambos cuadros comparten un mismo substrato de rasgo antes de separarse en su alcance.
 
-
-
 La articulación clínica completa del TOC como cuadro específico se desarrolla en [[toc-en-proxy]] — monográfico de 91 min (ago 2023, anterior al presente vídeo sobre psicastenia) que articula el aparato del TOC con granularidad propia: la compulsión como clave diagnóstica (acto ritual no impulsivo producto de obsesión; sin obsesión previa no hay TOC), la distinción operativa impulsividad vs compulsividad (el acto impulsivo procede del sistema límbico antes de racionalizar, el compulsivo del pensamiento rumiante que apodera la mente), la fenomenología de la obsesión como entidad autónoma ('como si alguien que no eres tú gritara dentro de tu mente'), la frontera con lo psicótico (psicosis obsesivas con voces como cruce real), los tres niveles de insight (bueno/justo / pobre / ausencia de percepción), la neuroquímica específica (exceso de serotonina — no déficit como en ansiedad —, clomipramina como diagnóstico-respuesta diferencial, ISRS comunes inefectivos), el circuito de Alexander como sustrato neuroestructural, y el diagnóstico diferencial sistemático frente a cuadros que pueden parecer TOC pero no lo son (TAG, dismorfobia, tricotilomanía, TCAs ritualizados, rumiación depresiva, inserción psicótica, patrones repetitivos autistas). La página confirma además la posición del TOC en el espectro psicasténico aquí articulado: el TOC es la máxima expresión psicasténica de cuadro psicológico ego-sintónico con compulsión ritual mágica; el TPOC su contraparte como trastorno de personalidad ego-distónico sin ritual.
-
 
 ## Herramientas diagnósticas: egosintonía e insight
 
@@ -151,17 +145,7 @@ El concepto es carga-viva en [[sindrome-xocas]], donde el canal lo aplica explí
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
 - **Psicastenia** — chunks: [22:23](https://youtu.be/ht8B7BPY3AY?t=1343) · [24:56](https://youtu.be/ht8B7BPY3AY?t=1496) · [26:58](https://youtu.be/ht8B7BPY3AY?t=1618) · [39:16](https://youtu.be/ht8B7BPY3AY?t=2356) · [1:43:28](https://youtu.be/ht8B7BPY3AY?t=6208)
 - **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [21:16](https://youtu.be/-2u3CAw1xCs?t=1276) · [32:27](https://youtu.be/-2u3CAw1xCs?t=1947)
 - **TOC** — chunks: [18:49](https://youtu.be/2zAwfcLnlvU?t=1129) · [25:53](https://youtu.be/2zAwfcLnlvU?t=1553)
 - **El Xocas y la Personalidad** — chunks: [3:02](https://youtu.be/i1zxa2uxnPs?t=182)
-

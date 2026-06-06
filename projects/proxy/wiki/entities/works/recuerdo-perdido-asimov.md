@@ -153,9 +153,5 @@ Esta lectura encuadra la ciencia ficción de Asimov como marco de extrañamiento
 
 ## Citations
 
-
-
-
 - **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [44:53](https://youtu.be/8l__TS3ATNY?t=2693)
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [39:46](https://youtu.be/celiAdqrHYA?t=2386)
-

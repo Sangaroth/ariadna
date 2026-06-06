@@ -32,7 +32,6 @@ last_human_edit: null
 
 # La sombra (arquetipo junguiano)
 
-
 ## Definición
 
 La sombra es el arquetipo junguiano que designa los aspectos reprimidos o no integrados del psiquismo individual: lo que el yo consciente rechaza reconocer como propio. Forma parte de los contenidos del **inconsciente**, entendido por [[jung-carl-gustav]] no como mero conjunto de conductas automáticas, sino como **procesos psíquicos implícitos** que el paciente aún no ha apercibido.
@@ -56,15 +55,11 @@ El canal usa Peter Pan como caso clínico de la sombra como elemento separable y
 - **Tríada psíquica de Wendy**: ella misma como [[anima-archetype]] desplazada; Peter Pan como ánimus desintegrado de su propia sombra (el eterno aventurero que no puede crecer); Campanilla como pulsiones pre-adolescentes
   → [Peter Pan, 53:16](https://youtu.be/ClnayaScAjQ?t=3196)
 
-
 - **Drácula como sombra liberada y autónoma** (caso paralelo al de Peter Pan): el canal lee a Drácula desde la misma estructura — una sombra separada de su dueño que cobra vida propia. Donde Peter Pan ha **perdido** su sombra al renunciar a toda responsabilidad, Drácula la ha **liberado** activamente. La sombra autónoma amenaza la cabeza de Jonathan en el castillo: el héroe está empezando a perder la razón en ese lugar desconocido
   → [Análisis arquetípico de Drácula, 1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 
-
-
 - **Drácula como sombra liberada y autónoma** (caso paralelo al de Peter Pan): el canal lee a Drácula desde la misma estructura — una sombra separada de su dueño que cobra vida propia. Donde Peter Pan ha **perdido** su sombra al renunciar a toda responsabilidad, Drácula la ha **liberado** activamente. La sombra autónoma amenaza la cabeza de Jonathan en el castillo: el héroe está empezando a perder la razón en ese lugar desconocido
   → [Análisis arquetípico de Drácula, 1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
-
 
 ### En psicología clínica: el inconsciente como hecho empírico
 
@@ -85,8 +80,6 @@ El canal defiende la existencia del inconsciente contra divulgadores que la nieg
   → [Fantasía Realizada, 11:49](https://youtu.be/tt0hNPvCpjw?t=709)
 
 Esta tesis tiene implicación clínica directa: lo "reprimido" no es solo lo bloqueado por censura moral; es también lo que se construye como narración alternativa cuando la verdad se vuelve insoportable.
-
-
 
 ## La sombra colectiva: continuo del bien y el mal, criterio de las consecuencias
 
@@ -132,8 +125,6 @@ El caso Gisèle Pelicot — donde el marido drogó a su mujer durante casi 20 a�
 
 La pieza es operativa para el marco: la integración junguiana clásica de la sombra (reconocer la propia como prerrequisito de la individuación) opera en plano individual; este plano colectivo añade el componente institucional — qué entornos producen actualización masiva y cuáles la inhiben — y el componente epistémico — la sombra del otro puede ser estructuralmente invisible para quien comparte espacio con ella.
 
-
-
 ## El chivo expiatorio: genealogía litúrgica de la proyección colectiva
 
 En el monográfico *Análisis arquetípico La Bruja* (182 min) el canal articula el mecanismo histórico-litúrgico mediante el cual las religiones institucionalizan la proyección de la sombra colectiva: el **chivo expiatorio** (azazel hebreo) y su persistencia en la creación de figuras demoníacas.
@@ -155,8 +146,6 @@ La lectura aplica el mecanismo a la modalidad protestante específica: la creaci
 → [Análisis arquetípico La Bruja (1:49:02)](https://youtu.be/rRlks0e0oxU?t=6542)
 
 La pieza importa para el marco porque cierra el flanco institucional de la sombra colectiva ya documentada (donde se articulaba 'qué entornos producen actualización masiva'): el chivo expiatorio es el dispositivo cultural específico que **canaliza institucionalmente la sombra colectiva** sin requerir su integración. Es el opuesto operativo de la integración junguiana — donde la individuación pide reconocer la sombra propia, el chivo expiatorio la externaliza ritualmente. Ambas son operaciones reales sobre la sombra; sólo una transforma al sujeto.
-
-
 
 ## Lugar en la tipología arquetipo / prototipo / estereotipo / autotipo
 
@@ -186,32 +175,10 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029)
 - **Conspiración** — chunks: [12:26](https://youtu.be/K97ZzKXY0oI?t=746)
 - **What is a Charo?** — chunks: [1:54:36](https://youtu.be/qMfv4dX09Lg?t=6876)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [1:51:23](https://youtu.be/lOpCXo1pi2M?t=6683)
-
 
 - **Elisa y su CI** — chunks: [33:11](https://youtu.be/6tfSc45kjyo?t=1991)
 - **Directo casual** — chunks: [26:51](https://youtu.be/ECN5C9rsaZg?t=1611)
@@ -223,4 +190,3 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 - **Un Gólem llamado Prometeo.** — chunks: [2:06:40](https://youtu.be/Uykl0PLRRlo?t=7600)
 - **Un Gólem llamado Prometeo** — chunks: [1:15:20](https://youtu.be/lk3DKsIagAE?t=4520) · [2:06:24](https://youtu.be/lk3DKsIagAE?t=7584)
 - **¿Qué es la magia?** — chunks: [1:56:39](https://youtu.be/AMXVKxN0Ccw?t=6999)
-

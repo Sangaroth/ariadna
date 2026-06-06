@@ -152,6 +152,4 @@ La persona sintética es el estadio previo al Golem: donde el Golem implica fusi
 
 ## Citations
 
-
 - **T5x18 Tecnoética** — chunks: [1:05:05](https://youtu.be/k619QHupD5k?t=3905) · [1:17:22](https://youtu.be/k619QHupD5k?t=4642)
-

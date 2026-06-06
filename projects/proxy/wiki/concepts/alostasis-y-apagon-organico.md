@@ -195,8 +195,6 @@ La analogía con la psicosis es operativa: en la psicosis falla la inhibición t
 
 La consecuencia para el modelo del apagón orgánico es estructural: la automorición no es 'apagón orgánico voluntario' ni decisión ponderada de cesar — es la versión psíquica del mismo mecanismo de desconexión instantánea, donde lo que falla no es la fisiología sino la propia capacidad de calcular la conducta desde la mecánica afectiva. Esto explica clínicamente por qué los predictores ordinarios fracasan y por qué la automorición aparece tanto en estados depresivos como maníacos: ninguno de los dos cuadros afectivos es el predictor — el predictor sería una propiedad estructural del freno inhibitorio que ningún test psiquiátrico mide directamente.
 
-
-
 ## Alostasis mental: la noesis como motor de desequilibrio activo
 
 El directo *Teoría de la mente y opción política* (ene 2026) extiende la tesis alostática del dominio biológico al dominio mental. La mente, articulada como matriz noética representacional, NO busca equilibrio con el entorno — busca mantener desequilibrio activo respecto a él. Esta extensión es coherente con el desplazamiento foundational supervivencia→alostasis que la página articula para el organismo biológico: la noesis hereda la lógica alostática del sustrato que la produce.
@@ -214,8 +212,6 @@ La pieza tiene tres consecuencias operativas. Primero, el **reflejo de orientaci
 
 La pieza enlaza la teoría general de la mente del canal (articulada en [[realismo-cognitivo]], [[inconsciente-en-proxy]], [[teoria-del-simbolo-en-proxy]]) con la biofilosofía del organismo que esta página articula: el motor mental NO es búsqueda de placer o evitación de dolor (esquema hedonista), NI búsqueda de equilibrio homeostático (esquema cibernético clásico), sino mantenimiento de desequilibrio activo sobre el entorno — la versión cognitiva del principio que rige al organismo entero.
 
-
-
 ## Lagunas
 
 - El canal articula el mecanismo del apagón pero no lo distingue clínicamente con precisión de la cardiomiopatía de Takotsubo (síndrome del corazón roto), que sí tiene mecanismo identificable por exceso de adrenalina — pendiente delimitación operacional entre ambas categorías de muerte súbita
@@ -225,15 +221,8 @@ La pieza enlaza la teoría general de la mente del canal (articulada en [[realis
 
 ## Citations
 
-
-
-
-
-
-
 - **La IA se sale de madre. Ética e IA parte 4** — chunks: [34:57](https://youtu.be/_IW4x_d01Lk?t=2097) · [54:10](https://youtu.be/_IW4x_d01Lk?t=3250) · [55:41](https://youtu.be/_IW4x_d01Lk?t=3341)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [16:24](https://youtu.be/-daRyQwnZy0?t=984) · [24:12](https://youtu.be/-daRyQwnZy0?t=1452) · [59:34](https://youtu.be/-daRyQwnZy0?t=3574)
 - **Viernes terminal: Los sueños y Ariadna** — chunks: [1:27:43](https://youtu.be/H162q8kbtWI?t=5263)
 - **Transhumanismo, IA y Ciencia Ficción.** — chunks: [43:06](https://youtu.be/kdk8mi7-Y1s?t=2586)
 - **Teoría de la mente y opción política** — chunks: [3:07](https://youtu.be/pgIY-zfcO4I?t=187)
-

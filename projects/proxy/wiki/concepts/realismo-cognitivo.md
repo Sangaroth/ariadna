@@ -140,8 +140,6 @@ El ciclo SAL articula operativamente la primera axiomática del marco (toda clas
 
 La articulación operativa completa de este motor — clases primarias, álgebra de operaciones, vectores en notación bracket — es el modelo Galatea (ver [[galatea-modelo-protomente]] cuando se promueva). El realismo cognitivo es el sustrato epistemológico; Galatea es su articulación formal-computacional.
 
-
-
 ## Respuesta a Kripke desde el realismo cognitivo: la mente no computa
 
 Un directo monográfico (Psicología 101: Materialismo, pensamiento y Enric, junio 2025) extiende la respuesta del marco a la paradoja de Kripke a partir de la crítica de Enric (canal Adictos a la Filosofía) al materialismo desde el argumento de Ross. La articulación añade piezas filosóficas que la sección 'Argumento anti-materialista' deja implícitas.
@@ -246,7 +244,6 @@ La pieza cierra la respuesta: el argumento de Ross/Kripke/Enric demuestra (corre
 > "En las coordenadas del realismo cognitivo la paradoja no existe: no se ha refutado el materialismo sino que se ha evitado el problema al cambiar de marco"
 → [Psicología 101: Materialismo, pensamiento y Enric (2:06:28)](https://youtu.be/cSj--O7RSPo?t=7588)
 
-
 ## Ontología, fenomenología y gnoseología
 
 Dentro del realismo cognitivo el canal articula una arquitectura tripartita: la cosa (ontología), su aparición a la mente (fenomenología) y la teoría de cómo se conoce (gnoseología o epistemología). El conocer no es acceso directo a la cosa: es **traducción fenomenológica** mediada por la gramática mental.
@@ -314,8 +311,6 @@ El directo *Filosofía para dummies* (06-nov-2024) sitúa al realismo cognitivo 
 
 La clave operativa de la posición realista es la **cocausación**: ni los procesos materiales ni los fenómenos internos son derivables unos de los otros — se constituyen mutuamente. Esto distingue al realismo cognitivo del materialismo (que privilegia la materia) y del idealismo (que privilegia las ideas).
 
-
-
 ### Convergencia disciplinar: filosofía analítica, teoría de la mente y psicología como una misma disciplina
 
 Una tesis positiva adicional del marco articulada en directo posterior: el realismo cognitivo no solo opera como stance epistemológica sino como **principio de unificación disciplinar**. Filosofía analítica, teoría de la mente y psicología no son disciplinas separadas sino registros distintos de un mismo objeto de estudio que el realismo cognitivo permite tratar con un único lenguaje formal.
@@ -335,7 +330,6 @@ El problema metodológico inherente que la tesis asume y no oculta es la **autor
 → [Psicoinfluencers (11:55)](https://youtu.be/frbMVcThuRw?t=715)
 
 La convergencia tripartita es la consecuencia operativa del marco: si las clases noéticas son atómicas y la matriz N opera con axiomática unificada, no hay frontera disciplinar entre lo que estudia la filosofía de la mente analítica, lo que modeliza la teoría de la mente y lo que describe la psicología clínica — los tres campos cortan el mismo objeto desde ángulos distintos.
-
 
 ### Refutación del mito del paso del mitos al logos
 
@@ -438,8 +432,6 @@ La pieza fundacional de la axiomática es que **toda clase es transitoria** — 
 
 El término "función propia" se usa en el sentido teleosemántico de Ruth Millikan que el canal trabaja paralelamente: la función propia de un mecanismo es aquella por la que existe (y por la que es seleccionado), no cualquier efecto que produzca. Aplicado al cualia, significa que toda clase mental existe para ser sustituida — su razón de ser es ser efímera.
 
-
-
 ## Mónadas universales objetivas vs qualia subjetivo y ambiguación entre los tres Q
 
 En el directo *Psicología 101: Del libre albedrío a la computación artificial* (marzo 2025) el canal precisa dos refinamientos operativos del marco vinculados al programa de simulación de [[galatea-modelo-protomente]]: la distinción categorial entre clase cognitiva y qualia, y la mecánica de **ambiguación representacional** entre los tres Q.
@@ -470,7 +462,6 @@ La segunda pieza es operativa: los tres Q (imagen, forma, afecto) no son compart
 → [Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)
 
 La ambiguación es la operación inversa a la especificación: 'estar feliz' (afecto) se transcribe como 'valencia positiva sin objeto' (codificación formal del afecto), conservando el contenido pero cambiando el registro Q de soporte. La pieza tiene consecuencia para la formalización de Galatea — el modelo necesita operadores que muevan contenido entre subgrafos Q, no solo dentro de cada uno. Y tiene consecuencia para [[teoria-del-simbolo-en-proxy]]: la matriz N opera con representaciones cuyos componentes se transvasan continuamente entre los tres registros, mecánica que la página articula como reorganización por ambiguación.
-
 
 ## La clase tiempo: memoria como gradiente de degeneración
 
@@ -583,7 +574,6 @@ La consecuencia última del marco es que la gnoseología no es descriptiva sino 
 
 La última cita cierra el bucle del marco: el sujeto operatorio elabora la realidad noética (M2 en términos buenistas, la matriz N en términos de [[teoria-del-simbolo-en-proxy]]); esa elaboración no agota la realidad física pero pone en contacto con regiones de ella previamente inaccesibles. Es la versión del realismo cognitivo de la hiperrealidad de Bueno: la realidad como proceso, no como totalidad acabada.
 
-
 ## Axiomática de relaciones: extensión del método a las relaciones noéticas
 
 En diálogo con Dani Elcon, que aborda la misma pregunta desde el [[bueno-gustavo|materialismo filosófico]], el canal extiende su axiomática de clases a una **axiomática de relaciones**. La pieza completa el método del realismo cognitivo: si las clases son los átomos representacionales, las relaciones son las operaciones que los enlazan — y deben tipificarse según naturaleza imaginaria, formal o procedimental, paralela a los tres Q.
@@ -656,8 +646,6 @@ En el directo *Del Papa y del Problema del Mal* (24 abril 2025) el canal cita un
 
 La reformulación que el canal añade es operativa: el aprendizaje **no es ver y copiar** sino comprobar si la propia predicción coincide con la realidad. La mente no es receptáculo pasivo que registra patrones — es generador activo de hipótesis cuya retroalimentación constituye el aprendizaje. El cierre del marco se vuelve nítido: representación y realidad están conectadas por bucles predictivos, no por correspondencia especular.
 
-
-
 ### Dos tipos de novedad: predictiva sorpresiva y absoluta
 
 Un directo posterior (Psicología 101: El cerebro por dentro, mayo 2025) precisa la mecánica del aprendizaje predictivo distinguiendo dos modalidades de novedad con sustrato neural distinto:
@@ -672,7 +660,6 @@ Un directo posterior (Psicología 101: El cerebro por dentro, mayo 2025) precisa
 → [Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)
 
 La distinción cierra una pieza que la sección 'La clase tiempo' dejaba implícita: el reflejo de orientación que sostiene la búsqueda no es un mecanismo unitario. La novedad predictiva opera dentro de un mapa representacional ya disponible (la sorpresa es sobre lo conocido — falla la predicción de una clase ya formada), mientras que la novedad absoluta requiere construcción de mapa nuevo (no hay predicción posible porque no hay material previo del que partir). La consecuencia operativa para la axiomática de clases: las clases mentales soportan dos modos de actualización cualitativamente distintos — refinamiento por contraste con predicción interna (clase ya formada que se ajusta) y formación inaugural (clase nueva que se constituye al operar sobre material sin precedente). El sustrato neural disociado de ambos modos es coherente con la articulación del aprendizaje integrativo multisensorial y el engrosamiento del hipocampo en función de la demanda de mapas espaciales nuevos (caso paradigmático de los taxistas de Londres) — la neurogénesis hipocampal opera precisamente cuando hay novedad absoluta que exige cartografiar, no cuando hay solo refinamiento de mapas existentes.
-
 
 > "El aprendizaje no es ver y copiar sino comprobar si tu predicción coincide con la realidad"
 → [Del Papa y del Problema del Mal (42:25)](https://youtu.be/0KkMrcmw8Fw?t=2545)
@@ -746,8 +733,6 @@ La simplificación dimensional refuerza la tesis:
 
 La cognición aviar opera con un grado de libertad imaginaria (distancia escalar) frente a las tres dimensiones espaciales que articulan la representación humana del entorno. La simplificación dimensional es funcionalmente suficiente: el gradiente de cambio de la dimensión única basta para extraer velocidad de aproximación, único parámetro que el ave necesita para decidir huida. La pieza ilustra cómo el realismo cognitivo no requiere riqueza representacional uniforme entre especies — basta que cada matriz noética sea sistemática respecto a su propio dominio operativo.
 
-
-
 ## Imaginario hipocampal voluntariamente proyectable: experimento de ratas en realidad virtual
 
 Un directo posterior (Psicología 101: El Imaginario de las Ratas, febrero 2026) articula un caso experimental que confirma y refina la axiomática del marco. Investigadores conectan un dispositivo al hipocampo de una rata que navega un entorno virtual sobre una bola esférica; mediante deep learning decodifican los patrones de actividad hipocampal y los traducen a código gráfico representable en pantalla.
@@ -802,14 +787,10 @@ Segundo: la frontera entre cognición humana y animal no se traza en la posesió
 
 La pieza refina la sección 'Mónadas universales objetivas y ambiguación entre los tres Q': el imaginario es proyectable (no reflejo automático) en todo organismo con hipocampo capaz de codificar mapas espaciales, lo que lo vuelve estructuralmente ambiguable. La capacidad humana específica es la **explicitud** del operador de ambiguación — el ser humano no solo experimenta clases en función de otras (también la rata lo hace al proyectar imaginariamente su trayectoria) sino que puede tematizar, nombrar y operar deliberadamente esa puesta-en-función. La ambiguación humana es metarrepresentacional; la ambiguación animal opera sin metarrepresentación. La gradación coincide con la documentada en la sección sobre cognición visual en aves: los grados de libertad representacional varían entre especies, pero la mecánica básica (clases que se ambiguan entre sí) es continua.
 
-
-
 > "El conductismo es filosóficamente tautológico: define conducta apelando a su propio sistema o a coordenadas psicoanalíticas ajenas"
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
 
 > "El concepto de enfermedad mental no necesita demostración: la esquizofrenia no es un problema de adaptación sino una desconexión con la realidad
-
-
 
 ### Extensión filosófica de la crítica al conductismo: sincategoremático, modelo degenerado, hombre de paja, falsa norma
 
@@ -854,8 +835,6 @@ La falacia estética de la claridad emparenta el dispositivo retórico conductis
 
 La aplicación sistemática de la crítica a casos clínicos concretos (TOC, depresión exógena, agorafobia, machismo aprendido) y su anclaje sociopolítico (locus externo de control, síndrome de la iluminada como motor ideológico de la divulgación) se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva — esta sección concentra solo el núcleo filosófico de la crítica, que cierra el cargo previo de tautología con tres mecánicas adicionales: sincategoremaía, degeneración por excepciones y abolición performativa de la norma.
 
-
-
 ## Circuito de cuidados vs teoría del apego: el corte anti-constructivista
 
 En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula con definición operativa la diferencia entre el **circuito de cuidados** del realismo cognitivo y la **teoría del apego** convencional — flanco que la página articulaba implícitamente como anti-constructivismo pero sin nombrar la pieza concreta.
@@ -911,9 +890,6 @@ La pieza cierra con una conexión a [[diagrama-de-proxy]] que articula el sustra
 
 Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhesión ideológica que el diagrama articula como simetría reactiva entre cuadrantes: no se eligen las posiciones por argumento sino que se adhieren por reconocimiento estructural — el carácter prefiere ciertas formas discursivas porque el aparato representacional resuena con ellas, y la posición política se consolida por afinidad cognitiva, no por persuasión racional.
 
-
-
-
 ## Circuito de cuidados vs teoría del apego: el corte anti-constructivista
 
 En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula con definición operativa la diferencia entre el **circuito de cuidados** del realismo cognitivo y la **teoría del apego** convencional — flanco que la página articulaba implícitamente como anti-constructivismo pero sin nombrar la pieza concreta.
@@ -968,7 +944,6 @@ La pieza cierra con una conexión a [[diagrama-de-proxy]] que articula el sustra
 → [Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)
 
 Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhesión ideológica que el diagrama articula como simetría reactiva entre cuadrantes: no se eligen las posiciones por argumento sino que se adhieren por reconocimiento estructural — el carácter prefiere ciertas formas discursivas porque el aparato representacional resuena con ellas, y la posición política se consolida por afinidad cognitiva, no por persuasión racional.
-
 
 ## Tres piezas metodológicas: biologicismo de 'adaptativo', no-predecibilidad del suicidio y andamiaje psicoanalítico
 
@@ -1001,12 +976,8 @@ La pieza opera como caso límite del marco: si la cognición es proceso de re-s�
 
 La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanálisis articulada en otras secciones de la página. La pieza precisa que el rechazo del canal NO es al **proyecto** psicoanalítico (mapear lo mental con sistema formal-filosófico de términos y relaciones — eso es inevitable para cualquier teoría de la mente) sino al **contenido específico** del psicoanálisis freudiano (recuerdos reprimidos como fuerza, locus de almacenamiento, metáforas trasladadas de otros ámbitos sin justificar la conexión). El realismo cognitivo es entonces 'psicoanalítico' en el sentido genérico de que mapea lo mental con sistema formal-filosófico — pero usa términos y relaciones que pretende coincidan con la estructura material de la cognición (clases noéticas, componentes Q, ambiguación, UAL) en lugar de importar metáforas (almacén, proyección como cámara oscura, censor). La distinción cierra el flanco metodológico que la sección 'Diálogo con la enactividad de Maturana y Varela' dejaba abierto: el cierre del bucle representación/realidad exige andamiaje formal — el desacuerdo con Freud es sobre qué andamiaje, no sobre la necesidad de tenerlo.
 
-
 "
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
-
-
-
 
 ## Formación del mundo: codeterminación histórica, sujeto operatorio y unidad ética-moral-política
 
@@ -1144,8 +1115,6 @@ La pieza-cierre del armazón: ética, moral y política son prácticamente lo mi
 → [T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)
 
 La fusión de los tres dominios en un único campo de análisis es consecuencia directa del marco unificador articulado en sección 'Convergencia disciplinar': si el realismo cognitivo absorbe filosofía analítica + teoría de la mente + psicología en una sola disciplina, la tríada ética/moral/política se reduce análogamente — los tres registros son aplicaciones del mismo aparato sujeto-operatorio sobre dominios distintos (yo individual / costumbres colectivas / poder real). El criterio operativo común es la eutaxia, término que el canal toma de [[bueno-gustavo]] reasignándolo al marco del realismo cognitivo. La conexión con [[mitologia-propia-impropia]] cierra el bucle: los mitos arquetípicos, al explicitarse vía construcción cultural, cristalizan en éticas construidas cuyo fin último es eutáxico.
-
-
 
 ## Genealogía del a priori cognitivo: tour por los pensadores fundacionales (Psicología 101)
 
@@ -1358,79 +1327,6 @@ La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analíti
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
@@ -1445,7 +1341,6 @@ La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analíti
 - **Psicología 101: Materialismo, pensamiento y Enric, de @AdictosalaFilosofía** — chunks: [29:23](https://youtu.be/cSj--O7RSPo?t=1763) · [48:06](https://youtu.be/cSj--O7RSPo?t=2886) · [1:52:28](https://youtu.be/cSj--O7RSPo?t=6748) · [2:06:28](https://youtu.be/cSj--O7RSPo?t=7588) · [2:12:32](https://youtu.be/cSj--O7RSPo?t=7952)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [13:52](https://youtu.be/-daRyQwnZy0?t=832) · [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
 - **Tremendo lunes** — chunks: [1:35:02](https://youtu.be/0YABTLJ-lFY?t=5702)
-
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:02:47](https://youtu.be/cbdLR0HTE3w?t=3767) · [2:01:28](https://youtu.be/cbdLR0HTE3w?t=7288) · [2:08:04](https://youtu.be/cbdLR0HTE3w?t=7684)
 
@@ -1476,4 +1371,3 @@ La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analíti
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
-

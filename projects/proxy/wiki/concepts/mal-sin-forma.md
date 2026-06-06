@@ -87,8 +87,6 @@ La categoría adquiere su pleno sentido por contraste con [[dragon-arquetipo]] y
 
 De ahí su rango de "peor mal posible": no por intensidad sino por **ininteligibilidad estructural**. Donde el dragón pone la psique en operación arquetípica, el mal sin forma la deja sin asideros.
 
-
-
 ## Mecanismo de manifestación: personificación a través del trauma
 
 El monográfico de [[event-horizon-1997-film|Event Horizon]] (dic 2023, 105 min) articula una pieza estructural que las secciones anteriores tenían sin formular: el **mecanismo por el que el mal sin forma opera psíquicamente**. La articulación responde a la laguna sobre cómo se enfrenta el mal sin forma cuando ningún arquetipo identificable lo captura.
@@ -133,7 +131,6 @@ La serie comparativa que el monográfico articula amplía la triada ídolo/góle
 
 La pieza añade un signo iconográfico canónico del encuentro con el mal sin forma: la pérdida de la vista. El motivo (ojo arrancado, ceguera voluntaria, ojos cegados por la luz inversa) opera como marcador estructural de que la categoría psíquica del 'ver' ha cesado de ser útil. Los ojos sirven solo cuando hay forma a la que dar contorno; ante lo informe, son herramienta sin objeto. La consecuencia narrativa que Event Horizon documenta — el doctor arrancándose los ojos tras el trauma de la esposa suicida — cifra esta lógica: el sujeto que ha encontrado el mal sin forma renuncia a la mediación visual porque ya no tiene función.
 
-
 ## Lagunas
 
 - El canal nombra la triada ídolo/gólem/Alien como ejemplos pero no desarrolla en este vídeo qué otras encarnaciones culturales contemporáneas pertenecen a la categoría (zombis, blob, ¿el horror cósmico lovecraftiano íntegro?)
@@ -144,10 +141,6 @@ La pieza añade un signo iconográfico canónico del encuentro con el mal sin fo
 
 ## Citations
 
-
-
-
 - **Análisis arquetípico de Unicorn wars** — chunks: [15:18](https://youtu.be/fLfEbHPJNmU?t=918) · [20:20](https://youtu.be/fLfEbHPJNmU?t=1220)
 - **Event Horizon** — chunks: [1:34:36](https://youtu.be/cgO7JwvwOQg?t=5676)
 - **El Cónclave** — chunks: [22:53](https://youtu.be/faUVtOicasg?t=1373)
-

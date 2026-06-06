@@ -124,9 +124,6 @@ La cualidad universal del dinero (poder + necesidad) permite que la metáfora op
 - El marco **luterano vs católico** que articula el título del vídeo y motiva su selección como caso canónico no aparece literalmente en el fragmento disponible — pendiente recuperarlo del cuerpo central del summary.
 - Tratamiento explícito de la figura de **Tiny Tim** y su función arquetípica (inocencia que enfrenta a Scrooge con la mortalidad ajena) no presente en el corte.
 
-
-
-
 ## Aparato teórico foundational: el espíritu luterano y la Navidad como rito
 
 El monográfico *Cuento de Navidad y el espíritu Luterano* (dic 2024, ~126 min) articula el aparato teórico subyacente al análisis específico de la película. La distinción operativa luteranismo vs catolicismo en seis ejes constituye el marco comparativo que organiza la lectura.
@@ -273,9 +270,6 @@ La pieza añade una articulación operativa para la depresión que el directo pr
 
 ## Citations
 
-
-
 - video_id: `s0MkondMt1o` — Cuento de Navidad y el espíritu Luterano con teleñecos
 - **Autodidáctica** — chunks: [22:37](https://youtu.be/tgP5_AvAnD8?t=1357)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:46:49](https://youtu.be/aWeuzWLrLtE?t=6409)
-

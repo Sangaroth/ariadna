@@ -40,7 +40,6 @@ last_human_edit: null
 
 # El mito moderno según el canal Proxy
 
-
 ## Tesis general del canal
 
 El canal Proxy mantiene una tesis articulada sobre el mito en la cultura contemporánea, que puede resumirse así:
@@ -153,8 +152,6 @@ Y la alegoría epistémica:
 
 > "La conciencia permite hacer saltos fuera del sistema: cada vez que aprendes algo, todo el conjunto cambia. Aprender más del mundo es alejarse, salir una capa hacia arriba, exactamente como conocer una capa de Matrix. La vida son pequeños despertares sucesivos, por eso Matrix está ambientado en código informático.
 
-
-
 ## Pieza 6 — Cristología arquetípica, banquete supremos y el cierre de la mítica occidental
 
 En el directo *Vacacioff: De la Sartén a Venezuela* (29 jul 2024) el canal articula tres piezas que cierran el flanco cristológico del marco del mito moderno y diagnostican el estado de la mítica occidental contemporánea.
@@ -200,7 +197,6 @@ La tercera pieza es la tesis fuerte que diagnostica el estado de la mítica occi
 
 La tesis es estructural: el cristianismo cierra históricamente la producción de mitología propia con mística real en Occidente. Lo que aparece después — esoterismo decimonónico, New Age, espiritualidad sincrética contemporánea — opera como **refrito** (recombinación de fragmentos sin coherencia mítica original) o como **fantasía** (invención sin anclaje arquetípico vivo). La consecuencia para el marco del mito moderno articulado en esta página: las obras culturales contemporáneas que recapitulan estructuras arquetípicas auténticas (Matrix, Tolkien, Lovecraft en clave de mitología propia consciente) operan necesariamente desde el sustrato cristiano-clásico cerrado — no fundan nueva mística, recuperan o invierten la previa. La mitología impropia contemporánea (en términos de [[mitologia-propia-impropia]]) no es solo desconocimiento de su condición de mito, sino imposibilidad estructural de fundar mítica nueva en un horizonte civilizatorio cuyo último cierre productivo fue el evangélico.
 
-
 ## Pieza 7 — La ciencia ficción como salto fuera del sistema cognitivo
 
 En el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula el género ciencia ficción NO como subdominio temático del mito moderno sino como **función metodológica específica** dentro del aparato cognitivo: vehículo para la operación de salto fuera del sistema interpretativo propio. La pieza toca parcialmente la laguna 'mito en ciencia ficción más allá de Matrix' que la página declaraba.
@@ -222,8 +218,6 @@ La función metodológica articulada opera por dispositivo narrativo doble. (a) 
 El caso operativo paradigmático de la pieza es [[leccion-de-historia-clarke|Lección de historia]] de Arthur C. Clarke (1949): los venusinos descubren la única reliquia terrestre tras la glaciación — una cinta de plástico con miles de imágenes — y la toman como registro auténtico de la cumbre humana, sin saber que es una producción de Walt Disney. El cuento articula simultáneamente las dos piezas del dispositivo: lectura de las limitaciones interpretativas humanas (proyectamos sobre cualquier observador la forma reptil-antropocéntrica que es nuestra) y exposición del fallo de interpretación inverso (los venusinos toman ficción comercial como cumbre civilizatoria). El doble bucle reflexivo es lo que distingue la ciencia ficción operativamente arquetípica de la ciencia ficción meramente especulativa: no plantea ¿cómo serían los alienígenas?, plantea ¿cómo nos veríamos a través de ojos no humanos sabiendo que esos ojos los hemos construido nosotros?
 
 La pieza enlaza con [[matrix-1999-film]] articulado en pieza 5: la conciencia permite hacer saltos fuera del sistema; cada vez que aprendes algo, todo el conjunto cambia. La ciencia ficción es el dispositivo literario que opera ese principio en clave narrativa, complementario al dispositivo gnóstico de Matrix (despertar interno) con un dispositivo externo (observador alienígena o civilización posterior).
-
-
 
 ## Pieza 7 — La ciencia ficción como salto fuera del sistema cognitivo
 
@@ -258,13 +252,9 @@ La pieza enlaza con [[matrix-1999-film]] articulado en pieza 5: la conciencia pe
 - **[[jung-carl-gustav]]**: marco teórico que articula esta lectura — la psicología analítica es el aparato que permite leer todas estas obras como recapitulaciones arquetípicas
 - **[[lovecraft-howard]]**: caso paradigmático de mitología propia consciente de sí
 
-
 - **[[harry-potter-saga]]**: caso paradigmático del mito moderno fallido — viaje de la víctima en vez de viaje del héroe, autotipia onomástica, refrito mitológico sin originalidad propia. La identificación opera desde el ello (validación de la injusticia sentida) y no desde el yo (anhelo de aventura real)
 
-
-
 - **[[harry-potter-saga]]**: caso paradigmático del mito moderno fallido — viaje de la víctima en vez de viaje del héroe, autotipia onomástica, refrito mitológico sin originalidad propia. La identificación opera desde el ello (validación de la injusticia sentida) y no desde el yo (anhelo de aventura real)
-
 
 ## Lagunas
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **El mito en la ciencia ficción más allá de Matrix** (Alien, Prometeo, Blade Run -->
@@ -275,11 +265,7 @@ La pieza enlaza con [[matrix-1999-film]] articulado en pieza 5: la conciencia pe
 
 ## Citations
 
-
-
-
 - **Análisis arquetípico La Bruja** — chunks: [4:22](https://youtu.be/rRlks0e0oxU?t=262)
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:22:03](https://youtu.be/lOpCXo1pi2M?t=8523)
 - **Lilith: La Iconotropía.** — chunks: [42:34](https://youtu.be/xKCD8PaexF0?t=2554)
-

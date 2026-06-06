@@ -119,8 +119,6 @@ La propaganda del vínculo prefabricado y los vínculos parasociales en redes re
 - Funciona como cuadro de [[individuation]] interrumpida en su primer tramo masculino — sin separación del grupo regresivo y sin integración de la figura paterna.
 - Conecta con la crítica del canal a la [[consumismo-critica|sociedad del bienestar]] como contexto que vende vínculo ya hecho.
 
-
-
 ## Etiología materna de la incapacidad de vinculación: precisión frente a la pseudopsicología feminoide
 
 En el directo *Irrespirables redes sociales* (24 sept 2024), al analizar el hilo de Killer Queen sobre un padre que muestra ilusión genuina por la paternidad pero no se adapta a la realidad del bebé, el canal precisa la etiología del cuadro distinguiendo dos clases de problemas masculinos según el progenitor implicado:
@@ -165,8 +163,6 @@ El canal aplica la misma matriz al fenómeno de la madre soltera por elección, 
 
 El cierre del bucle: el niño que crece sin padre y con madre infantil queda doblemente expuesto — sin la estructura del padre arquetípico (que sostiene la iniciación al mundo adulto) y sin el vínculo materno firme (que sostiene la capacidad de vincularse). La generación adulta de varones infantiles termina produciendo, vía maternidad en solitario, la siguiente generación con el cuadro intensificado.
 
-
-
 ## Componentes de la autoconfianza: la matriz materno/paterno explicitada
 
 En el directo *La Huida* (23 ene 2025), al hilo del autoanálisis sobre el propio camino intelectual, el canal articula la estructura general de la autoconfianza con la misma matriz materno/paterno que opera en la etiología del cuadro descrita en la sección anterior:
@@ -188,8 +184,6 @@ La tesis explicita el mecanismo psicológico subyacente a la división de roles 
 La articulación da soporte estructural a la división documentada en la sección anterior: el déficit materno produce incapacidad de vincularse — el síndrome del niño en sentido estricto, con su rasgo definitorio del varón demostrativo en el ámbito material adulto pero con interior descuidado, incapaz de entregarse a una causa que no sea él mismo. El déficit paterno produce rechazo a las relaciones (en lugar de infantilismo). Las dos componentes son ortogonales — un varón puede tener una sin la otra, lo que explica por qué el cuadro del 'niño' aparece típicamente compatible con cierto desempeño en el mundo profesional (componente paterna funcional) mientras colapsa en lo afectivo (componente materna deficitaria).
 
 La precisión tiene consecuencia operativa: la autoconfianza no se construye discursivamente — opera como certeza introyectada que requiere una historia específica de relación con cada progenitor (o con sus sustitutos arquetípicos en la individuación posterior). El [[viaje-heroe|viaje del héroe]] es la operación arquetípica de constituir tardíamente la componente paterna (atravesar el mundo no-familiar y volver con dones); las elaboraciones afectivas más profundas (relación de pareja madura, paternidad real, vínculos con la propia sombra) operan sobre la componente materna.
-
-
 
 ## La triada masculina contemporánea: hikikomori, incel, MGTOW como manifestaciones del apego evitativo
 
@@ -218,8 +212,6 @@ La etiología es operativa por correspondencia mensaje→operación psíquica: '
 
 La articulación añade una dimensión cultural a la matriz parental documentada en las secciones anteriores. La página articula la asimetría parental — incapacidad de vinculación (origen materno) vs rechazo a las relaciones (origen paterno) — y el directo añade que la **transmisión generacional de mensajes** opera junto a la matriz materna/paterna y forma con ella el **superyó disfuncional** que sostiene el cuadro. Esto enlaza con la articulación del canal sobre la familia como parte estructural de la neurosis: la curación frecuentemente requiere independencia del entorno parental, no terapia dentro de él. Ver [[hikikomori-fenomeno]] para la articulación completa de la tipología parental → manifestaciones culturales (4×4) y la receta de recuperación.
 
-
-
 ### Refinamiento operativo: hikikomori e incel como fenómenos distintos, no grados del mismo cuadro
 
 La Parte III de la serie *Luna roja sobre el varón* (*Psicología Incel*, feb 2024) — articulada en [[psicologia-incel-en-proxy]] — precisa una distinción operativa que la triada presentada arriba podía sugerir colapsada en gradación: hikikomori e incel comparten raíz (apego evitativo + carencia de los tres componentes paternos) pero NO son grados del mismo cuadro, son **fenómenos diferentes**.
@@ -235,10 +227,6 @@ La Parte III de la serie *Luna roja sobre el varón* (*Psicología Incel*, feb 2
 
 La distinción es categorial: el hikikomori opera por **depresión** (caída de la motivación para relacionarse con el mundo, articulado en la sección 'tres respuestas a la carencia' de [[psicologia-incel-en-proxy]] como respuesta adulta-química por caída serotoninérgica); el incel opera por **herida narcisista infantil enfadada** (la parte del yo que todavía es niño exigiendo lo que cree merecer, articulado como mecánica infantil demostrativa). La gravedad clínica del hikikomori es mayor — no porque el cuadro sea peor, sino porque opera al nivel del aparato motivacional roto, mientras el incel conserva motivación pero la dirige hacia la queja en lugar de hacia la acción. La articulación detallada del incel como cuadro específico con su mecanismo propio (herida narcisista feminizada, mecánica infantil demostrativa, triada psicoanalítica niño-adulto-padre, camino del héroe como única salida) vive en [[psicologia-incel-en-proxy]].
 
-
-
-
-
 ## Lagunas
 
 - **Figura paterna fuerte**: el cuadro se define en parte por su carencia, pero el corpus en este fragmento no desarrolla qué cuenta como 'fuerte' ni cómo opera la integración paterna en la individuación masculina.
@@ -248,61 +236,12 @@ La distinción es categorial: el hikikomori opera por **depresión** (caída de 
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 - **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
 - **Análisis arquetípico La Bruja** — chunks: [51:26](https://youtu.be/rRlks0e0oxU?t=3086) · [59:28](https://youtu.be/rRlks0e0oxU?t=3568) · [1:17:07](https://youtu.be/rRlks0e0oxU?t=4627) · [1:41:29](https://youtu.be/rRlks0e0oxU?t=6089) · [1:52:33](https://youtu.be/rRlks0e0oxU?t=6753)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [2:10:39](https://youtu.be/lOpCXo1pi2M?t=7839)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:04:18](https://youtu.be/yoWJWwYH_pE?t=3858)
-
 
 - **El síndrome de Wendy** — chunks: [1:00:36](https://youtu.be/L7oSZTTK8Gg?t=3636) · [1:15:22](https://youtu.be/L7oSZTTK8Gg?t=4522) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)
 - **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:18:32](https://youtu.be/agh46Snf5YI?t=4712) · [1:40:20](https://youtu.be/agh46Snf5YI?t=6020) · [1:42:21](https://youtu.be/agh46Snf5YI?t=6141)
@@ -333,4 +272,3 @@ La distinción es categorial: el hikikomori opera por **depresión** (caída de 
 - **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [11:39](https://youtu.be/966LWuiirwA?t=699)
 - **T5x14: Conan** — chunks: [35:18](https://youtu.be/mR2X391fQu4?t=2118)
 - **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [56:25](https://youtu.be/FllWy0fpkrM?t=3385) · [57:25](https://youtu.be/FllWy0fpkrM?t=3445)
-

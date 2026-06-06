@@ -100,9 +100,7 @@ El segundo movimiento de la tesis es polémico: el discurso antipsiquiátrico co
 - **Causa exógena del sufrimiento mental**: entorno y condiciones materiales externas.
 - **Causa psíquica del sufrimiento mental**: trauma y elaboración interna del individuo — el poder de causarse y de no causarse sufrimiento.
 
-
 **Distinción operativa neurosis de personalidad / neurosis localizada (no-TP)** — articulada como pieza diagnóstica en [[psicastenia-en-proxy]]: una **neurosis no-TP** afecta una parte local de la mente sin manchar toda la personalidad (ejemplo paradigmático: no poder pisar líneas en la calle); una **neurosis de personalidad** (TP) desalinea medios y fines en toda la conducta. La gravedad NO se mide por cuánto incapacita al paciente sino por cuánto le aleja de la realidad. Paradoja del loco: cuanto más loco, menos sabe que está loco — por eso una neurosis no-TP frecuentemente está más próxima a la psicosis que un trastorno de personalidad. Los **criterios para ubicar un problema en la estructura de la mente** son la **egosintonía/egodistonía** (alineación o desalineación entre lo que la neurosis empuja a hacer y la percepción de anormalidad) y el **insight** (capacidad de hacer metarrepresentaciones sobre la propia neurosis, opuesto operativo de la locura). El TPOC es egodistónico y permite insight; el TOC es egosintónico, carece de insight y confabula para sostener el ritual — lo que acerca el TOC al estatuto psicótico aunque conserve realidad compartida.
-
 
 **Nivel 3 — Polémica con la antipsiquiatría conductista y con el cerebrocentrismo psiquiátrico**
 
@@ -147,8 +145,6 @@ El segundo movimiento de la tesis es polémico: el discurso antipsiquiátrico co
 - [[woke-narrativa-postmoderna-moral]] — la paradoja del locus externo de control en la progresía (criticar a Dios/nación/moral y reconstruir nuevos locus) se enmarca aquí como rasgo psicológico estructural
 - [[gisbertocracia]] — el cerebrocentrismo y el farmacocentrismo se alinean con el patrón más amplio del canal sobre delegación de autoridad cognitiva
 - [[golem-de-cobre]] — comparte el problema de la teoría de la mente formal: aquí en clínica psiquiátrica, allí en cognición humana frente a IA
-
-
 
 ## Las dos acepciones de "teoría de la mente" y los criterios filosóficos
 
@@ -245,7 +241,6 @@ La función teoría de la mente queda articulada como sustrato del comportamient
 
 La pieza invierte la intuición popular: no es la comunicación lo que permite la cooperación sino los instintos. La cooperación está sostenida por necesidad afectiva (yo necesito al otro) y por capacidad de adelantar la conducta del otro (representación cognitiva del otro). El lenguaje refina pero no funda. Esta articulación es coherente con la teleosemántica: la teoría de la mente cognitiva evolucionó porque resolvía un problema de coordinación afectivo-conductual, no porque sirviera para la comunicación abstracta.
 
-
 ## Lagunas
 
 - **Articulación operacional del dualismo formal**: el monográfico *La teoría de la teoría de la mente* (may 2025) precisa que la marca operativa es metodológica — filosofía analítica (lógica formal sobre problemas de verdad) vs continental (sistemas internamente coherentes sin referente formal) — y articula tres criterios filosóficos (potencia/extensión/coherencia). Queda abierto el criterio específico para distinguir, dentro de un cuadro clínico concreto, cuándo un fenómeno mental requiere descripción cognitiva irreducible y cuándo admite reducción conductual sin pérdida
@@ -262,7 +257,5 @@ La pieza invierte la intuición popular: no es la comunicación lo que permite l
 Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minutes_sustained=75 ≥ 30`, `signal_marks_detected=7 ≥ 3`, `framework_internal_structure=17 piezas ≥ 4`). Queda abierta a revisión humana — el campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría. La fuente única es el monográfico *Psiquiatría, antipsiquiatría y teoría de la mente* (`4LBXNkVAUCU`); futuros vídeos del canal sobre filosofía de la psiquiatría, EMDR, ISRS, esquizofrenia o trauma deberían enriquecer esta página antes de generar páginas hermanas.
 
 ## Citations
-
-
 
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:36:27](https://youtu.be/4LBXNkVAUCU?t=5787)

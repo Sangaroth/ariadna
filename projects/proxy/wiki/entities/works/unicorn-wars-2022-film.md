@@ -178,6 +178,4 @@ La equivalencia con [[golem-de-cobre|el gólem]] y con Alien sitúa el ídolo en
 
 ## Citations
 
-
 - **Análisis arquetípico de Unicorn wars** — chunks: [12:47](https://youtu.be/fLfEbHPJNmU?t=767)
-

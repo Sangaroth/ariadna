@@ -166,8 +166,6 @@ La autopercepción, piedra angular del argumento de autodeterminación, queda ad
 
 Esta crítica epistemológica es el fundamento del rechazo del canal a la «autodeterminación» de género: si nadie puede verse objetivamente, la afirmación «soy del género X porque así me siento» no es acceso a un hecho interno sino construcción de una metarrepresentación interesada. El canal distingue así autodescubrimiento —legítimo: descubrir en las propias preferencias vivenciales la sexuación que uno tiene— de autodeterminación —sofisma activista: exigencia del ego hacia los demás.
 
-
-
 ### Caso testigo: Imane Khelif (París 2024) y la paradoja institucional del wokismo deportivo
 
 El clip *El asunto Imani Khalif* (ago 2024) opera como caso aplicado del aparato anti-constructivista de esta página. La boxeadora argelina Imane Khelif fue **descalificada del campeonato Mundial** de boxeo tras detectarse cromosomas XY y niveles altos de testosterona, pero el **Comité Olímpico Internacional** la declaró mujer sin justificación operativa y permitió competir en categoría femenina en París 2024, donde la boxeadora italiana Angela Carini se retiró a los 46 segundos por la intensidad de los golpes.
@@ -206,9 +204,6 @@ La defensa woke del caso Khelif opera explotando precisamente el criterio bioló
 La pieza articula la distinción operativa que el debate ignora deliberadamente: la pregunta 'qué es Khelif' (identidad) es independiente de la pregunta 'qué efectos tienen sus condiciones físicas en competición de contacto'. Para el debate deportivo solo importa la segunda. La probable displasia congénita que impidió el desarrollo completo de caracteres sexuales masculinos no convierte a alguien en hombre o mujer — la respuesta a esa pregunta es irrelevante para el debate deportivo. Lo que importa es que el cuerpo ha estado sometido a niveles de testosterona masculinos toda la vida, lo que equivale **funcionalmente** a un cuerpo de hombre para el deporte de contacto. La consecuencia operativa: cualquier anomalía que masculinice el cuerpo (no solo XX/XY puro) debería impedir competir contra mujeres en disciplinas donde las ventajas androgénicas son determinantes.
 
 La pieza completa el aparato de la página por su flanco institucional-deportivo: si el sexo es categoría cromosómica con efectos biológicos medibles (articulado en la primera mitad de la página), la organización deportiva NO puede tratarlo como categoría declarativa intercambiable sin destruir el sentido de la propia segregación competitiva que mantiene. El caso Khelif es el síntoma de lo que ocurre cuando la institución intenta sostener simultáneamente la segregación (categoría femenina) y la negación del criterio que la justifica (sexo biológico determinante).
-
-
-
 
 ### Falacia del convenio: la mecánica retórica del 'sexo como constructo'
 
@@ -253,7 +248,6 @@ El segundo movimiento es ontológico-categorial. La deconstrucción no opera sob
 El tercer movimiento opera la deconstrucción explotando la ambigüedad semántica de 'arbitrario'. Una vez que el sexo se ha vaciado ontológicamente y categorizado como 'constructo social', se ejecuta la cadena retórica: convenio → construcción → invención → deconstruible → revisable a voluntad. La cadena es invalida porque colapsa dos sentidos de 'arbitrario': (a) sentido lógico-formal de 'no derivable a priori' (los convenios humanos están subdeterminados por la naturaleza), y (b) sentido coloquial de 'caprichoso o por conveniencia' (sin razón ni constricción). El sexo cromosómico puede ser objeto de categorías culturales arbitrarias en sentido (a) — distintas culturas pueden nombrar el dimorfismo de modos distintos —, pero esto NO autoriza a tratar el dimorfismo mismo como 'arbitrario' en sentido (b). La falacia del convenio opera precisamente en este deslizamiento: legitimar la revisión voluntaria del sustrato material apelando a la convencionalidad de su nomenclatura.
 
 La lectura completa el aparato anti-constructivista de la página. La cobertura previa documenta QUÉ está mal en la articulación queer del sexo/género (segmentación artificial, reducción de identidad a autopercepción, descalificación epistemológica de la autodeterminación). Esta sección documenta CÓMO se construye retóricamente esa articulación — la mecánica del sofisma que la sustenta — lo que precisa el diagnóstico estructural: no es error contingente subsanable con mejor información, es operación retórica cuya estructura misma garantiza la conclusión que pretende demostrar.
-
 
 ## Psicología versus coaching: el límite clínico ante la disforia
 

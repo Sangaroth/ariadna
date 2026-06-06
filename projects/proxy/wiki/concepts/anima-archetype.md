@@ -38,7 +38,6 @@ last_human_edit: null
 
 # Ánima y Ánimus (arquetipos junguianos)
 
-
 ## Definición
 
 El **ánima** y el **ánimus** son los arquetipos junguianos que designan, respectivamente, el polo femenino del psiquismo del varón y el polo masculino del psiquismo de la mujer. En la lectura del canal Proxy:
@@ -64,7 +63,6 @@ Una precisión recurrente del canal: ánima/ánimus **no se refieren a hombre/mu
 Esta lectura del canal **extiende** a Jung: no solo es un arquetipo contrasexual de cada individuo, sino una estructura polar que organiza la cognición misma (concreto/abstracto, explícito/implícito, acción/recepción).
 
 > "Lo masculino se define como la parte del yo que efectúa actos más allá de la zona de control. El cerebro mantiene permanentemente representaciones de control motor sobre los objetos, independientemente de la voluntad o planificación.
-
 
 ## Sustrato biológico y casos contemporáneos
 
@@ -132,21 +130,17 @@ El canal usa con regularidad la figura del **ánima sola** — concepto que va m
 - **Por qué importa**: lo femenino corrompido es más terrible que lo masculino corrompido. Lo femenino resiste mejor el mal porque está diseñado para ello; si se corrompe, algo peor ha ocurrido. El arquetipo del ánima sola nombra al alma que sufre estancada en un pecado o agonía sin resolución
   → [Directo casual, 40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
 
-
 - **Lucy / novia de Drácula como sincretismo de feminidad oscura**: el canal lee a la novia de Drácula como condensación de varios arquetipos del polo oscuro femenino — madre oscura, Lilit, súcubo y ninfa al mismo tiempo. Lucy muerta en pecado sale por la noche a cazar 'como Lilit que devora niños para mantenerse joven'; seduce a su prometido ("bésame, acaríciame, amado esposo mío") antes de ser detenida. Este sincretismo es ánima sola en su forma más activa: no solo sufrimiento estancado, sino feminidad corrompida que predica
   → [Análisis arquetípico de Drácula, 2:34:06](https://youtu.be/JmCqIk6NDsM?t=9246)
 
 - **La mutación Wendy → ninfa como dinámica de la ánima en florecimiento**: el síndrome de Wendy (feminidad ingenua que crea héroes imaginarios) muta al síndrome de la ninfa cuando el cuerpo se desarrolla — la diosa interior pasa de Artemisa a Afrodita. La ninfa arquetípica es "un ser hipersexual perdido en el bosque que enamora a todos los que se la encuentran". Mecánica de transición de la ánima imaginativa pre-sexual a la ánima erótica plena — y de su corrupción posible hacia el súcubo si se desvía hacia lo puramente sexual
   → [Análisis arquetípico de Drácula, 39:09](https://youtu.be/JmCqIk6NDsM?t=2349)
 
-
-
 - **Lucy / novia de Drácula como sincretismo de feminidad oscura**: el canal lee a la novia de Drácula como condensación de varios arquetipos del polo oscuro femenino — madre oscura, Lilit, súcubo y ninfa al mismo tiempo. Lucy muerta en pecado sale por la noche a cazar 'como Lilit que devora niños para mantenerse joven'; seduce a su prometido ("bésame, acaríciame, amado esposo mío") antes de ser detenida. Este sincretismo es ánima sola en su forma más activa: no solo sufrimiento estancado, sino feminidad corrompida que predica
   → [Análisis arquetípico de Drácula, 2:34:06](https://youtu.be/JmCqIk6NDsM?t=9246)
 
 - **La mutación Wendy → ninfa como dinámica de la ánima en florecimiento**: el síndrome de Wendy (feminidad ingenua que crea héroes imaginarios) muta al síndrome de la ninfa cuando el cuerpo se desarrolla — la diosa interior pasa de Artemisa a Afrodita. La ninfa arquetípica es "un ser hipersexual perdido en el bosque que enamora a todos los que se la encuentran". Mecánica de transición de la ánima imaginativa pre-sexual a la ánima erótica plena — y de su corrupción posible hacia el súcubo si se desvía hacia lo puramente sexual
   → [Análisis arquetípico de Drácula, 39:09](https://youtu.be/JmCqIk6NDsM?t=2349)
-
 
 ### Aplicación al enamoramiento contemporáneo
 
@@ -165,7 +159,6 @@ El canal aplica recurrentemente ánima/ánimus a la fenomenología del enamorami
   → [Frozen, 1:42:41](https://youtu.be/NYZEm8mcPiQ?t=6161)
 
 - **"Las mujeres se enamoran de lo que oyen"**: para enamorar a una mujer cuéntale una historia y hazla soñar. Las mujeres necesitan una composición de lugar para idealizar una vida contigo. El síndrome de Wendy explica por qué cuando la imagen idealizada se desmorona, la mujer cambia de pareja
-
 
 ### Mecánica operativa del cortejo: prueba y error masculina, identificación implícita femenina
 
@@ -250,9 +243,6 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 - **Distinción Jung clásico vs canal**: la "ánima sola" es formulación recurrente del canal pero no aparece con ese nombre exacto en Jung. Sería útil rastrear si proviene de la tradición católica popular o de un junguiano específico
 - **Manifestaciones del ánimus en obras dirigidas a varones**: poco material. ¿Cómo lee el canal el ánimus en personajes masculinos cuya psique femenina interior es central?
 
-
-
-
 ## Peter Pan (1953) como articulación primaria de la tríada psíquica del ánima desplazada
 
 El monográfico sobre [[peter-pan-1953-film|Peter Pan]] (feb 2022) articula tres piezas operativas foundational del aparato ánima/ánimus que sirven como caso de calibración para el resto del corpus.
@@ -309,34 +299,12 @@ La pieza añade un criterio metodológico importante: cuando el aparato junguian
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
-
 
 - **El Gólem de Cobre** — chunks: [1:05:15](https://youtu.be/e3Aj775Rlw4?t=3915)
 - **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:00:18](https://youtu.be/PC5uw1s86eE?t=3618)
 - **Análisis arquetípico de Unicorn wars** — chunks: [2:05](https://youtu.be/fLfEbHPJNmU?t=125)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [9:35](https://youtu.be/X2c2a3mQBOs?t=575) · [34:58](https://youtu.be/X2c2a3mQBOs?t=2098) · [38:29](https://youtu.be/X2c2a3mQBOs?t=2309) · [43:03](https://youtu.be/X2c2a3mQBOs?t=2583)
-
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [1:04:41](https://youtu.be/lOpCXo1pi2M?t=3881) · [1:19:29](https://youtu.be/lOpCXo1pi2M?t=4769) · [1:58:57](https://youtu.be/lOpCXo1pi2M?t=7137)
 - **Directo casual** — chunks: [40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
@@ -348,4 +316,3 @@ La pieza añade un criterio metodológico importante: cuando el aparato junguian
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0) · [3:31](https://youtu.be/ClnayaScAjQ?t=211) · [13:47](https://youtu.be/ClnayaScAjQ?t=827) · [19:20](https://youtu.be/ClnayaScAjQ?t=1160) · [31:00](https://youtu.be/ClnayaScAjQ?t=1860) · [48:44](https://youtu.be/ClnayaScAjQ?t=2924) · [53:16](https://youtu.be/ClnayaScAjQ?t=3196) · [1:10:27](https://youtu.be/ClnayaScAjQ?t=4227) · [1:25:06](https://youtu.be/ClnayaScAjQ?t=5106) · [1:51:34](https://youtu.be/ClnayaScAjQ?t=6694)
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [8:09](https://youtu.be/zLRhDHyq3gs?t=489)
 - **T5x21: Noticias, y desaparición de buzos en Maldivas.** — chunks: [56:31](https://youtu.be/dPQk2iNPshc?t=3391)
-

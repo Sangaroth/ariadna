@@ -92,6 +92,4 @@ El cuento entra en el corpus, por tanto, no como caso paradigmático del horror 
 
 ## Citations
 
-
 - **Otoño de cuentos. Lovecraft** — chunks: [25:49](https://youtu.be/SwEqFdvBI9M?t=1549) · [46:02](https://youtu.be/SwEqFdvBI9M?t=2762) · [51:39](https://youtu.be/SwEqFdvBI9M?t=3099)
-

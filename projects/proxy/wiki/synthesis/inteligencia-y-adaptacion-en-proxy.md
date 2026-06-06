@@ -132,7 +132,6 @@ El caso concreto analizado revela la mecánica del doble estándar:
 
 El canal lee este doble estándar como síntoma de la [[herida-narcisista-en-proxy]]: el sujeto que necesita exhibir métricas de excelencia como defensa ante una inseguridad estructural no resuelta. El CI deja de funcionar como herramienta cognitiva y pasa a funcionar como símbolo de estatus, coherente con el análisis más amplio de la identidad progresista como fenómeno de compensación narcisista.
 
-
 ## Altas capacidades: categoría clínica inexistente
 
 En el directo *Noticias 100tíficas* (10 feb 2026) el canal articula explícitamente que las altas capacidades no son una categoría clínica genuina sino un modismo que recoge problemas de adaptación etiquetándolos como rasgo positivo:
@@ -154,7 +153,6 @@ La maniobra evita explorar lo que realmente sucede — depresión infantil, conf
 → [Noticias 100tíficas (19:35)](https://youtu.be/VgdybZKruwk?t=1175)
 
 La pieza enlaza con el análisis de [[woke-narrativa-postmoderna-moral]]: misma operación de reclasificar la diferencia descriptiva en categoría protegida para neutralizar el juicio cualitativo. Las "altas capacidades" cumplen para el bajo desempeño escolar la función que el [[autotipo]] cumple en otros dominios — vaciar la categoría de su capacidad discriminadora.
-
 
 ## La adaptación como predictor real y la psicopatía como espectro adaptativo
 

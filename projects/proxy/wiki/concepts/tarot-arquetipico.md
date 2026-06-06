@@ -75,8 +75,6 @@ Como bibliografía para fijar la lectura del canal se recomienda explícitamente
 
 Esto sitúa la lectura del tarot dentro del marco interpretativo de [[jung-carl-gustav]] sin pasar por la obra primaria — el canal prefiere la mediación junguiana de segunda generación como puerta de entrada a esta materia. La consecuencia editorial es que cualquier desarrollo arcano-por-arcano que el canal proponga estará filtrado por esa tradición secundaria, no por una lectura directa de los textos jungianos sobre simbolismo.
 
-
-
 ## Marsella y Rider-Waite como sistematizaciones canónicas
 
 El canal canoniza explícitamente dos barajas como las mejores sistematizaciones modernas del material arquetípico, justificando además el uso del tarot como índice general de arquetipos fundamentales:
@@ -89,9 +87,6 @@ El canal canoniza explícitamente dos barajas como las mejores sistematizaciones
 
 La pieza importa por dos razones operativas. Primera: explicita la tesis general de que toda figura mítica reconocible es ya cristalización de un arquetipo fundamental, lo que justifica usar el tarot como mapa exhaustivo del campo arquetípico. Segunda: canoniza Marsella y Rider-Waite como las dos barajas de referencia (frente a Thoth, otras barajas históricas, o las múltiples barajas New Age contemporáneas que el canal no considera fiables como sistematización). El criterio de fiabilidad implícito es que ambas tradiciones (Marsella renacentista, Rider-Waite eduardiana) son anteriores a la fabricación masiva New Age y conservan estabilidad iconográfica.
 
-
-
-
 ## Marsella y Rider-Waite como sistematizaciones canónicas
 
 El canal canoniza explícitamente dos barajas como las mejores sistematizaciones modernas del material arquetípico, justificando además el uso del tarot como índice general de arquetipos fundamentales:
@@ -103,8 +98,6 @@ El canal canoniza explícitamente dos barajas como las mejores sistematizaciones
 → [Directo casual (44:46)](https://youtu.be/ECN5C9rsaZg?t=2686)
 
 La pieza importa por dos razones operativas. Primera: explicita la tesis general de que toda figura mítica reconocible es ya cristalización de un arquetipo fundamental, lo que justifica usar el tarot como mapa exhaustivo del campo arquetípico. Segunda: canoniza Marsella y Rider-Waite como las dos barajas de referencia (frente a Thoth, otras barajas históricas, o las múltiples barajas New Age contemporáneas que el canal no considera fiables como sistematización). El criterio de fiabilidad implícito es que ambas tradiciones (Marsella renacentista, Rider-Waite eduardiana) son anteriores a la fabricación masiva New Age y conservan estabilidad iconográfica.
-
-
 
 ## El palo de copas y la semiótica del agua-espíritu
 
@@ -121,10 +114,6 @@ En el análisis arquetípico de [[anticristo-2009-film|Anticristo]] el canal art
 
 La equivalencia agua=espíritu fija la semiótica básica del palo: las copas no son meramente recipientes — son contenedores del fluido espiritual cuyas alteraciones (derrame, retención, mezcla) cifran el estado del afecto. El cinco de copas opera entonces como arcano canónico del duelo: la figura enlutada entre copas derramadas y un puente separando dos yoes da forma visual a la mecánica del trauma — el sujeto detenido entre la vida-antes y la vida-después, separado por un puente que no acaba de cruzarse. La pieza inscribe además los Arcanos Menores como sistema con dignidad simbólica propia, no como apéndice de los Mayores: cada palo (copas, oros, espadas, bastos) cifra un elemento (agua, tierra, aire, fuego) y por tanto un dominio del afecto y la acción.
 
-
-
-
-
 ## Caso paradigmático: Man of Steel como recorrido completo de los 22 Arcanos
 
 El análisis arquetípico de [[man-of-steel-2013-film|Man of Steel]] articula la película como recapitulación completa de los 22 Arcanos Mayores del tarot — la traversal más exhaustiva documentada en el corpus. La lectura ejemplifica cómo el canal usa los arcanos: no como dispositivo adivinatorio sino como secuencia arquetípica fija que organiza la trayectoria del héroe solar.
@@ -139,8 +128,6 @@ La secuencia completa que el canal articula: Loco (expulsión desde el sol) → 
 
 La lectura es operativa: el [[mito-solar|mito solar]] del héroe (Superman como recapitulación contemporánea de Cristo / Hércules / Apolo) se reconoce arcano-por-arcano en la película. La pieza importa porque cierra el sentido del tarot como **mapa fijo de la trayectoria heroica**, no como conjunto suelto de imágenes — los arcanos no son símbolos sueltos, son una secuencia ordenada que cualquier mito solar contemporáneo recapitula.
 
-
-
 ## El Gran Lebowski como recorrido completo de los 22 Arcanos invertidos
 
 El análisis arquetípico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] articula la película como **contraparte estructural exacta** de [[man-of-steel-2013-film|Man of Steel]]: donde Superman recorre los 22 Arcanos en su forma directa (mito solar cumplido), El Nota recorre los mismos 22 Arcanos en su forma **invertida** (anti-héroe sin dones, sin intención, sin dirección).
@@ -152,8 +139,6 @@ La secuencia coordina cada arcano invertido con un momento del fracaso heroico: 
 
 La pieza completa la lectura del tarot como **mapa fijo de la trayectoria heroica** introducida con Man of Steel: la secuencia opera tanto en su forma directa (héroe solar cumplido) como en su forma invertida (anti-héroe que recorre la misma estructura sin saberlo). Los hermanos Coen aplican deliberadamente la inversión arcano-por-arcano del monomito, marcando además las tres fases de Campbell con sueños del protagonista.
 
-
-
 ## Cenicienta como recorrido completo de los 22 Arcanos en clave femenino-lunar
 
 El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] añade un tercer caso paradigmático del recorrido de los 22 Arcanos Mayores como secuencia arquetípica fija — esta vez en clave **femenino-lunar**, complementaria a las dos lecturas masculino-solares previas ([[man-of-steel-2013-film|Man of Steel]] como Arcanos directos en mito solar cumplido; [[el-gran-lebowski-1998-film|El Gran Lebowski]] como Arcanos invertidos en anti-héroe). Cenicienta articula la secuencia desde la posición de la diosa que recorre las fases del [[mito-lunar]].
@@ -174,9 +159,6 @@ La secuencia que el canal articula: Sacerdotisa (Cenicienta tras la muerte del p
 
 La pieza completa la triada de casos canónicos del recorrido de los 22 Arcanos: Man of Steel articula el ciclo solar masculino directo, El Gran Lebowski el ciclo invertido de anti-héroe, Cenicienta el ciclo femenino-lunar. La diferencia operativa con los dos casos previos es estructural: la secuencia de Cenicienta no recorre los Arcanos como **viaje del sujeto** (Superman crece y madura, El Nota fracasa progresivamente) sino como **fases del ciclo lunar diegético** — los arcanos no marcan transiciones del yo de Cenicienta (que opera por modalidades cíclicas más que por individuación) sino momentos del ciclo arquetípico que la película codifica con simbología tarot-canónica. La estructura confirma la tesis ya articulada en secciones anteriores: los 22 Arcanos son mapa fijo de la trayectoria arquetípica que cualquier mito recapitula, sea cual sea la posición del sujeto recorriéndolo (héroe solar, anti-héroe degradado, diosa lunar). La triada cierra el cuadro de modalidades estructurales del recorrido — directa solar / invertida anti-heroica / femenino-cíclica — y deja abierto el caso de la modalidad polar plena (donde los arcanos articulan simultáneamente solar y lunar como dipolo, candidato natural sería [[lady-halcon-1985-film|Lady Halcón]] cuyo análisis ya cita el tarot como hilo estructural).
 
-
-
-
 ## Cenicienta como recorrido completo de los 22 Arcanos en clave femenino-lunar
 
 El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] añade un tercer caso paradigmático del recorrido de los 22 Arcanos Mayores como secuencia arquetípica fija — esta vez en clave **femenino-lunar**, complementaria a las dos lecturas masculino-solares previas ([[man-of-steel-2013-film|Man of Steel]] como Arcanos directos en mito solar cumplido; [[el-gran-lebowski-1998-film|El Gran Lebowski]] como Arcanos invertidos en anti-héroe). Cenicienta articula la secuencia desde la posición de la diosa que recorre las fases del [[mito-lunar]].
@@ -196,8 +178,6 @@ El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] 
 La secuencia que el canal articula: Sacerdotisa (Cenicienta tras la muerte del padre, flanqueada por blanco y negro) → Emperatriz (princesa rodeada de naturaleza) → Fuerza (la gracia dominando a las criaturas — eco operativo del arcano de la Fuerza articulado con [[lady-halcon-1985-film|Lady Halcón]] en sección 'La diosa primordial') → Demonio (la madrastra liberando el mal de las hermanastras) → Torre (el mundo de Cenicienta derrumbándose tras la fragmentación del vestido) → Estrella (el hada madrina) → Luna (el fin del hechizo a las 12) → Sol (el edicto de búsqueda iluminando todos los interiores) → Juicio (la apoteosis del zapato como reconocimiento).
 
 La pieza completa la triada de casos canónicos del recorrido de los 22 Arcanos: Man of Steel articula el ciclo solar masculino directo, El Gran Lebowski el ciclo invertido de anti-héroe, Cenicienta el ciclo femenino-lunar. La diferencia operativa con los dos casos previos es estructural: la secuencia de Cenicienta no recorre los Arcanos como **viaje del sujeto** (Superman crece y madura, El Nota fracasa progresivamente) sino como **fases del ciclo lunar diegético** — los arcanos no marcan transiciones del yo de Cenicienta (que opera por modalidades cíclicas más que por individuación) sino momentos del ciclo arquetípico que la película codifica con simbología tarot-canónica. La estructura confirma la tesis ya articulada en secciones anteriores: los 22 Arcanos son mapa fijo de la trayectoria arquetípica que cualquier mito recapitula, sea cual sea la posición del sujeto recorriéndolo (héroe solar, anti-héroe degradado, diosa lunar). La triada cierra el cuadro de modalidades estructurales del recorrido — directa solar / invertida anti-heroica / femenino-cíclica — y deja abierto el caso de la modalidad polar plena (donde los arcanos articulan simultáneamente solar y lunar como dipolo, candidato natural sería [[lady-halcon-1985-film|Lady Halcón]] cuyo análisis ya cita el tarot como hilo estructural).
-
-
 
 ## La Torre como carta del Apocalipsis y los Cuatro Jinetes
 
@@ -223,11 +203,7 @@ La precisión es operativa para las secuencias de obra ya documentadas: cuando M
 
 La Torre enlaza estructuralmente con el mitema [[apocalipsis-mitema]] del que constituye su versión psíquica cotidiana: el sujeto experimenta apocalipsis personales (ruina, muerte, caída en desgracia, derrumbe) en cada Torre que atraviesa, y la psique organiza esa vivencia con la misma gramática arquetípica con que organiza el Apocalipsis cosmogónico — instinto de entropía universal que opera porque toda construcción humana se sabe condenada a derrumbarse.
 
-
-
 > "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,
-
-
 
 ## El arcano del Mago: lemniscata, secuencia y los cuatro cuadrantes de la magia
 
@@ -260,9 +236,6 @@ La matriz cruza dos ejes: la **posición del sujeto** (activo / pasivo) y la **n
 - **Activo mágico = ritual**: el sujeto despliega procedimiento ([[magia-postmoderna-en-proxy|magia]]) para producir efectos sobrenaturales; el practicante opera como agente, no como receptor.
 
 El mito del mago propiamente abarca el cuadrante activo mágico — el procedimiento ritual que pretende producir efectos. Los otros tres cuadrantes son territorios fronterizos: la mística limita con el activo divino (la institución organiza la mística contemplativa) y con el pasivo mágico (la apertura receptiva puede recoger lo mágico imprevisto sin querer); el ritual mágico limita con la religión cuando el procedimiento ortodoxo se vuelve performático sin doctrina detrás. La precisión taxonómica permite leer obras y fenómenos contemporáneos asignándolos al cuadrante correcto: la mayor parte de la 'espiritualidad' New Age se sitúa en el cuadrante activo mágico (procedimiento sin doctrina) aunque se presente como cualquiera de los otros tres.
-
-
-
 
 ## El arcano del Mago: lemniscata, secuencia y los cuatro cuadrantes de la magia
 
@@ -298,8 +271,6 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 "
 → [El Gran Lebowsky y el Tarot Invertido (1:10:52)](https://youtu.be/yoWJWwYH_pE?t=4252)
 
-
-
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus d -->
@@ -310,66 +281,6 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - Tampoco se discute la diferencia entre barajas históricas (Marsella, Rider-Waite, Thoth) y su distinta carga simbólica
 
 ## Citations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
@@ -408,4 +319,3 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **De Platón A The Matrix** — chunks: [10:39](https://youtu.be/zr_ZKX60N54?t=639)
 - **Patreons y Conciencia Artificial** — chunks: [1:50](https://youtu.be/1BWyXULOoQQ?t=110)
 - **Matrix y el camino del héroe.** — chunks: [25:52](https://youtu.be/kF5KHE_fF7g?t=1552) · [38:32](https://youtu.be/kF5KHE_fF7g?t=2312) · [44:11](https://youtu.be/kF5KHE_fF7g?t=2651) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
-

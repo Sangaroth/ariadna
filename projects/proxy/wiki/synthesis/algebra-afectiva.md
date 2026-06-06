@@ -89,8 +89,6 @@ La tesis se inscribe explícitamente como prolongación del [[realismo-cognitivo
 - **Empatía cognitiva vs simpatía como mecánicas proyectivas distintas**: la empatía cognitiva es la capacidad de modelar el estado mental del otro; la simpatía es la resonancia afectiva con ese estado. La psicopatía conserva la primera y carece de la segunda — distinción operatoria del álgebra.
 - **Aplicación clínica del marco**: el TDAH se reformula como problema de **buscar** (no de afectos en general); la psicopatía como minoración de **pánico/apego/deseo**; el autismo como afectación de los circuitos **apego/pánico**. El sistema permite diagnóstico diferencial por mapa afectivo.
 
-
-
 ### Refinamiento de la psicopatía: hipoactivación moral, búsqueda compensatoria y tríada oscura
 
 En el directo *Os cuento cosas. Galatea, Kripke y Gustavo Bueno* (jun 2025) el canal precisa la articulación clínica de la psicopatía con cinco piezas operativas que el marco general dejaba implícitas.
@@ -145,7 +143,6 @@ El canal incorpora la tríada oscura (categoría establecida en psicología de l
 
 La relación depresión-psicopatía cierra el cuadro: la vida psicopática es estructuralmente depresiva (menos recompensa emocional → ausencia de motivación derivada → cuadro depresivo en muchos casos). Pero cuando el psicópata sí encuentra una motivación dominante, la ausencia de vínculos emocionales que normalmente distraerían al sujeto sano (preocupación por seres queridos, dudas morales, lealtades cruzadas) le permite eficacia máxima dirigida a esa meta. La paradoja explica los perfiles extremos donde el cuadro afectivo deficitario coincide con logros notables — el déficit es ventaja operativa cuando se canaliza en propósito monolítico.
 
-
 ## Citas del vídeo
 
 > "El álgebra afectiva es el sistema lógico-formal que establece relaciones entre clases cognitivas"
@@ -196,8 +193,6 @@ La relación depresión-psicopatía cierra el cuadro: la vida psicopática es es
 - El paso de **emoción** (traducción somática) a **afecto** (generalización con motor biológico) se distingue conceptualmente, pero la mecánica de esa traducción somática no se desarrolla aquí
 - La aplicación clínica menciona **TDAH, psicopatía y autismo** pero no extiende el mapa a otros cuadros (depresión, trastornos de ansiedad clásicos, trastornos de personalidad) — el corpus podría tener material en otros vídeos que cierre esta laguna
 
-
-
 ## Las nuevas emociones sociales adolescentes y la ansiedad como mecánica preemocional
 
 El monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula dos extensiones operativas del aparato afectivo del canal: la ansiedad como mecánica PREEMOCIONAL distinta de las emociones, y las tres nuevas emociones sociales adolescentes como composiciones afectivas operativas que sustituyen al repertorio infantil.
@@ -241,9 +236,6 @@ La página articulaba siete motores afectivos biológicos universales filogenét
 → [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)
 
 La pieza articula el repertorio INFANTIL específico de cinco emociones (asco, pena, ira, miedo, alegría) y su transición operativa: en la adolescencia el aparato infantil queda INSUFICIENTE para gestionar las nuevas demandas sociales, y las nuevas emociones sociales (envidia, vergüenza, ennui) emergen como composiciones afectivas más sofisticadas. La consecuencia operativa: el repertorio adolescente no es el infantil + tres emociones añadidas sino una RECONFIGURACIÓN COMPLETA del aparato donde la ansiedad preemocional se vuelve dominante y las emociones operan en modo de gestión del deber ser, no de respuesta directa al entorno.
-
-
-
 
 ## Las nuevas emociones sociales adolescentes y la ansiedad como mecánica preemocional
 
@@ -297,17 +289,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
-
-
-
-
-
-
-
-
-
 - **Transhumanismo, IA y Ciencia Ficción.** — chunks: [1:34:45](https://youtu.be/kdk8mi7-Y1s?t=5685) · [1:12:41](https://youtu.be/kdk8mi7-Y1s?t=4361)
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [20:13](https://youtu.be/BdVsvhTWWew?t=1213) · [25:16](https://youtu.be/BdVsvhTWWew?t=1516)
 - **MItología 101: El Gólem** — chunks: [33:24](https://youtu.be/IG3dkNBX9uU?t=2004)
 - **Filosofía y ciencia del dolor** — chunks: [1:39:58](https://youtu.be/vgS1u1Kejkk?t=5998)
-

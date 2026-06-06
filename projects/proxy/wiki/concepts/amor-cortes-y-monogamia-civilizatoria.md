@@ -56,8 +56,6 @@ El canal articula el amor romántico no como construcción postmoderna sino como
 
 La lectura es estructural-funcional: la civilización monógama distribuye el amor de manera que ningún varón quede excluido del vínculo, frente al desperdicio que produce la poligamia:
 
-
-
 El clip *El Amor cortés y el amor romántico* (feb 2026) precisa la mecánica biológica que sustenta la lectura estructural-funcional: el varón es **biológicamente expendable** — diseñado para darlo todo a la mujer y al hijo — y por eso la poligamia destruye específicamente el potencial masculino del grupo:
 
 > "En la poligamia antropológica es un varón con muchas mujeres, no al revés"
@@ -90,7 +88,6 @@ Finalmente, el clip precisa el **fundamento metodológico** del marco completo:
 → [El Amor cortés y el amor romántico (14:34)](https://youtu.be/bDnPuA3aZSk?t=874)
 
 La pieza es operativa: el canal demarca explícitamente que su articulación del amor cortés NO se sostiene en aparato psicoanalítico ni en sistema propio inventado, sino en lectura de antropología mitológica comparada. Las culturas que han fracasado en la monogamia han tenido que implementar poligamia, pero el principio del amor cortés es universal — propiedad estructural de la psique humana antes que doctrina cultural particular. Esto excluye la lectura crítica más común (que el amor cortés sería 'construcción patriarcal europea') al situar el marco en universal antropológico, no en tradición cultural contingente.
-
 
 > "Las civilizaciones monógamas prosperan porque todos los hombres reciben amor de una mujer, frente a las polígamas donde la mayoría de varones quedan desaprovechados"
 → [Fenomenología Trans (00:30)](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -144,8 +141,6 @@ La entrega tiene paralelo materno y filtro de madurez: el hombre que no ha alcan
 
 > "La madre tiene el instinto de entrega con el hijo; el hombre lo tiene con la mujer; si el hombre es niño solo puede recibir (síndrome de Wendy)
 
-
-
 ## Refinamiento del amor de entrega: pareja como quintaesencia y diagnóstico inverso
 
 En el directo *Tremendo martes* (04 mar 2026) el canal precisa dos piezas operativas sobre el amor de entrega que la página articulaba en plano arquetípico (paladín, sujeto/objeto, asimetría procedimental): qué define la pareja como vínculo voluntario máximo, y qué patrón relacional invierte el modo de entrega y lo vuelve patológico.
@@ -193,8 +188,5 @@ La pieza completa la doctrina del amor cortés desde el lado del fracaso: si el 
 
 ## Citations
 
-
-
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30) · [8:03](https://youtu.be/grs5EqRZBnQ?t=483) · [13:05](https://youtu.be/grs5EqRZBnQ?t=785)
 - **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57) · [6:01](https://youtu.be/bDnPuA3aZSk?t=361) · [9:32](https://youtu.be/bDnPuA3aZSk?t=572) · [11:03](https://youtu.be/bDnPuA3aZSk?t=663) · [12:33](https://youtu.be/bDnPuA3aZSk?t=753) · [14:34](https://youtu.be/bDnPuA3aZSk?t=874)
-
