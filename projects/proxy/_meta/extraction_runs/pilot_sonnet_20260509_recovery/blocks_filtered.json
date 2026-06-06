@@ -1,0 +1,68 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_sonnet_20260509_recovery",
+  "items": [
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "_doc": "Bloques cuyo contenido matchea exclude_patterns de topic_filters.json (política española coyuntural, fiscalidad coyuntural). Se registran aquí para auditabilidad — ningún descarte silencioso",
+        "block_marker": "09:43 — Pedro Sánchez no dimite",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe",
+          "pp",
+          "sánchez"
+        ],
+        "block_summary": "PSOE/Sánchez/dimisión — actualidad partidista coyuntural sin marco teórico"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_marker": "38:05 — Cuentas en el extranjero",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe (implícito por contexto)"
+        ],
+        "block_summary": "Begoña Gómez / María Jesús Montero / Zapatero — denuncia coyuntural"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_marker": "45:28 — Ayuso y el PP",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "ayuso",
+          "pp",
+          "sumar"
+        ],
+        "block_summary": "Ayuso fingiendo oposición + Urtasun de Sumar — comentario coyuntural"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_marker": "57:49 — PP y PSOE connivencia",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe",
+          "pp",
+          "feijóo"
+        ],
+        "block_summary": "Borja Semper, Feijóo, Von der Leyen — comentario coyuntural intra-bloque-bipartidista"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_marker": "1:05:08 — PP gasto LGTBI",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "pp"
+        ],
+        "block_summary": "Generalitat Valenciana, gasto público específico — coyuntural"
+      }
+    }
+  ]
+}

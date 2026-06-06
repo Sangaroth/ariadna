@@ -1,0 +1,2221 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_sonnet_20260509_recovery",
+  "generated_at": "2026-06-06T23:57:45+00:00",
+  "entities": {
+    "afecto-emocion-y-depresion": {
+      "canonical_name": "afectos primarios (buscar, cuidado, apego, terror, pánico) + depresión como descenso afectivo con traducción somática de pánico",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "video_title": "Por fin",
+          "depth": "primary",
+          "minutes": 11,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "La página teoria-de-las-emociones-en-proxy articula la triple distinción emoción/estado-de-ánimo/afecto pero NO lista la taxonomía Panksepp-style de afectos primarios (buscar, cuidado, apego, terror, pánico) que el canal usa como motor neurobiológico, ni articula depresión como descenso afectivo cuya traducción somática específica es pánico. Material genuinamente nuevo que enriquece el aparato afectivo del canal con la pieza primario/secundario y con el caso clínico de la depresión",
+          "quote_evidence": "El afecto es el motor neurobiológico primario (buscar, cuidado, apego, terror, pánico); la emoción es su traducción somática,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 11,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "metodologia-realismo-cognitivo-suicidio-y-andamiaje": {
+      "canonical_name": "biologicismo del término adaptativo + suicidio no predecible + toda teoría de la mente es psicoanalítica",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "video_title": "Por fin",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Tres piezas metodológicas que refinan realismo-cognitivo: (a) la categoría 'adaptativo/no adaptativo' rechazada como término biologicista sin estatuto filosófico válido (refuerza la línea anti-conductista de la página); (b) el suicidio como conducta estructuralmente no predecible que ninguna psicología puede explicar (caso límite del marco); (c) la admisión auto-reflexiva de que toda teoría de la mente es 'psicoanalítica' en sentido amplio (necesita andamiaje formal-filosófico), lo que refina la oposición simple realismo-cognitivo vs psicoanálisis ya documentada. Material metodológico nuevo que enriquece el frente epistemológico del marco",
+          "quote_evidence": "El realismo cognitivo considera que \"adaptativo/no adaptativo\" es un término biologicista sin categoría filosófica válida,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Polémica con Minerva Polo sobre el tratamiento del suicidio": {
+      "canonical_name": "Polémica con Minerva Polo sobre el tratamiento del suicidio",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "video_title": "Por fin",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Minerva acusó a Proxy de hablar \"con ligereza\" del suicidio sin entender el enfoque del canal,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Buceo profesional + cámara hiperbárica + campanas + Abyss": {
+      "canonical_name": "Buceo profesional + cámara hiperbárica + campanas + Abyss",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "video_title": "Por fin",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "250 horas de buceo profesional completadas más 100 horas de buceo recreativo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Plan B: trabajo subacuático + Ford Transit + exilio fiscal a Portugal": {
+      "canonical_name": "Plan B: trabajo subacuático + Ford Transit + exilio fiscal a Portugal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "video_title": "Por fin",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Comprar una furgoneta Ford Transit para vivir y hacer streaming desde cualquier lugar,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Editor a tiempo completo + foro fenomenología del dolor + canal secundario submarinismo": {
+      "canonical_name": "Editor a tiempo completo + foro fenomenología del dolor + canal secundario submarinismo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "video_title": "Por fin",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Busca un editor/a a tiempo completo que gestione edición, shorts y publicaciones de YouTube,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Oxigenoterapia hiperbárica como antidepresivo": {
+      "canonical_name": "Oxigenoterapia hiperbárica como antidepresivo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "video_title": "Por fin",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La oxigenoterapia hiperbárica (oxígeno al 40-100% a 3-4 atmósferas) tiene efecto antidepresivo temporal,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "jerarquia-ontogenetica-y-filogenetica-de-tres-Q": {
+      "canonical_name": "jerarquía ontogenética y filogenética de las tres componentes Q (afectiva primaria, imaginaria secundaria, gramatical terciaria)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento del aparato Q (afectivo/imaginario/gramatical) ya articulado en teoria-del-simbolo-en-proxy. La página articula la tripartición Q como dimensiones ortogonales pero NO documenta la jerarquía evolutiva-desarrollista entre las tres componentes (afectivo primario, imaginario secundario, gramatical terciario) ni la correlación organismo-simple = más afectivo. Material nuevo que cierra el flanco genealógico del aparato",
+          "quote_evidence": "Las funciones afectivas son primarias, las imaginarias secundarias y las gramaticales terciarias, tanto ontogenética como filogenéticamente,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "instintos-fundamentales-y-juego-mamifero": {
+      "canonical_name": "instintos fundamentales (buscar, reproducirse, vínculos, terror a la muerte, ira, juego) + el juego solo en mamíferos",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Articulación complementaria a la taxonomía afectiva ya documentada en teoria-de-las-emociones-en-proxy. La página tiene la triple distinción emoción/estado-de-ánimo/afecto y la lista Panksepp-style (buscar, cuidado, apego, terror, pánico) en update reciente; esta nueva articulación lista 6 instintos fundamentales con énfasis distinto (reproducción, ira, juego como tardío evolutivo, terror a la muerte específico). El canal usa taxonomías parcialmente divergentes en distintos vídeos — la pieza nueva extiende el catálogo afectivo y añade la propiedad evolutiva del juego como exclusivamente mamífero",
+          "quote_evidence": "Los afectos corresponden a instintos fundamentales: buscar, reproducirse, crear vínculos, terror a la muerte, ira y juego,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "test de matrices de Raven": {
+      "canonical_name": "test de matrices de Raven",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El test de matrices de Raven se considera el más fiable para medir la inteligencia teórica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "penetrabilidad cognitiva": {
+      "canonical_name": "penetrabilidad cognitiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La penetrabilidad cognitiva es cuando la consideración cognitiva de algo afecta a su percepción somática o vivencia fenomenológica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "factor G + factores de Carroll + estructura jerárquica del CI": {
+      "canonical_name": "factor G + factores de Carroll + estructura jerárquica del CI",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Las habilidades cognitivas fundamentales se agrupan en factores de segundo nivel (como inteligencia espacial) y un factor G de tercer nivel,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "belleza como cognición de orden armónico": {
+      "canonical_name": "belleza como cognición de orden armónico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La belleza es la cognición de un orden percibido como armónico que se revela en forma de afecto positivo,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "factor F hipotético propuesto por el canal": {
+      "canonical_name": "factor F hipotético propuesto por el canal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Se propone un \"factor F\" hipotético que representaría la inteligencia antes de aplicar las funciones inhibitorias y perceptuales,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sexo biológico vs género gramatical": {
+      "canonical_name": "sexo biológico vs género gramatical",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "En las coordenadas de este canal no existe \"género biológico\", existe sexo biológico y género gramatical,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "materialidad-del-poder-y-poesia-politica": {
+      "canonical_name": "materialidad del poder / poesía política / Constitución del 78 como dispositivo autodestructivo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": "secondary",
+          "minutes": 18,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El canal aplica al régimen constitucional español el aparato anti-formalista que gisbertocracia ya articula como crítica abstracta del positivismo jurídico. Las piezas nuevas (bloque de constitucionalidad como puerta trasera de reinterpretación, democracia española como ficción sostenida por buena voluntad, poesía política como complemento del sofisma estético en plano jurídico-institucional) son aplicación operativa que enriquece gisbertocracia. No merece página autónoma — es la realización aplicada de la tesis ya promovida del positivismo jurídico vía Tribunal Constitucional",
+          "quote_evidence": "El bloque de constitucionalidad permite que el gobierno reinterprete toda la Constitución vía Tribunal Constitucional,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 18,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "superioridad-moral-y-batalla-cultural-ilusion": {
+      "canonical_name": "superioridad moral como dispositivo nazi invertido / batalla cultural como ilusión",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": "secondary",
+          "minutes": 9,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento del aparato woke en dos direcciones: (a) la equivalencia estructural superioridad-moral=superioridad-nazi cierra el flanco meta-ético articulado en woke-narrativa-postmoderna-moral sección 'Emotivismo como motor meta-ético'; (b) la auto-crítica al campo opositor por confundir batalla dialéctica con batalla material es nueva — invierte el dispositivo retórico habitual del antagonismo al woke. Material genuinamente nuevo que enriquece la página existente; no merece página autónoma porque opera como articulación dentro del aparato woke ya promovido",
+          "quote_evidence": "No hay contradicción en el mundo progresista porque no operan con lógica sino con poder,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 9,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pedro Sánchez no dimite + escenarios PSOE/PP coyunturales": {
+      "canonical_name": "Pedro Sánchez no dimite + escenarios PSOE/PP coyunturales",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Primer escenario: judicialización progresiva por escándalos de corrupción y el PSOE haciéndose víctima,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Begoña Gómez + María Jesús Montero + Zapatero — denuncia de cuentas en el extranjero": {
+      "canonical_name": "Begoña Gómez + María Jesús Montero + Zapatero — denuncia de cuentas en el extranjero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Existe una denuncia en Fiscalía con un listado de cuentas en el extranjero de Begoña Gómez por más de 6 millones de dólares,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Aldama como conseguidor + Zapatero cobrando de Venezuela": {
+      "canonical_name": "Aldama como conseguidor + Zapatero cobrando de Venezuela",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "Aldama es gentuza que en cualquier democracia debería estar en la cárcel,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ayuso y el PP — oposición fingida": {
+      "canonical_name": "Ayuso y el PP — oposición fingida",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "Ayuso se dedica a obedecer al PP fingiendo ser más cool y hacer oposición,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Borja Semper / Feijóo / Von der Leyen / Urtasun (figuras políticas específicas)": {
+      "canonical_name": "Borja Semper / Feijóo / Von der Leyen / Urtasun (figuras políticas específicas)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "Borja Semper repite literalmente el discurso de Feijóo sobre el \"balón de oxígeno\",",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "PP gasta 2,5M en LGTBI + 220K en preservativos con sabor": {
+      "canonical_name": "PP gasta 2,5M en LGTBI + 220K en preservativos con sabor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "El PP ha gastado 2,5 millones en colectivos LGTBI y 220.000 euros en preservativos con sabor a fruta,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Marta Nebot": {
+      "canonical_name": "Marta Nebot",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Marta Nebot y la superioridad moral de la izquierda",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anita Sarkeesian + analogía videojuegos / PSOE": {
+      "canonical_name": "Anita Sarkeesian + analogía videojuegos / PSOE",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Una compañía de videojuegos escuchó a Sarkeesian y acabó odiando a sus propios consumidores,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "charocracia / PSOE state of mind / charos y gobierno": {
+      "canonical_name": "charocracia / PSOE state of mind / charos y gobierno",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La charocracia sobrevive porque es la parte pasiva del sistema: solo justifica a posteriori,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "miedo a los extremismos como parálisis ciudadana": {
+      "canonical_name": "miedo a los extremismos como parálisis ciudadana",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El miedo a ser etiquetado de extrema derecha o izquierda impide la acción,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "salario mínimo como sofisma + España en quiebra técnica": {
+      "canonical_name": "salario mínimo como sofisma + España en quiebra técnica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "Subir el salario mínimo no es subir los salarios: sube unos pocos, baja otros y desaparecen los demás,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "futuro distópico: españoles como sirvientes en su propia tierra": {
+      "canonical_name": "futuro distópico: españoles como sirvientes en su propia tierra",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "A los 70 años los españoles tendrán que pluriemplearse como asistentes de hogar de extranjeros que compraron la costa,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tibios y conformismo ciudadano — análisis del cobarde": {
+      "canonical_name": "tibios y conformismo ciudadano — análisis del cobarde",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Dv3caRUYzuc",
+          "video_title": "Perro no come Perro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Quien dice \"eso no va a servir de nada\" es un cobarde que ama demasiado su bienestar,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "voluntad-como-analisis-a-posteriori": {
+      "canonical_name": "voluntad como análisis a posteriori + decisiones todas afectivas + coherencia y responsabilidad como aproximación operativa",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": "secondary",
+          "minutes": 14,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Tres piezas que refinan libre-albedrio-ilusion-funcional: (a) voluntad como análisis retrospectivo, no categoría a priori (precisión sobre la 'ilusión funcional' ya documentada); (b) decisiones todas afectivas — refuta explícitamente la decisión racional como categoría operativa, lo que cierra una laguna metodológica; (c) coherencia y responsabilidad como mejor aproximación operativa al concepto de voluntad-libertad. Material genuinamente nuevo que completa el aparato anti-voluntarista del marco",
+          "quote_evidence": "Voluntad es el resultado por el que entendemos que nuestro impulso está alineado con nuestra expectativa,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 14,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "intimidad-como-proximidad-en-debilidades-y-compromiso-supremo": {
+      "canonical_name": "intimidad como proximidad en debilidades + compromiso total como nivel supremo de intimidad",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Dos piezas que refinan intimidad-y-confesion-en-proxy: (a) la definición operativa de intimidad como 'ámbito donde se han eliminado los riesgos de exposición' añade la condición material que la confesión-tesis dejaba implícita; (b) el nivel supremo de intimidad como compromiso total con una persona y el ritual de 'dos pasan a ser uno' enlaza directamente con hieros-gamos articulado en otra página, completando la jerarquía interna de la intimidad",
+          "quote_evidence": "El ritual por el cual dos personas pasan a ser uno: lo que le pase a uno es como si les pasara a los dos,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "caso Lily — maratón sexual de 100/1000 hombres": {
+      "canonical_name": "caso Lily — maratón sexual de 100/1000 hombres",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Tener sexo con 100 personas en un día es físicamente malo y peligroso, como cualquier maratón que lleve el cuerpo al límite,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "debate con Marta Veronese sobre tweet de Libertad y lo que Surja": {
+      "canonical_name": "debate con Marta Veronese sobre tweet de Libertad y lo que Surja",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El tweet plantea una falsa dicotomía entre hija infeliz como tradwife o hija feliz como Lily: no es comparable porque una actividad es inocua y la otra no,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "China prohíbe OnlyFans": {
+      "canonical_name": "China prohíbe OnlyFans",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "China cree que OnlyFans desordena el país porque aumenta la oferta de contenido sexual difícil de resistir,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "anuncios brutales de la DGT como caso de introyección cultural": {
+      "canonical_name": "anuncios brutales de la DGT como caso de introyección cultural",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Los anuncios brutales de la DGT primero introyectaron miedo en la población y después introyectaron culpa,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Japón como sociedad polarizada respecto al sexo": {
+      "canonical_name": "Japón como sociedad polarizada respecto al sexo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Japón no es una sociedad depravada sino muy polarizada respecto al deseo: muy reprimida en lo público, muy liberada en lo privado,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cifra de Matrix como caso del eje libertario/conservador": {
+      "canonical_name": "Cifra de Matrix como caso del eje libertario/conservador",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "La diferencia entre el aspecto libertario y el conservador es que hacia arriba en el diagrama es preferible la verdad sufriente y hacia abajo la ignorancia feliz,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "clase-cognitiva-vs-objeto-y-utilization-behavior": {
+      "canonical_name": "distinción operativa clase cognitiva vs objeto + qualia como aproximación + percepción fuera→dentro vs representación dentro→fuera + utilization behavior",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "UOk344kEeRM",
+          "video_title": "Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos",
+          "depth": "primary",
+          "minutes": 21,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento sustantivo de galatea-modelo-protomente. La página articula extensivamente la arquitectura del modelo (8 nodos, matriz fi, hidrozoario, cálculo lambda, embeddings universales, encarnación lakoffiana) pero NO documenta (a) la distinción operativa clase cognitiva vs objeto que opera como criterio crítico de la IA actual ('la IA trata clases como objetos porque no comprende los afectos'), (b) la diferencia direccional percepción (fuera→dentro) vs representación (dentro→fuera contrastando con objeto), (c) el aire como caso operativo de objeto puramente mental reconstruido por clases somáticas, (d) la equivalencia operativa entre clase cognitiva y qualia (recreación subjetiva indivisible), (e) la diferencia entre clase informática (clase de equivalencia matemática) y clase cognitiva (unidad mínima de composición representacional), (f) el utilization behavior como evidencia clínica de activación automática de clases procedimentales cuando falla inhibición frontal. Material que cierra el flanco metodológico-conceptual del aparato",
+          "quote_evidence": "Una clase en este contexto es un fundamental cognitivo, una unidad mínima de composición de una representación mental (miedo, tiempo, rojo),"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 21,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mitomania-como-sublimacion": {
+      "canonical_name": "mitomanía como sublimación + mixtura mentira-verdad (caso Fran Cuesta)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "UOk344kEeRM",
+          "video_title": "Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento clínico de tid-personaje-en-proxy: la página articula el espectro graduado histriónico/Münchhausen/disociativo según conciencia de la simulación (vía pending_update reciente del vídeo Primer stream del año), pero NO documenta la mitomanía como categoría intermedia distinta — operación sublimatoria que produce mixtura mentira-verdad para sostener una imagen específica del yo, sin la incoherencia del Münchhausen ni el mecanismo de defensa puntual del mentiroso común. La distinción 'el mitómano necesita que perciban una imagen concreta de él' opera como criterio diagnóstico nuevo. Material que enriquece el aparato del espectro de simulación clínica",
+          "quote_evidence": "El mitómano produce una mixtura de mentira y verdad, exagerando su personaje sin ser estafador ni psicópata,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Fran Cuesta como caso de mitomanía": {
+      "canonical_name": "Fran Cuesta como caso de mitomanía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UOk344kEeRM",
+          "video_title": "Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Fran Cuesta tiene un problema de mitomanía, no de ego narcisista ni megalómano,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "presentación del formato y los tres temas del stream": {
+      "canonical_name": "presentación del formato y los tres temas del stream",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UOk344kEeRM",
+          "video_title": "Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Los tres temas son: pantallas y aprendizaje, proyecto Galatea y por qué hacer amigos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "excalibur-1981-film": {
+      "canonical_name": "Excalibur (1981, John Boorman)",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Anuncio de reanálisis pero con tesis sustantiva sobre cristianización de mitos celtas + comparación con SDA — material citable que enriquece la genealogía mítica documentada en la página existente",
+          "quote_evidence": "Se retomará el análisis de Excalibur (1981, John Boorman) mezclando mito heroico con mito artúrico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "altas-capacidades-criterio-clinico": {
+      "canonical_name": "altas capacidades",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "No merece página propia (es crítica del canal a una etiqueta clínica, no concepto canal-específico). Pero la crítica es articulada con tesis propia y aplica el marco adaptación≠CI de la página existente — material sustantivo nuevo para inteligencia-y-adaptacion-en-proxy",
+          "quote_evidence": "Las altas capacidades son un modismo para recoger problemas de adaptación, no una circunstancia que exija tratamiento clínico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "microdosis-enteogenos": {
+      "canonical_name": "microdosis de enteógenos",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": "secondary",
+          "minutes": 7,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Técnica terapéutica usada como ilustración del mismo mecanismo de reelaboración episódica que articula trauma-en-proxy. No merece página autónoma (técnica clínica, no concepto del canal) pero enriquece la sección sobre EMDR de trauma-en-proxy con material genuinamente nuevo (microdosis vs viaje, ayahuasca study, hipótesis acetilcolina, contracondicionamiento como límite)",
+          "quote_evidence": "La terapia con enteógenos no consiste en meterse un viaje sino en microdosis que no se notan durante un proceso terapéutico acompañado,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 7,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "panpsiquismo": {
+      "canonical_name": "panpsiquismo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": "secondary",
+          "minutes": 9,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Posición filosófica externa que el canal critica desde su marco propio (definir antes de explicar). Ya está mencionado brevemente en realismo-cognitivo como consecuencia lógica del materialismo sin criterio de demarcación. Aquí el canal articula crítica sustantiva — material nuevo que enriquece teoria-del-simbolo-en-proxy o realismo-cognitivo. No merece página autónoma (es posición ajena, no del canal)",
+          "quote_evidence": "El panpsiquismo dice que la conciencia no es un fenómeno humano sino parte del tejido fundamental de la realidad, un primitivo fundamental como el tiempo o el espacio,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 9,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "estereotipia woke en cine": {
+      "canonical_name": "estereotipia woke en cine",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "Las películas que hablan de sufrimiento, bien y mal tienen estructura arquetípica; las películas \"woke\" no la tienen porque hablan de estereotipos, no de un interior de la naturaleza,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "autismo como bioanomalía": {
+      "canonical_name": "autismo como bioanomalía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El autismo es una enfermedad en sentido amplio: una bioanomalía que causa sufrimiento,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "síndrome de Münchhausen vs mitomanía": {
+      "canonical_name": "síndrome de Münchhausen vs mitomanía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El síndrome de Münchhausen es una patología compulsiva de mentir sin parar, como un TOC de mentiras, sin intención manipulatoria consciente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "atlas cerebrales / no localismo cerebral": {
+      "canonical_name": "atlas cerebrales / no localismo cerebral",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "Los atlas de localización cerebral ya no son suficientes para el estudio de la cognición; lo importante es cómo funciona sistémicamente el cerebro,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "afasia de conducción / síndromes de desconexión": {
+      "canonical_name": "afasia de conducción / síndromes de desconexión",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La afasia de conducción demuestra que una desconexión entre dos partes del cerebro afecta funciones sin que ninguna zona cortical esté dañada,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "afantasía": {
+      "canonical_name": "afantasía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "La afantasía es la incapacidad de visualizar mentalmente formas, colores y objetos; es un síndrome de desconexión entre dos partes del cerebro,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Leibniz infiltrándose en sociedad alquímica": {
+      "canonical_name": "Leibniz infiltrándose en sociedad alquímica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Leibniz se infiltró en una sociedad secreta de la piedra filosofal compilando terminología alquímica de textos medievales sin saber nada de alquimia,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "instituto de investigación + IA como motor de búsqueda": {
+      "canonical_name": "instituto de investigación + IA como motor de búsqueda",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "El objetivo es convertir el canal en un centro de investigación donde la gente aporte dinero, medios e IA,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Open Logic Project": {
+      "canonical_name": "Open Logic Project",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "recommended_reference",
+          "quote_evidence": "Proyecto comunitario gratuito y open access de lógica formal constantemente actualizado con nuevos avances,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Philip Goff": {
+      "canonical_name": "Philip Goff",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Philip Goff plantea el giro copernicano: ¿por qué explicar la realidad en términos de conciencia es menos válido que explicar la conciencia en términos de realidad?,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "MDMA y empatógenos": {
+      "canonical_name": "MDMA y empatógenos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Los empatógenos (como MDMA) no desarrollan empatía real sino que alteran el humor interno y desatan afectos positivos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tiempo y conciencia como ilusión postperceptiva": {
+      "canonical_name": "tiempo y conciencia como ilusión postperceptiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "Solo se tiene conciencia del momento presente, pero para cuando lo representas ese ahora ya pasó: toda representación es postperceptiva,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "realismo vs materialismo filosófico (caracterización afectiva)": {
+      "canonical_name": "realismo vs materialismo filosófico (caracterización afectiva)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "El realismo dice que las estructuras percibidas existen en la realidad; el materialismo dice que la mente reconstruye y construye la realidad,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Señor de los Anillos (mención comparativa con Excalibur)": {
+      "canonical_name": "Señor de los Anillos (mención comparativa con Excalibur)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Se explorará cuánto del Señor de los Anillos hay en Excalibur y viceversa, como mitos complementarios que son parte de la misma historia,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "viaje-astral-como-reduccion-neurocognitiva": {
+      "canonical_name": "viaje astral como reducción neurocognitiva: parálisis del sueño convertida en sueño lúcido + magia anula sensor psíquico",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "fDr6XqABtQQ",
+          "video_title": "Psicología 101: Qué es un viaje astral.",
+          "depth": "primary",
+          "minutes": 80,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Aplicación operativa del aparato magia-postmoderna a un fenómeno místico específico (viaje astral) que la página existente NO documenta. La reducción neurocognitiva (viaje astral = parálisis del sueño convertida en sueño lúcido vía técnicas de despegue corporal) es lectura del canal que opera dentro del marco realista cognitivo: la fenomenología mística se reduce a su sustrato neurofisiológico sin negar la experiencia subjetiva. La pieza 'magia anula el sensor psíquico' articula además el mecanismo cognitivo común a toda práctica mágica postmoderna. La taxonomía Tipo A/Tipo B de viajes astrales y el procedimiento híbrido (parálisis → viaje astral) son material genuinamente nuevo para magia-postmoderna-en-proxy",
+          "quote_evidence": "El viaje astral se define como visitar otros lugares a través del sueño, convirtiendo el sueño en un proceso activo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 80,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "monstruos-en-paralisis-y-clases-ancestrales-del-terror": {
+      "canonical_name": "universalidad transcultural de los monstruos en parálisis del sueño + el miedo genera la forma",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "fDr6XqABtQQ",
+          "video_title": "Psicología 101: Qué es un viaje astral.",
+          "depth": "secondary",
+          "minutes": 7,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Pieza operativa para clases-ancestrales: la universalidad transcultural de las figuras monstruosas en la parálisis del sueño (seres negros, delgados, ojos blancos/rojos, hechos de humo) opera como evidencia empírica de clases ancestrales del afecto terror — el cerebro humano comparte arquitectura representacional que produce figuras coherentes con la emoción de terror, no figuras pre-existentes que la psique encuentre. La articulación 'el miedo genera los monstruos, no al revés' es inversión causal que refuta la lectura mística y refuerza la articulación de clases-ancestrales como homologías noéticas evolutivas",
+          "quote_evidence": "El miedo genera los monstruos, no al revés: el cerebro crea objetos coherentes con la emoción de terror,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 7,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cuatro fases del sueño N1/N2/N3/REM + ciclo perceptivo talamocortical + bottom-up/top-down": {
+      "canonical_name": "cuatro fases del sueño N1/N2/N3/REM + ciclo perceptivo talamocortical + bottom-up/top-down",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "fDr6XqABtQQ",
+          "video_title": "Psicología 101: Qué es un viaje astral.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Las cualidades vivenciales de los sueños dependen de las conexiones somatoencefálicas (tronco encefálico, puente, tálamo) y las áreas cerebrales activas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sensación de caída al dormirse + bloqueo talámico + adrenalina en parálisis": {
+      "canonical_name": "sensación de caída al dormirse + bloqueo talámico + adrenalina en parálisis",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "fDr6XqABtQQ",
+          "video_title": "Psicología 101: Qué es un viaje astral.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El bloqueo talámico impide todo control motor: la desesperación por llamar al cuerpo genera descargas de adrenalina,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "técnicas de inducción: postura corporal + reality checks + diario de sueños + tatuaje onírico + dispositivos REM": {
+      "canonical_name": "técnicas de inducción: postura corporal + reality checks + diario de sueños + tatuaje onírico + dispositivos REM",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "fDr6XqABtQQ",
+          "video_title": "Psicología 101: Qué es un viaje astral.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Realizar reality checks durante el día: contar dedos, mirar el reloj, verificar que no se está soñando,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Salvia Divinorum + alucinógenos clásicos (psilocibina, LSD, cornezuelo) — técnicas de uso": {
+      "canonical_name": "Salvia Divinorum + alucinógenos clásicos (psilocibina, LSD, cornezuelo) — técnicas de uso",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "fDr6XqABtQQ",
+          "video_title": "Psicología 101: Qué es un viaje astral.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Setas (psilocibina), LSD y cornezuelo son peligrosos sin control médico; la combinación recomendada es salvia + técnicas del grimorio,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "circuito cerebral especializado en caras + no se pueden soñar caras nunca vistas": {
+      "canonical_name": "circuito cerebral especializado en caras + no se pueden soñar caras nunca vistas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "fDr6XqABtQQ",
+          "video_title": "Psicología 101: Qué es un viaje astral.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las caras en sueños dependen de un circuito cerebral especializado: no se pueden soñar caras nunca vistas,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cuadruple-emulacion-y-simulacion-vs-emulacion": {
+      "canonical_name": "Sistema cuádruple de divisiones de la emulación: estereotipia / prototipia / arquetipia / autotipia + simulación vs emulación (paradigma de Turing)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "video_title": "Primer stream del año",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento sustantivo de la cadena articulada en autotipo (arquetipo→prototipo→estereotipo→autotipo) que la página presenta como degradación lineal. La nueva pieza introduce (a) la cuádruple distinción como SISTEMA DE DIVISIONES DE LA EMULACIÓN — categoría más amplia que la cadena de degradación, (b) la distinción operativa SIMULACIÓN vs EMULACIÓN (simulación = indistinguible del original / emulación = solo reviste forma estético-imaginaria), (c) el paradigma de Turing como criterio aplicado, (d) los emuladores de consolas como caso operativo donde la diferencia se ve. Material nuevo metodológico que enriquece autotipo con su aparato técnico subyacente",
+          "quote_evidence": "Las cuatro partes de la emulación de la fantasía son estereotipia, prototipia, arquetipia y autotipia,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "niveles-clinicos-de-simulacion-y-excision-disociativa": {
+      "canonical_name": "Niveles clínicos de simulación: histriónico / Münchhausen / disociativo + excisión como proxy de personalidad temporal + colusión histriónica + Rei Ayanami como anti-perfil",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "video_title": "Primer stream del año",
+          "depth": "primary",
+          "minutes": 22,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento sustantivo de tid-personaje-en-proxy: la página articula TID vs personaje y el criterio de prosodia, pero NO documenta (a) el espectro graduado histriónico/Münchhausen/disociativo según la conciencia que el sujeto tiene de su propia simulación, (b) la mecánica específica de la excisión disociativa como proxy de personalidad temporal por trauma (refina el cruce con excision-psicologica que la página apunta sin desarrollar la mecánica), (c) los maskings de psicópatas y autistas como caso de simulación conductual aprendida por solapamiento de problemas de interacción social, (d) las madres Reborn como caso de enacting (compulsión actuada), (e) la colusión y competencia entre histriónicos + Rei Ayanami como anti-perfil paradigmático del histriónico. Material clínico nuevo y articulado que extiende el aparato",
+          "quote_evidence": "El masking es un conjunto de conductas aprendidas que simulan naturalidad en la interacción social,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 22,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ego-fragil-vs-narcisismo-genuino": {
+      "canonical_name": "Distinción operativa ego frágil vs narcisismo genuino",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "video_title": "Primer stream del año",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento de herida-narcisista-en-proxy con un cuadro diagnóstico complementario: la distinción operativa ego frágil vs narcisismo genuino que la página no documenta. Cuatro criterios discriminantes: (a) atención a la opinión externa (alerta vs dada por hecha), (b) afectos al escarbar (abandono+pánico vs indignación+ira), (c) autoimagen (inferior vs irreal-superior), (d) relación con figuras de seguridad excesiva (endiosamiento vs no). Cierra parcialmente la laguna 'caso reverso' (cómo se manifiesta la herida narcisista en quien internaliza la deuda en lugar de externalizarla) — el ego frágil es esa modalidad complementaria al narcisista herido externalizador",
+          "quote_evidence": "La persona de ego frágil está permanentemente alerta de la opinión de los demás; el narcisista genuino da por hecha la admiración,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anug Bost / Grock / IA y desnudez + virtue signaling sobre cada innovación tecnológica": {
+      "canonical_name": "Anug Bost / Grock / IA y desnudez + virtue signaling sobre cada innovación tecnológica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "video_title": "Primer stream del año",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El escándalo progresista ante cada innovación tecnológica es moralina, no razonamiento moral,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Polaris extendido planificado + cambio de orden expositivo + ampliación de corrupciones": {
+      "canonical_name": "Polaris extendido planificado + cambio de orden expositivo + ampliación de corrupciones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "video_title": "Primer stream del año",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Será un \"Polaris extendido\" con más diagramas, no una cuarta edición,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Nuevo trabajo: técnico especialista Hot Tap / Stop Flow + buzo soldador": {
+      "canonical_name": "Nuevo trabajo: técnico especialista Hot Tap / Stop Flow + buzo soldador",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "video_title": "Primer stream del año",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "El puesto es de técnico especialista en soldadura para operaciones de Hot Tap y Stop Flow sobre tuberías a presión,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Uncanny Valley + teoría de la mente psicológica + reconocimiento de caras": {
+      "canonical_name": "Uncanny Valley + teoría de la mente psicológica + reconocimiento de caras",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "video_title": "Primer stream del año",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El uncanny valley es la sensación de incomodidad ante una simulación antropomórfica que falla en emular lo humano,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "arquetipo-como-eigenvector-y-cinco-dimensiones-semioticas": {
+      "canonical_name": "arquetipo como eigenvector + cinco dimensiones semióticas isomórficas",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento metodológico del concepto de arquetipo articulado en mito-polar y collective-unconscious. La página mito-polar articula el polar como mito primario pero NO documenta (a) la definición técnica del arquetipo como eigenvector (estructura invariante bajo cambio de sistema de coordenadas interpretativo), ni (b) el criterio operativo de cinco dimensiones semióticas isomórficas (simbólica, arquetípica, biológica, vivencial, psicológica) como gate para considerar un arquetipo como genuino, ni (c) la articulación canal-específica de las dos perspectivas de pensamiento (masculina concreta-objetual / femenina presupuesto-interrelacionado) como formas polares de la cognición presentes en toda psique. Material metodológico nuevo que enriquece mito-polar con su aparato técnico subyacente",
+          "quote_evidence": "Un arquetipo es como un eigenvector: mantiene la misma estructura independientemente del sistema de coordenadas interpretativo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "triple-diosa-virtudes-encadenadas-y-misterio-hipnotico": {
+      "canonical_name": "triple diosa + gracia/belleza/esperanza encadenadas + influencia hipnótica + permanecer incólume ante el mal",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": "secondary",
+          "minutes": 9,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Refinamientos sustantivos a diosa-blanca: (a) la cadena ordenada gracia → belleza → esperanza (sin gracia la belleza queda mermada, sin belleza la esperanza queda mermada) explicita una jerarquía interna que la página articulaba como tripartición horizontal sin orden de derivación; (b) la influencia hipnótica de la diosa blanca sobre el varón como propiedad operativa específica del arquetipo (no solo virtudes pasivas); (c) la naturaleza del cambio circular como compartida por todas las diosas frente a lo masculino individuado y descendido; (d) permanecer incólume e inmaculada incluso al mirar a los ojos al mal como propiedad estructural distintiva. Material nuevo del libro Polaris que cierra parcialmente la laguna 'Declinaciones culturales contemporáneas' añadiendo la dimensión psico-operativa del arquetipo",
+          "quote_evidence": "Las virtudes van encadenadas en orden: sin gracia la belleza no es tanto, sin belleza la esperanza no es tanto,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 9,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mutabilidad-femenina-y-cuatro-vidas-mito-lunar": {
+      "canonical_name": "mutabilidad de lo femenino + cuatro vidas del mito lunar como privilegio arquetípico",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Refinamiento de mito-lunar: la página articula las cinco fases del ciclo (despertar/creación/caída/luna-roja/exorcismo) y la mecánica de descenso-rescate-ascenso, pero NO documenta la pieza estructural de la mutabilidad femenina como rasgo característico del mito lunar (mutación entre cuatro estados, fórmula 'tres son una y una son tres' que articula la triple diosa con la unidad subyacente), ni el privilegio arquetípico de las cuatro vidas como exclusividad de lo femenino frente a la individuación masculina descendida. Material nuevo del libro Polaris que cierra parcialmente la laguna 'Desarrollo de cada fase' al añadir la propiedad de mutabilidad como rasgo transversal del ciclo",
+          "quote_evidence": "Lo femenino cambia para adaptarse al mundo, a diferencia de lo masculino que está individuado,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ediciones del libro + precios + Amazon + Patreon + tipo de letra cambiado": {
+      "canonical_name": "ediciones del libro + precios + Amazon + Patreon + tipo de letra cambiado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promo",
+          "quote_evidence": "El libro está disponible en Amazon España a 16€ y en PDF por 3€ en Patreon,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mística como experiencia somática de lo divino + magia ritual + esoterismo vs exotérico": {
+      "canonical_name": "mística como experiencia somática de lo divino + magia ritual + esoterismo vs exotérico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lo esotérico no es cifrado ni secreto: es conocimiento que requiere una experiencia iniciática para ser comprendido,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "desesperanza como motor del deseo de morir (no la depresión)": {
+      "canonical_name": "desesperanza como motor del deseo de morir (no la depresión)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lo que lleva a querer morir no es la depresión sino la desesperanza,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "doble Penrose y uncanny valley lingüístico permanente": {
+      "canonical_name": "doble Penrose y uncanny valley lingüístico permanente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Una IA entrenada para permanecer permanentemente en el uncanny valley imposibilitaría determinar si es humana o artificial,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "procrastinación como mecanismo fóbico (no vagancia)": {
+      "canonical_name": "procrastinación como mecanismo fóbico (no vagancia)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La procrastinación es fundamentalmente fóbica, no vagancia: genera ansiedad intensa ante las tareas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "corrupciones de lo masculino y lo femenino + arquetipos de la neurosis": {
+      "canonical_name": "corrupciones de lo masculino y lo femenino + arquetipos de la neurosis",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "Las corrupciones en mitología son arquetipos de la neurosis,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "por qué Proxy escribe: ansiedad como motor + soledad patológica + diosa blanca como cura": {
+      "canonical_name": "por qué Proxy escribe: ansiedad como motor + soledad patológica + diosa blanca como cura",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "La soledad patológica es la condición de fondo: \"solamente una diosa blanca pueda curarme\",",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "petricor y ciencia del olfato + canal de contraste": {
+      "canonical_name": "petricor y ciencia del olfato + canal de contraste",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El petricor es el nombre del olor producido por la lluvia en suelos secos, causado por la liberación de ozono (O₃),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "masculinidad arquetípica parcialmente inefable + 'la mujer sabe pero no sabe lo que sabe'": {
+      "canonical_name": "masculinidad arquetípica parcialmente inefable + 'la mujer sabe pero no sabe lo que sabe'",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "video_title": "Presentación del Libro: Polaris",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "\"La mujer sabe pero no sabe lo que sabe\": el pensamiento femenino es no explícito,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

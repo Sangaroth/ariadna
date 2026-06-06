@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_sonnet_20260509_recovery",
+  "generated_at": "2026-06-06T23:57:45+00:00",
+  "_doc": "Manuales/libros que el speaker recomienda como referencia bibliográfica del canal (scope.md §3.4). Agrupados por book_title con todas las occurrences. Insumo para futura página índice wiki/bibliografia-recomendada.md (renderizado post-process — esta es la fuente de verdad estructurada).",
+  "books": {
+    "Open Logic Project": {
+      "book_title": "Open Logic Project",
+      "authors": [
+        "Open Logic Project (proyecto comunitario open access)"
+      ],
+      "domain": "lógica formal / filosofía analítica",
+      "occurrences": [
+        {
+          "video_id": "VgdybZKruwk",
+          "video_title": "Noticias 100tíficas.",
+          "surface_form": "Open Logic Project",
+          "why_recommended": "El canal lo recomienda como recurso pedagógico actualizado para estudiar la parte formal del pensamiento. La lógica formal es herramienta operativa del marco realista cognitivo (ver convergencia disciplinar filosofía analítica = teoría de la mente = psicología documentada en realismo-cognitivo)",
+          "quote_evidence": "Proyecto comunitario gratuito y open access de lógica formal constantemente actualizado con nuevos avances,",
+          "timestamp_seconds": 4611
+        }
+      ]
+    }
+  }
+}
