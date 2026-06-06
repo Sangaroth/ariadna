@@ -1,0 +1,77 @@
+{
+  "video_id": "dPQk2iNPshc",
+  "video_title": "T5x21: Noticias, y desaparición de buzos en Maldivas.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Sin promote_new. Stream largo (85 min) con composición típica de directo: noticia comentada + análisis técnico + interacciones personales + meta. Las piezas substantivas que sí podrían ser enciclopédicas (cuidados paliativos + trascendencia biológica, conversión de Fortunate, arquitectura de Pandora) están en formato fragmentario insuficiente para promote_new. La pieza más ajustada es un aforismo canónico sobre demonios que enriquece la página demonios-en-proxy. Pandora (= 'máquina de sueños' flagueada en la extracción del vídeo de presentación vey4ah6vEOA) ahora tiene arquitectura técnica detallada por primera vez — sigue siendo tracking-only hasta que material monográfico justifique página propia.",
+  "pending_updates": [
+    {
+      "target_page_id": "demonios-en-proxy",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/projects/proxy/_meta/extraction_runs/overnight_20260606_222259_b001/shadow_wiki/synthesis/demonios-en-proxy.md",
+      "operation": "insert_before_passage",
+      "anchor_passage": "## Lagunas\n\n- **Cuatro tipos de influencia demoníaca**: el vídeo articula cuatro tipos de influencia como subestructura interna, pero el fragmento del summary disponible no los desarrolla; pendiente de chunks adicionales",
+      "anchor_uniqueness_check": "literal único; el primer bullet de Lagunas aparece una sola vez",
+      "reason": "Aforismo canónico del canal sobre el modus operandi inverso de fantasmas y demonios — pieza que cristaliza en formulación punzante la 'acepción metafísica' del demonio como fuerza/campo que opera por negación de su propia existencia. La página tiene la tipología teológico-psicológica completa pero le falta esta crystallization aforística sobre el mecanismo operativo de la influencia demoníaca (ser denegado como condición de la eficacia).",
+      "supersedes_laguna": null,
+      "new_content": "## El mecanismo inverso de fantasmas y demonios: la negación como condición de eficacia\n\nEn el directo T5x21 (mayo 2026), comentando un proyecto de directos en lugares supuestamente encantados, el canal articula en formulación aforística la asimetría operativa entre dos categorías que la demonología popular suele asimilar: fantasmas y demonios.\n\n> \"El mayor éxito de los fantasmas es que pensemos que sí existen y el de los demonios que pensemos que no,\"\n→ [T5x21: Noticias, y desaparición de buzos en Maldivas (1:20:11)](https://youtu.be/dPQk2iNPshc?t=4811)\n\nLa pieza cristaliza en formulación punzante la **acepción metafísica** ya documentada en la sección 'Las tres acepciones del demonio' — los demonios como campo, atractor, fuerza o presión, no como entidad con historia protagonística. El aforismo precisa el corolario operativo de esa ontología: la eficacia de la influencia demoníaca depende estructuralmente de que el sujeto no la categorice como tal. Donde el fantasma opera por presencia atribuida (su éxito cultural consiste en hacerse creer presente), el demonio opera por **ausencia atribuida** — su éxito cultural consiste en hacerse negar.\n\nLa consecuencia categorial cierra el cuadro de la demonología del canal: la acepción metafísica del demonio (campo entrópico que inclina a la perversión) y la crítica a la prototipación demoníaca (los demonios no son personajes con historia, contra lo que la demonología popular asume) se articulan en la misma operación. Ambas piezas sostienen que el demonio NO opera como agente narrativo identificable sino como **estructura impersonal de inclinación**, y el aforismo añade que esa impersonalidad NO es accidente sino condición de la operación: si el sujeto pudiera identificar la inclinación como 'la influencia de tal demonio personificable', la operación ya estaría parcialmente desactivada.\n\nLa pieza enlaza con la sección 'Los demonios no son personajes: crítica de la prototipación demoníaca' por inversión retórica: la prototipación demoníaca popular (Lucifer-Satanás-Belcebú como personajes con historia) NO es solo error categorial sino que, paradójicamente, opera como **modalidad cultural de la propia eficacia demoníaca** según el aforismo — al concentrar la imaginación en personajes pintorescos, la cultura distrae al sujeto de la operación real, que es estructural-impersonal. Inversamente: la cultura contemporánea que niega frontalmente la existencia demoníaca opera el segundo polo del aforismo — el demonio cuya negación es condición de su eficacia encuentra en el escepticismo ilustrado el caldo de cultivo perfecto.\n\n",
+      "quote_evidence_from_summary": "El mayor éxito de los fantasmas es que pensemos que sí existen y el de los demonios que pensemos que no",
+      "citation_chunk_url": "https://youtu.be/dPQk2iNPshc?t=4811",
+      "review_priority": "medium",
+      "review_priority_reason": "Aforismo canónico breve pero estructuralmente significativo. Cristaliza una pieza que la página tenía implícita en la acepción metafísica y en la crítica a la prototipación, articulando explícitamente la negación como mecanismo operativo. Update sustantivo aunque breve."
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Estado del hombro y tendinitis del speaker",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Salud personal sin marco aplicado.",
+      "quote_evidence": "Cada vez que entrena pecho se le resiente el hombro,",
+      "review_priority": "low",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Parasomnias REM + sonambulismo de 'Unicornio' (espectador)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia a guía clínica de parasomnias de la Sociedad Española de Sueño + broma sobre el sonambulismo de un espectador. Sin desarrollo del marco clínico aplicado.",
+      "quote_evidence": "Fiti comparte una guía clínica de parasomnias REM de la Sociedad Española de Sueño,",
+      "review_priority": "low",
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-06-07T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "pages_read_before_proposing_updates": [
+      "demonios-en-proxy"
+    ],
+    "cross_video_tracking_notes": "Pandora (= 'máquina de sueños') aparece por SEGUNDA vez en este batch con arquitectura técnica detallada. Primera mención: vey4ah6vEOA (vídeo de presentación, mayo 2026). Aquí: arquitectura ESP32+Raspberry Pi + 4 modos. Recomiendo tracking sostenido y promote_new como proyecto si se acumula material adicional o si Proxy articula el marco teórico subyacente."
+  },
+  "_validation_warnings": [
+    "DROP discarded[Sueños y visiones en cuidados paliativos (estudio Hospital Hacienda USL en Death Studies)] reason=passing_mention quote no literal",
+    "DROP discarded[Trascendencia biológica de la muerte / experiencias evolucionadas para volver trascendentales las experiencias biológicas] reason=passing_mention quote no literal",
+    "DROP discarded[Regalo del cuaderno digital y emergencia de las aletas técnicas rotas] reason=meta_canal quote no literal",
+    "DROP discarded[Elecciones en Andalucía + aceleracionismo declarado] reason=political_news quote no literal",
+    "DROP discarded[Tragedia de los buzos italianos en Maldivas (~17 min de contenido)] reason=already_captured quote no literal",
+    "DROP discarded[Conversión al catolicismo de 'Fortunate' (filósofa de la escuela de Gustavo Bueno) + apuesta pascaliana] reason=passing_mention quote no literal",
+    "DROP discarded[Llamamiento a abrir proyectos en Dedalus + estrategia de mecenazgo] reason=already_captured_extends_existing quote no literal",
+    "DROP discarded[Ángel y la figura del 'guerrero del emperador' + recomendaciones libro Marina y 'Anima: Autodestrucción Woke'] reason=passing_mention quote no literal",
+    "DROP discarded[Volver a casa de los padres no te hace una basura (consejo a Ángel sobre desempleo)] reason=passing_mention quote no literal",
+    "DROP discarded[Odisea Raspberry Pi + Claude Code troleando + desbloqueo con respuesta de ChatGPT] reason=personal_anecdote quote no literal",
+    "DROP discarded[Arquitectura de Pandora (ESP32 muñeca → Bluetooth → Raspberry Pi, 4 modos: sueño/visualización/meditación/WILD)] reason=passing_mention quote no literal",
+    "DROP discarded[Plan de streams en lugares con fantasmas / Madrid encantado] reason=meta_canal quote no literal",
+    "DROP discarded[Despedida + tienda + Patreon + grimorio + prólogo pendiente] reason=meta_canal quote no literal"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "video_id": "vey4ah6vEOA",
+  "video_title": "Presentación del canal",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Sin promote_new. El vídeo es presentación meta del canal (3 min, mayo 2026) que articula misión, principios operativos, pilares temáticos (psicología clínica + cognitiva + neurobiología / filosofía + lógicas / mitología) y proyectos (Dedalus, máquina de sueños, software de neuroanatomía). Todo el material editorial (realismo cognitivista, distinción psicoanálisis/psicología analítica, crítica a divulgadores, Dedalus como universidad libre) está ya capturado en páginas existentes. Lo verdaderamente novedoso del vídeo no es contenido enciclopédico sino self-statement editorial — el mismo que scope.md cita textualmente como referencia editorial del wiki. NO se promueve página 'proxy-canal' o 'mision-canal' porque per scope.md §3.3 el meta-canal queda fuera de alcance; sí se preserva el self-statement como source-citation auditable para el preámbulo del propio scope.md.",
+  "pending_updates": [],
+  "_doc_pending_updates_skipped": "Considerado y descartado: (a) update a realismo-cognitivo con framing-mark explícito ('el desarrollo se hace en coordenadas de realismo cognitivista') — la página foundational ya articula esto como stance del canal, añadir 30 s de mención meta no aporta; (b) update a psicoanalisis-en-proxy con la distinción 'psicoanálisis (metodología clásica) vs psicología analítica (filosofía de la psicología)' — la página existente ya formula psicoanálisis como protofilosofía con caracterización equivalente, este vídeo NO añade modalidad operativa nueva sino reformulación sintética del mismo marco; (c) update a persona-sintetica o cibernetica-biosintetica-y-transhumanismo-en-proxy con la mención a Dedalus — ambas páginas ya invocan Dedalus como marco tecnoético del canal, este vídeo confirma sin extender. Lo correcto editorialmente es preservar el self-statement como referencia auditable del scope.md (que ya lo cita verbatim) sin generar updates marginales.",
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El canal nació para financiar estudios en investigación a los que Proxy no pudo acceder por la academia",
+      "reason_code": "meta_canal",
+      "reason_detail": "Información biográfica-financiera sobre la génesis del canal (Patreon, Amazon, Spreadshop). Sin valor enciclopédico per scope.md §3.3. La motivación origen no es ni tesis ni concepto ni obra; queda como contexto del proyecto.",
+      "quote_evidence": "El canal nació para financiar estudios en investigación a los que Proxy no pudo acceder por la academia,",
+      "review_priority": "low",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Realismo cognitivista como coordenada filosófica del canal",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Mención meta del marco de [[realismo-cognitivo]] como stance del canal. La página existente ya articula realismo cognitivista como posición epistemológica nuclear del canal, con genealogía y consecuencias operativas extensas. Este vídeo confirma con framing-mark explícito pero no añade modalidad operativa nueva.",
+      "quote_evidence": "El desarrollo se hace en coordenadas de realismo cognitivista en filosofía de la mente y de la psicología,",
+      "citation_chunk_url": "https://youtu.be/vey4ah6vEOA?t=91",
+      "review_priority": "low",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Petición de hablar bien del canal, comentar, dar likes 'por el tema de los algoritmos'",
+      "reason_code": "meta_canal",
+      "reason_detail": "CTA estándar de YouTube. Sin valor enciclopédico per scope.md §3.3.",
+      "quote_evidence": "Se pide hablar bien del canal, comentar y dar likes por el tema de los algoritmos,",
+      "review_priority": "low",
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 9,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-06-07T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_role_note": "Self-presentación meta del canal (3 min). Source-citation foundational para el preámbulo editorial de scope.md y para la referencia tipográfica al marco tecnoético Dedalus. No genera material enciclopédico autónomo; todo lo sustantivo ya está distribuido en páginas existentes (realismo-cognitivo, psicoanalisis-en-proxy, persona-sintetica, psicoinfluencers-en-proxy). Recomendación auxiliar: añadir video_id+timestamp al frontmatter de scope.md como cita auditable del self-statement editorial."
+  },
+  "_validation_warnings": [
+    "DROP discarded[Mecenazgo Patreon + libros Amazon + tienda Spreadshop 'El juego del laberinto'] reason=promo quote no literal",
+    "DROP discarded[Tres pilares temáticos del canal (psicología clínica/cognitiva/neurobiología + filosofía/matemáticas/informática/IA/lógicas + mitología/fantasía)] reason=meta_canal quote no literal",
+    "DROP discarded[Distinción psicoanálisis (metodología clásica) vs psicología analítica (filosofía de la psicología)] reason=already_captured_extends_existing quote no literal",
+    "DROP discarded[Lucha cultural contra falsos divulgadores científicos / 'ineptos intelectuales'] reason=already_captured_extends_existing quote no literal",
+    "DROP discarded[Dedalus como iniciativa de universidad libre / oposición a la academia moderna] reason=already_captured_extends_existing quote no literal",
+    "DROP discarded[Proyectos comunitarios: 'máquina de sueños' y software de visualización en neuroanatomía] reason=passing_mention quote no literal"
+  ]
+}

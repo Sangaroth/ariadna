@@ -1,0 +1,82 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260606_222259_b001",
+  "items": [
+    {
+      "canonical_guess": "ergonomia-mental",
+      "from_video": "mTxqaNIoyyU",
+      "entity": {
+        "page_id": "ergonomia-mental",
+        "canonical_name": "Ergonomía mental",
+        "page_type": "concept",
+        "domain_primary": "interdisciplinary.cognitive_science",
+        "primary_domains": [
+          "interdisciplinary.cognitive_science",
+          "social.psychology",
+          "interdisciplinary.cultural_studies"
+        ],
+        "aliases": [
+          "ergonomia mental",
+          "tecnología ergonómica mental",
+          "dispositivo de reducción del esfuerzo"
+        ],
+        "relations": [
+          {
+            "type": "compared_with",
+            "to": "persona-sintetica",
+            "weight": "canonical",
+            "note": "ergonomía mental nombra el lado-dispositivo (la tecnología que reduce esfuerzo) de la misma dinámica que persona-sintetica nombra en el lado-sujeto (humano que cede funciones constitutivas); pareja conceptual"
+          },
+          {
+            "type": "contradicts",
+            "to": "individuation",
+            "weight": "strong",
+            "note": "la reducción del esfuerzo psíquico operada por el dispositivo bloquea la operación que la individuación requiere (esforzarse cerca de los límites)"
+          },
+          {
+            "type": "criticizes",
+            "to": "consumismo-critica",
+            "weight": "strong",
+            "note": "la ergonomía mental es la forma específica que el consumismo digital adopta en el espacio educativo y cognitivo: producto que vende reducción de esfuerzo como bien"
+          },
+          {
+            "type": "see_also",
+            "to": "golem-de-cobre",
+            "weight": "strong",
+            "note": "el marco antropológico-cognitivo del canal sobre la cognición humana frente a la IA es la matriz teórica desde la que se articula la categoría"
+          },
+          {
+            "type": "compared_with",
+            "to": "adgrediere-masculino",
+            "weight": "strong",
+            "note": "la ergonomía mental cancela la operación de ir hacia (buscar, esforzarse) que el adgrediere nombra; consecuencia: atrofia de la función por desuso sistemático"
+          }
+        ],
+        "draft_body": "# Ergonomía mental\n\n## Definición operativa\n\nLa **ergonomía mental** es la categoría que el canal acuña para nombrar el dispositivo tecnológico cuya función específica es **adaptarse al individuo para reducir su esfuerzo psíquico**. El término aparece introducido como acuñación explícita del canal en el directo *Inteligencia Artificial en las aulas: La evaluación a examen* (jun 2026):\n\n> \"Se introduce el término inventado 'ergonomía mental': la tecnología que se adapta al individuo para reducir el esfuerzo,\"\n→ [Inteligencia Artificial en las aulas (00:30)](https://youtu.be/mTxqaNIoyyU?t=30)\n\nLa categoría no nombra cualquier tecnología que facilite una tarea — nombra específicamente el dispositivo cuya promesa estructural es la **reducción del esfuerzo neto**. La distinción es operativa: las herramientas convencionales transforman el tipo de esfuerzo (transfieren carga física a carga cognitiva, o viceversa) pero no eliminan el esfuerzo psíquico total. La ergonomía mental, por contraste, opera con la pretensión de eliminarlo.\n\n## Distinción frente a herramienta\n\nLa pieza diagnóstica decisiva del canal es la distinción categorial entre **herramienta** y **ergonomía mental**:\n\n> \"Como con los tractores, la tecnología no deja a la gente sin hacer nada, sino que la redistribuye a más problemas distintos,\"\n→ [Inteligencia Artificial en las aulas (00:30)](https://youtu.be/mTxqaNIoyyU?t=30)\n\n> \"El tractor redujo el sufrimiento físico pero no el esfuerzo psíquico neto,\"\n→ [Inteligencia Artificial en las aulas (02:01)](https://youtu.be/mTxqaNIoyyU?t=121)\n\n> \"La herramienta cambia un tipo de esfuerzo por otro o transforma su resultado, pero no reduce el esfuerzo neto,\"\n→ [Inteligencia Artificial en las aulas (05:02)](https://youtu.be/mTxqaNIoyyU?t=302)\n\nLa herramienta (el tractor, la calculadora, el procesador de textos) opera por **redistribución del esfuerzo**: libera al sujeto del trabajo físico o repetitivo y le deja libre para el trabajo cognitivo de orden superior. El ser humano inteligente, frente a la herramienta, busca **el máximo esfuerzo posible**: usa la herramienta para lo que esta resuelve y dedica la energía liberada a problemas adyacentes más complejos. La cita del dicho que el directo recupera condensa el principio:\n\n> \"Se cita el dicho de dar el trabajo difícil al perezoso porque hallará la forma más fácil y acabará esforzándose al máximo,\"\n→ [Inteligencia Artificial en las aulas (05:02)](https://youtu.be/mTxqaNIoyyU?t=302)\n\nLa ergonomía mental opera de manera opuesta: su propuesta de valor no es liberar al sujeto para más esfuerzo, sino **prometerle menos esfuerzo total**. La promesa es estructuralmente falsa porque el esfuerzo psíquico neto se conserva — solo que ahora el déficit lo paga el aparato cognitivo del usuario, que se atrofia por no operar.\n\n## El sujeto inteligente busca el máximo esfuerzo\n\nLa pieza articula un principio antropológico del canal: el ser humano inteligente NO busca el mínimo esfuerzo, busca el máximo esfuerzo posible para su nivel cognitivo.\n\n> \"El ser humano inteligente busca el máximo esfuerzo, no el mínimo,\"\n→ [Inteligencia Artificial en las aulas (02:01)](https://youtu.be/mTxqaNIoyyU?t=121)\n\n> \"El individuo usa la herramienta para todo lo que esta le permita resolver y el resto lo hace él mismo,\"\n→ [Inteligencia Artificial en las aulas (02:01)](https://youtu.be/mTxqaNIoyyU?t=121)\n\nLa consecuencia operativa es directa: la entrada de la ergonomía mental en el espacio cognitivo del sujeto altera la disposición espontánea hacia el esfuerzo. Donde una herramienta opera como amplificador del [[adgrediere-masculino]] — la operación de ir hacia, esforzarse, crear — la ergonomía mental opera como **bloqueador del adgrediere**: cancela la operación que la función debería ejercitar, dejando atrofia por desuso.\n\n## Consecuencia pedagógica: el aula como espacio sin ergonomía mental\n\nEl directo articula la consecuencia educativa específica del marco: el aula no debe ser espacio de ergonomía mental.\n\n> \"El aula no es lugar para pantallas, IA ni calculadora salvo que sea absolutamente imprescindible,\"\n→ [Inteligencia Artificial en las aulas (04:02)](https://youtu.be/mTxqaNIoyyU?t=242)\n\n> \"Si se busca agilidad mental, las matemáticas sirven porque obligan a concentrarse; basta con bajar el nivel de los cálculos en lugar de meter herramientas,\"\n→ [Inteligencia Artificial en las aulas (04:02)](https://youtu.be/mTxqaNIoyyU?t=242)\n\n> \"Meter IA 'porque es el futuro' es la misma falacia esnob que metió las pantallas en las aulas; la única forma de enseñar a correr es primero andar, no dar una silla de ruedas para enseñar a no usarla,\"\n→ [Inteligencia Artificial en las aulas (06:34)](https://youtu.be/mTxqaNIoyyU?t=394)\n\nLa pieza articula la falacia operativa: la entrada de ergonomía mental en el espacio formativo cancela precisamente la operación que el espacio formativo existe para producir. La silla de ruedas es el ejemplo paradigmático — no se enseña a correr dando una silla de ruedas; no se enseña a pensar dando un dispositivo que piensa por el sujeto. La pieza completa el principio con una observación negativa:\n\n> \"La ergonomía no es algo que haya que aprender a utilizar,\"\n→ [Inteligencia Artificial en las aulas (06:34)](https://youtu.be/mTxqaNIoyyU?t=394)\n\nA diferencia de una herramienta (que requiere aprendizaje para usarse, y por tanto valida su entrada en el currículo), la ergonomía mental por definición NO requiere aprendizaje — su valor de mercado es precisamente que se usa sin esfuerzo. La consecuencia operativa cierra el argumento: no hay justificación pedagógica para introducirla en el aula, porque no hay nada que enseñar respecto a su uso.\n\n## Conexión con persona sintética: el dispositivo y el sujeto\n\nLa ergonomía mental forma pareja conceptual con [[persona-sintetica]] como articulación bilateral de la misma dinámica:\n\n- **Ergonomía mental** = lado-dispositivo. Nombra la tecnología cuya función es reducir el esfuerzo del usuario.\n- **Persona sintética** = lado-sujeto. Nombra al humano que cede funciones constitutivas del yo (voluntad, creatividad, esfuerzo) al dispositivo.\n\nLa relación causal es directa: la ergonomía mental como ecosistema cultural produce persona sintética como resultado psíquico. Cada función auxiliar normalizada por el dispositivo abre la oferta de delegar la siguiente función adyacente, hasta alcanzar las funciones constitutivas — articulación que la página [[persona-sintetica]] documenta en su sección 'La tentación cotidiana de la persona sintética'.\n\nLa distinción operativa entre ambas categorías permite precisar dos planos de intervención. En el plano del **dispositivo** (ergonomía mental), la operación es regulatoria-cultural: dónde se admite, dónde se excluye, qué función puede ejercer un sistema escolar (ver consecuencias pedagógicas arriba). En el plano del **sujeto** (persona sintética), la operación es individual-decisional: rechazo de la delegación por autenticidad, sostenimiento de las operaciones constitutivas como propias.\n\n## Sistemas educativos que reducen el esfuerzo: la falacia del odio al esfuerzo\n\nEl canal añade un punto de inflexión categorial sobre lo que efectivamente reduce esfuerzo psíquico:\n\n> \"Lo único que reduce el esfuerzo psíquico es un sistema educativo que odia exigir esfuerzo porque cree que está mal,\"\n→ [Inteligencia Artificial en las aulas (02:01)](https://youtu.be/mTxqaNIoyyU?t=121)\n\nLa pieza articula una asimetría operativa: las herramientas no reducen el esfuerzo neto (lo redistribuyen), pero un sistema educativo SÍ puede reducirlo — eliminando la exigencia. La consecuencia es estructural: cuando la institución abdica de exigir, el sujeto no desarrolla el aparato afectivo que el esfuerzo construye. El paralelo con la modalidad parental de la [[herida-narcisista-en-proxy|herida narcisista]] (padres helicóptero como evitación preventiva del fracaso del hijo) es directo: ambas operaciones — institucional y parental — cancelan la operación de crecer cerca de los límites que el [[viaje-heroe]] requiere como prueba constitutiva.\n\n## Lagunas\n\n- **Genealogía intelectual del término**: el speaker introduce 'ergonomía mental' como acuñación propia. No se traza relación con literatura previa de cognitive load theory, extended cognition o crítica filosófica al tecno-paternalismo.\n- **Criterio operativo para distinguir herramienta de ergonomía mental en casos límite**: la calculadora aparece como caso de ergonomía mental en el aula, pero como herramienta en el contexto profesional. Falta articulación sobre dónde reside el cambio de categoría — si en el dispositivo, en el contexto de uso, o en el estadio formativo del usuario.\n- **Casos no educativos**: la categoría se articula en plano escolar pero su definición es general. No se desarrollan casos en otros dominios (oficio, creación artística, decisión política) donde la ergonomía mental opera con consecuencias distintas.\n- **Frontera con la ergonomía clásica (física)**: el término es claramente analógico respecto a la ergonomía física industrial. El canal no precisa qué se conserva y qué se modifica en la traslación analógica.\n\n## Citations\n\n- **Inteligencia Artificial en las aulas: La evaluación a examen** — chunks: [00:30](https://youtu.be/mTxqaNIoyyU?t=30) · [02:01](https://youtu.be/mTxqaNIoyyU?t=121) · [04:02](https://youtu.be/mTxqaNIoyyU?t=242) · [05:02](https://youtu.be/mTxqaNIoyyU?t=302) · [06:34](https://youtu.be/mTxqaNIoyyU?t=394)\n",
+        "frontmatter": {
+          "page_id": "ergonomia-mental",
+          "page_type": "concept",
+          "canonical_name": "Ergonomía mental",
+          "aliases": [
+            "ergonomia mental",
+            "tecnología ergonómica mental",
+            "dispositivo de reducción del esfuerzo"
+          ],
+          "domain_primary": "interdisciplinary.cognitive_science",
+          "primary_domains": [
+            "interdisciplinary.cognitive_science",
+            "social.psychology",
+            "interdisciplinary.cultural_studies"
+          ],
+          "sources_count": 1,
+          "schema_version": "1.0.0",
+          "review_status": "stub_in_session",
+          "status": "stub_in_session",
+          "canonical_external_candidate": true,
+          "canonical_external_candidate_reason": "Término explícitamente acuñado por el canal con framing-mark claro. Recomiendo añadir a canonical_whitelist.json:channel_specific_concepts con auto_promote: false (soft) hasta confirmar recurrencia en futuros vídeos."
+        },
+        "decision": "promote_new"
+      }
+    }
+  ]
+}
