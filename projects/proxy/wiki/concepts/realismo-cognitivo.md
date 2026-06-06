@@ -1507,3 +1507,5 @@ La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analíti
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
+
+- **Noticias 100tíficas** — chunks: [34:51](https://youtu.be/VgdybZKruwk?t=2091) · [39:27](https://youtu.be/VgdybZKruwk?t=2367) · [1:54:00](https://youtu.be/VgdybZKruwk?t=6840) · [1:58:22](https://youtu.be/VgdybZKruwk?t=7102)

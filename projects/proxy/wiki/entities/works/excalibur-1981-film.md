@@ -254,3 +254,5 @@ El sacrificio del rey no es evento aislado sino pieza de una cadena — cada hé
 - **Noticias 100tíficas.** — chunks: [1:30](https://youtu.be/VgdybZKruwk?t=90)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [1:29:17](https://youtu.be/fzEDQZIqKwg?t=5357)
 - **Mitología 101: Teseo y Ariadna** — chunks: [1:26:48](https://youtu.be/b03AszdViNw?t=5208)
+
+- **Noticias 100tíficas** — chunks: [1:30](https://youtu.be/VgdybZKruwk?t=90)
