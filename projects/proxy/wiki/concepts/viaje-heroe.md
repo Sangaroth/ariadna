@@ -586,3 +586,4 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Directo Navidad y Entrevista a Unicornio** — chunks: [43:28](https://youtu.be/PTgRsC-KwSs?t=2608)
 - **En Busca de la Diosa Blanca** — chunks: [2:44](https://youtu.be/llS9fqsNVvY?t=164) · [4:14](https://youtu.be/llS9fqsNVvY?t=254) · [19:24](https://youtu.be/llS9fqsNVvY?t=1164)
 - **T5x14: Conan** — chunks: [25:10](https://youtu.be/mR2X391fQu4?t=1510)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [30:25](https://youtu.be/E8VJDu4Fupc?t=1825)

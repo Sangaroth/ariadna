@@ -574,3 +574,4 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 - **Biblioteca de Babel II** — chunks: [9:23](https://youtu.be/IytpR6sGWXg?t=563)
 - **Del Papa y del Problema del Mal** — chunks: [1:38:04](https://youtu.be/0KkMrcmw8Fw?t=5884)
 - **Mitología 101: Teseo y Ariadna** — chunks: [43:49](https://youtu.be/b03AszdViNw?t=2629) · [1:20:16](https://youtu.be/b03AszdViNw?t=4816) · [1:24:17](https://youtu.be/b03AszdViNw?t=5057) · [1:26:48](https://youtu.be/b03AszdViNw?t=5208)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [1:12:15](https://youtu.be/E8VJDu4Fupc?t=4335)

@@ -299,3 +299,4 @@ La consecuencia para esta página es que el Génesis bíblico opera en **doble r
 - **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
 - **T5x17 Mitología 101: Babel, el Diluvio y Sodoma.** — chunks: [33:27](https://youtu.be/L_zQUykelsA?t=2007) · [40:31](https://youtu.be/L_zQUykelsA?t=2431)
 - **Pecado original y Postmodernidad I** — chunks: [18:19](https://youtu.be/J45h7xet8gg?t=1099)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [22:46](https://youtu.be/E8VJDu4Fupc?t=1366)

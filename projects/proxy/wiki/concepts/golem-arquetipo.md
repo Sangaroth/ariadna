@@ -712,3 +712,4 @@ La genealogía completa del fracaso enlaza con la lectura tolkieniana ya documen
 - **Patreons y Conciencia Artificial** — chunks: [2:50](https://youtu.be/1BWyXULOoQQ?t=170)
 - **T5x18 Tecnoética** — chunks: [1:00:42](https://youtu.be/k619QHupD5k?t=3642)
 - **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [44:49](https://youtu.be/E8VJDu4Fupc?t=2689) · [46:20](https://youtu.be/E8VJDu4Fupc?t=2780)

@@ -272,3 +272,4 @@ La distinción es categorial: el hikikomori opera por **depresión** (caída de 
 - **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [11:39](https://youtu.be/966LWuiirwA?t=699)
 - **T5x14: Conan** — chunks: [35:18](https://youtu.be/mR2X391fQu4?t=2118)
 - **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [56:25](https://youtu.be/FllWy0fpkrM?t=3385) · [57:25](https://youtu.be/FllWy0fpkrM?t=3445)
+- **T5x21: Representacionalismo vs cognición 4E** — chunks: [42:07](https://youtu.be/wts74ONWRSQ?t=2527)

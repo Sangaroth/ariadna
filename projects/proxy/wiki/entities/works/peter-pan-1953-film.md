@@ -173,3 +173,4 @@ Los tres vectores masculinos del film — Peter (ánimus desintegrado que no cre
 - **Podcast Puppetland: El Principito** — chunks: [19:22](https://youtu.be/Q0uCvOLRR2k?t=1162)
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [1:00:05](https://youtu.be/zLRhDHyq3gs?t=3605)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:53:16](https://youtu.be/BOIcK1Rpdvo?t=6796)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [30:25](https://youtu.be/E8VJDu4Fupc?t=1825)

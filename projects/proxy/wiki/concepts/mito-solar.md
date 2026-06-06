@@ -272,3 +272,4 @@ La tipología cierra el cuadro de los sub-tipos solares: el civilizatorio funda 
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [46:45](https://youtu.be/O4OkDuc3uPQ?t=2805)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [33:34](https://youtu.be/E8VJDu4Fupc?t=2014)

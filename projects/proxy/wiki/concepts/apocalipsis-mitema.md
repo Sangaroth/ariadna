@@ -159,11 +159,43 @@ Esta lectura conecta el Apocalipsis con la dinámica de la [[individuation|indiv
 - **Caso de prueba para [[mitologia-propia-impropia]]**: la narrativa distópica contemporánea y el cine de catástrofe pueden ser mitología propia (cuando reconocen su naturaleza mítica) o impropia (cuando no). Las dimensiones de Polaris son el instrumento discriminante.
 - **Sustrato de [[evangelion-anime]]**: los Libros de Enoc son fuente documentada de la iconografía apocalíptica que Evangelion recoge — el canal activa esta conexión al tratar los textos henóquicos.
 
+## Distinción soteriológica: Apocalipsis con promesa de salvación vs Ragnarok
+
+En el directo *T5x23: Project Hail Mary y taxonomía de la fantasía* (may-2026) el canal añade una distinción intra-genérica que las cinco dimensiones de Polaris no fijaban: la dipartición soteriológica.
+
+> "El Apocalipsis es el fin de todas las cosas tal como se conocen, no solo el bíblico,"
+→ [Project Hail Mary y taxonomía de la fantasía (48:23)](https://youtu.be/E8VJDu4Fupc?t=2903)
+
+> "Apocalipsis significa revelación, la gran profecía final,"
+→ [Project Hail Mary y taxonomía de la fantasía (48:23)](https://youtu.be/E8VJDu4Fupc?t=2903)
+
+> "Hay apocalipsis soteriológicos con promesa de salvación y otros como el Ragnarok, sin ella,"
+→ [Project Hail Mary y taxonomía de la fantasía (48:23)](https://youtu.be/E8VJDu4Fupc?t=2903)
+
+La distinción desdobla el mitema en dos modalidades estructurales: el Apocalipsis canónico abrahámico (de Juan, de Enoc) es **soteriológico** — el fin del mundo viejo trae consigo la promesa de la edad-futura perfecta, el dipolo edad-presente/edad-futura cumple su función dramática redentora. El Ragnarok nórdico, en cambio, es el caso límite del Apocalipsis **sin soteriología**: el fin acontece sin promesa de salvación, el dipolo se quiebra hacia el lado del derrumbe puro. La pieza cierra parcialmente la laguna sobre escatologías no abrahámicas (Ragnarok queda integrado como caso) y refina la cláusula del dipolo edad-presente/edad-futura: la promesa de la edad-futura no es ingrediente necesario del mitema apocalíptico — es modalidad soteriológica del mismo, no condición de pertenencia al género.
+
+## El Apocalipsis dentro de la taxonomía de la fantasía: mito no transitivo
+
+El mismo directo sitúa el Apocalipsis dentro de una taxonomía cruzada (ver [[taxonomia-fantasia-en-proxy]]) donde se distingue de los mitemas transitivos por una propiedad estructural:
+
+> "Los no transitivos son Génesis y Apocalipsis; no tienen protagonista ni transición,"
+→ [Project Hail Mary y taxonomía de la fantasía (21:45)](https://youtu.be/E8VJDu4Fupc?t=1305)
+
+> "En ellos no hay transformación de un objeto protagónico,"
+→ [Project Hail Mary y taxonomía de la fantasía (22:46)](https://youtu.be/E8VJDu4Fupc?t=1366)
+
+> "El protagonista del Génesis y el Apocalipsis es \"el todo\","
+→ [Project Hail Mary y taxonomía de la fantasía (22:46)](https://youtu.be/E8VJDu4Fupc?t=1366)
+
+La pieza precisa una propiedad que la sección 'Dipolo con genesis-mitologico' implicaba sin nombrarla: el Apocalipsis comparte con el [[genesis-mitologico|Génesis]] la **no transitividad** narrativa. Los mitemas transitivos del corpus ([[golem-arquetipo]], [[mito-del-mago]], [[mito-solar]], [[mito-lunar]], [[mito-polar]]) tienen protagonista que sufre transformación entre un hecho inicial y un desenlace distinto; el Apocalipsis carece de esa estructura porque su 'protagonista' es la totalidad cósmica. Esta propiedad es lo que impide que el Apocalipsis se convierta directamente en aventura cinematográfica con personaje arquetípico — su transposición narrativa requiere insertar un héroe transitivo (mago, dios, polar) dentro del marco no transitivo del fin del mundo.
+
+
 ## Lagunas
 
 - **Citas del desarrollo central (min. 45–130)**: el grueso del análisis arquetípico — las cinco dimensiones de Polaris, la comparación con *Divina Comedia* / *Paraíso Perdido*, el análisis detallado del Libro de Enoc, la Torre del Tarot — corresponde a la segunda mitad del vídeo; las afirmaciones estructurales de esas secciones provienen del metadato de extracción, no de citas literales del fragmento de summary disponible.
 - **Parte II de la serie**: el título indica que este es el primer episodio; la Parte II no ha sido procesada. El mitema puede recibir articulaciones adicionales sobre escatología islámica, nórdica o persa.
 - **[[tolkien-jrr]] como estructura apocalíptica**: la conexión entre el Apocalipsis y [[mito-moderno-en-proxy]] / [[tolkien-jrr]] es señalada en el metadato de extracción, pero no está documentada con cita del fragmento disponible.
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: el Ragnarök nórdico -->
 - **Escatologías no abrahámicas**: el canal parece centrado en el Apocalipsis abrahámica y gnóstica; ausentes el escatológico zoroástrico (antecedente histórico directo), el Ragnarök nórdico o el Kalki hindú — pueden aparecer en Parte II.
 - **Conexión explícita con [[evangelion-anime]]**: el Libro de Enoc como fuente iconográfica de Evangelion es señalado en el metadato, pero la conexión específica no aparece en el fragmento de summary disponible.
 
@@ -184,3 +216,4 @@ Esta lectura conecta el Apocalipsis con la dinámica de la [[individuation|indiv
 - **el Génesis en Tolkien (Parte 1)** — chunks: [20:26](https://youtu.be/s6teBboDDJ4?t=1226)
 - **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [1:51:01](https://youtu.be/L4ayDmaUO9Y?t=6661)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [22:46](https://youtu.be/E8VJDu4Fupc?t=1366) · [48:23](https://youtu.be/E8VJDu4Fupc?t=2903)

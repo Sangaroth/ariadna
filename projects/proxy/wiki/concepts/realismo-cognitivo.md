@@ -533,6 +533,141 @@ La ciencia, según Maturana y Varela, es generación de explicaciones experienci
 
 Esta cita es decisiva: el realismo cognitivo modula su propio nombre — la operación mental no es representar (espejo) sino **elaborar** (constructor de coherencia). Pero a diferencia del enactivismo, esa elaboración tiene anclaje real comprobable, no es cierre autopoético ciego.
 
+## Diálogo con Haugeland y la cognición 4E: tres propiedades de la representación
+
+El directo *T5x21: Representacionalismo vs cognición 4E* (may-2026) articula la posición del realismo cognitivo como **tercera vía** entre el representacionalismo prefrontal computacional y la cognición 4E (inactiva, corporizada, embebida y extendida). El interlocutor pivote es [[haugeland-john|John Haugeland]], filósofo de la mente cuyo libro *Mind Embodied and Embedded* sostiene la crítica al cartesianismo cognitivo. El canal comparte con Haugeland el antilocalizacionismo y diverge en la cláusula antirrepresentacionalista del 4E.
+
+### El antilocalizacionismo como punto compartido
+
+> "Haugeland y los realistas niegan que el prefrontal sea el centro del gran procesamiento,"
+→ [Representacionalismo vs cognición 4E (33:02)](https://youtu.be/wts74ONWRSQ?t=1982)
+
+> "El libro de Haugeland ataca la idea de que la mente ocurre dentro del córtex prefrontal,"
+→ [Representacionalismo vs cognición 4E (34:03)](https://youtu.be/wts74ONWRSQ?t=2043)
+
+> "El prefrontal se encarga como mucho de la selección representacional y la metarrepresentación, y ni siquiera eso es seguro,"
+→ [Representacionalismo vs cognición 4E (34:03)](https://youtu.be/wts74ONWRSQ?t=2043)
+
+La pieza extiende el antilocalizacionismo funcional articulado en la sección sobre memoria (anti-Broca/Brodmann) a la metarrepresentación misma: el córtex prefrontal no es el director de orquesta de la mente, y la metáfora del hub central es un error compartido por la neurobiología clásica y por la IA simbólica. El realismo cognitivo se alinea con Haugeland en este flanco contra la lectura cartesiana del cerebro.
+
+### Intimidad y crítica al GOFAI
+
+> "Haugeland acuñó el término intimidad para la relación entre sistema nervioso y mundo exterior,"
+→ [Representacionalismo vs cognición 4E (35:04)](https://youtu.be/wts74ONWRSQ?t=2104)
+
+> "Trazar una frontera entre el cráneo y el resto del cuerpo es un error metodológico,"
+→ [Representacionalismo vs cognición 4E (35:04)](https://youtu.be/wts74ONWRSQ?t=2104)
+
+> "Haugeland acuñó GOFAI (good old fashioned artificial intelligence) en su libro Artificial Intelligence,"
+→ [Representacionalismo vs cognición 4E (37:04)](https://youtu.be/wts74ONWRSQ?t=2224)
+
+> "Querer imitar la mente con esa metáfora es hacer una metáfora de una metáfora; por eso son antimetafóricos,"
+→ [Representacionalismo vs cognición 4E (38:04)](https://youtu.be/wts74ONWRSQ?t=2284)
+
+GOFAI nombra la inteligencia artificial clásica que imita la lógica prefrontal manipulando símbolos abstractos aislados del cuerpo — caso prototípico de la metáfora informática de la mente que [[golem-de-cobre]] critica.
+
+### El experimento del tubo opaco: falsador empírico del 4E radical
+
+El caso operativo que el canal opone al 4E es el experimento de niños y simios ante una tubería opaca bifurcada con un caramelo cayendo por ella:
+
+> "Los niños menores de 4 años fallan porque dependen del bucle sensoriomotor inmediato: solo reaccionan a lo que ven y tocan,"
+→ [Representacionalismo vs cognición 4E (39:11)](https://youtu.be/wts74ONWRSQ?t=2351)
+
+> "A los 4 o 5 años los niños ponen instintivamente una mano bajo cada salida del tubo,"
+→ [Representacionalismo vs cognición 4E (40:36)](https://youtu.be/wts74ONWRSQ?t=2436)
+
+> "Ningún simio hace esto, sin importar su edad ni su entrenamiento,"
+→ [Representacionalismo vs cognición 4E (40:36)](https://youtu.be/wts74ONWRSQ?t=2436)
+
+> "Suponer que el caramelo tomará dos caminos exige representar mentalmente ambas posibilidades,"
+→ [Representacionalismo vs cognición 4E (45:12)](https://youtu.be/wts74ONWRSQ?t=2712)
+
+El caso es decisivo: el bucle sensoriomotor inmediato que el 4E privilegia como sustrato suficiente de la cognición no basta para resolver el problema. El niño que pone una mano bajo cada salida está **representando mentalmente** dos posibilidades simultáneas para algo que no ve — operación que el 4E puro no contempla porque colapsa cognición y percepción inmediata. La maduración del cuerpo calloso (vías interhemisféricas) habilita esta operación representacional que ningún simio replica. Andy Clark concede precisamente este punto: existen mapas mentales usados para inferir lo ausente, y los saltos cognitivos ocurren cuando el cerebro aprende a desacoplarse del cuerpo y de los sentidos.
+
+### Tres propiedades estructurales de la representación
+
+El canal articula la representación con tres propiedades que la distinguen de la mera percepción:
+
+> "Una representación es un patrón de actividad neuronal que codifica o está en lugar de algo del mundo,"
+→ [Representacionalismo vs cognición 4E (47:43)](https://youtu.be/wts74ONWRSQ?t=2863)
+
+> "Una representación es un proxy mental sobre la realidad,"
+→ [Representacionalismo vs cognición 4E (47:43)](https://youtu.be/wts74ONWRSQ?t=2863)
+
+**Primera propiedad — desacoplamiento**:
+
+> "Una representación permite pensar y manipular algo aunque no esté presente,"
+→ [Representacionalismo vs cognición 4E (49:44)](https://youtu.be/wts74ONWRSQ?t=2984)
+
+> "Si necesitas que el objeto esté delante es percepción, no cognición,"
+→ [Representacionalismo vs cognición 4E (49:44)](https://youtu.be/wts74ONWRSQ?t=2984)
+
+> "Sobre el desacoplamiento se construye la ambiguación: poner una representación en función de otras,"
+→ [Representacionalismo vs cognición 4E (49:44)](https://youtu.be/wts74ONWRSQ?t=2984)
+
+El desacoplamiento es la condición de posibilidad de la ambiguación articulada en la sección 'Mónadas universales objetivas': una clase solo puede ponerse en función de otra si está desacoplada del objeto físico presente.
+
+**Segunda propiedad — contenido e intencionalidad**:
+
+> "Las neuronas no disparan al azar; el patrón siempre apunta a algo específico,"
+→ [Representacionalismo vs cognición 4E (50:44)](https://youtu.be/wts74ONWRSQ?t=3044)
+
+> "Grupos concretos de neuronas representan el color azul, la distancia, el tiempo, la velocidad o la fuerza,"
+→ [Representacionalismo vs cognición 4E (50:44)](https://youtu.be/wts74ONWRSQ?t=3044)
+
+> "El contenido está orientado a una interacción con el mundo aunque luego no se use,"
+→ [Representacionalismo vs cognición 4E (50:44)](https://youtu.be/wts74ONWRSQ?t=3044)
+
+**Tercera propiedad — capacidad de error**:
+
+> "Los sistemas representacionales pueden equivocarse, lo que demuestra que existen independientes de la realidad,"
+→ [Representacionalismo vs cognición 4E (53:19)](https://youtu.be/wts74ONWRSQ?t=3199)
+
+> "Si crees que el tubo está vacío pero contiene una pelota, tu representación es falsa: un fallo epistémico,"
+→ [Representacionalismo vs cognición 4E (53:19)](https://youtu.be/wts74ONWRSQ?t=3199)
+
+> "Si la mente fuera solo respuesta física al entorno, el error conceptual puro no tendría sentido,"
+→ [Representacionalismo vs cognición 4E (53:19)](https://youtu.be/wts74ONWRSQ?t=3199)
+
+La capacidad de error es decisiva: si la cognición se redujera a acoplamiento físico al mundo (tesis 4E radical), el error conceptual puro sería imposible — pero existe, luego la representación es independiente de la realidad aunque mantenga conexión con ella.
+
+### Tercera vía: el realismo cognitivo entre representacionalismo prefrontal y 4E
+
+> "Los computacionales dicen que el córtex prefrontal crea un software interno del mundo,"
+→ [Representacionalismo vs cognición 4E (54:50)](https://youtu.be/wts74ONWRSQ?t=3290)
+
+> "El 4E dice que el cerebro no almacena mapas y la mente emerge de la interacción física continua,"
+→ [Representacionalismo vs cognición 4E (54:50)](https://youtu.be/wts74ONWRSQ?t=3290)
+
+> "Los realistas dicen que el cerebro almacena la composición de los mapas y los reconstruye según hace falta, no en el prefrontal,"
+→ [Representacionalismo vs cognición 4E (54:50)](https://youtu.be/wts74ONWRSQ?t=3290)
+
+La posición del realismo cognitivo queda explícita: NO software prefrontal (contra los computacionales), NO disolución de la representación en interacción física (contra el 4E), SÍ almacenamiento de **composición de mapas** distribuida que se reconstruye en cada evocación. La pieza precisa la articulación de la memoria como reconstrucción continua sin locus ya documentada en [[golem-de-cobre]]: lo que se conserva no son los mapas en su forma completa sino las composiciones de elementos imaginarios, afectivos y formales que permiten reconstruirlos.
+
+### Reconstrucción y clasificación: terminología propuesta para sustituir 'representación'
+
+Frente a la ambigüedad del término 'representación' que arrastra el supuesto de copia o espejo, el canal propone dos términos operativos:
+
+> "Proxy propone \"reconstrucción\": reconstruyes ciertas propiedades de la cosa sin que sea la cosa,"
+→ [Representacionalismo vs cognición 4E (1:16:16)](https://youtu.be/wts74ONWRSQ?t=4576)
+
+> "Prefiere \"clasificar\" porque tomas la cosa por algunas de sus clases, no por todas,"
+→ [Representacionalismo vs cognición 4E (1:16:16)](https://youtu.be/wts74ONWRSQ?t=4576)
+
+> "De ahí viene \"clase\": la unidad mínima de propiedad, como la clase de equivalencia en matemáticas,"
+→ [Representacionalismo vs cognición 4E (1:16:16)](https://youtu.be/wts74ONWRSQ?t=4576)
+
+La terminología refuerza la axiomática de clases articulada en otras secciones de la página. Contra la lectura idealista kantiana (no tenemos acceso a la cosa en sí), el canal sostiene que sí lo tenemos — las representaciones se conforman gracias a la realidad, se aprenden de ella:
+
+> "La representación mapea el mundo solo en aquello que nos importa,"
+→ [Representacionalismo vs cognición 4E (1:10:01)](https://youtu.be/wts74ONWRSQ?t=4201)
+
+> "Proxy propone llamarlo \"noesis de la cosa\" porque tiene intención de ser como la cosa,"
+→ [Representacionalismo vs cognición 4E (1:10:01)](https://youtu.be/wts74ONWRSQ?t=4201)
+
+La cláusula 'mapea solo lo que importa' precisa por qué la cuestión kantiana sobre la cosa en sí está mal planteada: la mente no aspira a representar la totalidad del objeto (sus átomos, sus propiedades irrelevantes para la operación) sino a clasificar las propiedades que importan para la acción siguiente. La fiabilidad del imaginario respecto a la cosa queda anclada en la física newtoniana compartida: tanto la cosa como la forma siguen las mismas leyes físicas, lo que garantiza un grado de conexión epistémica suficiente.
+
+
 ## La trampa de la habitación cerrada y la cibernética de segundo orden
 
 Maturana señala una trampa que el realismo cognitivo debe sortear sin caer en idealismo:

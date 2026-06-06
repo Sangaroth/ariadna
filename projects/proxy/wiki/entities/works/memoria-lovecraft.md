@@ -127,3 +127,5 @@ El cuento se inscribe en el mismo registro de prosa-poema breve que [[ex-oblivio
 - **Pampsiquismo ayahuasca y psicopatía** — chunks: [31:56](https://youtu.be/6M7IEYszK_4?t=1916)
 - **Patreons y Conciencia Artificial** — chunks: [14:57](https://youtu.be/1BWyXULOoQQ?t=897)
 - **Inteligencia Artificial en las aulas: La evaluación a examen** — chunks: [8:35](https://youtu.be/mTxqaNIoyyU?t=515)
+- **T5x21: Representacionalismo vs cognición 4E** — chunks: [1:06:54](https://youtu.be/wts74ONWRSQ?t=4014)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [23:47](https://youtu.be/E8VJDu4Fupc?t=1427)

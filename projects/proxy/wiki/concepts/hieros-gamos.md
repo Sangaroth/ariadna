@@ -415,3 +415,4 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [51:19](https://youtu.be/O4OkDuc3uPQ?t=3079)
 - **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57)
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0) · [1:45:36](https://youtu.be/OT2DW4zoKsE?t=6336)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [46:20](https://youtu.be/E8VJDu4Fupc?t=2780)

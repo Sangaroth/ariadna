@@ -131,3 +131,5 @@ El canal lo caracteriza como acierto accidental: la saga acertó con Palpatín s
 - **En Busca de la Diosa Blanca** — chunks: [21:27](https://youtu.be/llS9fqsNVvY?t=1287)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [2:16:20](https://youtu.be/BOIcK1Rpdvo?t=8180)
 - **T5x17 Mitología 101: Babel, el Diluvio y Sodoma.** — chunks: [1:13:12](https://youtu.be/L_zQUykelsA?t=4392)
+- **T5x21: Representacionalismo vs cognición 4E** — chunks: [50:44](https://youtu.be/wts74ONWRSQ?t=3044)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [52:02](https://youtu.be/E8VJDu4Fupc?t=3122)
