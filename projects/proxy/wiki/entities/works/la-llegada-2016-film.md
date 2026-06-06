@@ -294,6 +294,7 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 
 
 
+
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [14:17](https://youtu.be/wIhH72UFUPY?t=857) · [47:41](https://youtu.be/wIhH72UFUPY?t=2861) · [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [14:47](https://youtu.be/lw7XI2lQntM?t=887) · [24:55](https://youtu.be/lw7XI2lQntM?t=1495)
 - **La Mala Ciencia** — chunks: [46:28](https://youtu.be/hD6YeyjukGA?t=2788)
@@ -302,4 +303,5 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [49:36](https://youtu.be/TmQiM16HIpU?t=2976)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:35:20](https://youtu.be/iPqOn-ynSlE?t=5720)
 - **Educación, escuela y tecnología** — chunks: [18:33](https://youtu.be/TnbtB4d68wU?t=1113)
+- **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [30:28](https://youtu.be/FllWy0fpkrM?t=1828)
 

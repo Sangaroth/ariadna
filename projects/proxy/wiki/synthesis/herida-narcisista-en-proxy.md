@@ -482,6 +482,7 @@ La modalidad heredada explica además el mecanismo intergeneracional que la pág
 
 
 
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
 - **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
@@ -512,4 +513,5 @@ La modalidad heredada explica además el mecanismo intergeneracional que la pág
 - **Conspiración** — chunks: [18:42](https://youtu.be/K97ZzKXY0oI?t=1122)
 - **Psicoinfluencers** — chunks: [1:34:05](https://youtu.be/frbMVcThuRw?t=5645)
 - **Proxy, Effy, los TCAs y el ego, parte final** — chunks: [26:29](https://youtu.be/-NF9nrWTVEA?t=1589)
+- **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [49:46](https://youtu.be/FllWy0fpkrM?t=2986)
 

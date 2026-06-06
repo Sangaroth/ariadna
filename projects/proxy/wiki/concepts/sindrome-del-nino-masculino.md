@@ -295,6 +295,7 @@ La distinción es categorial: el hikikomori opera por **depresión** (caída de 
 
 
 
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 - **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
@@ -331,4 +332,5 @@ La distinción es categorial: el hikikomori opera por **depresión** (caída de 
 - **Epstein y el Mal.** — chunks: [5:05](https://youtu.be/Tiu6cZFq6sE?t=305)
 - **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [11:39](https://youtu.be/966LWuiirwA?t=699)
 - **T5x14: Conan** — chunks: [35:18](https://youtu.be/mR2X391fQu4?t=2118)
+- **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [56:25](https://youtu.be/FllWy0fpkrM?t=3385) · [57:25](https://youtu.be/FllWy0fpkrM?t=3445)
 

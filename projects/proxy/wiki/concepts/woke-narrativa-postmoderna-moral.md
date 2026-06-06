@@ -874,6 +874,7 @@ La precisión operativa del par envidia/ambición es decisiva para entender la m
 
 
 
+
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
 - **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
@@ -893,4 +894,5 @@ La precisión operativa del par envidia/ambición es decisiva para entender la m
 - **Hambre y Miedo (Uno) PATHOS** — chunks: [2:07](https://youtu.be/BuMbdEoN8zY?t=127) · [5:41](https://youtu.be/BuMbdEoN8zY?t=341) · [7:43](https://youtu.be/BuMbdEoN8zY?t=463) · [8:43](https://youtu.be/BuMbdEoN8zY?t=523) · [9:44](https://youtu.be/BuMbdEoN8zY?t=584) · [10:14](https://youtu.be/BuMbdEoN8zY?t=614)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [22:43](https://youtu.be/5uFhZcARjYQ?t=1363) · [55:44](https://youtu.be/5uFhZcARjYQ?t=3344)
 - **El asunto Imani Khalif** — chunks: [1:00](https://youtu.be/ol1dFNxC1uQ?t=60) · [9:34](https://youtu.be/ol1dFNxC1uQ?t=574)
+- **T5x21: Noticias, y desaparición de buzos en Maldivas.** — chunks: [56:31](https://youtu.be/dPQk2iNPshc?t=3391)
 

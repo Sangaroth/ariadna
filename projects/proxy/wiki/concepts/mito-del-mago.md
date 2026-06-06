@@ -230,6 +230,10 @@ La consecuencia editorial cierra la oposición operativa: donde el mago se conde
 
 
 
+
+
+
+
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:34:59](https://youtu.be/t8v5w3s0USA?t=5699)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
