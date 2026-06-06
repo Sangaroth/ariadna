@@ -230,6 +230,15 @@ Lectura del canal sobre la arquitectura de la obra:
 - **"La extraña casa elevada entre la niebla"**: Thomas Olney sube al acantilado de Kingsport, encuentra al ermitaño barbudo, presencia la llegada de Neptuno y Nodens, y vuelve transformado — pierde toda inquietud y curiosidad y vive una vida monótona y resignada
   → [Aventuras Ignotas con Armesilla, 47:57](https://youtu.be/_S6kQYk9O98?t=2877)
 
+- **"En la cripta"** (1925): George Birch, enterrador negligente, queda encerrado en una cripta y al escapar pisa el ataúd de un cadáver cuyos tobillos él mismo había cortado en vida — venganza karmática post mortem que el doctor Davis lee como "ojo por ojo". Cuento temprano, según el canal de los peor escritos de Lovecraft, valioso como referencia comparativa de la evolución del autor. Página: [[en-la-cripta-lovecraft]].
+  → [Otoño de cuentos. Lovecraft, 25:49](https://youtu.be/SwEqFdvBI9M?t=1549)
+- **"El descendiente"**: Lord Northam, erudito londinense de linaje hasta un tribuno romano, agota religión, ocultismo y satanismo buscando una puerta a dimensiones exteriores; el rastro genealógico llega al antepasado Gabinio que accedió a una gruta donde gentes de una tierra hundida hacían ritos. El Necronomicón aparece como llave última de la búsqueda. Página: [[el-descendiente-lovecraft]].
+  → [Otoño de cuentos. Lovecraft, 52:44](https://youtu.be/SwEqFdvBI9M?t=3164)
+- **"Aire frío"** (1928): el Dr. Muñoz, médico español brillante refugiado en Nueva York, vive en frío constante y sostiene que la voluntad y la conciencia son más fuertes que la vida orgánica; lleva dieciocho años técnicamente muerto, conservado por refrigeración y voluntad, y colapsa al romperse la máquina. Caso del horror lovecraftiano oculto en lo cotidiano. Página: [[aire-frio-lovecraft]].
+  → [Otoño de cuentos. Lovecraft, 1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)
+- **"El modelo de Pickman"** (1927): Richard Upton Pickman, el mayor pintor de Boston con linaje hasta una bruja ahorcada en Salem en 1692, mantiene un estudio secreto en el North End donde pinta gules con realismo objetivo; la fotografía hallada al final revela que pintaba del natural y la criatura era real. Página: [[el-modelo-de-pickman-lovecraft]].
+  → [Otoño de cuentos. Lovecraft, 1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)
+
 ## Influencia contemporánea identificada por el canal
 
 Lovecraft funciona en el corpus como **clave de lectura para obras posteriores**:
