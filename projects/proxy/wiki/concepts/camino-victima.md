@@ -202,6 +202,26 @@ La pieza completa el catálogo: el camino-víctima requiere agentes que sostenga
 
 La consecuencia operativa precisa una pieza nueva sobre la salida: el camino-víctima adulto NO está dispuesto a aceptar refutación empírica de su elaboración conspirativa porque la elaboración misma es el mecanismo de defensa. Argumentar contra la posición de víctima a quien la habita estructuralmente equivale a privarle del aparato psíquico que sostiene su yo. La respuesta no puede ser racional sino crisis, agresividad o doble disociación: la realidad que confirma se idealiza como excepción ('los Ken que me gustan'), la realidad que refuta se reinterpreta como instancia del sistema opresor ('eso es patriarcal'). La pieza cierra parcialmente la laguna 'Salida del camino de la víctima' en sentido inverso: la salida NO opera por argumentación porque el aparato es defensivo, no cognitivo — requiere intervención sobre la matriz afectiva subyacente (vector etiológico padre-ausente articulado en [[sindrome-wendy]]).
 
+## Salida operativa: jugar con las cartas que uno tiene
+
+El directo *Inteligencia Artificial en las aulas II* (jun 2026) cierra parcialmente la laguna 'Salida del camino de la víctima' declarada en la sección de lagunas. La pieza articula el principio operativo del tránsito desde la posición victimista hacia la posición de jugador con mano específica.
+
+> "No es verdad que el mundo te haya jodido la vida: has tenido suerte en unas cosas y mala suerte en otras,"
+→ [Inteligencia Artificial en las aulas II (51:17)](https://youtu.be/FllWy0fpkrM?t=3077)
+
+> "Hay que jugar con las cartas que uno tiene: para ello hay que conocerse a sí mismo además de conocer al mundo,"
+→ [Inteligencia Artificial en las aulas II (51:17)](https://youtu.be/FllWy0fpkrM?t=3077)
+
+La salida del camino-víctima opera por dos operaciones encadenadas que la pieza articula con precisión:
+
+1. **Distinguir suerte de mala suerte en la propia trayectoria**: la posición victimista opera por afirmación monolítica ('el mundo me jodió'). El primer movimiento de salida es la operación discriminativa que reconoce que la vida es mezcla: suerte en algunas dimensiones, mala suerte en otras. La operación NO niega el daño sufrido — niega que el daño agote la descripción de la trayectoria. Quien puede nombrar también las cartas afortunadas que recibió ya no sostiene la posición de víctima estructural — pasa a posición de jugador con una mano específica que incluye ambos polos.
+
+2. **Conocimiento del sí mismo como condición del jugar**: jugar con las cartas requiere conocerlas — operación de auto-conocimiento que el camino-víctima específicamente bloquea. La posición victimista no necesita conocerse a sí misma porque su identidad se sostiene en lo que el mundo le hizo, no en lo que el sujeto es. La salida exige el movimiento opuesto: conocerse a sí mismo Y conocer al mundo (no solo uno de los dos polos), reconociendo qué cartas se tienen y en qué tablero se está jugando.
+
+La pieza enlaza con la consecuencia operativa articulada en el monográfico de [[barbie-2023-film|Barbie]] ('La conspiración imaginaria como mecanismo defensivo refractario a refutación'): el camino-víctima adulto no se desactiva por argumentación racional porque el aparato es defensivo, no cognitivo. La salida operativa aquí articulada precisa qué tiene que producirse en la matriz afectiva subyacente: el duelo del daño sufrido (reconocer mala suerte sin que agote la lectura del yo) y el reconocimiento de las cartas afortunadas (que el victimismo había invisibilizado como condición de su sostenimiento). Sin esas dos operaciones, la posición permanece intacta aunque el sujeto reciba evidencia empírica contra su narrativa victimista.
+
+La articulación enlaza también con [[herida-narcisista-en-proxy]] en su modalidad parental (padres helicóptero): el padre que vivió su propia trayectoria como injusticia transmite la lectura victimista a su hijo como matriz afectiva por defecto. La salida operativa que la página articula aquí no es solo intervención sobre la posición del sujeto adulto victimizado — es también condición previa para la operación parental: solo el padre que ha hecho el duelo de su propia herida puede acompañar al hijo sin sustituirlo, porque solo él puede transmitir la matriz 'tienes cartas, juega con ellas' en lugar de la matriz 'el mundo te debe lo que a mí no me dio'.
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Otros casos del corpus: el speaker menciona telenovelas y "Por 13 razones" como -->

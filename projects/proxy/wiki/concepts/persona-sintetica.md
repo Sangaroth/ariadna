@@ -143,6 +143,32 @@ El canal invoca el [[golem-arquetipo]] como referencia mítica de advertencia pa
 
 La persona sintética es el estadio previo al Golem: donde el Golem implica fusión o hibridación de conciencia (irreversible), la persona sintética mantiene la separación ontológica pero cede funciones (recuperable). El canal usa esta distinción para fijar el umbral entre lo tratable y lo irreversible. El [[golem-de-cobre]] elabora este marco con mayor profundidad.
 
+## La tentación cotidiana y el criterio del rechazo: testimonio del escritor frente a la IA correctora
+
+En el directo *Inteligencia Artificial en las aulas II* (jun 2026) el invitado — profesor jubilado que está escribiendo un libro — articula desde la primera persona la mecánica de la tentación que la página articulaba en plano estructural: el momento operativo en que el sujeto que usa la IA como herramienta auxiliar (corrección de estilo) recibe la oferta implícita de cederle la función constitutiva (la escritura misma).
+
+> "El propio invitado usa IA para corregir un libro y siente la tentación de pedirle que lo continúe,"
+→ [Inteligencia Artificial en las aulas II (17:44)](https://youtu.be/FllWy0fpkrM?t=1064)
+
+> "Rechazarlo no debe ser por ego o soberbia, sino por la necesidad de que la obra sea auténticamente suya,"
+→ [Inteligencia Artificial en las aulas II (17:44)](https://youtu.be/FllWy0fpkrM?t=1064)
+
+> "La autenticidad: lo hecho propio frente a lo delegado,"
+→ [Inteligencia Artificial en las aulas II (17:44)](https://youtu.be/FllWy0fpkrM?t=1064)
+
+La pieza precisa el **umbral operativo** que la sección 'Frontera conceptual: consumo vs. sustitución' articulaba en plano abstracto. Lo decisivo del caso testimonial es que la IA opera primero en el plano de servicio auxiliar (corrige errores) — uso legítimo, no constitutivo del yo — y desde esa posición ofrece naturalmente al sujeto la prolongación: *podría también escribir el siguiente capítulo*. El umbral entre consumo y sustitución no es una decisión binaria pre-existente sino un **gradiente que el dispositivo mismo desliza**: cada función auxiliar normalizada abre la oferta de delegar la siguiente función adyacente, hasta alcanzar las funciones constitutivas (creatividad, voluntad, esfuerzo).
+
+### La autenticidad como criterio operativo del rechazo
+
+El testimonio precisa además el **criterio del rechazo** que la página articulaba en clave del antídoto ('pura vida'). La distinción operativa que el invitado fija es importante: rechazar la delegación NO debe operar por ego o soberbia (motivos extrínsecos, relacionados con la imagen del autor frente a los demás) sino por **necesidad estructural de que la obra sea auténticamente suya** (motivo intrínseco, relacionado con la integridad de la operación creativa).
+
+La pieza enlaza con [[individuation]]: el motor del rechazo no es la conservación del yo social (qué pensarán los demás si descubren que la IA escribió) sino la conservación del yo en construcción — la obra es vehículo del proceso individuativo del sujeto, y delegarla cancela el proceso aunque produzca el mismo output material. La consecuencia operativa cierra el cuadro:
+
+- El sujeto que rechaza la delegación **por ego** sostiene la posición frágilmente. Si nadie se entera de que delegó, la motivación desaparece — la integridad operativa estaba condicionada por la mirada externa.
+- El sujeto que rechaza **por autenticidad** sostiene la posición sólidamente. La decisión es sobre la propia operación constitutiva, no sobre la imagen externa — la integridad opera con independencia de si alguien observa.
+
+La distinción es operativa para la salida sostenible de la deriva hacia la persona sintética: lo que protege al sujeto del cruce del umbral no es el pundonor social sino la conciencia de la integridad operativa propia. La pieza completa el cuadro del antídoto articulado en la sección 'pura vida' — las actividades que no pueden delegarse a la IA sin activar la categoría — añadiendo el motivo afectivo-estructural por el cual el sujeto las sostiene contra la oferta dispositiva de delegación incremental.
+
 ## Lagunas
 
 - **Extensión a otros dominios de sustitución**: el canal abre la posibilidad de que la estructura sea aplicable a cualquier sustitución masiva de funciones cognitivas/afectivas por dispositivos externos más allá de la IA, pero no desarrolla casos explícitos alternativos en este stream.

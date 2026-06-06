@@ -138,6 +138,19 @@ Una de las tesis más originales del vídeo: la demonología popular comete un e
 
 Los nombres de los demonios son etiquetas para tipos de influencia maligna tomadas de metáforas y mitos preexistentes; no son historias protagonísticas. El canal señala explícitamente el error de identificar Lucifer y Satanás o de atribuirles narrativas independientes. Esta crítica es aplicación directa de la distinción [[mitologia-propia-impropia]]: tratar a los demonios como personajes es hacer mitología impropia de una estructura que originalmente no tenía ese carácter narrativo. La individuación tiene valor poético y pedagógico, pero el canal advierte que no debe confundirse con una ontología de los demonios como agentes con historia.
 
+## El mecanismo inverso de fantasmas y demonios: la negación como condición de eficacia
+
+En el directo T5x21 (mayo 2026), comentando un proyecto de directos en lugares supuestamente encantados, el canal articula en formulación aforística la asimetría operativa entre dos categorías que la demonología popular suele asimilar: fantasmas y demonios.
+
+> "El mayor éxito de los fantasmas es que pensemos que sí existen y el de los demonios que pensemos que no,"
+→ [T5x21: Noticias, y desaparición de buzos en Maldivas (1:20:11)](https://youtu.be/dPQk2iNPshc?t=4811)
+
+La pieza cristaliza en formulación punzante la **acepción metafísica** ya documentada en la sección 'Las tres acepciones del demonio' — los demonios como campo, atractor, fuerza o presión, no como entidad con historia protagonística. El aforismo precisa el corolario operativo de esa ontología: la eficacia de la influencia demoníaca depende estructuralmente de que el sujeto no la categorice como tal. Donde el fantasma opera por presencia atribuida (su éxito cultural consiste en hacerse creer presente), el demonio opera por **ausencia atribuida** — su éxito cultural consiste en hacerse negar.
+
+La consecuencia categorial cierra el cuadro de la demonología del canal: la acepción metafísica del demonio (campo entrópico que inclina a la perversión) y la crítica a la prototipación demoníaca (los demonios no son personajes con historia, contra lo que la demonología popular asume) se articulan en la misma operación. Ambas piezas sostienen que el demonio NO opera como agente narrativo identificable sino como **estructura impersonal de inclinación**, y el aforismo añade que esa impersonalidad NO es accidente sino condición de la operación: si el sujeto pudiera identificar la inclinación como 'la influencia de tal demonio personificable', la operación ya estaría parcialmente desactivada.
+
+La pieza enlaza con la sección 'Los demonios no son personajes: crítica de la prototipación demoníaca' por inversión retórica: la prototipación demoníaca popular (Lucifer-Satanás-Belcebú como personajes con historia) NO es solo error categorial sino que, paradójicamente, opera como **modalidad cultural de la propia eficacia demoníaca** según el aforismo — al concentrar la imaginación en personajes pintorescos, la cultura distrae al sujeto de la operación real, que es estructural-impersonal. Inversamente: la cultura contemporánea que niega frontalmente la existencia demoníaca opera el segundo polo del aforismo — el demonio cuya negación es condición de su eficacia encuentra en el escepticismo ilustrado el caldo de cultivo perfecto.
+
 ## Lagunas
 
 - **Cuatro tipos de influencia demoníaca**: el vídeo articula cuatro tipos de influencia como subestructura interna, pero el fragmento del summary disponible no los desarrolla; pendiente de chunks adicionales

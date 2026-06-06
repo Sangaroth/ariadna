@@ -485,6 +485,42 @@ La pieza añade el flanco estructural complementario que la página dejaba impl�
 
 La lectura del canal subvierte la interpretación convencional del gesto franciscano: lo que se presenta como humildad pastoral opera estructuralmente como **invasión del consumismo en el polo opuesto** — el sujeto que ocupa la institución sacralizada se siente personalmente privilegiado por su acceso a los símbolos institucionales y los descarta para mitigar esa culpa privada, sin advertir que el descarte traslada el daño desde el individuo (que se siente menos privilegiado) a la institución (que pierde su mecanismo sacralizante). El paralelo con el progresismo cierra la lectura: el complejo de privilegiado opera con la misma lógica en ambos casos — el individuo desplaza al sujeto colectivo (clase, institución, cuerpo simbólico) para resolver su malestar privado, sin advertir que la operación deshace precisamente lo que daba sentido a su posición. La sacralización institucional NO es el contrario del consumismo en sentido moral, es su complemento estructural — y por eso el dispositivo consumista puede penetrar incluso instituciones formalmente anti-consumistas si el ocupante del cargo trata el símbolo como propiedad personal a renunciar en lugar de como bien institucional a conservar.
 
+## Móvil y educación: el aula como último contrafactico del consumismo digital
+
+El directo *Inteligencia Artificial en las aulas II* (jun 2026, con profesor jubilado de secundaria como invitado) articula la dimensión escolar específica del aparato consumista digital: el aula como **el último espacio cotidiano donde el sujeto pasa horas sin acceso a la pantalla**. La pieza añade al cuadro de la página un sustrato operativo que las secciones 'Atención parcial continuada y FOMO' e 'Hiperpromesa de socialización' tenían implícito — el ámbito escolar como contrafactico estructural del consumismo digital.
+
+> "El smartphone, aparecido hacia 2007, es sin duda el elemento que más ha dificultado el aprendizaje,"
+→ [Inteligencia Artificial en las aulas II (24:22)](https://youtu.be/FllWy0fpkrM?t=1462)
+
+> "Hay generaciones muy tocadas, sobre todo millennials y generación Z, por la dependencia del aparato,"
+→ [Inteligencia Artificial en las aulas II (24:22)](https://youtu.be/FllWy0fpkrM?t=1462)
+
+> "El primer beneficio de la escuela son seis horas diarias de presencia física sin móvil; el profesor es una 'cuestión fija que no responde a un clic',"
+→ [Inteligencia Artificial en las aulas II (26:55)](https://youtu.be/FllWy0fpkrM?t=1615)
+
+La pieza articula la oposición estructural decisiva: el profesor opera como **cuestión fija que no responde a un clic**, ofreciendo precisamente lo que el aparato consumista digital ha eliminado de toda interacción cotidiana — un interlocutor que no se puede saltar, silenciar, scrollear ni sustituir por otro. La escuela presencial, por su mera materialidad obligatoria, constituye una zona donde el aparato consumista digital queda suspendido durante horas. La consecuencia operativa: la salida del consumismo digital no requiere solo intervenciones individuales (límites de pantalla, conciencia del FOMO) sino preservación de los espacios institucionales no consumibles.
+
+### Ciberoptimismo integral como matriz cultural del consumismo educativo
+
+> "La única manera de luchar contra esto es vincular a la familia, tras 20 años de 'ciberoptimismo integral',"
+→ [Inteligencia Artificial en las aulas II (26:55)](https://youtu.be/FllWy0fpkrM?t=1615)
+
+> "Frases como 'no hay que demonizar la tecnología' o 'no se pueden poner puertas al campo' eran 'poética populista',"
+→ [Inteligencia Artificial en las aulas II (32:29)](https://youtu.be/FllWy0fpkrM?t=1949)
+
+> "Hay grupos de padres organizados exigiendo retirar tabletas y volver al libro de texto: la tableta fue una regresión,"
+→ [Inteligencia Artificial en las aulas II (34:30)](https://youtu.be/FllWy0fpkrM?t=2070)
+
+El **ciberoptimismo integral** es la categoría que el directo nombra para la matriz cultural que sostuvo durante dos décadas la entrada incondicional del dispositivo digital en el espacio escolar. La pieza enlaza con la sección 'Marketing implícito: la pre-identidad como vehículo del producto': el ciberoptimismo no operaba por persuasión consciente sino como **pre-identidad fabricada** ('somos una sociedad moderna que no demoniza la tecnología') a la cual los productos tecnológicos educativos (tabletas, gamificación, plataformas, smartboards) se vinculaban como confirmación. Quien dudaba era posicionado como retrógrado, no como crítico — el dispositivo cultural reservaba toda la legitimidad para el polo tecnófilo.
+
+Las dos frases-fórmula que el directo cita ('no hay que demonizar la tecnología', 'no se pueden poner puertas al campo') son particularmente precisas como diagnóstico cultural: ambas operan como clausuras retóricas que cancelan la discusión sin haberla tenido. Nombrarlas como **poética populista** es operación discriminante — son figuras de estilo, no argumentos, y su función no es persuadir sino fijar la posición legítima por anticipado.
+
+La inversión reciente — padres organizados exigiendo retirar tabletas, regresión consciente al libro de texto — articula el momento operativo en que la pre-identidad fabricada deja de operar y el daño acumulado se vuelve visible. La pieza completa el cuadro contemporáneo: el consumismo digital opera con ciclos de varias décadas entre la fabricación de la pre-identidad legitimante y su colapso, dejando entretanto generaciones enteras 'muy tocadas' por la dependencia del aparato. La obstrucción operativa de la regresión es material: la tableta ya se compró y se pagó — el sunk cost institucional impide volver atrás incluso cuando la conciencia del daño ha cambiado.
+
+### Articulación con la dimensión generacional
+
+La pieza enlaza con el análisis de [[herida-narcisista-en-proxy]] sobre los padres helicóptero: la cita de *Jonathan Haidt* que el directo introduce como sustento bibliográfico nombra los dos factores que 'destrozaron' a la generación Z — smartphone Y sobreprotección operando conjuntamente. La página articulaba el primer factor en plano de consumismo digital pero le faltaba el acoplamiento con el segundo. La consecuencia operativa: ninguno de los dos factores opera aisladamente — el smartphone destroza la atención y los vínculos donde el sujeto está estructuralmente solo, la sobreprotección impide al sujeto desarrollar el aparato afectivo que le permitiría resistir la deriva. La cultura del bienestar opera en los dos planos simultáneamente, fabricando sujetos vacíos por consumo y frágiles por desprotección invertida.
+
 ## Lagunas
 - **Crítica explícita a la izquierda y a la derecha simultáneamente**: hay material en otros vídeos pero los chunks recuperados están sesgados hacia la crítica a la izquierda. Falta el contrapeso a la derecha consumista
 - **Posibles soluciones colectivas** (no solo individuales): el canal mantiene postura individualista. ¿Articula alguna política cultural posible o solo crítica?

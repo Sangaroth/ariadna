@@ -405,6 +405,33 @@ La pieza añade un nivel a la taxonomía del cuadro narcisista. La sección 'La 
 
 La modalidad heredada explica además el mecanismo intergeneracional que la página articulaba implícitamente: 'el padre tirano del abuelo engendró una tiranía pusilánime en el padre, que genera hijos frágiles e impulsivos' — la cadena no opera por imitación conductual sino por **transmisión de material afectivo no tramitado** que cada generación recibe del anterior y opera sin saberlo.
 
+## Herida narcisista parental: padres helicóptero como externalización del fracaso generacional
+
+El directo *Inteligencia Artificial en las aulas II* (jun 2026, con un profesor jubilado de secundaria como invitado) articula una modalidad parental de la herida narcisista que la página tenía implícita pero no diferenciada: la herida proyectada sobre los hijos vía sobreprotección educativa preventiva. La pieza opera como variante GENERACIONAL del cuadro externalizador — donde el acosador prolongado transfiere la deuda a una víctima singular y el activista (ver [[psicologia-del-activista-en-proxy]]) la transfiere a una institución abstracta, el padre helicóptero la transfiere a su propio hijo en forma de evitación preventiva del fracaso ajeno.
+
+> "Los padres no tienen integrados sus propios fracasos y culpan al mundo de ellos: salen al mundo con sus hijos para que no sufran la 'mala suerte injusta' que a ellos les jodió la vida,"
+→ [Inteligencia Artificial en las aulas II (49:46)](https://youtu.be/FllWy0fpkrM?t=2986)
+
+> "Por eso hay tantos padres riñendo con profesores: no superaron la injusticia que creyeron vivir,"
+→ [Inteligencia Artificial en las aulas II (49:46)](https://youtu.be/FllWy0fpkrM?t=2986)
+
+> "Padres que acompañan a sus hijos a la selectividad y esperan en los pasillos; padres que van a la universidad a ver el examen con el profesor del hijo,"
+→ [Inteligencia Artificial en las aulas II (37:55)](https://youtu.be/FllWy0fpkrM?t=2275)
+
+La mecánica encadena tres componentes operativos:
+
+1. **Herida originaria no integrada del padre**: el sujeto vive su propia trayectoria como injusticia sufrida, no como mezcla de suerte y mala suerte. El daño percibido queda fijado como deuda no saldada que el mundo debe haber compensado — modalidad estándar del cuadro articulado en la sección 'Definición operativa'.
+
+2. **Transferencia compensatoria preventiva al hijo**: el padre renuncia operativamente a cobrar la reparación para sí mismo (el mundo no le va a pagar) y desplaza la operación al espacio del hijo. La sobreprotección, el acompañamiento a la selectividad, las protestas al profesor del hijo en la universidad, los padres helicóptero que esperan en los pasillos — todas son modalidades operativas de una misma estructura: el padre interviene sobre el mundo del hijo para impedir que padezca el daño que él mismo vivió como injusticia. La operación es estructuralmente proyectiva: el padre opera sobre el escenario imaginado de la vida del hijo con la matriz afectiva de su propia trayectoria.
+
+3. **Bloqueo del crecimiento del hijo cerca de sus límites**: la consecuencia operativa de la transferencia es que el hijo no se enfrenta al fracaso que el [[viaje-heroe]] requiere como prueba necesaria. La fórmula que el directo articula es precisa — *crecemos cerca de nuestros límites, no lejos de ellos* — y el padre helicóptero impide precisamente la cercanía al límite: no se puede empujar al hijo ni esperarlo abajo con una colchoneta, *se tiene que lanzar solo para volar*. El hijo crece con aparato afectivo construido sobre la convicción de su fragilidad estructural y sin instancia interna que pueda decir 'fallé y sobreviví, mi valía no dependía de no fallar'.
+
+La modalidad parental enlaza con el origen paterno articulado en la sección 'La herida de padre como origen del narcisismo patológico' por inversión operativa: donde el padre AUSENTE deja al hijo sin la operación arquetípica de validación, el padre HELICÓPTERO sustituye esa operación por el blindaje preventivo del fracaso. Operaciones distintas, consecuencia psíquica análoga — el hijo queda sin la experiencia constitutiva (validación ganada en una prueba real) que solo el riesgo de fallar produce. La pieza articula así una variante intergeneracional del mecanismo ya documentado en 'Herencia de frustraciones paternas': el hijo no hereda solo material afectivo no tramitado del padre — hereda específicamente la **lectura victimista del daño** como agenda preventiva sobre la propia vida.
+
+El paralelo con [[camino-victima]] cierra el cuadro: el padre helicóptero modela en el hijo la posición victimista por proyección anticipatoria. Si el padre vivió que 'el mundo me jodió', el hijo crece con la convicción transmitida de que cualquier dificultad es injusticia del mundo, no oportunidad de crecimiento. La salida operativa articulada en el mismo directo — *no es verdad que el mundo te haya jodido la vida, hay que jugar con las cartas que uno tiene* — opera precisamente sobre esta matriz: requiere que el padre haga primero el duelo de su propia herida (distinguir suerte de mala suerte en su trayectoria, asumir responsabilidad sobre las cartas recibidas) antes de poder acompañar al hijo sin sustituirlo. Sin esa operación previa, la sobreprotección continúa el ciclo y la herida narcisista se transmite no por imitación conductual sino por inoculación de la lectura del daño.
+
+La pieza completa la taxonomía operativa del cuadro externalizador: acosador prolongado (víctima singular), activista político (institución abstracta), padre helicóptero (hijo como escenario sustitutivo de la propia reparación pendiente). Las tres modalidades operan con la misma matriz — deuda no saldable + rencor con intereses + transferencia hacia un escenario que pueda absorber la operación — pero con vector distinto: cobro retrospectivo (acosador), cobro proyectado sobre adversario sistémico (activista), cobro preventivo sobre la siguiente generación (padre helicóptero).
+
 ## Lagunas
 
 - El canal articula la transferencia hacia el acosador prolongado y la colusión negativa de la víctima, pero no detalla la **salida clínica** del cuadro: cómo se interrumpe la compulsión de repetición sin que el sujeto se sienta abandonando una deuda legítima
