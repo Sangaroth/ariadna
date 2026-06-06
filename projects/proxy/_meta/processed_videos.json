@@ -1,0 +1,1224 @@
+{
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "description": "Registro de vídeos del corpus ingeridos por el extractor. Mantenido por scripts/extract_incremental.py. Cada entry: {first_run: <run_id de la primera vez que se procesó>, last_run: <run_id más reciente>}.",
+  "last_updated": "2026-06-06T22:17:04+00:00",
+  "videos": {
+    "3Jo2T73pOEs": {
+      "first_run": "audit_cita_only_20260502_213103",
+      "last_run": "audit_cita_only_20260502_213103"
+    },
+    "s0MkondMt1o": {
+      "first_run": "overnight_20260502_222302",
+      "last_run": "sanity_v0_3_20260502_231606"
+    },
+    "wxcSuqipA6s": {
+      "first_run": "overnight_20260502_222302",
+      "last_run": "sanity_v0_3_20260502_231606"
+    },
+    "IytpR6sGWXg": {
+      "first_run": "overnight_20260502_222302",
+      "last_run": "sanity_v0_3_20260502_231606"
+    },
+    "e3Aj775Rlw4": {
+      "first_run": "overnight_20260502_222302",
+      "last_run": "sanity_v0_3_20260502_231606"
+    },
+    "i1zxa2uxnPs": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "5jbSgT3jkD8": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Sl4coB8bBs4": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "lOpCXo1pi2M": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "i72IYlpQWd0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "oHxXzr5WSbQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "5eRSU7lRELI": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "lFbK8-hU_E0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "NYZEm8mcPiQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Lac68XOLtL0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "xPB5l6KsU2Q": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "JVEsIdv6emI": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "qMfv4dX09Lg": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "_IW4x_d01Lk": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Q83ieEVaF5I": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "4QsL6hZiXJU": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "RojGI6fQWhE": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "9x8zTqpyZ5Q": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "9sqhsHNBUjQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "qsOGN6rOWIE": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "mUyadB_tojM": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "ez2e9NTvljg": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "K97ZzKXY0oI": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "UBwUUOKf5UU": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "SSa1pF9Bw6U": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "D3a0A-oZ09M": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Ys08m9VxD7g": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "H162q8kbtWI": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "frbMVcThuRw": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "IP9f-1gSJ1c": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "sTnxDjo1v3o": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "-NF9nrWTVEA": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "hY87a4srcoM": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "q_EMOI1EtCo": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "1mJVJawefWc": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "_S6kQYk9O98": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "tgP5_AvAnD8": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "HPeKIuwm_Og": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "grs5EqRZBnQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "IXaGPJJ2WaQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "s3B9GFHFDnQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "UZPjezFUrA0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "-daRyQwnZy0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "X2c2a3mQBOs": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "aaLhUV1rdE4": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Bn-I6p-AyXc": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Xtpe52agxpM": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "NrLnzcceSLY": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "HgLlH8Ta2qk": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "7f-iHJpDMVQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "TZTiSfm6syI": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "ucOt-vQZ4Qw": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "4tAWgX7-yXk": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "7quE-LPTPuE": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "OLphDg-DL-0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "JNafno3jgHY": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "EIGfuITdT8k": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "XRQ0wQNoDLc": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "V-ixEcJuLzw": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "xaFCTcXXI2o": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "fLfEbHPJNmU": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "4znlMcSR_1g": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Eqoq3O9wVzA": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "cSj--O7RSPo": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "mG-05eFJsCQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "1WEQmzUM41M": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "5BvEX-L6I2I": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "PC5uw1s86eE": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "r1SmCsNmLh0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "vqN3ZqRTNCc": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "p-93qXOPrDk": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "vUuvki-pJec": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "X4WVHD8hn50": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "9U6CwqPMI3c": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "rRlks0e0oxU": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Dtp1_RLb7S0": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "0KkMrcmw8Fw": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "VZDrqiFs58k": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Xz-Ydn6hLOc": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "MJDukHo33Tc": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "hVfKOHEM_wU": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "KNiph0qq93U": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "jWxfmiiUuG4": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "x4peEvI8L5o": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "dNHlsejSAFA": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "24YDiioWKeY": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "6oOAZotwPQk": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "sVLpdolZZUE": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "DQ_EAobZykw": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "_0BM2jMsWdc": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Fn1-q3FF2To": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "hx9creRpdnY": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "Fx9_s11xeFs": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "K082yiudh-g": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "0YABTLJ-lFY": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "daC37T5cbWs": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "05MVbWwpiSs": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "yoWJWwYH_pE": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "J45h7xet8gg": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "7y2KblXreew": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "0KMjKWxS_xQ": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "aaIT2JDaL6c": {
+      "first_run": "overnight_v03_20260503_010105",
+      "last_run": "overnight_v03_20260503_010105"
+    },
+    "JmCqIk6NDsM": {
+      "first_run": "pilot_audit_subagent_20260502_205509",
+      "last_run": "pilot_audit_subagent_20260502_205509"
+    },
+    "qbCGrnynKe8": {
+      "first_run": "pilot_audit_subagent_20260502_205509",
+      "last_run": "pilot_audit_subagent_20260502_205509"
+    },
+    "cbfhVqYDbdE": {
+      "first_run": "pilot_audit_subagent_20260502_205509",
+      "last_run": "pilot_audit_subagent_20260502_205509"
+    },
+    "s6teBboDDJ4": {
+      "first_run": "pilot_audit_subagent_20260502_205509",
+      "last_run": "pilot_audit_subagent_20260502_205509"
+    },
+    "K6xDddz-Ss8": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "TVK5kpPC3Qs": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "Icmm8kbzw6Q": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "vM1-wWpB1PU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "BOIcK1Rpdvo": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "wIhH72UFUPY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "xKCD8PaexF0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "rG_et1_G7Hs": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "b03AszdViNw": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "dHDv_oZODYQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "oh2v9o4c4cE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "iPqOn-ynSlE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "vgS1u1Kejkk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "7LTa7-tZwv0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "Tiu6cZFq6sE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "EjAVFdSVtbU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "6oOGKh2TRHE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "zLRhDHyq3gs": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "eQpPGGqodsU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "C0Io49giVY8": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "L7oSZTTK8Gg": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "krkUPzqTqTA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "svG7uT3Z8Rk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ZlO5o786u90": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "DytHSZw0_mo": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "L4zXftKhU6M": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "yAIPr0HzQqE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "7O_f3spU184": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "1MA-n7xOcaU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "CEa517aakr8": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "BdVsvhTWWew": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "SeXIQBrgaSA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "vDv77eZnMo4": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "z70_R1V8G6E": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "4P5hxaG7i6c": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "rjG3RbEYcL0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "Ok4maEVI_rs": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "clUIlcqD0o0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "JzfcmEKWm1c": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "e5hvKJpRZMk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "VR3snBjNrsc": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "DTP3syEtxP4": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ol1dFNxC1uQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "h3OjS4upnGY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "olX_-KIziX0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "hqXmKZ77TEQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "nern-nhePjE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ryvi2Y7KYB8": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "94OQnbWfe1E": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "GdQY1iOa68w": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "nw7fSEAJr-U": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "DNHgjIgU_-c": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "blj-wsCRQzY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "celiAdqrHYA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "hD6YeyjukGA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "aVhd0l1rpqY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "BU6vZJYMVxg": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "6cSsI85qCp8": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "966LWuiirwA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "O4OkDuc3uPQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "TmQiM16HIpU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "p8ZInoDuE50": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "5vERIcm2EGk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "Gx2740if0Ho": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "imHdHmF1Afk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "1BWyXULOoQQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "4LBXNkVAUCU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "5LSzvknVFYM": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "3rYql6aTAsQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "TnbtB4d68wU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "K7MAqw1q3dk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "PWUUY7vVgUk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "BuMbdEoN8zY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "cbdLR0HTE3w": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "pgIY-zfcO4I": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "oDpJ_EJDDfw": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "xK8_MpMMXzc": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "F1isbFH_FeM": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "JKoWJmSR6VY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "IG3dkNBX9uU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "1cF9VayHtRI": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "zASckAZqmfM": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "kdk8mi7-Y1s": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "GizCbTycY4U": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "hjc9L2_kkOo": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "-2u3CAw1xCs": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "lw7XI2lQntM": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "IbOb3peBSMs": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "9jU8stBu6p0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "9wJQ9tm9Yuc": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "lLRGemLUCtY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "6M7IEYszK_4": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ECN5C9rsaZg": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "DAW1HiYxnVk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "tt0hNPvCpjw": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "xdT-SCW89cw": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "l1hBW5I2_t0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "oYcebCR2Oes": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "i_mVTgnbwHA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "hJsjzZ3OlBg": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "tOn66qFS2-M": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "C5q89bw1G9E": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "mWzi6Mjbjvk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "DwmV3c9-Xi0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "tgusJOzuJ7U": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "wixOLxnd68o": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "hCc-gsoLZj4": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "lMRgQb20POQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "PTgRsC-KwSs": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "4JW8act2SdE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "0EeqbwZJUQw": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ifKRYGlHwuk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "kmk_HyCX1Ro": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "1ldYmBO4N4I": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "yLd7j3fcR1w": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "DNxx4qwb944": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "By5DFt-iGUI": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ttnUgH3jou8": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "A6BTnX8Ha3E": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "zr_ZKX60N54": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ClnayaScAjQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "x7A9nfoRfu0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "QSggWfjOkHk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "5uFhZcARjYQ": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "1cKAgkEEbMA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ecG-JqsSz2Q": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "Uykl0PLRRlo": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "OGah7BFoR3w": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "Q0uCvOLRR2k": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "u-VoqpR7sNI": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "bDnPuA3aZSk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "t8v5w3s0USA": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "0mxxhGA5Oh0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "fzEDQZIqKwg": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "3ZMBu8je7vw": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "0xp5DUb53Zk": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "aPbgBnidoJI": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "MNbsJXaz3XI": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "llS9fqsNVvY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "DMebwwTBT-M": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "lk3DKsIagAE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ht8B7BPY3AY": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "xc8e2i_nREE": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "AMXVKxN0Ccw": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "n2rtBxP-_e0": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "ndkSJv9BGew": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "6tfSc45kjyo": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "r_4BY6W4lcU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "rezLBRh_Tbg": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "2CsRnGBT9gg": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "EnyBTP9FKoI": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "2zAwfcLnlvU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "IUMYn7Iier8": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "1D0u-tK4v8c": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "NjtK76xzV18": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "VDOUrpcC4fU": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "NKFWUxt5VQ4": {
+      "first_run": "pilot_sonnet_20260509",
+      "last_run": "pilot_sonnet_20260509"
+    },
+    "Dv3caRUYzuc": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "7jT13kHNlBA": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "rLeMS4-XFrA": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "Qui4WMSQ99k": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "fDr6XqABtQQ": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "AJgvAsbd-UQ": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "VgdybZKruwk": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "UOk344kEeRM": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "kEgjSN3uKy4": {
+      "first_run": "pilot_sonnet_20260509_recovery",
+      "last_run": "pilot_sonnet_20260509_recovery"
+    },
+    "agh46Snf5YI": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "Ot3Z1VYTUgY": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "Sszbs7CG0cQ": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "cgO7JwvwOQg": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "8l__TS3ATNY": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "aWeuzWLrLtE": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "OT2DW4zoKsE": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "yp1gyKHdOJc": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "kF5KHE_fF7g": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "L4ayDmaUO9Y": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "tkVwAclFrsI": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "faUVtOicasg": {
+      "first_run": "pilot_sonnet_20260509_recovery2",
+      "last_run": "pilot_sonnet_20260509_recovery2"
+    },
+    "gDRkrg8dVCo": {
+      "first_run": "pilot_subagent_20260502_202942",
+      "last_run": "pilot_subagent_20260502_202942"
+    },
+    "59-lo2WYZCc": {
+      "first_run": "pilot_subagent_20260502_202942",
+      "last_run": "pilot_subagent_20260502_202942"
+    },
+    "O-kzVFngjAQ": {
+      "first_run": "reprocess_stale_20260502_220046",
+      "last_run": "reprocess_stale_20260502_220046"
+    },
+    "SwEqFdvBI9M": {
+      "first_run": "reprocess_stale_20260502_220046",
+      "last_run": "reprocess_stale_20260502_220046"
+    },
+    "gB5NoYbdZWk": {
+      "first_run": "reprocess_stale_20260502_220046",
+      "last_run": "reprocess_stale_20260502_220046"
+    },
+    "Tviv4PT0dv8": {
+      "first_run": "reprocess_stale_20260502_220046",
+      "last_run": "reprocess_stale_20260502_220046"
+    },
+    "A2RpbhypYLk": {
+      "first_run": "reprocess_stale_20260502_220046",
+      "last_run": "reprocess_stale_20260502_220046"
+    },
+    "Yc-GC3A-xV0": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    },
+    "k619QHupD5k": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    },
+    "WNR-gfv48mg": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    },
+    "hZVL0GXPgSA": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    },
+    "csNxQbeP3sk": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    },
+    "GDQSqtdFjBs": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    },
+    "L_zQUykelsA": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    },
+    "mR2X391fQu4": {
+      "first_run": "run_20260516_132006",
+      "last_run": "run_20260516_132006"
+    }
+  }
+}
