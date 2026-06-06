@@ -2426,5 +2426,137 @@
     "alias_exists": false,
     "applied_at": "2026-05-16T14:26:03.053020+00:00",
     "apply_outcome": "applied_citation+alias"
+  },
+  "6c86d264b7d6022b:96dca2460ab5971a": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "medium",
+    "rationale": "'Penetrabilidad cognitiva' (si la percepción es modulada por estados conceptuales) es el debate opuesto y complementario al Realismo cognitivo (tesis de que hay acceso perceptivo directo a propiedades del mundo sin mediación conceptual); el canal la usa para discutir si el juicio estético es a priori, lo que es precisamente el territorio de esa página, pero la relación es de contraste teórico, no sinonimia.",
+    "analyzed_at": "2026-06-06T22:45:55.133984+00:00",
+    "candidates_signature": "96dca2460ab5971a",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "681b6a8b5dd3def1:11b8eaac22649b32": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "La TCC es un marco terapéutico estándar mencionado como ejemplo en una lista de tratamientos; ninguna candidata representa ese concepto (realismo cognitivo es epistemología, no terapia).",
+    "analyzed_at": "2026-06-06T22:46:02.327080+00:00",
+    "candidates_signature": "11b8eaac22649b32",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "27776e62a641671a:9474949f17396773": {
+    "match_page_id": "teoria-de-las-emociones-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención describe el mecanismo de conversión afecto→emoción vía traducción somática, que es el núcleo de una teoría de las emociones; ninguna subcadena del surface_form pasa el test de canonicidad (contienen '→' o son mecanismos descriptivos).",
+    "analyzed_at": "2026-06-06T22:46:07.846213+00:00",
+    "candidates_signature": "9474949f17396773",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": "2026-06-06T22:47:03.436295+00:00",
+    "apply_outcome": "applied_citation"
+  },
+  "37e8bf9eaf4fc485:2d9e0906b6fea5d8": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención trata correlación empírica afantasía/matemáticas; ninguna candidata cubre afantasía ni cognición matemática — 'realismo cognitivo' y 'ergonomía mental' son los más próximos temáticamente pero la co-ocurrencia no basta para match semántico.",
+    "analyzed_at": "2026-06-06T22:46:13.197651+00:00",
+    "candidates_signature": "2d9e0906b6fea5d8",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "ba4b75db26ba2195:e282a35aaf50e0b5": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe la emotividad como un mecanismo de desbordamiento emocional; ninguna candidata cubre este concepto: 'álgebra afectiva' es síntesis distinta, 'aburrimiento' es específico, y las demás no tienen relación semántica directa.",
+    "analyzed_at": "2026-06-06T22:46:17.612937+00:00",
+    "candidates_signature": "e282a35aaf50e0b5",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "86db5aa3bf5041c1:95e6e1ad9602d1fc": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "La surface_form nombra directamente el concepto 'realismo cognitivo' como tesis teórica, coincidencia exacta con la candidata 1.",
+    "analyzed_at": "2026-06-06T22:46:22.648377+00:00",
+    "candidates_signature": "95e6e1ad9602d1fc",
+    "alias_candidate": "realismo cognitivo",
+    "alias_exists": true,
+    "applied_at": "2026-06-06T22:47:03.436295+00:00",
+    "apply_outcome": "applied_citation"
+  },
+  "d1aae1fe2f15622b:1ec826a7f160ea1f": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "La transferencia junguiana es un concepto técnico de la clínica psicoanalítica/junguiana (relación paciente-terapeuta) que no es sinónimo de ninguna candidata: individuación, inconsciente colectivo, ergonomía mental, sombra y ánima son conceptos distintos. La co-ocurrencia con Jung no establece equivalencia semántica.",
+    "analyzed_at": "2026-06-06T22:46:30.171757+00:00",
+    "candidates_signature": "1ec826a7f160ea1f",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "00fcfbb3d170071c:b15c11b4d2ac8b64": {
+    "match_page_id": "anatomia-del-tabu-en-proxy",
+    "confidence": "medium",
+    "rationale": "La 'mecánica del tabú' describe el mecanismo afectivo por el que funciona el tabú lingüístico, solapándose temáticamente con 'Anatomía del tabú en Proxy'; el reason_detail menciona teoría-del-lenguaje como página capturante, pero el surface_form nombra explícitamente el tabú como objeto central, no el lenguaje.",
+    "analyzed_at": "2026-06-06T22:46:35.465103+00:00",
+    "candidates_signature": "b15c11b4d2ac8b64",
+    "alias_candidate": "mecánica del tabú",
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "252d62f866efa637:2242a4dd693f4636": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "La mención critica el psicoanálisis clásico por operar solo desde lo mental (M2) sin ancla en sustrato real, lo cual es exactamente la tesis del realismo cognitivo tal como aparece en el reason_detail y el canonical_name.",
+    "analyzed_at": "2026-06-06T22:46:41.547702+00:00",
+    "candidates_signature": "2242a4dd693f4636",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": "2026-06-06T22:47:03.436295+00:00",
+    "apply_outcome": "applied_citation"
+  },
+  "3b3d93450b2b141d:ba7127b4fbfa64b4": {
+    "match_page_id": "aburrimiento-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención trata la medicalización del aburrimiento como fenómeno patologizado por el DSM, lo que implica una postura sobre el aburrimiento como objeto conceptual; la candidata 'Aburrimiento (psicología del canal Proxy)' es la única que refiere directamente ese constructo, aunque el surface_form enfatiza la crítica diagnóstica más que el concepto en sí.",
+    "analyzed_at": "2026-06-06T22:46:46.629620+00:00",
+    "candidates_signature": "ba7127b4fbfa64b4",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "5c5a3440cb629b15:626820ddaf6f8fd5": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "medium",
+    "rationale": "Lakoff es figura central del realismo cognitivo/embodied cognition; la cita sobre categorías lingüísticas originadas en categorías biológicas es doctrina nuclear de esa corriente, pero la mención nombra al autor, no al concepto.",
+    "analyzed_at": "2026-06-06T22:46:52.541364+00:00",
+    "candidates_signature": "626820ddaf6f8fd5",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "fda617b65b1d0afb:08d15480d0854ef4": {
+    "match_page_id": "teoria-de-las-emociones-en-proxy",
+    "confidence": "medium",
+    "rationale": "Panksepp es figura fundacional de la neurociencia afectiva, campo directamente relevante para una síntesis sobre teoría de las emociones en Proxy, pero la mención es una referencia bibliográfica recomendada, no una aplicación del marco al corpus.",
+    "analyzed_at": "2026-06-06T22:46:58.183769+00:00",
+    "candidates_signature": "08d15480d0854ef4",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
   }
 }
