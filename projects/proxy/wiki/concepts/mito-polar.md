@@ -196,6 +196,23 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 > "El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve. La diosa blanca entrega una espada a lo masculino: **Yavanna concede a Manwë un juicio imposible sin lo femenino.**"
 → [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)
 
+La lectura del Génesis del Silmarillion en clave cosmogónica polar queda articulada con detalle estructural en otra sesión:
+
+> "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales). En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino. El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma. Por eso el bautismo se hace con agua: el agua representa el espíritu."
+→ [Leyendo El Silmarillion: Tolkien y el mal primario, 12:02](https://youtu.be/gDRkrg8dVCo?t=722)
+
+La estructura cosmogónica resultante es **vertical y tripartita**: cielo (Manwë, aire-intelecto), agua (Ulmo, espíritu-inconsciente) y tierra polar dividida entre Aulë (lo masculino-artesano: piedra, civilizaciones que fabrican) y Yavanna (lo femenino-naturaleza: plantas, animales, lo salvaje). En esa tierra surgirá lo humano.
+
+> "Ulmo (agua) y Manwë (aire) crean las nubes y la lluvia sobre la tierra. La tierra tiene una división polar: lo masculino-artesano (Aulë, civilizaciones que fabrican de la piedra) y lo femenino-naturaleza (Yavanna, lo salvaje, plantas y animales)."
+→ [Leyendo El Silmarillion, 15:33](https://youtu.be/gDRkrg8dVCo?t=933)
+
+El polar tolkieniano introduce una **asimetría cognitiva** que matiza la simetría aparente del modelo:
+
+> "Manwë le dice a Yavanna que el intelecto pleno solo pertenecerá a las criaturas de Aulë (las montañas, la piedra). Lo femenino mágico no está pensado para estar lleno de criaturas plenamente conscientes. Como máximo, Yavanna tendrá pastores de árboles: la materia mágica más inteligente para defender la naturaleza."
+→ [Leyendo El Silmarillion, 21:05](https://youtu.be/gDRkrg8dVCo?t=1265)
+
+La polaridad Aulë/Yavanna no es entonces dos polos en simetría perfecta sino **distribución asimétrica de capacidades**: lo masculino concentra el intelecto pleno (la piedra que se trabaja, los hijos como artesanos plenamente conscientes); lo femenino concentra la magia silvana y la potencia generadora, pero sin cognición plena salvo en sus formas excepcionales (los Ents como pastores de árboles, materia mágica con intelecto). Esta asimetría es load-bearing en la lectura del canal: explica por qué la civilización emerge en el lado masculino y la naturaleza-conservadora en el femenino sin que el polar deje de ser equilibrio. Ver [[el-silmarillion]] para el desarrollo completo del Génesis tolkieniano.
+
 ### Matrix: el mito polar del mago
 
 > "**Matrix es también un mito polar que habla de la dicotomía naturaleza-tecnología.** El arquitecto es lo masculino y el oráculo es lo femenino; la gente dentro de Matrix es producto de ambos. La anomalía sistémica de Matrix refleja el fallo sistémico heredado del mito del gólem."
