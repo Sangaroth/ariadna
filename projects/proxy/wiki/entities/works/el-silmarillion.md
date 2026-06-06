@@ -267,6 +267,92 @@ El canal subraya un episodio donde la polaridad masculino/femenino se asimetriza
 
 La coexistencia de los pueblos del Silmarillion encarna así el conflicto inevitable entre los dos polos: la criatura del intelecto-piedra requiere consumir la materia viva del polo femenino, y de esa tensión brotan tanto la civilización como el sufrimiento de la naturaleza.
 
+## Aulë crea a los enanos: la impaciencia del demiurgo
+
+El canal lee la creación secreta de los enanos por Aulë como pieza arquetípica precisa: un demiurgo masculino que, por temor al poder de Melkor obrando en la tierra, no quiere esperar la llegada de los hijos de Ilúvatar y se anticipa fabricándolos él mismo. La impaciencia del demiurgo es una transgresión del orden — actuar con la mente impulsiva en lugar de pensar primero las consecuencias — que prefigura la lógica del pecado original.
+
+> "Aulë creó a los enanos en secreto porque no quiso esperar la llegada de los hijos de Ilúvatar; los hizo fuertes e inquebrantables por temor al poder de Melkor que obraba en la tierra,"
+→ [Inside Proxy directo, 14:17](https://youtu.be/wIhH72UFUPY?t=857)
+
+Los **siete padres de los enanos** que Aulë fabrica reciben en la lectura del canal correspondencia gemátrica precisa con el número solar: tríada psíquica (mente-cuerpo-emoción) más cuatro elementos físicos. Siete es la clave del todo sólido — la suma del trino espiritual y el cuádruple material. Es la misma estructura que Ilúvatar había desplegado al crear primero la Visión (tríada psíquica) y después Eä, el mundo material (cuatro elementos): el paso de imagen a realidad, de lo que solo existía en la mente a las cosas que son.
+
+> "Los siete padres de los enanos reflejan el número solar: tríada psíquica (mente-cuerpo-emoción) más cuatro elementos,"
+→ [Inside Proxy directo, 14:17](https://youtu.be/wIhH72UFUPY?t=857)
+
+Ilúvatar confronta a Aulë y le advierte que sus criaturas solo pueden vivir de su propio ser prestado: no tienen vida autónoma porque la potencia ex nihilo solo pertenece al increado. Aulë alza el martillo para destruirlos llorando, pero los enanos esquivan el golpe — ya tienen vida propia. Ilúvatar acepta entonces la ofrenda con una condición: los enanos dormirán bajo la piedra hasta que despierten los primeros nacidos. Su impaciencia no será recompensada con primogenitura; los siete padres son puestos a descansar en sitios apartados.
+
+> "Aulë respondió que no deseaba dominio sino criaturas para amarlas y enseñarles a percibir la belleza de Eä,"
+→ [Inside Proxy directo, 17:18](https://youtu.be/wIhH72UFUPY?t=1038)
+
+> "Los siete padres son puestos a descansar en sitios apartados: su impaciencia no será recompensada,"
+→ [Inside Proxy directo, 19:20](https://youtu.be/wIhH72UFUPY?t=1160)
+
+### Los enanos como pueblos bárbaros y reconstructores tras el Apocalipsis
+
+Aulë no fabrica los enanos como protagonistas de la historia sino como **pueblos creados prematuramente, las tribus bárbaras que circundan el centro civilizado**. Para la mente católica que estructura el Génesis tolkieniano, los protagonistas son los elegidos (elfos y hombres); los enanos son los pueblos periféricos, los nórdicos que para los celtas eran los bárbaros — de ahí las runas y la conexión arquetípica con la criatura anterior al hombre.
+
+> "Tolkien utiliza al neandertal como prototipo del artesano de la piedra, la criatura anterior al hombre,"
+→ [Inside Proxy directo, 24:55](https://youtu.be/wIhH72UFUPY?t=1495)
+
+> "Tras la destrucción total, cuando solo quede piedra, serán los enanos quienes reconstruyan la civilización,"
+→ [Inside Proxy directo, 24:55](https://youtu.be/wIhH72UFUPY?t=1495)
+
+La función arquetípica queda así doblemente fijada: los enanos son el pueblo que viene **antes** de la civilización elegida (artesanos de la piedra, anteriores al hombre pleno) y el pueblo que viene **después** del Apocalipsis (los que sobrevivirán cuando solo quede piedra y reconstruirán). El ciclo cosmogónico-escatológico se cierra sobre ellos.
+
+## Yavanna ante Manwë: el anhelo femenino y la Batalla de los Árboles
+
+Tras escuchar el destino reservado a los enanos, Yavanna lamenta a Aulë que sus hijos no amarán lo que ella ama: preferirán las obras de sus propias manos, cavarán la tierra y no estimarán las cosas que crecen y viven sobre ella. La profecía es nítida: muchos árboles sentirán la mordedura del hierro sin piedad. La angustia de Yavanna no se queda en el reproche — la lleva a Manwë, y el episodio articula un movimiento arquetípico canal-específico: la **introspección femenina** como pieza estructural de la cognición.
+
+> "Yavanna contempla sus propios pensamientos: la introspección femenina como componente del golem,"
+→ [Inside Proxy directo, 27:26](https://youtu.be/wIhH72UFUPY?t=1646)
+
+Yavanna acude a Manwë angustiada por lo que pueda hacerse en la Tierra Media en los días por venir y desea que los árboles pudieran hablar y castigar a quien les haga daño — el speaker identifica aquí cita directa de **La Batalla de los Árboles** celta: el mito en el que una diosa silvana puso nombre a los árboles y estos se levantaron a luchar contra el invasor. Tolkien toma este mito como matriz arquetípica de la batalla de los Ents:
+
+> "En el mito celta, una diosa silvana puso nombre a los árboles y estos se levantaron a luchar contra el invasor,"
+→ [Inside Proxy directo, 29:28](https://youtu.be/wIhH72UFUPY?t=1768)
+
+> "Tolkien toma este mito para la batalla de los Ents: la naturaleza defendiéndose del excesivo celo destructor,"
+→ [Inside Proxy directo, 29:28](https://youtu.be/wIhH72UFUPY?t=1768)
+
+Manwë confirma que el caminar de los árboles ya estaba en la canción original de la creación — los pastores de árboles no son innovación, sino actualización en acto de un tema que estaba en el Ainulindalë desde el principio. El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve, y la visión de Manwë se renueva: él mismo está dentro de ella. Yavanna concede a Manwë un juicio imposible sin lo femenino — articulación canal-específica del mecanismo polar como **el anhelo implícito de lo femenino que ilumina la consciencia masculina** (ver [[anima-archetype]] y [[mito-polar]]).
+
+La pieza opera además como diagnóstico del mal en clave de pulsión: lo salvaje que se abre camino contra el hierro destructor encarna la voluntad de perdurar luchando contra la **pulsión de muerte** — la pulsión que destruye la materia viva y se destruye a sí misma con la obra de Ilúvatar, exactamente la lógica que más tarde encarnará Saruman.
+
+## Las Águilas y la división entre gloria explícita y magia arcana
+
+Cuando el pensamiento de Yavanna y el de Manwë "remontaron vuelo juntos como grandes aves", la lectura del canal articula la conjunción polar como unión vertical de tierra y aire — y la concreción del pacto en las Águilas como criaturas mediadoras. Yavanna desea que sus árboles crezcan tan alto como el intelecto; Manwë limita: solo las montañas alcanzarán esa gloria. La obra explícita de Aulë (la piedra, las cumbres, los objetos visibles) se unirá con el intelecto y participará de la gloria pública del cosmos. La obra de Yavanna queda relegada a otro dominio:
+
+> "Lo femenino queda relegado a lo salvaje: sus obras serán mágicas pero nunca tendrán la gloria de lo físico,"
+→ [Inside Proxy directo, 42:09](https://youtu.be/wIhH72UFUPY?t=2529)
+
+La distinción es estructural: lo masculino-Aulë opera en el régimen de lo **explícito y glorioso** (montañas que rivalizan con el intelecto, objetos individualizados, criaturas plenamente conscientes); lo femenino-Yavanna opera en el régimen de lo **arcano y oculto** (magia silvana, pastores de árboles, espíritus de la naturaleza). La asimetría no es accidental sino contención deliberada: si lo femenino tuviera el poder del anillo sería absoluto pero oscuro y terrible — por eso está contenido en el dominio mágico-silvano.
+
+> "Si lo femenino tuviera el poder del anillo sería absoluto pero oscuro y terrible — por eso está contenido,"
+→ [Inside Proxy directo, 42:09](https://youtu.be/wIhH72UFUPY?t=2529)
+
+El esquema explica para el canal por qué **Morgana nunca alcanza la gloria de la magia de Merlín** — la magia de Merlín acompaña al héroe hasta su trono, mientras la magia arcana femenina no accede a esos dominios. Galadriel enfrenta exactamente la misma tentación que Yavanna ante el anillo: lo femenino resistiendo la atracción del poder absoluto y aceptando su contención mágica como condición de su propia bondad. La pieza señala el isomorfismo Yavanna–Galadriel–Morgana como serie estructural del mismo mecanismo polar.
+
+La lectura articula además la economía cósmica del enfrentamiento al mal: no es el héroe quien encara primero al mal del Apocalipsis, sino lo femenino arcano. El héroe vence al [[dragon-arquetipo|dragón]] después; el poder oculto de lo femenino debe esperar la hora señalada para manifestarse plenamente.
+
+## Varda y la corona de siete estrellas: el despertar de los elfos en Cuiviénen
+
+El cierre del bloque cosmogónico que el directo articula se produce con la creación de las estrellas por Varda en preparación de los primeros nacidos. Varda recogió el rocío plateado de Telperion e hizo estrellas nuevas y más brillantes. La operación incluye un gesto específico que el canal lee como cita simbólica precisa:
+
+> "Varda echó a girar la corona de siete estrellas como reto a Melkor — probablemente la Corona Boreal, símbolo femenino celta,"
+→ [Inside Proxy directo, 51:43](https://youtu.be/wIhH72UFUPY?t=3103)
+
+> "La corona de siete estrellas se corresponde con la corona de doce estrellas de la Virgen en el Apocalipsis,"
+→ [Inside Proxy directo, 51:43](https://youtu.be/wIhH72UFUPY?t=3103)
+
+El siete reaparece aquí como número solar-mariano: tres más cuatro, tríada espiritual más elementos físicos, ahora elevado a corona estelar femenina como símbolo cósmico que rivaliza con la oscuridad de Melkor. La doble correspondencia con la Corona Boreal celta y la corona apocalíptica de la Virgen sitúa a Varda en la genealogía simbólica de la diosa blanca cristianizada — pieza coherente con la mitopoyesis que catoliza el sustrato celta (ver [[tolkien-jrr]]).
+
+Los primeros nacidos despiertan junto a la **laguna de Cuiviénen** iluminada por las estrellas. Lo primero que vieron sus ojos fueron las estrellas del cielo:
+
+> "Por ello los elfos han amado siempre la luz estelar y veneran a Varda sobre todos los Valar,"
+→ [Inside Proxy directo, 53:43](https://youtu.be/wIhH72UFUPY?t=3223)
+
+La piedad élfica hacia Varda se articula así no como devoción arbitraria sino como recuerdo cosmogónico: la primera imagen de los elfos al despertar fija el objeto de su veneración perpetua.
+
 ## Lugar de la obra en el corpus del canal
 
 El Silmarillion funciona en el canal como pieza central del análisis tolkieniano: junto a obras tratadas en otros directos, articula la lectura de [[tolkien-jrr]] como uno de los casos más sostenidos del [[mito-polar]] moderno y como ejercicio consciente de [[mitologia-propia-impropia]] — Tolkien sabe que está construyendo mito.

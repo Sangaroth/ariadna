@@ -196,6 +196,14 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 > "El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve. La diosa blanca entrega una espada a lo masculino: **Yavanna concede a Manwë un juicio imposible sin lo femenino.**"
 → [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)
 
+El mismo directo añade una **mecánica concreta de individuación** dentro del polar tolkieniano: la roca como excisión masculina de lo femenino-tierra. La tenacidad — fuerza femenina canalizada por lo masculino — se manifiesta en las rocas y objetos resistentes; estos son emanaciones individuadas de la tierra, **lo masculino como excisión de lo femenino que se independiza** y se cristaliza en formas duraderas. La pasión arquetípica de los enanos por la piedra es una pasión masculina por la tierra individualizada, no por la materia viva (que pertenece al polo femenino). El polar tolkieniano se despliega así no solo como pareja de Valar sino como mecánica continua de individuación: cada roca es una excisión polar.
+
+> "Las rocas son emanaciones individuadas de la tierra: lo masculino como excisión de lo femenino que se independiza,"
+→ [Inside Proxy directo, 12:16](https://youtu.be/wIhH72UFUPY?t=736)
+
+> "La pasión de los enanos por la piedra es una pasión masculina por la tierra individualizada,"
+→ [Inside Proxy directo, 12:16](https://youtu.be/wIhH72UFUPY?t=736)
+
 La lectura del Génesis del Silmarillion en clave cosmogónica polar queda articulada con detalle estructural en otra sesión:
 
 > "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales). En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino. El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma. Por eso el bautismo se hace con agua: el agua representa el espíritu."

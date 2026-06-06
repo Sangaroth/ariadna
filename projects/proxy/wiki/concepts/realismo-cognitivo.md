@@ -294,6 +294,8 @@ Este movimiento es clave: el realismo cognitivo asume el límite sin convertirlo
 - Marca distancia con [[bueno-gustavo]] sin renunciar a la sistematicidad — el canal toma de Bueno la exigencia de rigor pero rechaza su ontología general.
 - Define una postura crítica hacia el psicoanálisis clásico ([[freud-sigmund]]) cuando este describe la psique mediante metáforas trasladadas desde otros ámbitos sin justificar la conexión con la realidad mental.
 
+- Aporta el armazón clínico-filosófico de [[funcion-biologica-y-suicidio-en-proxy]]: la categoría 'adaptativo' usada por la psicología cognitivo-conductual moderna es inservible para el realismo cognitivo porque presupone un dualismo psique/entorno que el marco rechaza — la psique no está EN un entorno como algo separado, **es** su modo de respuesta al entorno. El sustituto operativo del par adaptativo/desadaptativo es neurótico/no-neurótico respecto a las cinco funciones biológicas del individuo (nacer, crecer, aprender, reproducirse, enseñar, morir).
+
 ## Posicionamiento en el mapa filosófico
 
 El directo *Filosofía para dummies* (06-nov-2024) sitúa al realismo cognitivo dentro de un mapa metafilosófico explícito de tres sistemas y precisa varias diferencias estructurales frente a sus alternativas.
@@ -666,7 +668,6 @@ La terminología refuerza la axiomática de clases articulada en otras secciones
 → [Representacionalismo vs cognición 4E (1:10:01)](https://youtu.be/wts74ONWRSQ?t=4201)
 
 La cláusula 'mapea solo lo que importa' precisa por qué la cuestión kantiana sobre la cosa en sí está mal planteada: la mente no aspira a representar la totalidad del objeto (sus átomos, sus propiedades irrelevantes para la operación) sino a clasificar las propiedades que importan para la acción siguiente. La fiabilidad del imaginario respecto a la cosa queda anclada en la física newtoniana compartida: tanto la cosa como la forma siguen las mismas leyes físicas, lo que garantiza un grado de conexión epistémica suficiente.
-
 
 ## La trampa de la habitación cerrada y la cibernética de segundo orden
 
