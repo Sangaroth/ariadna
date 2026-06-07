@@ -146,6 +146,73 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - Se diferencia del símbolo articulado en [[teoria-del-simbolo-en-proxy]]: el símbolo es la unidad de evocación; el pensamiento poético es la sintaxis que encadena esas unidades por afinidad imaginaria/afectiva
 - Permite re-leer la [[mitologia-propia-impropia]] como teoría del régimen epistémico de los productos poéticos: lo decisivo no es el contenido mítico sino si el sujeto reconoce el modo poético en el que está operando
 
+## Religiosidad política como pensamiento poético: aplicación al campo conservador
+
+El monográfico breve *Proxy y la definición de ultraderecha* (nov 2024) extiende el campo de aplicación del pensamiento poético al análisis político-ideológico — pieza operativa que la página tenía implícita en el registro mitológico-literario pero no articulaba como categoría aplicada a la mecánica de las jerarquías políticas.
+
+### El estereotipo de ultraderecha y la representación afectiva
+
+El punto de entrada es la pregunta metodológica del canal sobre qué significa materialmente 'ultraderecha' fuera del estereotipo:
+
+> "Proxy pregunta qué significa materialmente \"ultraderecha\" fuera del estereotipo y pide un prototipo ideológico o discursivo concreto,"
+→ [Proxy y la definición de ultraderecha (03:03)](https://youtu.be/Lac68XOLtL0?t=183)
+
+> "\"Extrema derecha\" no significa alguien de derechas y además extremo, sino alguien que es extremo específicamente en lo que es ser de derechas,"
+→ [Proxy y la definición de ultraderecha (03:03)](https://youtu.be/Lac68XOLtL0?t=183)
+
+La precisión metodológica es operativa: el término 'ultra' como adjetivo independiente del sustantivo 'derecha' (lo que el discurso popular asume — alguien de derechas Y ADEMÁS violento) es categorialmente distinto de 'extremo específicamente en lo que es ser de derechas' (la lectura categorial estricta). La distinción enlaza con el [[sofisma-estetico]]: el estereotipo afectivo opera por colapso de las dos modalidades como si fueran equivalentes, lo que el canal articula como representación mitológica del adversario político.
+
+> "El estereotipo afectivo de \"ultra\" es violento, y \"de derecha\" connota antiguo, cruel o tirano,"
+→ [Proxy y la definición de ultraderecha (05:04)](https://youtu.be/Lac68XOLtL0?t=304)
+
+> "La representación mitológica más completa incluye estatismo, nacionalismo y religiosidad,"
+→ [Proxy y la definición de ultraderecha (05:04)](https://youtu.be/Lac68XOLtL0?t=304)
+
+> "Proxy acepta que la definición es buena como estereotipo pero no está de acuerdo con ella como descripción real,"
+→ [Proxy y la definición de ultraderecha (05:04)](https://youtu.be/Lac68XOLtL0?t=304)
+
+La triada estereotípica (estatismo + nacionalismo + religiosidad) opera como representación mitológica del adversario — funciona afectivamente para identificar al enemigo político, pero NO funciona descriptivamente como caracterización categorial real. El líder único, por ejemplo, no es rasgo definitorio de la ultraderecha porque también opera en la extrema izquierda y en dictaduras bananeras (franquismo + monarquía + presidencialismo + dictaduras izquierdistas comparten la misma figura unificadora).
+
+### La moral conservadora como sacralización de principios inflexibles
+
+El núcleo categorial del análisis es la articulación de qué opera realmente bajo el estereotipo 'estatismo nacionalista religioso':
+
+> "Lo que opera en el estatismo nacionalista no es la religión sino los valores conservadores o la moral conservadora,"
+→ [Proxy y la definición de ultraderecha (06:05)](https://youtu.be/Lac68XOLtL0?t=365)
+
+> "Moral conservadora es aquella que cree en principios que han de ser sacralizados: no se pueden relativizar, flexibilizar, negociar ni franquear,"
+→ [Proxy y la definición de ultraderecha (06:05)](https://youtu.be/Lac68XOLtL0?t=365)
+
+La pieza es operativa para distinguir la moral conservadora de la religión específica: no es necesario tener una fe doctrinal positiva para operar con principios sacralizados — basta con sostener que ciertos principios NO se relativizan, flexibilizan, negocian ni franquean. La articulación enlaza estructuralmente con [[tibieza-moral-pecado-original]]: lo que la tibieza moral hace (relativizar el mandato absoluto, introducir condicionalidad en lo incondicional) es exactamente la operación INVERSA a la moral conservadora (sostener la incondicionalidad de los principios sacralizados). Las [[virtudes-cardinales-teologales]] cifran ese compromiso incondicional como respuesta estructural a la tibieza.
+
+### El pasado como más religioso: argumento explicativo
+
+La pieza añade una explicación operativa de por qué el conservadurismo y la religiosidad política tienden a co-aparecer:
+
+> "Todo conservador intenta conservar el pasado, y el pasado siempre es más religioso porque cuanto más retrocedes en el tiempo menos comprendes la naturaleza y más delegas en lo sobrenatural,"
+→ [Proxy y la definición de ultraderecha (06:05)](https://youtu.be/Lac68XOLtL0?t=365)
+
+La explicación es genealógica: el pasado al que se mira el conservador no es arbitrariamente religioso — es estructuralmente más religioso porque la comprensión de la naturaleza era menor y la delegación en lo sobrenatural mayor. La consecuencia operativa: el conservador NO sostiene la religiosidad como tesis positiva sino como contenido heredado del pasado al que mira. Su compromiso primario es con la **forma** (conservar) y la religiosidad aparece como contenido de aquello que conserva, no como su núcleo estructural.
+
+### Trascendentalidad de los valores políticos como modalidad del pensamiento poético
+
+La pieza nuclear del monográfico para esta página es la identificación de la 'religiosidad política' con el pensamiento poético, no con la religión específica:
+
+> "En el estatismo nacionalista religioso lo importante no es lo religioso en sí, sino que los valores que articulan la jerarquía tiendan a la trascendentalidad — es decir, a mitos,"
+→ [Proxy y la definición de ultraderecha (07:06)](https://youtu.be/Lac68XOLtL0?t=426)
+
+> "Lo que la gente llama religiosidad no es común a las religiones sino al pensamiento poético,"
+→ [Proxy y la definición de ultraderecha (07:06)](https://youtu.be/Lac68XOLtL0?t=426)
+
+> "La jerarquía requiere valores que no sean únicamente políticos o pragmáticos, sino que apunten más allá de lo material,"
+→ [Proxy y la definición de ultraderecha (07:06)](https://youtu.be/Lac68XOLtL0?t=426)
+
+La pieza extiende el campo de aplicación del pensamiento poético al análisis político-ideológico con tres consecuencias operativas. **Primera**: lo que el discurso popular llama 'religiosidad' en el ámbito político NO es la religión doctrinal específica (catolicismo, islam, etc.) sino la operación del pensamiento poético sobre valores que apuntan más allá de lo material. La 'religiosidad' política es genérica y operacional, no doctrinal y particular. **Segunda**: las jerarquías políticas REQUIEREN trascendentalidad — valores que no sean únicamente políticos ni pragmáticos — porque sin ese apuntar hacia lo trascendente la jerarquía carece de sustrato afectivo para sostenerse. La consecuencia editorial es importante: cualquier jerarquía política, incluso las que se declaran ateas o materialistas, opera por dispositivos de pensamiento poético cuando consigue cohesión simbólica. **Tercera**: el ataque a la 'religiosidad' política desde el discurso secular-progresista identifica mal su objetivo — no ataca la religión doctrinal sino la operación del pensamiento poético en general, lo que estructuralmente le imposibilita ofrecer una alternativa cohesiva (porque cualquier alternativa requerirá su propio pensamiento poético).
+
+La pieza enlaza con [[diagrama-de-proxy]]: el cuadrante del fundamentalismo moral cifra precisamente la disposición a operar con valores trascendentales sacralizados, independiente de qué doctrina específica los soporte. La trascendentalidad como rasgo neuropsicológico del cuadrante (no como contenido religioso específico) es coherente con la identificación canal-específica entre 'religiosidad política' y pensamiento poético articulada aquí.
+
+La consecuencia genealógica para el marco completo del canal: el pensamiento poético NO es solo modalidad cognitiva del análisis arquetípico de obras literarias o de la articulación mitológica de la psique — es también el sustrato operativo de la cohesión política y de la sacralización moral conservadora. Donde la página articulaba el pensamiento poético como modalidad de conexión entre representaciones mentales por imagen/forma/afecto, esta sección extiende la categoría a su aplicación política: las jerarquías sociopolíticas se sostienen estructuralmente sobre el mismo dispositivo cognitivo que articula los mitos individuales y las obras literarias propias.
+
 ## Lagunas
 
 - El canal no detalla criterios operativos para distinguir, en un caso ambiguo, cuándo una asociación afectiva es legítimamente evocadora y cuándo se ha convertido en sofisma estético
@@ -171,4 +238,5 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:19:14](https://youtu.be/6cSsI85qCp8?t=4754)
 - **Avisos parroquiales** — chunks: [8:18](https://youtu.be/F1isbFH_FeM?t=498)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:26:26](https://youtu.be/BOIcK1Rpdvo?t=5186)
+- **Proxy y la definición de ultraderecha** — chunks: [7:06](https://youtu.be/Lac68XOLtL0?t=426)
 - **Biblioteca de Babel II** — chunks: [0:17](https://youtu.be/IytpR6sGWXg?t=17)

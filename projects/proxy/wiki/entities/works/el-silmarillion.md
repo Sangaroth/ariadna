@@ -369,6 +369,312 @@ El canal articula que Tolkien establece en el Silmarillion (no en las adaptacion
 
 La pieza añade una lectura específica del cambio de color como dispositivo simbólico — la elevación de la figura a un orden superior tras atravesar la confrontación con el mal — coherente con el marco que la página articula sobre las cuatro formas del mal y la subordinación estructural de la maldad en la cosmogonía tolkieniana. La pentada de colores opera además como base iconográfica para la aproximación tentativa que el canal hace a los cuadrantes del [[diagrama-de-proxy]].
 
+## De Aulë y Yavanna: las dos polaridades de la tierra, la creación de los enanos y la magia silvana
+
+El directo *¡Inside Proxy está emitiendo en directo!* (feb 2025, 56 min) extiende la lectura cosmogónica del Ainulindalë al capítulo siguiente del Silmarillion — *Of Aulë and Yavanna* — articulando la mecánica arquetípica de las dos polaridades de la tierra (inerte vs vivo), la creación secreta de los enanos por Aulë, la profecía de los Ents como respuesta de lo femenino, y la lectura del despertar de los elfos en Cuiviénen como cierre del prólogo cosmogónico. La sección establece además el armazón semítico-judeocristiano que sostiene la cosmogonía tolkieniana y la triada categorial Morgana/Merlín/Galadriel como pieza nuclear del mito polar en su modalidad de poder femenino contenido.
+
+### La Génesis semítica como clave estructural
+
+> "Para entender el Génesis tolkieniano hay que comprender el orden semita: el espíritu (aire) flotaba sobre las aguas y cayó sobre la tierra,"
+→ [¡Inside Proxy está emitiendo en directo! (06:43)](https://youtu.be/lw7XI2lQntM?t=403)
+
+> "El fuego como voluntad es una cuarta cosa, posterior a los tres elementos primordiales,"
+→ [¡Inside Proxy está emitiendo en directo! (06:43)](https://youtu.be/lw7XI2lQntM?t=403)
+
+> "El hombre creado de barro es símbolo del espíritu mezclado con el polvo (lo vacuo, lo hueco),"
+→ [¡Inside Proxy está emitiendo en directo! (07:44)](https://youtu.be/lw7XI2lQntM?t=464)
+
+> "Polvo (que se va con el aire) y agua (que sola no tiene sentido) juntos mezclan femenino y masculino,"
+→ [¡Inside Proxy está emitiendo en directo! (07:44)](https://youtu.be/lw7XI2lQntM?t=464)
+
+> "Esta mezcla permite conceder forma: el barro es la unión que crea lo material,"
+→ [¡Inside Proxy está emitiendo en directo! (07:44)](https://youtu.be/lw7XI2lQntM?t=464)
+
+La cosmogonía del Silmarillion opera bajo el orden semítico de los tres elementos primordiales (aire-espíritu, agua, tierra) con el fuego como cuarta categoría posterior (voluntad). La pieza articula la operación arquetípica de la creación del hombre de barro: el polvo y el agua — el masculino vacuo-volátil y el femenino sin forma propia — mezclados dan **forma** al material. La articulación enlaza con [[genesis-mitologico]] como categoría: el barro humano es el caso paradigmático de la operación que el Génesis bíblico cifra arquetípicamente, y Tolkien la traduce a su cosmogonía propia conservando la mecánica.
+
+### Aulë y Yavanna: las dos polaridades de la tierra
+
+> "Yavanna es una forma de diosa silvana, señora de los bosques, próxima a la Dama del Lago del mito artúrico,"
+→ [¡Inside Proxy está emitiendo en directo! (09:15)](https://youtu.be/lw7XI2lQntM?t=555)
+
+> "Aulë y Yavanna son ambos tierra, pero representan sus dos polaridades: lo inerte y lo vivo,"
+→ [¡Inside Proxy está emitiendo en directo! (09:15)](https://youtu.be/lw7XI2lQntM?t=555)
+
+> "Yavanna es tierra con un poco de agua: la consorte de Aulë que se ocupa de lo vivo,"
+→ [¡Inside Proxy está emitiendo en directo! (09:15)](https://youtu.be/lw7XI2lQntM?t=555)
+
+La pareja Aulë-Yavanna cifra **las dos polaridades arquetípicas de la tierra** como categoría cosmogónica. **Aulë** opera como el polo INERTE: la tierra como sustrato sólido, mineral, resistente. **Yavanna** opera como el polo VIVO: la tierra mezclada con un poco de agua, la sustancia que canaliza el crecimiento vegetal. La pieza enlaza con [[diosa-blanca]]: Yavanna es una de las modalidades de la diosa silvana, próxima estructuralmente a la Dama del Lago del ciclo artúrico — la diosa de los bosques cuya jurisdicción es la vida vegetal autodefensiva.
+
+La articulación distingue además categorialmente a **Ilúvatar como ser NO polar**:
+
+> "Ilúvatar no es masculino ni femenino, aunque toma cariz de Gran Padre por voluntad de Tolkien de ilustrar el Dios judeocristiano,"
+→ [¡Inside Proxy está emitiendo en directo! (10:15)](https://youtu.be/lw7XI2lQntM?t=615)
+
+> "La polaridad solo se elabora a partir de las creaciones de Ilúvatar, no del creador mismo,"
+→ [¡Inside Proxy está emitiendo en directo! (10:15)](https://youtu.be/lw7XI2lQntM?t=615)
+
+> "El mito polar (masculino/femenino) es totalmente central en toda la obra de Tolkien,"
+→ [¡Inside Proxy está emitiendo en directo! (10:15)](https://youtu.be/lw7XI2lQntM?t=615)
+
+La precisión es estructural para el armazón cosmogónico: el creador NO opera dentro de la dialéctica polar — la polaridad emerge solo en sus emanaciones (los Ainur, después los Valar y demás creaciones). El [[mito-polar]] estructura toda la obra de Tolkien, pero Ilúvatar es **anterior** a esa polaridad y la trasciende, igual que el Dios judeocristiano que Tolkien intenta ilustrar.
+
+### Aulë artesano: lo masculino de la tierra como objeto rígido
+
+> "La parte masculina de la tierra para Tolkien son los objetos inanimados, resistentes, rígidos,"
+→ [¡Inside Proxy está emitiendo en directo! (11:46)](https://youtu.be/lw7XI2lQntM?t=706)
+
+> "Lo femenino canaliza la fuerza de lo masculino convirtiéndola en tenacidad: aquello que permanece intentando,"
+→ [¡Inside Proxy está emitiendo en directo! (11:46)](https://youtu.be/lw7XI2lQntM?t=706)
+
+> "Las rocas, piedras y gemas son la idea más firme de las emanaciones arquetípicas del Génesis tolkieniano,"
+→ [¡Inside Proxy está emitiendo en directo! (11:46)](https://youtu.be/lw7XI2lQntM?t=706)
+
+> "La tierra es un todo indefinido sólido; las rocas son elementos individuados, emanaciones de ese todo,"
+→ [¡Inside Proxy está emitiendo en directo! (13:17)](https://youtu.be/lw7XI2lQntM?t=797)
+
+> "Lo masculino siempre es una gemación de lo femenino: una excisión que se individualiza, como los hijos de su madre,"
+→ [¡Inside Proxy está emitiendo en directo! (13:17)](https://youtu.be/lw7XI2lQntM?t=797)
+
+> "La pasión de los enanos por la tierra y las gemas es una pasión masculina por definición,"
+→ [¡Inside Proxy está emitiendo en directo! (13:17)](https://youtu.be/lw7XI2lQntM?t=797)
+
+La articulación opera con tres precisiones decisivas. **Primera**: lo masculino de la tierra son los objetos inanimados, resistentes, rígidos — la rigidez como propiedad masculina arquetípica. **Segunda**: lo femenino NO es la otra rigidez sino la **canalización** de la fuerza masculina en TENACIDAD ('aquello que permanece intentando'). La tenacidad es propiedad femenina porque opera por la duración del intento, no por la dureza del impacto. **Tercera**: las rocas son INDIVIDUACIÓN MASCULINA de la tierra femenina indiferenciada. La tierra como categoría es un todo indefinido sólido; las rocas son emanaciones individuales de ese todo, gemación de lo femenino que se excinde y se individualiza como hijo de su madre. La fórmula 'lo masculino siempre es una gemación de lo femenino' opera como pieza nuclear del [[mito-polar]] tolkieniano: la individuación masculina parte del sustrato femenino y se separa de él para volverse pieza distinta. La pasión de los enanos por la tierra y las gemas es pasión masculina precisamente por esta mecánica — buscan en el mineral individuado el reconocimiento de su propia operación de individuación.
+
+### La creación secreta de los enanos y el número siete
+
+> "Aulë creó a los enanos porque deseaba discípulos antes de la llegada de los hijos de Ilúvatar,"
+→ [¡Inside Proxy está emitiendo en directo! (14:47)](https://youtu.be/lw7XI2lQntM?t=887)
+
+> "Los hizo fuertes e inquebrantables por temor al poder de Melkor, y trabajó en secreto temiendo la censura de los Valar,"
+→ [¡Inside Proxy está emitiendo en directo! (14:47)](https://youtu.be/lw7XI2lQntM?t=887)
+
+> "Creó siete padres de los enanos en un palacio bajo las montañas de la Tierra Media,"
+→ [¡Inside Proxy está emitiendo en directo! (14:47)](https://youtu.be/lw7XI2lQntM?t=887)
+
+El episodio cifra la operación arquetípica del demiurgo que se anticipa al creador: Aulë desea discípulos antes de la llegada de los hijos de Ilúvatar y los fabrica en secreto, temiendo tanto el poder de Melkor (que cifra el mal cosmogónico anterior) como la censura de los Valar (la jerarquía de los demás demiurgos). La operación enlaza con [[golem-arquetipo|el mito del golem]]: el creador inferior que fabrica un ser semi-vivo en secreto porque su deseo de paternidad NO puede esperar el tiempo cosmogónico que el creador supremo ha fijado.
+
+El número SIETE de los padres de los enanos cifra una articulación numérica precisa que el canal desarrolla:
+
+> "Siete es un número solar (siete es solar, nueve es lunar),"
+→ [¡Inside Proxy está emitiendo en directo! (15:18)](https://youtu.be/lw7XI2lQntM?t=918)
+
+> "Siete = tríada espiritual (mente, cuerpo, emoción) + cuatro elementos (agua, tierra, fuego, aire),"
+→ [¡Inside Proxy está emitiendo en directo! (15:18)](https://youtu.be/lw7XI2lQntM?t=918)
+
+> "Es la tríada psíquica más la tríada física: la imagen mental de Ilúvatar más la materia de Eä,"
+→ [¡Inside Proxy está emitiendo en directo! (15:18)](https://youtu.be/lw7XI2lQntM?t=918)
+
+El siete opera como número solar (frente al nueve lunar) y se descompone como **tríada psíquica + cuatro elementos físicos**. La tríada psíquica es mente-cuerpo-emoción; los cuatro elementos son agua-tierra-fuego-aire. Siete = la imagen mental de Ilúvatar (los tres ámbitos de lo psíquico) más la materia de Eä (los cuatro elementos). La pieza enlaza con [[tarot-arquetipico]] sección 'tres líneas de siete' — la misma estructura numérica que organiza los 22 Arcanos Mayores opera aquí en clave cosmogónica tolkieniana.
+
+### La reprensión de Ilúvatar y la humildad de Aulë
+
+> "Las criaturas de Aulë solo pueden vivir de su ser limitado, moviéndose cuando él piensa y quietas cuando no,"
+→ [¡Inside Proxy está emitiendo en directo! (17:18)](https://youtu.be/lw7XI2lQntM?t=1038)
+
+> "El mensaje sirve tanto para obras como para actos: conoce las limitaciones antes de actuar,"
+→ [¡Inside Proxy está emitiendo en directo! (17:18)](https://youtu.be/lw7XI2lQntM?t=1038)
+
+> "Orientación hacia el pecado original: no actúes primero, piensa en la acción y sus consecuencias,"
+→ [¡Inside Proxy está emitiendo en directo! (17:18)](https://youtu.be/lw7XI2lQntM?t=1038)
+
+> "Aulë se compara con un niño que convierte en juego los trabajos del padre, no por burla sino por ser hijo,"
+→ [¡Inside Proxy está emitiendo en directo! (18:49)](https://youtu.be/lw7XI2lQntM?t=1129)
+
+> "Ofrece destruir su propia obra levantando un gran martillo contra los enanos, y llora,"
+→ [¡Inside Proxy está emitiendo en directo! (18:49)](https://youtu.be/lw7XI2lQntM?t=1129)
+
+> "Ilúvatar ve la humildad de Aulë y tiene compasión de él y de su deseo,"
+→ [¡Inside Proxy está emitiendo en directo! (18:49)](https://youtu.be/lw7XI2lQntM?t=1129)
+
+La reprensión articula la pieza filosófica nuclear del episodio: las criaturas del creador inferior solo pueden vivir DE SU SER LIMITADO — se mueven cuando él piensa y quedan quietas cuando no. La articulación cifra la advertencia arquetípica contra el demiurgo que se anticipa: lo que fabrica sin autorización del creador supremo carece de ser propio. La orientación moral hacia [[tibieza-moral-pecado-original|el pecado original]] es explícita: no actúes primero, piensa en la acción y sus consecuencias. La advertencia opera bidireccionalmente — para obras (creaciones) y para actos (decisiones).
+
+La respuesta de Aulë cifra la operación arquetípica del hijo ante el padre: se compara con un niño que convierte en juego los trabajos del padre, NO por burla sino por ser hijo (la imitación es modalidad del amor filial, no de la mofa). Ofrece destruir su propia obra levantando un martillo contra los enanos, y llora. La humildad del demiurgo inferior precisa la salida arquetípica: el creador supremo ve la humildad y tiene compasión, no del deseo arrogante sino del **deseo mismo** que motivó la operación. La pieza enlaza con la articulación de [[herida-narcisista-en-proxy]]: el padre que reconoce el deseo del hijo de operar como él, sin censurar la operación sino calibrando sus condiciones.
+
+> "Los enanos esquivan el golpe del martillo, probando que tienen vida propia y voluntad independiente,"
+→ [¡Inside Proxy está emitiendo en directo! (19:50)](https://youtu.be/lw7XI2lQntM?t=1190)
+
+> "Ilúvatar acepta la ofrenda pero no la arreglará: tal como Aulë los hizo, así serán,"
+→ [¡Inside Proxy está emitiendo en directo! (19:50)](https://youtu.be/lw7XI2lQntM?t=1190)
+
+> "Dormirán bajo la piedra hasta que los Primeros Nacidos despierten; la impaciencia no será recompensada,"
+→ [¡Inside Proxy está emitiendo en directo! (19:50)](https://youtu.be/lw7XI2lQntM?t=1190)
+
+La prueba de la vida propia opera por esquivar el golpe: la criatura que evita el martillo demuestra voluntad independiente. Ilúvatar acepta pero impone condiciones — tal como Aulë los hizo, así serán; dormirán bajo la piedra hasta que los Primeros Nacidos despierten. La impaciencia del demiurgo no será recompensada con prioridad temporal, solo con existencia.
+
+### Los enanos como pueblos bárbaros y proto-Neandertales
+
+> "Las criaturas creadas prematuramente representan los pueblos bárbaros: demasiado jóvenes para la gran obra de Ilúvatar,"
+→ [¡Inside Proxy está emitiendo en directo! (21:21)](https://youtu.be/lw7XI2lQntM?t=1281)
+
+> "La civilización católica (en sentido universal) está representada por elfos y hombres como protagonistas,"
+→ [¡Inside Proxy está emitiendo en directo! (21:21)](https://youtu.be/lw7XI2lQntM?t=1281)
+
+> "Los enanos quedan en los confines de la tierra: metáfora de los pueblos alejados del centro civilizatorio semita-griego-romano,"
+→ [¡Inside Proxy está emitiendo en directo! (21:21)](https://youtu.be/lw7XI2lQntM?t=1281)
+
+> "Los bárbaros para los celtas eran los nórdicos, de ahí las runas enanas,"
+→ [¡Inside Proxy está emitiendo en directo! (21:21)](https://youtu.be/lw7XI2lQntM?t=1281)
+
+> "Aulë como proto-Neandertal: un ser que trabaja la piedra antes de la llegada del hombre,"
+→ [¡Inside Proxy está emitiendo en directo! (24:55)](https://youtu.be/lw7XI2lQntM?t=1495)
+
+> "Cuando todo haya ardido y solo quede piedra, habrá que volver a empezar: los enanos como primeros reconstructores,"
+→ [¡Inside Proxy está emitiendo en directo! (24:55)](https://youtu.be/lw7XI2lQntM?t=1495)
+
+> "Tolkien sugiere que los pueblos con más retraso fueron deliberadamente relegados mientras otros fueron elegidos,"
+→ [¡Inside Proxy está emitiendo en directo! (24:55)](https://youtu.be/lw7XI2lQntM?t=1495)
+
+La articulación cifra la lectura geopolítica-cosmogónica de las razas tolkienianas. Los enanos representan los **pueblos bárbaros** (en el sentido griego-clásico de los que NO compartían la civilización semita-griego-romana). Su posición en los confines de la tierra cifra metafóricamente la posición de los pueblos alejados del centro civilizatorio. Las runas enanas remiten a los nórdicos, bárbaros para los celtas. La pieza arquetípica articula además la profecía de la reconstrucción: cuando todo haya ardido y solo quede piedra, los enanos serán los primeros reconstructores. Aulë opera como **proto-Neandertal** — ser que trabaja la piedra antes de la llegada del hombre, cifra arquetípica de la operación pre-civilizatoria que sostiene el sustrato sobre el que la civilización posterior se construye.
+
+### Yavanna y la mordedura del hierro
+
+> "Yavanna profetiza que los hijos de Aulë amarán las obras de sus propias manos y no lo que crece y vive,"
+→ [¡Inside Proxy está emitiendo en directo! (26:25)](https://youtu.be/lw7XI2lQntM?t=1585)
+
+> "Los árboles sentirán la mordedura del hierro sin piedad y serán apenas llorados en su desaparición,"
+→ [¡Inside Proxy está emitiendo en directo! (26:25)](https://youtu.be/lw7XI2lQntM?t=1585)
+
+> "Aulë responde que también los hijos de Ilúvatar comerán y construirán usando todo cuanto encuentren,"
+→ [¡Inside Proxy está emitiendo en directo! (26:25)](https://youtu.be/lw7XI2lQntM?t=1585)
+
+La profecía de Yavanna cifra el conflicto arquetípico entre lo masculino-mineral (Aulë y sus hijos) y lo femenino-vivo (los bosques de Yavanna). La mordedura del hierro sin piedad es la operación arquetípica de la civilización masculina sobre la naturaleza viva. La respuesta de Aulë opera como reconocimiento: también los hijos de Ilúvatar (elfos y hombres) operarán esta mecánica de uso de lo encontrado.
+
+### La introspección femenina y la batalla de los árboles
+
+> "Yavanna cayó y contempló sus propios pensamientos: esa es la introspección de lo femenino,"
+→ [¡Inside Proxy está emitiendo en directo! (27:57)](https://youtu.be/lw7XI2lQntM?t=1677)
+
+> "La conciencia femenina reconoce un anhelo implícito que no puede determinar pero que está ahí,"
+→ [¡Inside Proxy está emitiendo en directo! (27:57)](https://youtu.be/lw7XI2lQntM?t=1677)
+
+> "Yavanna acude a Manwë buscando esperanza, como joven madre angustiada por el destino de sus criaturas,"
+→ [¡Inside Proxy está emitiendo en directo! (27:57)](https://youtu.be/lw7XI2lQntM?t=1677)
+
+> "En la mitología celta una diosa blanca/silvana puso nombre a los árboles y estos se levantaron para luchar contra el invasor,"
+→ [¡Inside Proxy está emitiendo en directo! (29:58)](https://youtu.be/lw7XI2lQntM?t=1798)
+
+> "Lo salvaje se abre camino: metáfora psicológica de la pulsión de vida contra la pulsión de muerte,"
+→ [¡Inside Proxy está emitiendo en directo! (29:58)](https://youtu.be/lw7XI2lQntM?t=1798)
+
+> "La batalla de los Ents en Tolkien ilustra este mismo mito celta de la naturaleza autodefendiéndose,"
+→ [¡Inside Proxy está emitiendo en directo! (29:58)](https://youtu.be/lw7XI2lQntM?t=1798)
+
+> "Manwë confirma que esto proviene de la Canción original de Ilúvatar,"
+→ [¡Inside Proxy está emitiendo en directo! (29:58)](https://youtu.be/lw7XI2lQntM?t=1798)
+
+La pieza articula la mecánica arquetípica de la introspección femenina: contemplar los propios pensamientos hasta reconocer un anhelo implícito que no se puede determinar pero opera. La conciencia femenina opera distintamente de la masculina (que avanza hacia el objeto explícito) — opera por descubrimiento del propio anhelo como contenido pre-articulado.
+
+La profecía de la batalla de los Ents cifra el mito celta de la **diosa blanca/silvana** que nombra a los árboles y los levanta contra el invasor. La operación arquetípica es la pulsión de vida contra la pulsión de muerte — lo salvaje que se abre camino contra la civilización destructora. La articulación con la mitología celta es explícita: la Dama del Lago y la diosa silvana operan con el mismo dispositivo que Yavanna en Tolkien.
+
+### La iluminación femenina del corazón de Manwë
+
+> "El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve,"
+→ [¡Inside Proxy está emitiendo en directo! (32:29)](https://youtu.be/lw7XI2lQntM?t=1949)
+
+> "La visión se renueva: ya no es remota, ahora Manwë es protagonista dentro de ella,"
+→ [¡Inside Proxy está emitiendo en directo! (32:29)](https://youtu.be/lw7XI2lQntM?t=1949)
+
+> "La diosa blanca le da una espada a lo masculino: posibilidad de juicio imposible sin lo femenino,"
+→ [¡Inside Proxy está emitiendo en directo! (32:29)](https://youtu.be/lw7XI2lQntM?t=1949)
+
+> "El anhelo femenino al entrar en el corazón de un hombre permite comprender una parte del mundo antes desconocida,"
+→ [¡Inside Proxy está emitiendo en directo! (32:29)](https://youtu.be/lw7XI2lQntM?t=1949)
+
+> "Cuando nazcan los hijos, el pensamiento de Yavanna despertará espíritus que entrarán en lo vivo,"
+→ [¡Inside Proxy está emitiendo en directo! (39:07)](https://youtu.be/lw7XI2lQntM?t=2347)
+
+> "El corazón de Yavanna será parte de la magia silvana de los elfos y de cualquiera con magia silvana,"
+→ [¡Inside Proxy está emitiendo en directo! (39:07)](https://youtu.be/lw7XI2lQntM?t=2347)
+
+> "Es la profecía de que el espíritu de la naturaleza dará lugar a maravillas junto al nacimiento de los héroes,"
+→ [¡Inside Proxy está emitiendo en directo! (39:07)](https://youtu.be/lw7XI2lQntM?t=2347)
+
+La pieza arquetípica central de la sección: el anhelo femenino entra en el corazón de Manwë y la visión cosmogónica se renueva. La operación cifra la **iluminación femenina** — la modalidad arquetípica por la cual lo femenino aporta al masculino el contenido que su propia operación no podía generar. La fórmula 'la diosa blanca le da una espada a lo masculino: posibilidad de juicio imposible sin lo femenino' es nuclear: el juicio (operación masculina por excelencia, cifrada en la espada) requiere el contenido afectivo-imaginario que solo lo femenino provee. La espada SIN el anhelo de la diosa NO puede juzgar — corta sin discernir.
+
+La profecía de la magia silvana al despertar de los hijos opera como cierre operativo: el espíritu de la naturaleza dará lugar a maravillas junto al nacimiento de los héroes. El corazón de Yavanna se distribuye en cualquier ser con magia silvana — la diosa NO se reserva su contenido afectivo, lo dispersa en las criaturas vivas como sustrato del marco mágico-natural.
+
+### Águilas en montañas: la gloria masculina vs la magia femenina
+
+> "Manwë dice que solo las montañas (la roca, lo explícito) se unirán con los cielos y las águilas,"
+→ [¡Inside Proxy está emitiendo en directo! (41:09)](https://youtu.be/lw7XI2lQntM?t=2469)
+
+> "Lo femenino queda relegado a la magia de los bosques: los pastores de árboles caminarán por los bosques,"
+→ [¡Inside Proxy está emitiendo en directo! (41:09)](https://youtu.be/lw7XI2lQntM?t=2469)
+
+> "El dominio del intelecto puede dominar lo explícito (objetos) pero no lo femenino (obras mágicas),"
+→ [¡Inside Proxy está emitiendo en directo! (41:09)](https://youtu.be/lw7XI2lQntM?t=2469)
+
+> "La tierra mística queda relegada a lo salvaje y lo arcano; la tierra física alcanza la gloria,"
+→ [¡Inside Proxy está emitiendo en directo! (41:09)](https://youtu.be/lw7XI2lQntM?t=2469)
+
+La distribución cosmogónica cifra la partición arquetípica del poder: las montañas (lo masculino-rígido-explícito) se unirán con los cielos y las águilas — gloria explícita y vertical. Los pastores de árboles (los Ents, lo femenino-vivo-magia) caminarán por los bosques — magia horizontal y oculta. La articulación cifra el límite estructural del intelecto masculino: puede dominar lo explícito (objetos, conceptos, jerarquías) pero NO lo femenino-mágico (obras que operan sin necesidad de articulación discursiva).
+
+### Morgana vs Merlín: la magia arcana nunca alcanza la gloria explícita
+
+> "La magia de Merlín (sabiduría que orienta la espada) sí alcanza la gloria acompañando al héroe hasta el trono,"
+→ [¡Inside Proxy está emitiendo en directo! (45:40)](https://youtu.be/lw7XI2lQntM?t=2740)
+
+> "La magia de Morgana (arcana, femenina) nunca puede acceder a los dominios de la gloria material,"
+→ [¡Inside Proxy está emitiendo en directo! (45:40)](https://youtu.be/lw7XI2lQntM?t=2740)
+
+> "El poder femenino es demasiado grande como para permitirle entronizarse: tentación repetida en Tolkien,"
+→ [¡Inside Proxy está emitiendo en directo! (45:40)](https://youtu.be/lw7XI2lQntM?t=2740)
+
+> "Galadriel ante el Anillo sufre la misma tentación de Yavanna: un poder absoluto pero oscuro y terrible,"
+→ [¡Inside Proxy está emitiendo en directo! (45:40)](https://youtu.be/lw7XI2lQntM?t=2740)
+
+La articulación arquetípica nuclear: la magia de **Merlín** (sabiduría que orienta la espada masculina hasta el trono) alcanza la gloria explícita; la magia de **Morgana** (arcana, femenina, sin mediación masculina) nunca puede acceder a la gloria material. La explicación es categorial: el poder femenino es **demasiado grande** como para permitirle entronizarse — si lo femenino accede al trono explícito, su poder absoluto se vuelve oscuro y terrible.
+
+La tentación se repite arquetípicamente en Tolkien: Galadriel ante el Anillo en El Señor de los Anillos sufre exactamente la misma tentación de Yavanna ante la idea de animar a los Ents — el poder absoluto disponible que debe rechazarse precisamente porque sería demasiado. La pieza enlaza con [[diosa-blanca]]: la diosa femenina arquetípica conserva su función protectora-mágica precisamente al renunciar a la gloria material que la corrompería.
+
+### Lo femenino como lo primero que encara al mal
+
+> "No es el héroe quien encara al mal primero: lo encara lo femenino; después el héroe vence al dragón,"
+→ [¡Inside Proxy está emitiendo en directo! (47:41)](https://youtu.be/lw7XI2lQntM?t=2861)
+
+> "El poder femenino tiene que esperar, contenido por razones que solo Ilúvatar conoce,"
+→ [¡Inside Proxy está emitiendo en directo! (47:41)](https://youtu.be/lw7XI2lQntM?t=2861)
+
+> "En el Apocalipsis es lo femenino lo único que puede enfrentar al mal directamente,"
+→ [¡Inside Proxy está emitiendo en directo! (47:41)](https://youtu.be/lw7XI2lQntM?t=2861)
+
+La precisión arquetípica invierte la lectura intuitiva: el héroe NO es quien encara al mal primero — lo encara LO FEMENINO. La operación masculina-heroica (vencer al dragón) viene DESPUÉS. La pieza enlaza con [[apocalipsis-mitema]]: en el Apocalipsis cristiano lo femenino (la Virgen, la Mujer revestida del Sol) opera como única instancia capaz de enfrentar al mal directamente. La articulación abre el cuadro de la operación arquetípica completa: lo femenino sostiene la confrontación primaria contra el mal, espera contenida durante la operación masculina, y reaparece en el clímax apocalíptico como instancia última.
+
+### Balrogs, Sauron y Varda: la corona boreal como signo del destino
+
+> "Los espíritus que se unieron a Melkor tenían corazones de fuego, manto de tinieblas y látigos de llamas,"
+→ [¡Inside Proxy está emitiendo en directo! (49:11)](https://youtu.be/lw7XI2lQntM?t=2951)
+
+> "Melkor levantó la fortaleza de Angband en las costas noroccidentales, comandada por Sauron su teniente,"
+→ [¡Inside Proxy está emitiendo en directo! (49:11)](https://youtu.be/lw7XI2lQntM?t=2951)
+
+> "Yavanna convoca a los Valar: la hora de los hijos se aproxima y no pueden dejar las tierras desoladas ante el mal,"
+→ [¡Inside Proxy está emitiendo en directo! (49:11)](https://youtu.be/lw7XI2lQntM?t=2951)
+
+> "Varda recogió el rocío plateado de las tinas de Telperion e hizo estrellas nuevas y más brillantes para los Primeros Nacidos,"
+→ [¡Inside Proxy está emitiendo en directo! (51:43)](https://youtu.be/lw7XI2lQntM?t=3103)
+
+> "Echó a girar la corona de siete estrellas como reto a Melkor y signo del destino,"
+→ [¡Inside Proxy está emitiendo en directo! (51:43)](https://youtu.be/lw7XI2lQntM?t=3103)
+
+> "La corona probablemente sea la Corona Boreal: símbolo femenino celta que en el Apocalipsis tiene 12 estrellas rodeando a la Virgen,"
+→ [¡Inside Proxy está emitiendo en directo! (51:43)](https://youtu.be/lw7XI2lQntM?t=3103)
+
+La secuencia cierra el prólogo cosmogónico con la articulación del mal estructural (Melkor + Balrogs + Sauron en Angband) y la respuesta femenina (Varda crea estrellas nuevas y la corona boreal). La identificación de la corona de siete estrellas con la **Corona Boreal** establece la equivalencia arquetípica con el símbolo femenino celta y con la corona de 12 estrellas que rodea a la Virgen en el Apocalipsis. La pieza enlaza con [[virgen-maria]] como respuesta católica al arquetipo de la diosa blanca: Varda en Tolkien opera la misma función que la Virgen María en el Apocalipsis cristiano — la diosa cuya corona estelar es signo del destino que enfrentará al mal.
+
+### El despertar de los elfos en Cuiviénen
+
+> "Los Primeros Nacidos despertaron junto a la laguna de Cuiviénen iluminada por las estrellas,"
+→ [¡Inside Proxy está emitiendo en directo! (53:43)](https://youtu.be/lw7XI2lQntM?t=3223)
+
+> "Lo primero que sus ojos vieron fueron las estrellas del cielo, como en Polaris,"
+→ [¡Inside Proxy está emitiendo en directo! (53:43)](https://youtu.be/lw7XI2lQntM?t=3223)
+
+> "Por ello los elfos siempre han amado la luz estelar y veneran a Varda Elentári,"
+→ [¡Inside Proxy está emitiendo en directo! (53:43)](https://youtu.be/lw7XI2lQntM?t=3223)
+
+El despertar de los elfos en Cuiviénen cierra el prólogo cosmogónico con la operación arquetípica del **imprinting estelar**: lo primero que los ojos de los Primeros Nacidos vieron fueron las estrellas, y esa primera visión queda como amor estructural a la luz estelar y como veneración a Varda Elentári (señora de las estrellas). La articulación opera como complemento de la operación de Aulë con los enanos: donde los enanos despiertan bajo la piedra (lo masculino-mineral), los elfos despiertan bajo las estrellas (lo femenino-celeste). La distribución cosmogónica de las dos razas queda completa — los hijos del demiurgo inferior duermen en lo telúrico hasta que los hijos legítimos del creador supremo se vinculan al ámbito estelar femenino. La pieza enlaza con [[uranico-telurico-cetonico]]: los elfos como pueblo uránico-estelar, los enanos como pueblo telúrico-mineral.
+
 ## Lagunas
 
 - (sin lagunas declaradas todavía)
@@ -378,5 +684,5 @@ La pieza añade una lectura específica del cambio de color como dispositivo sim
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [50:23](https://youtu.be/gDRkrg8dVCo?t=3023)
 - **Irrespirables redes sociales.** — chunks: [22:03](https://youtu.be/aaLhUV1rdE4?t=1323)
 - **Progresterona** — chunks: [1:33:31](https://youtu.be/7f-iHJpDMVQ?t=5611)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [32:36](https://youtu.be/5vERIcm2EGk?t=1956)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403)

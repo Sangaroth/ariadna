@@ -205,13 +205,13 @@ La distinción **error vs pecado** es operativa: la contemplación pura no es of
 
 ## Citations
 
-- **Perro no come Perro** — chunks: [38:05](https://youtu.be/Dv3caRUYzuc?t=2285)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [51:43](https://youtu.be/lw7XI2lQntM?t=3103)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [3:32](https://youtu.be/aPbgBnidoJI?t=212)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [58:19](https://youtu.be/fzEDQZIqKwg?t=3499)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:58:49](https://youtu.be/nw7fSEAJr-U?t=7129)
 - **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [7:34](https://youtu.be/tgusJOzuJ7U?t=454) · [10:06](https://youtu.be/tgusJOzuJ7U?t=606) · [14:10](https://youtu.be/tgusJOzuJ7U?t=850) · [16:11](https://youtu.be/tgusJOzuJ7U?t=971) · [18:43](https://youtu.be/tgusJOzuJ7U?t=1123)
 - **Los Apocalipsis. (Parte I)** — chunks: [57:34](https://youtu.be/lLRGemLUCtY?t=3454) · [1:43:30](https://youtu.be/lLRGemLUCtY?t=6210)
+- **Perro no come Perro** — chunks: [38:05](https://youtu.be/Dv3caRUYzuc?t=2285)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [51:43](https://youtu.be/lw7XI2lQntM?t=3103)

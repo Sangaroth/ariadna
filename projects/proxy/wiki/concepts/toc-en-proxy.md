@@ -160,3 +160,5 @@ El canal añade una nota ética: impedir el ritual al sujeto con TOC se consider
 - **Análisis arquetípico de Inocencia interrumpida** — chunks: [1:11:08](https://youtu.be/imHdHmF1Afk?t=4268)
 - **Psicología 101. Autismo. Algunas consideraciones.** — chunks: [22:24](https://youtu.be/0mxxhGA5Oh0?t=1344)
 - **T5x16 Psicología 101: Naturaleza a priori.** — chunks: [44:20](https://youtu.be/csNxQbeP3sk?t=2660)
+- **T5x29 Consultorio: ¿Tiene mi hijo TDAH?** — chunks: [16:50](https://youtu.be/nvCRZJOU5Qw?t=1010)
+- **Psicología 101: TDAH Análisis de caso** — chunks: [3:32](https://youtu.be/S1h-3G-7YEU?t=212)

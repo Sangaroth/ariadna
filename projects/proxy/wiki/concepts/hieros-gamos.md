@@ -404,7 +404,6 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
 - **Seguimos con Tolkien** — chunks: [1:00:29](https://youtu.be/OGah7BFoR3w?t=3629)
 - **Análisis arquetípico de Elemental** — chunks: [1:04:43](https://youtu.be/p8ZInoDuE50?t=3883)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
@@ -415,4 +414,5 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [51:19](https://youtu.be/O4OkDuc3uPQ?t=3079)
 - **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57)
 - **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [46:20](https://youtu.be/E8VJDu4Fupc?t=2780)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0) · [1:45:36](https://youtu.be/OT2DW4zoKsE?t=6336)

@@ -204,7 +204,6 @@ La pieza precisa una propiedad que la sección 'Dipolo con genesis-mitologico' i
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [24:55](https://youtu.be/wIhH72UFUPY?t=1495) · [47:41](https://youtu.be/wIhH72UFUPY?t=2861) · [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/lw7XI2lQntM?t=2861) · [51:43](https://youtu.be/lw7XI2lQntM?t=3103)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [3:32](https://youtu.be/aPbgBnidoJI?t=212)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044)
@@ -217,3 +216,5 @@ La pieza precisa una propiedad que la sección 'Dipolo con genesis-mitologico' i
 - **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [1:51:01](https://youtu.be/L4ayDmaUO9Y?t=6661)
 - **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [22:46](https://youtu.be/E8VJDu4Fupc?t=1366) · [48:23](https://youtu.be/E8VJDu4Fupc?t=2903)
+- **T5x25 El Tarot y Miyazaki** — chunks: [35:44](https://youtu.be/u-xtPy5v-Mo?t=2144) · [49:29](https://youtu.be/u-xtPy5v-Mo?t=2969)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/lw7XI2lQntM?t=2861) · [51:43](https://youtu.be/lw7XI2lQntM?t=3103)

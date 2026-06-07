@@ -244,7 +244,6 @@ La distinción es categorial: el hikikomori opera por **depresión** (caída de 
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:04:18](https://youtu.be/yoWJWwYH_pE?t=3858)
 
 - **El síndrome de Wendy** — chunks: [1:00:36](https://youtu.be/L7oSZTTK8Gg?t=3636) · [1:15:22](https://youtu.be/L7oSZTTK8Gg?t=4522) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)
-- **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:18:32](https://youtu.be/agh46Snf5YI?t=4712) · [1:40:20](https://youtu.be/agh46Snf5YI?t=6020) · [1:42:21](https://youtu.be/agh46Snf5YI?t=6141)
 - **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [10:18](https://youtu.be/Ot3Z1VYTUgY?t=618)
 - **Event Horizon** — chunks: [1:26:33](https://youtu.be/cgO7JwvwOQg?t=5193) · [1:41:48](https://youtu.be/cgO7JwvwOQg?t=6108)
 - **Matrix II y III** — chunks: [12:45](https://youtu.be/tkVwAclFrsI?t=765)
@@ -273,3 +272,9 @@ La distinción es categorial: el hikikomori opera por **depresión** (caída de 
 - **T5x14: Conan** — chunks: [35:18](https://youtu.be/mR2X391fQu4?t=2118)
 - **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [56:25](https://youtu.be/FllWy0fpkrM?t=3385) · [57:25](https://youtu.be/FllWy0fpkrM?t=3445)
 - **T5x21: Representacionalismo vs cognición 4E** — chunks: [42:07](https://youtu.be/wts74ONWRSQ?t=2527)
+- **T5x28 La IA en las aulas  II** — chunks: [1:16:13](https://youtu.be/VHfidHbbIyI?t=4573)
+- **T5x29 Consultorio: ¿Tiene mi hijo TDAH?** — chunks: [14:18](https://youtu.be/nvCRZJOU5Qw?t=858) · [26:05](https://youtu.be/nvCRZJOU5Qw?t=1565) · [34:16](https://youtu.be/nvCRZJOU5Qw?t=2056)
+- **Psicología 101: TDAH Análisis de caso** — chunks: [1:00](https://youtu.be/S1h-3G-7YEU?t=60) · [7:06](https://youtu.be/S1h-3G-7YEU?t=426) · [10:40](https://youtu.be/S1h-3G-7YEU?t=640) · [18:47](https://youtu.be/S1h-3G-7YEU?t=1127)
+- **No matéis la fantasía** — chunks: [1:38](https://youtu.be/X4WVHD8hn50?t=98)
+- **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:18:32](https://youtu.be/agh46Snf5YI?t=4712) · [1:40:20](https://youtu.be/agh46Snf5YI?t=6020) · [1:42:21](https://youtu.be/agh46Snf5YI?t=6141)
+- **Olaf y la jaula de oro** — chunks: [2:34](https://youtu.be/hY87a4srcoM?t=154)

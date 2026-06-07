@@ -265,7 +265,6 @@ La fórmula precisa el mecanismo de la muerte del dragón en clave psíquica-end
 - **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [2:12:01](https://youtu.be/8l__TS3ATNY?t=7921)
 - **Gothika: De Profundis** — chunks: [25:57](https://youtu.be/Gx2740if0Ho?t=1557) · [39:14](https://youtu.be/Gx2740if0Ho?t=2354) · [46:32](https://youtu.be/Gx2740if0Ho?t=2792) · [1:25:56](https://youtu.be/Gx2740if0Ho?t=5156) · [1:37:04](https://youtu.be/Gx2740if0Ho?t=5824) · [1:38:35](https://youtu.be/Gx2740if0Ho?t=5915)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/wIhH72UFUPY?t=2861)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/lw7XI2lQntM?t=2861)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [34:35](https://youtu.be/IUMYn7Iier8?t=2075)
 - **Tontas en Potencia** — chunks: [34:15](https://youtu.be/1cKAgkEEbMA?t=2055)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [28:55](https://youtu.be/xK8_MpMMXzc?t=1735)
@@ -278,3 +277,4 @@ La fórmula precisa el mecanismo de la muerte del dragón en clave psíquica-end
 - **Taxonomía de las criaturas malignas** — chunks: [5:35](https://youtu.be/rG_et1_G7Hs?t=335) · [7:06](https://youtu.be/rG_et1_G7Hs?t=426)
 - **Epstein y el Mal.** — chunks: [6:35](https://youtu.be/Tiu6cZFq6sE?t=395) · [20:19](https://youtu.be/Tiu6cZFq6sE?t=1219)
 - **T5x14: Conan** — chunks: [22:37](https://youtu.be/mR2X391fQu4?t=1357) · [58:36](https://youtu.be/mR2X391fQu4?t=3516) · [1:00:37](https://youtu.be/mR2X391fQu4?t=3637)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/lw7XI2lQntM?t=2861)

@@ -218,3 +218,4 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 - **De Platón A The Matrix** — chunks: [59:05](https://youtu.be/zr_ZKX60N54?t=3545)
 - **Patreons y Conciencia Artificial** — chunks: [11:25](https://youtu.be/1BWyXULOoQQ?t=685)
 - **T5x19: Realismo y mitología.** — chunks: [41:56](https://youtu.be/GDQSqtdFjBs?t=2516)
+- **T5x25 El Tarot y Miyazaki** — chunks: [44:23](https://youtu.be/u-xtPy5v-Mo?t=2663)

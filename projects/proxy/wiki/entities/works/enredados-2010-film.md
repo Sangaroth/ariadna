@@ -150,3 +150,4 @@ Madre Gothel encarna el caso paradigmático de la madre oscura que el canal elab
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:31:28](https://youtu.be/NjtK76xzV18?t=5488)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [11:30](https://youtu.be/yAIPr0HzQqE?t=690)
 - **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [30:25](https://youtu.be/E8VJDu4Fupc?t=1825)
+- **Olaf y la jaula de oro** — chunks: [2:34](https://youtu.be/hY87a4srcoM?t=154)

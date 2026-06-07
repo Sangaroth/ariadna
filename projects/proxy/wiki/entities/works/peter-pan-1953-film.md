@@ -174,3 +174,4 @@ Los tres vectores masculinos del film — Peter (ánimus desintegrado que no cre
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [1:00:05](https://youtu.be/zLRhDHyq3gs?t=3605)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:53:16](https://youtu.be/BOIcK1Rpdvo?t=6796)
 - **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [30:25](https://youtu.be/E8VJDu4Fupc?t=1825)
+- **Olaf y la jaula de oro** — chunks: [2:01](https://youtu.be/hY87a4srcoM?t=121)

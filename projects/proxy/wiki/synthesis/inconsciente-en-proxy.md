@@ -288,3 +288,5 @@ Esta articulación del inconsciente es la categoría general de la que derivan l
 - **T5x18 Tecnoética** — chunks: [52:32](https://youtu.be/k619QHupD5k?t=3152)
 - **T5x19: Realismo y mitología.** — chunks: [26:56](https://youtu.be/GDQSqtdFjBs?t=1616)
 - **Presentación del canal** — chunks: [1:01](https://youtu.be/vey4ah6vEOA?t=61)
+- **T5x25 El Tarot y Miyazaki** — chunks: [20:27](https://youtu.be/u-xtPy5v-Mo?t=1227) · [36:45](https://youtu.be/u-xtPy5v-Mo?t=2205)
+- **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:31:13](https://youtu.be/agh46Snf5YI?t=5473)

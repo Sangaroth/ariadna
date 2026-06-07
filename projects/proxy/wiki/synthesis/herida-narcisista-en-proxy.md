@@ -432,6 +432,72 @@ El paralelo con [[camino-victima]] cierra el cuadro: el padre helicóptero model
 
 La pieza completa la taxonomía operativa del cuadro externalizador: acosador prolongado (víctima singular), activista político (institución abstracta), padre helicóptero (hijo como escenario sustitutivo de la propia reparación pendiente). Las tres modalidades operan con la misma matriz — deuda no saldable + rencor con intereses + transferencia hacia un escenario que pueda absorber la operación — pero con vector distinto: cobro retrospectivo (acosador), cobro proyectado sobre adversario sistémico (activista), cobro preventivo sobre la siguiente generación (padre helicóptero).
 
+## El dipolo padre helicóptero / padre militar y el principio 'acompañar sin sustituir'
+
+El directo *T5x28 La IA en las aulas II* (jun 2026) precisa la posición operativa intermedia del cuadro parental articulado en la sección anterior, nombrando el dipolo de los dos extremos disfuncionales y el principio educativo del punto medio. La pieza completa el cuadro al cancelar categorialmente la lectura unidimensional de 'sobreprotección vs dejarlo correr'.
+
+> "El extremo opuesto al padre helicóptero es el padre \"militar\" que tira al hijo a los perros de la vida,"
+→ [T5x28 La IA en las aulas II (1:12:41)](https://youtu.be/VHfidHbbIyI?t=4361)
+
+> "Lo correcto es comprender, acoger y acompañar, pero nunca sustituir,"
+→ [T5x28 La IA en las aulas II (1:12:41)](https://youtu.be/VHfidHbbIyI?t=4361)
+
+> "Acompañar es más difícil porque hay que saber dónde el chaval no puede, y cada uno tiene su particularidad,"
+→ [T5x28 La IA en las aulas II (1:12:41)](https://youtu.be/VHfidHbbIyI?t=4361)
+
+La sección anterior articulaba el cuadro del padre helicóptero como modalidad externalizadora preventiva. Esta pieza completa la articulación con el **polo opuesto**: el **padre militar** que tira al hijo a los perros sin acompañamiento estructurado, exponiendo al niño al sufrimiento sin la matriz afectiva que permitiría aprender de la experiencia. Las dos modalidades son disfuncionales por razones estructuralmente opuestas pero comparten un déficit común: ambas **no calibran** la operación de acompañamiento con el aparato real del hijo concreto.
+
+El **padre helicóptero** sobrecalibra hacia la protección preventiva — toda dificultad es injusticia a evitar — y produce un hijo sin capacidad de tolerar el fallo. El **padre militar** infracalibra hacia la exposición sin red — toda dificultad es prueba que el hijo debe superar solo — y produce un hijo que vive el fallo como rechazo de su valía, no como dato instructivo. Ambos polos comparten que el padre opera sobre el escenario imaginado del hijo (su agenda propia, no la del hijo) en lugar de operar sobre el hijo real frente a él.
+
+### El principio operativo: acompañar sin sustituir
+
+El principio educativo articulado en el directo opera como tercer polo que no media entre los extremos sino que los **cancela categorialmente**:
+
+> "Hay que dar al niño la certeza de que no le va a pasar nada para que intente,"
+→ [T5x28 La IA en las aulas II (1:13:42)](https://youtu.be/VHfidHbbIyI?t=4422)
+
+> "No puedes empujarlo ni esperarlo abajo con una colchoneta: tiene que lanzarse solo para volar,"
+→ [T5x28 La IA en las aulas II (1:13:42)](https://youtu.be/VHfidHbbIyI?t=4422)
+
+> "Las personas crecen muy cerca de sus límites, no lejos de ellos,"
+→ [T5x28 La IA en las aulas II (1:13:42)](https://youtu.be/VHfidHbbIyI?t=4422)
+
+La fórmula tiene tres componentes operativos. **Primero**, la certeza afectiva: el niño debe tener garantía interna de que el padre no se ausentará ante el fallo. Sin esa certeza, no se atreve a intentar — el riesgo afectivo del rechazo paterno hace el coste del intento insoportable. **Segundo**, la prohibición operativa del empuje y de la colchoneta: ni el padre militar (que empuja al hijo al riesgo) ni el padre helicóptero (que espera abajo para amortiguar) habilitan el crecimiento — el hijo tiene que **lanzarse solo** para que la operación de afrontar el límite sea suya. **Tercero**, la cercanía estructural al límite: el crecimiento ocurre en el espacio donde el hijo está cerca de fallar pero no se ha desplomado, no en zonas alejadas del límite donde no hay material formativo.
+
+La dificultad operativa que el canal articula es decisiva: acompañar es **más difícil** que cualquier extremo. Identificar dónde el chaval no puede exige conocimiento de su particularidad — cada hijo tiene una topología distinta de límites. El padre helicóptero y el padre militar son disfuncionales precisamente porque operan con plantilla genérica (el cuadro imaginado de cuándo hay que proteger / cuándo hay que exigir) en lugar de calibrar al sujeto real frente a ellos. La salida operativa exige que el padre haga primero el trabajo sobre su propia herida (distinguir suerte de mala suerte en su trayectoria, asumir responsabilidad sobre las cartas recibidas) — sin esa operación previa, el padre proyecta sobre el hijo el script de la propia trayectoria mal elaborada y la operación de acompañamiento se vuelve imposible porque el padre no ve al hijo, ve su propia historia repetida.
+
+### Cambio de contexto: estrategia operativa contra el contagio social
+
+La sesión añade una estrategia operativa específica frente al problema de las amistades disfuncionales — caso típico donde el principio acompañar-sin-sustituir entra en tensión aparente con la necesidad de intervención parental.
+
+> "El niño se junta con delincuentes por necesidad y porque cree que \"es guay\","
+→ [T5x28 La IA en las aulas II (1:16:13)](https://youtu.be/VHfidHbbIyI?t=4573)
+
+> "La mejor forma es cambiarle de contexto y darle alternativas: deporte, hobbies, grupos más sanos,"
+→ [T5x28 La IA en las aulas II (1:16:13)](https://youtu.be/VHfidHbbIyI?t=4573)
+
+> "Ejemplo del chat: darle Warhammer para pintar en lugar de dejarlo jugar al GTA,"
+→ [T5x28 La IA en las aulas II (1:16:13)](https://youtu.be/VHfidHbbIyI?t=4573)
+
+La estrategia opera por desplazamiento de la matriz social sin enfrentamiento directo con la elección del hijo. La intervención NO consiste en prohibir la amistad disfuncional (operación helicóptero que confirma al chaval su sospecha de que el adulto no entiende su mundo) ni en dejar que la deriva termine en daño visible (operación militar que aprovecha el fallo como lección punitiva). Consiste en **construir alternativas** — actividades, hobbies, grupos más sanos donde el chaval pueda canalizar el mismo deseo de pertenencia que lo llevaba al grupo delincuente. El ejemplo de [[warhammer-y-fantasia-masculina|Warhammer]] como sustituto de GTA opera con la misma matriz arquetípica (épica masculina, dominio técnico, comunidad de iguales) pero redirigida hacia material que no degrada al sujeto. La pieza enlaza con la tesis ya articulada en [[warhammer-y-fantasia-masculina]] sobre el género épico masculino como vehículo legítimo del [[adgrediere-masculino]] — la elección parental de Warhammer no es paternalismo sino oferta operativa de un canal donde el impulso del hijo encuentre material noble en lugar de canal degradado.
+
+### Comunicación afectiva: comprensión sin desesperación
+
+El principio operativo se cierra con la dimensión comunicativa del acompañamiento:
+
+> "La comunicación con los hijos exige mucho trabajo, como en el caso de Eliot con su hijo,"
+→ [T5x28 La IA en las aulas II (1:17:13)](https://youtu.be/VHfidHbbIyI?t=4633)
+
+> "Los chavales reciben la desesperación de los padres como un juicio,"
+→ [T5x28 La IA en las aulas II (1:17:13)](https://youtu.be/VHfidHbbIyI?t=4633)
+
+> "Hay que mostrar comprensión sin miedo, sin desesperación ni exigencia excesiva,"
+→ [T5x28 La IA en las aulas II (1:17:13)](https://youtu.be/VHfidHbbIyI?t=4633)
+
+La pieza precisa el registro afectivo del acompañamiento. La desesperación parental, aunque internamente vivida como preocupación por el bien del hijo, llega al chaval como **juicio sobre su valía**: el padre está al borde del colapso porque el hijo le está fallando. El cuadro confirma al hijo en la convicción de su propia insuficiencia y precipita la deriva que el padre intentaba evitar. La comunicación efectiva exige **comprensión sin miedo**, ni desesperación, ni exigencia excesiva — registro afectivo estable donde el hijo recibe la información del padre sin filtrarla por el aparato defensivo que la desesperación activa.
+
+La consecuencia operativa es coherente con el cuadro completo de la herida narcisista parental: la salida del ciclo de transmisión intergeneracional exige que el padre haya hecho primero el trabajo sobre su propio aparato afectivo — la regulación del miedo y la desesperación sobre el hijo dependen estructuralmente del estado afectivo del padre, no de la voluntad pedagógica con la que opere. Un padre con herida no integrada produce comunicación contaminada por la desesperación incluso cuando intelectualmente se propone comprender; un padre con la herida elaborada produce el registro estable que la comunicación efectiva requiere, sin necesidad de operar conscientemente sobre el tono — el aparato afectivo regulado se transmite sin gesto.
+
 ## Lagunas
 
 - El canal articula la transferencia hacia el acosador prolongado y la colusión negativa de la víctima, pero no detalla la **salida clínica** del cuadro: cómo se interrumpe la compulsión de repetición sin que el sujeto se sienta abandonando una deuda legítima
@@ -473,3 +539,4 @@ La pieza completa la taxonomía operativa del cuadro externalizador: acosador pr
 - **Psicoinfluencers** — chunks: [1:34:05](https://youtu.be/frbMVcThuRw?t=5645)
 - **Proxy, Effy, los TCAs y el ego, parte final** — chunks: [26:29](https://youtu.be/-NF9nrWTVEA?t=1589)
 - **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [49:46](https://youtu.be/FllWy0fpkrM?t=2986)
+- **T5x28 La IA en las aulas  II** — chunks: [1:09:05](https://youtu.be/VHfidHbbIyI?t=4145)

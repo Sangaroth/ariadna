@@ -129,3 +129,5 @@ El cuento se inscribe en el mismo registro de prosa-poema breve que [[ex-oblivio
 - **Inteligencia Artificial en las aulas: La evaluación a examen** — chunks: [8:35](https://youtu.be/mTxqaNIoyyU?t=515)
 - **T5x21: Representacionalismo vs cognición 4E** — chunks: [1:06:54](https://youtu.be/wts74ONWRSQ?t=4014)
 - **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [23:47](https://youtu.be/E8VJDu4Fupc?t=1427)
+- **Representacionalismo vs cognición 4E** — chunks: [29:42](https://youtu.be/oamlwe8qFsg?t=1782)
+- **Perro no come Perro** — chunks: [45:28](https://youtu.be/Dv3caRUYzuc?t=2728)

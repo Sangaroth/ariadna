@@ -138,6 +138,8 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [40:27](https://youtu.be/JKoWJmSR6VY?t=2427)
 - **MItología 101: El Gólem** — chunks: [1:34:29](https://youtu.be/IG3dkNBX9uU?t=5669)
 - **¿Qué es la magia?** — chunks: [1:39:20](https://youtu.be/AMXVKxN0Ccw?t=5960)
+- **T5x25 El Tarot y Miyazaki** — chunks: [26:02](https://youtu.be/u-xtPy5v-Mo?t=1562) · [27:34](https://youtu.be/u-xtPy5v-Mo?t=1654)
+- **Pecado original y Postmodernidad I** — chunks: [15:47](https://youtu.be/J45h7xet8gg?t=947) · [18:19](https://youtu.be/J45h7xet8gg?t=1099) · [19:49](https://youtu.be/J45h7xet8gg?t=1189)
 - **Lunes basado terminal** — chunks: [14:19](https://youtu.be/oHxXzr5WSbQ?t=859)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [41:11](https://youtu.be/s6teBboDDJ4?t=2471)
 - **Análisis: La Llegada (Parte dos)** — chunks: [1:16:25](https://youtu.be/tOn66qFS2-M?t=4585)

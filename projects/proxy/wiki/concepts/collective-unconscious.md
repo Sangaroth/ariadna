@@ -355,3 +355,4 @@ La pieza extiende el catálogo de mitos primarios articulado en otras secciones 
 - **Gothika: De Profundis** — chunks: [26:28](https://youtu.be/Gx2740if0Ho?t=1588)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [15:22](https://youtu.be/QSggWfjOkHk?t=922) · [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [19:30](https://youtu.be/QSggWfjOkHk?t=1170)
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [1:10:24](https://youtu.be/9wJQ9tm9Yuc?t=4224) · [1:20:23](https://youtu.be/9wJQ9tm9Yuc?t=4823)
+- **T5x25 El Tarot y Miyazaki** — chunks: [20:27](https://youtu.be/u-xtPy5v-Mo?t=1227)

@@ -203,6 +203,102 @@ La precisión es operativa para las secuencias de obra ya documentadas: cuando M
 
 La Torre enlaza estructuralmente con el mitema [[apocalipsis-mitema]] del que constituye su versión psíquica cotidiana: el sujeto experimenta apocalipsis personales (ruina, muerte, caída en desgracia, derrumbe) en cada Torre que atraviesa, y la psique organiza esa vivencia con la misma gramática arquetípica con que organiza el Apocalipsis cosmogónico — instinto de entropía universal que opera porque toda construcción humana se sabe condenada a derrumbarse.
 
+
+
+## Tres líneas de siete: Génesis, Evangelio y Apocalipsis
+
+El monográfico *T5x25 El Tarot y Miyazaki* (may-2026) articula la pieza estructural fundamental que las secuencias arcano-por-arcano de obra (Man of Steel, El Gran Lebowski, Cenicienta) presuponían sin nombrar: los 22 Arcanos Mayores se organizan en **tres líneas de siete más una figura suelta** (el Loco como arcano cero), y cada línea corresponde a un momento canónico del arco arquetípico narrativo.
+
+> "El tarot son 22 figuras: tres grupos de siete más una figura suelta,"
+→ [T5x25 El Tarot y Miyazaki (28:04)](https://youtu.be/u-xtPy5v-Mo?t=1684)
+
+> "Las tres líneas de siete corresponden a inicio, desarrollo y desenlace de toda historia arquetípica,"
+→ [T5x25 El Tarot y Miyazaki (35:44)](https://youtu.be/u-xtPy5v-Mo?t=2144)
+
+> "El Génesis entero, el evangelio de Juan y el Apocalipsis están metidos en las cartas del tarot,"
+→ [T5x25 El Tarot y Miyazaki (35:44)](https://youtu.be/u-xtPy5v-Mo?t=2144)
+
+La **primera línea** (Mago → Amantes) es el aprendizaje de infancia y el encuentro con las figuras de autoridad: el [[mito-del-mago|Mago]] como *trixter* malabarista de apariencia (solo en Rider-Waite esotérico aparece como mago real con lemniscata), la Sacerdotisa como inconsciente y encuentro con lo femenino misterioso, la Emperatriz como vida y naturaleza, el Emperador como autoridad moral, el Hierofante como religión y tabú, los Amantes como Adán y Eva (descubrimiento de que el resto del mundo está pensado para complementarte, no enamoramiento sentimental), y el Carro como personalidad consolidada — fin de la madurez de la primera fase, con eros y tánatos tirando ya del propio yo.
+
+La **segunda línea** (Fuerza → Templanza) es la vivencia: Fuerza como sabiduría implícita femenina (poder de lo femenino que doma las bestias e instintos), Ermitaño como sabiduría explícita masculina (saber de libros y autoridades), Rueda de la Fortuna como *turning point* del destino manifiesto que cierra el aprendizaje y abre la vivencia (samsara que el sujeto reconoce como ciclo aplicable), Justicia como sometimiento al equilibrio, el Colgado como sacrificio crístico, la Muerte como transición y *memento mori*, la Templanza como dominio del alma adquirido al aceptar la muerte.
+
+La **tercera línea** (Diablo → Mundo) es el desenlace apocalíptico: Diablo como vicio y tentación que arrastra a los débiles, Torre como castigo divino que rompe la torre de Babel humana, Estrella como esperanza tras la caída, Luna como noche oscura del alma (donde ni el intelecto ni las pasiones salvan y ambos perros aúllan), Sol como triunfo de la esperanza que ha atravesado la noche, Juicio como principio del fin donde los muertos se alzan, Mundo como cierre cero (la figura masculina ha atravesado lo femenino y ahora lleva dos varas en lugar de una; mira al mismo lugar que el [[arquetipo-cero|Loco inicial]], cerrando el ciclo).
+
+### Los tres grupos de siete: personas, cosas y sucesos
+
+La misma organización tripartita se cruza con una segunda taxonomía: los 21 arcanos numerados se distribuyen en tres grupos según el tipo de arquetipo que codifican.
+
+> "Los arquetipos personales son figuras-persona (mago, sacerdotisa, emperatriz, emperador, sacerdote, ermitaño, diablo),"
+→ [T5x25 El Tarot y Miyazaki (51:05)](https://youtu.be/u-xtPy5v-Mo?t=3065)
+
+> "Los arquetipos objetales representan el mundo material (carro, amantes, rueda, sol, luna, estrella, mundo),"
+→ [T5x25 El Tarot y Miyazaki (51:05)](https://youtu.be/u-xtPy5v-Mo?t=3065)
+
+> "Los arquetipos universales son la trascendencia y son cartas de evento (fuerza, rueda, colgado, muerte, templanza, juicio, justicia),"
+→ [T5x25 El Tarot y Miyazaki (51:05)](https://youtu.be/u-xtPy5v-Mo?t=3065)
+
+La triada se mapea sobre tres de los [[cuatro-elementos-arquetipicos|cuatro elementos clásicos]] pero deja uno fuera: agua (espíritu) para las figuras-persona, tierra (cosas) para los arquetipos objetales, aire (intelecto) para los eventos universales. **El cuarto elemento, el fuego, falta entre los Arcanos Mayores** — y es donde el canal sitúa la pieza moral que la mayor parte de las lecturas modernas pasa por alto:
+
+> "Falta el fuego, que son las pasiones, y las pasiones tienen siete pecados y siete virtudes,"
+→ [T5x25 El Tarot y Miyazaki (53:42)](https://youtu.be/u-xtPy5v-Mo?t=3222)
+
+> "Los siete pecados y virtudes (fe, esperanza, caridad, prudencia, justicia, fortaleza, templanza) están repartidos en el resto de cartas,"
+→ [T5x25 El Tarot y Miyazaki (53:42)](https://youtu.be/u-xtPy5v-Mo?t=3222)
+
+Las [[virtudes-cardinales-teologales|siete virtudes y siete pecados]] no constituyen un grupo arcánico autónomo dentro de los Mayores sino que aparecen **distribuidas** entre las cartas como capa moral añadida a la taxonomía persona/objeto/evento. La pieza inscribe la moral teologal cristiana dentro de la propia estructura del tarot, no como exterior interpretativo: el dispositivo arquetípico ya viene cargado con el código moral occidental antes de cualquier aplicación particular, lo que justifica la tesis del canal de que el tarot es **monomito del héroe occidental**, no oriental:
+
+> "Las cartas son el monomito del héroe explicitado en prototipos occidentales, por eso tiene sentido occidental y no oriental,"
+→ [T5x25 El Tarot y Miyazaki (32:41)](https://youtu.be/u-xtPy5v-Mo?t=1961)
+
+### Los cuatro palos como elementos completos
+
+Donde el fuego falta entre los Mayores aparece sistematizado entre los Menores. El tarot completo articula los cuatro elementos a través de los cuatro palos numéricos:
+
+> "Un tarot completo consta de unas 62 cartas: 40 de los cuatro palos más los 22 arcanos,"
+→ [T5x25 El Tarot y Miyazaki (1:14:34)](https://youtu.be/u-xtPy5v-Mo?t=4474)
+
+> "Bastos son el fuego (emociones, voluntad, instinto), espadas el aire (intelecto), oros el trabajo y lo material, copas el espíritu,"
+→ [T5x25 El Tarot y Miyazaki (1:14:34)](https://youtu.be/u-xtPy5v-Mo?t=4474)
+
+> "Los pecados y virtudes no están en los arcanos mayores: pertenecen al mundo de los cuatro elementos,"
+→ [T5x25 El Tarot y Miyazaki (1:14:34)](https://youtu.be/u-xtPy5v-Mo?t=4474)
+
+La precisión completa la sistemática del palo de copas articulada en el análisis de [[anticristo-2009-film|Anticristo]]: bastos cifra el fuego de las pasiones (eros, voluntad, instinto), espadas el aire del intelecto, oros la tierra del trabajo y la materia, copas el agua-espíritu de los afectos. La consecuencia operativa es que los siete pecados y siete virtudes operan a través de los palos menores, no de los arcanos mayores — lo que explica por qué la lectura proyectiva sobre los Mayores no alcanza el plano moral concreto sin descender a las cartas numéricas.
+
+### El Loco como yo, mundo y vehículo de transformación
+
+La figura suelta del [[arquetipo-cero|Loco]] no opera solo como personaje de la secuencia sino como el sujeto mismo que recorre todas las cartas:
+
+> "Cada carta es a la vez un evento canónico y aquello en lo que el loco se transforma o que integra en sí mismo,"
+→ [T5x25 El Tarot y Miyazaki (34:42)](https://youtu.be/u-xtPy5v-Mo?t=2082)
+
+> "El loco es al mismo tiempo el individuo y el mundo: por eso la última carta es el mundo,"
+→ [T5x25 El Tarot y Miyazaki (34:42)](https://youtu.be/u-xtPy5v-Mo?t=2082)
+
+> "El loco es el yo, el protagonista, el héroe y la cultura,"
+→ [T5x25 El Tarot y Miyazaki (34:42)](https://youtu.be/u-xtPy5v-Mo?t=2082)
+
+La iconografía canónica del Loco — número cero, avanza en dirección contraria a la lectura, perdido y a punto de caer por un precipicio, lleva un atillo con lo justo (poco conocimiento), una flor (guiado por sus pasiones) y un vestido de soles — codifica las condiciones de posibilidad del recorrido completo: ignorancia, pasión y energía solar. Que el Loco y el Mundo miren al mismo lugar al inicio y al final del mazo cierra la estructura como ciclo de [[individuation|individuación]]: el yo que parte ignorante es el mismo que regresa habiendo atravesado todos los arcanos, transformado en ese recorrido. La pieza fundamenta la lectura del tarot como [[viaje-heroe|monomito]] explicitado en prototipos occidentales que el canal viene aplicando obra por obra desde [[man-of-steel-2013-film|Man of Steel]] hasta [[cenicienta-1950-film|Cenicienta]].
+
+### Caso operativo: la obra de [[miyazaki-hidetaka|Hidetaka Miyazaki]]
+
+El mismo monográfico extiende la lectura del tarot como mapa fijo de la trayectoria heroica a un cuarto caso paradigmático: la saga de videojuegos de Hidetaka Miyazaki (Demon's Souls, Dark Souls 1-2-3, Elden Ring) como recapitulación inconsciente de los 22 Arcanos.
+
+> "En todos los juegos hay un herrero que imprime magia a las armas y el héroe empieza cayendo a un lugar donde descubre la dificultad de su gesta,"
+→ [T5x25 El Tarot y Miyazaki (1:00:50)](https://youtu.be/u-xtPy5v-Mo?t=3650)
+
+> "La doncella de las hogueras es la Sacerdotisa, y siempre hay una gran reina tumbada como en el tarot y un gran rey,"
+→ [T5x25 El Tarot y Miyazaki (1:00:50)](https://youtu.be/u-xtPy5v-Mo?t=3650)
+
+> "En Dark Souls 3 y Elden Ring están todas las figuras del tarot personificadas y prototipadas, una por una,"
+→ [T5x25 El Tarot y Miyazaki (1:03:00)](https://youtu.be/u-xtPy5v-Mo?t=3780)
+
+> "Miyazaki no conocía el tarot conscientemente; las figuras coinciden porque son universales,"
+→ [T5x25 El Tarot y Miyazaki (1:03:00)](https://youtu.be/u-xtPy5v-Mo?t=3780)
+
+La pieza importa por dos razones. Primera: el caso Souls/Elden Ring es la prueba operativa de la tesis general del canal de que los 22 Arcanos son **figuras universales del [[collective-unconscious]]**, no convención cultural — un autor japonés que jamás trabajó con el tarot reproduce sus figuras una por una en una mitología propia construida desde el horror cósmico y el [[mito-polar]] degradado. Segunda: el lore deliberadamente fragmentado de Dark Souls usa símbolos esotéricos sin ser esotérico, lo que lo distingue de las obras donde el autor aplica el dispositivo arquetípico conscientemente — el material arquetípico emerge como producto del propio inconsciente del creador, no como diseño.
+
+
 > "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,
 
 ## El arcano del Mago: lemniscata, secuencia y los cuatro cuadrantes de la magia
@@ -271,19 +367,80 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 "
 → [El Gran Lebowsky y el Tarot Invertido (1:10:52)](https://youtu.be/yoWJWwYH_pE?t=4252)
 
+## La inversión Fuerza/Justicia en Rider-Waite y la simetría masculino-femenino del mazo
+
+El monográfico *T5x25 El Tarot y Miyazaki* (may-2026) refina la canonización dual de Marsella y Rider-Waite con una pieza crítica: Rider-Waite **intercambia las posiciones de la Fuerza y la Justicia** respecto a Marsella, y ese cambio rompe una propiedad armónica estructural del mazo.
+
+> "Rider-Waite intercambia las posiciones de la Fuerza y la Justicia respecto al tarot de Marsella,"
+→ [T5x25 El Tarot y Miyazaki (29:35)](https://youtu.be/u-xtPy5v-Mo?t=1775)
+
+> "El cambio rompe una propiedad armónica de las cartas, por eso es un error,"
+→ [T5x25 El Tarot y Miyazaki (31:07)](https://youtu.be/u-xtPy5v-Mo?t=1867)
+
+La razón esotérica del cambio — el canal la nombra y la rechaza — es la transmisión de una doctrina donde el despertar sexual antecede al conocimiento moral:
+
+> "El esoterismo quiso transmitir que el despertar sexual va antes del conocimiento de la justicia y de la armonía del yo,"
+→ [T5x25 El Tarot y Miyazaki (31:07)](https://youtu.be/u-xtPy5v-Mo?t=1867)
+
+> "La Fuerza se interpreta como la potencia de la sexualidad incipiente, una carta del florecimiento del sexo femenino,"
+→ [T5x25 El Tarot y Miyazaki (29:35)](https://youtu.be/u-xtPy5v-Mo?t=1775)
+
+> "En las sociedades esotéricas el sexo era iniciático y se consideraba una primera fase mágica, a diferencia de la cultura cristiana,"
+→ [T5x25 El Tarot y Miyazaki (31:07)](https://youtu.be/u-xtPy5v-Mo?t=1867)
+
+La propiedad armónica que el cambio rompe es la **simetría masculino-femenino** del mazo cuando se dobla por la Rueda de la Fortuna:
+
+> "Dividiendo el tarot en dos partes por la Rueda de la Fortuna, cada carta tiene su contraparte de sexo opuesto del mismo hecho,"
+→ [T5x25 El Tarot y Miyazaki (55:53)](https://youtu.be/u-xtPy5v-Mo?t=3353)
+
+> "Mago/sacerdotisa, dios/diosa, vida/muerte, tiranía/templanza forman los pares masculino-femenino,"
+→ [T5x25 El Tarot y Miyazaki (55:53)](https://youtu.be/u-xtPy5v-Mo?t=3353)
+
+> "Esta simetría solo funciona si la Justicia y la Fuerza están en su lugar original del tarot de Marsella, por eso Rider-Waite rompe la simetría,"
+→ [T5x25 El Tarot y Miyazaki (55:53)](https://youtu.be/u-xtPy5v-Mo?t=3353)
+
+La pieza tiene tres consecuencias operativas. **Primera**: cuando el canal trabaja la simetría masculino-femenino del mazo como proyección del [[hieros-gamos]] o del [[mito-polar]] sobre la estructura arcánica, el canon de referencia debe ser Marsella, no Rider-Waite. **Segunda**: explica por qué el canal lee el **Sol como carta femenina** dentro del mazo aunque el conjunto narre el viaje del héroe solar:
+
+> "El Sol es femenino porque la alegría es femenina y es un descubrimiento pasivo,"
+→ [T5x25 El Tarot y Miyazaki (59:59)](https://youtu.be/u-xtPy5v-Mo?t=3599)
+
+> "Es el descubrimiento de la realidad a través de otros y de la inocencia,"
+→ [T5x25 El Tarot y Miyazaki (59:59)](https://youtu.be/u-xtPy5v-Mo?t=3599)
+
+Dentro del mazo el arcano del Sol opera en clave femenina (recepción pasiva de la verdad por inocencia) aunque el conjunto recapitule el [[mito-solar|mito solar]] masculino — distinción importante para evitar identificar la carta del Sol con el héroe-Cristo que el mazo articula globalmente. **Tercera**: refina la canonización dual previa de la página. Ambas barajas siguen siendo canónicas pero con división de tareas: Marsella conserva la armonía estructural completa (preferible para análisis donde la simetría masculino-femenino sea el eje, *hieros gamos*, mito polar, dipolo cosmogónico); Rider-Waite mantiene legitimidad como iconografía estandarizada moderna que la cultura popular reconoce como "tarot" por defecto, y sus análisis de obra (Lady Halcón, Lebowski) operan sobre esa iconografía aunque la simetría matemática esté rota.
+
+La pieza enlaza estructuralmente con la lectura del canal sobre el ascenso esotérico de los siglos XVI-XX: la cábala como sistema oracular de 22 pasos motivó a posteriori la identificación tarot=cábala que el canal rechaza como introducida con calzador. La estructura tarot tiene 22 figuras por razones internas al monomito occidental (tres grupos de siete más Loco), no por correspondencia cabalística:
+
+> "Se ha introducido con calzador la teoría de que el tarot es la cábala,"
+→ [T5x25 El Tarot y Miyazaki (26:02)](https://youtu.be/u-xtPy5v-Mo?t=1562)
+
+> "Existe relación entre la cábala y casi cualquier cosa con 22 pasos, de ahí el vínculo con el tarot,"
+→ [T5x25 El Tarot y Miyazaki (27:34)](https://youtu.be/u-xtPy5v-Mo?t=1654)
+
+El Tarot de Thoth de Crowley se sitúa en el mismo movimiento esotérico de los siglos XIX-XX que produjo Rider-Waite — y el canal lo distingue del Tarot Egipcio (no asimilable a Thoth pese a la afinidad de imaginería):
+
+> "El tarot de Thoth lo hizo Crowley, uno de los iniciadores de la magia moderna,"
+→ [T5x25 El Tarot y Miyazaki (29:35)](https://youtu.be/u-xtPy5v-Mo?t=1775)
+
+> "Surgen tres tarots principales: el egipcio (no confundir con el de Thoth) y los cabalísticos, entre ellos el Rider-Waite,"
+→ [T5x25 El Tarot y Miyazaki (26:02)](https://youtu.be/u-xtPy5v-Mo?t=1562)
+
+La precisión taxonómica de barajas históricas (Marsella renacentista / Rider-Waite y Thoth como esotéricas modernas / Egipcio aparte / oráculos no-tarot como el Tarot de las Hadas) deja al sistema arcánico clásico del Marsella como referencia estructural y al resto como variantes con cargas simbólicas específicas — punto que la sección previa de canonización dual presuponía sin explicitar.
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus d -->
 - El canal nombra el tarot como sistema arquetípico pero no recorre arcanos concretos en este pasaje; lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus dedicadas a obras concretas como Matrix o El Gran Lebowski
 - No se desarrolla qué arquetipos junguianos concretos quedan codificados en cada arcano ni cómo se mapean a sombra / ánima / self
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: La distinción entre Arcanos Mayores y Menores no aparece tematizada -->
 - La distinción entre Arcanos Mayores y Menores no aparece tematizada
 - No se aborda el tarot como mapa cabalístico (Árbol de la Vida) — relación con [[hieros-gamos]] u otros marcos cosmológicos pendiente
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Tampoco se discute la diferencia entre barajas históricas (Marsella, Rider-Waite -->
 - Tampoco se discute la diferencia entre barajas históricas (Marsella, Rider-Waite, Thoth) y su distinta carga simbólica
 
 ## Citations
 
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
-- **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:45:47](https://youtu.be/_0BM2jMsWdc?t=6347)
 - **Fenomenología Trans** — chunks: [38:02](https://youtu.be/grs5EqRZBnQ?t=2282)
@@ -319,3 +476,5 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **De Platón A The Matrix** — chunks: [10:39](https://youtu.be/zr_ZKX60N54?t=639)
 - **Patreons y Conciencia Artificial** — chunks: [1:50](https://youtu.be/1BWyXULOoQQ?t=110)
 - **Matrix y el camino del héroe.** — chunks: [25:52](https://youtu.be/kF5KHE_fF7g?t=1552) · [38:32](https://youtu.be/kF5KHE_fF7g?t=2312) · [44:11](https://youtu.be/kF5KHE_fF7g?t=2651) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
+- **T5x25 El Tarot y Miyazaki** — chunks: [17:44](https://youtu.be/u-xtPy5v-Mo?t=1064) · [20:27](https://youtu.be/u-xtPy5v-Mo?t=1227) · [22:28](https://youtu.be/u-xtPy5v-Mo?t=1348) · [24:30](https://youtu.be/u-xtPy5v-Mo?t=1470) · [26:02](https://youtu.be/u-xtPy5v-Mo?t=1562) · [27:34](https://youtu.be/u-xtPy5v-Mo?t=1654) · [28:04](https://youtu.be/u-xtPy5v-Mo?t=1684) · [29:35](https://youtu.be/u-xtPy5v-Mo?t=1775) · [32:41](https://youtu.be/u-xtPy5v-Mo?t=1961) · [35:44](https://youtu.be/u-xtPy5v-Mo?t=2144) · [40:17](https://youtu.be/u-xtPy5v-Mo?t=2417) · [55:53](https://youtu.be/u-xtPy5v-Mo?t=3353) · [1:00:50](https://youtu.be/u-xtPy5v-Mo?t=3650) · [1:03:00](https://youtu.be/u-xtPy5v-Mo?t=3780) · [1:10:06](https://youtu.be/u-xtPy5v-Mo?t=4206) · [1:14:03](https://youtu.be/u-xtPy5v-Mo?t=4443) · [1:14:34](https://youtu.be/u-xtPy5v-Mo?t=4474)
+- **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)

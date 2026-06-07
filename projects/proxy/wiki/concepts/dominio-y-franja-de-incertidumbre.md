@@ -226,7 +226,6 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **¿Es ciencia la psicología?** — chunks: [18:20](https://youtu.be/1cF9VayHtRI?t=1100)
 - **Gothika: De Profundis** — chunks: [1:01:39](https://youtu.be/Gx2740if0Ho?t=3699)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/wIhH72UFUPY?t=615) · [17:18](https://youtu.be/wIhH72UFUPY?t=1038) · [42:09](https://youtu.be/wIhH72UFUPY?t=2529)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [41:09](https://youtu.be/lw7XI2lQntM?t=2469) · [49:11](https://youtu.be/lw7XI2lQntM?t=2951)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [18:12](https://youtu.be/krkUPzqTqTA?t=1092)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [47:27](https://youtu.be/yLd7j3fcR1w?t=2847)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [32:13](https://youtu.be/4LBXNkVAUCU?t=1933)
@@ -259,3 +258,5 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Femenino (I)** — chunks: [35:58](https://youtu.be/VR3snBjNrsc?t=2158) · [1:16:29](https://youtu.be/VR3snBjNrsc?t=4589)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [2:16:20](https://youtu.be/BOIcK1Rpdvo?t=8180)
 - **T5x14: Conan** — chunks: [1:05:09](https://youtu.be/mR2X391fQu4?t=3909)
+- **T5x25 El Tarot y Miyazaki** — chunks: [40:17](https://youtu.be/u-xtPy5v-Mo?t=2417) · [41:52](https://youtu.be/u-xtPy5v-Mo?t=2512) · [44:23](https://youtu.be/u-xtPy5v-Mo?t=2663)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [41:09](https://youtu.be/lw7XI2lQntM?t=2469) · [49:11](https://youtu.be/lw7XI2lQntM?t=2951)

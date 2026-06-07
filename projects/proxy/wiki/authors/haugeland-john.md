@@ -111,3 +111,4 @@ La posición del canal respecto a Haugeland no es de adhesión completa: lo usa 
 ## Citations
 
 - **T5x21: Representacionalismo vs cognición 4E** — chunks: [32:02](https://youtu.be/wts74ONWRSQ?t=1922) · [33:02](https://youtu.be/wts74ONWRSQ?t=1982) · [34:03](https://youtu.be/wts74ONWRSQ?t=2043) · [35:04](https://youtu.be/wts74ONWRSQ?t=2104) · [36:04](https://youtu.be/wts74ONWRSQ?t=2164) · [37:04](https://youtu.be/wts74ONWRSQ?t=2224)
+- **Representacionalismo vs cognición 4E** — chunks: [0:30](https://youtu.be/oamlwe8qFsg?t=30) · [1:31](https://youtu.be/oamlwe8qFsg?t=91) · [3:32](https://youtu.be/oamlwe8qFsg?t=212) · [5:32](https://youtu.be/oamlwe8qFsg?t=332)

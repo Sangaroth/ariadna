@@ -1503,9 +1503,9 @@ La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analíti
 - **T5x19: Realismo y mitología.** — chunks: [25:26](https://youtu.be/GDQSqtdFjBs?t=1526) · [37:32](https://youtu.be/GDQSqtdFjBs?t=2252)
 - **T5x16 Psicología 101: Naturaleza a priori.** — chunks: [14:22](https://youtu.be/csNxQbeP3sk?t=862)
 - **T4 Laboratorio de... filo, con Sofía** — chunks: [35:28](https://youtu.be/GizCbTycY4U?t=2128)
+
+- **Noticias 100tíficas** — chunks: [34:51](https://youtu.be/VgdybZKruwk?t=2091) · [39:27](https://youtu.be/VgdybZKruwk?t=2367) · [1:54:00](https://youtu.be/VgdybZKruwk?t=6840) · [1:58:22](https://youtu.be/VgdybZKruwk?t=7102)
 - **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [55:00](https://youtu.be/eQpPGGqodsU?t=3300) · [1:28:23](https://youtu.be/eQpPGGqodsU?t=5303)
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
-
-- **Noticias 100tíficas** — chunks: [34:51](https://youtu.be/VgdybZKruwk?t=2091) · [39:27](https://youtu.be/VgdybZKruwk?t=2367) · [1:54:00](https://youtu.be/VgdybZKruwk?t=6840) · [1:58:22](https://youtu.be/VgdybZKruwk?t=7102)

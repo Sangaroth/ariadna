@@ -149,6 +149,8 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **Cómo desparasitar humanos** — chunks: [5:37](https://youtu.be/h3OjS4upnGY?t=337)
 - **Femenino (I)** — chunks: [29:26](https://youtu.be/VR3snBjNrsc?t=1766) · [34:28](https://youtu.be/VR3snBjNrsc?t=2068) · [51:06](https://youtu.be/VR3snBjNrsc?t=3066) · [56:10](https://youtu.be/VR3snBjNrsc?t=3370)
 - **(segunda) Entrevista a Unicornio Psicópata** — chunks: [35:14](https://youtu.be/EnyBTP9FKoI?t=2114)
+- **T5x25 El Tarot y Miyazaki** — chunks: [27:34](https://youtu.be/u-xtPy5v-Mo?t=1654)
+- **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [7:34](https://youtu.be/UZPjezFUrA0?t=454)
 - **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:51:13](https://youtu.be/PC5uw1s86eE?t=6673)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [13:47](https://youtu.be/BOIcK1Rpdvo?t=827) · [1:53:16](https://youtu.be/BOIcK1Rpdvo?t=6796)
 - **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [0:00](https://youtu.be/966LWuiirwA?t=0) · [5:36](https://youtu.be/966LWuiirwA?t=336) · [11:39](https://youtu.be/966LWuiirwA?t=699) · [34:56](https://youtu.be/966LWuiirwA?t=2096) · [37:26](https://youtu.be/966LWuiirwA?t=2246)

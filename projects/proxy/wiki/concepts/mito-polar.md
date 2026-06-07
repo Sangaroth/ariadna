@@ -305,7 +305,6 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 ## Citations
 
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
-- **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
 - **Último Stream del Año** — chunks: [23:39](https://youtu.be/SSa1pF9Bw6U?t=1419)
 - **Análisis arquetípico de Unicorn wars** — chunks: [1:51:20](https://youtu.be/fLfEbHPJNmU?t=6680)
@@ -316,7 +315,6 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **Directo casual** — chunks: [29:23](https://youtu.be/ECN5C9rsaZg?t=1763)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
 - **Seguimos con Tolkien** — chunks: [1:00:29](https://youtu.be/OGah7BFoR3w?t=3629)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477) · [15:32](https://youtu.be/yAIPr0HzQqE?t=932) · [17:03](https://youtu.be/yAIPr0HzQqE?t=1023)
@@ -328,4 +326,6 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 - **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57)
 - **Femenino (I)** — chunks: [9:35](https://youtu.be/VR3snBjNrsc?t=575)
 - **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [46:20](https://youtu.be/E8VJDu4Fupc?t=2780)
+- **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)

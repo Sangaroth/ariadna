@@ -279,7 +279,6 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 ## Citations
 
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [14:17](https://youtu.be/wIhH72UFUPY?t=857) · [47:41](https://youtu.be/wIhH72UFUPY?t=2861) · [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
-- **¡Inside Proxy está emitiendo en directo!** — chunks: [14:47](https://youtu.be/lw7XI2lQntM?t=887) · [24:55](https://youtu.be/lw7XI2lQntM?t=1495)
 - **La Mala Ciencia** — chunks: [46:28](https://youtu.be/hD6YeyjukGA?t=2788)
 - **Análisis: La Llegada (Parte dos)** — chunks: [20:15](https://youtu.be/tOn66qFS2-M?t=1215)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [0:00](https://youtu.be/aPbgBnidoJI?t=0) · [11:39](https://youtu.be/aPbgBnidoJI?t=699)
@@ -287,3 +286,4 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:35:20](https://youtu.be/iPqOn-ynSlE?t=5720)
 - **Educación, escuela y tecnología** — chunks: [18:33](https://youtu.be/TnbtB4d68wU?t=1113)
 - **Inteligencia Artificial en las aulas II: Hablamos con un docente** — chunks: [30:28](https://youtu.be/FllWy0fpkrM?t=1828)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [14:47](https://youtu.be/lw7XI2lQntM?t=887) · [24:55](https://youtu.be/lw7XI2lQntM?t=1495)
