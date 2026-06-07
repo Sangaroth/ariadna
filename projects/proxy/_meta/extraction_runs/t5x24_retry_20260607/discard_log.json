@@ -1,0 +1,526 @@
+{
+  "version": "0.1.0",
+  "run_id": "t5x24_retry_20260607",
+  "generated_at": "2026-06-07T01:39:28+00:00",
+  "entities": {
+    "sicofancia-en-proxy": {
+      "canonical_name": "sicofancia / psicofante / sicofante",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": "central_thesis",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Concepto-título del vídeo articulado como categoría analítica propia del canal que tiende un puente entre dos dominios: la sicofancia algorítmica de la IA (mecanismo RLHF que recompensa el acuerdo y genera 'espiral delirante') y la sicofancia política-cultural (Zapatero como caso paradigmático del 'gran psicofante' nacional). Cumple §2.1 framing-mark (marco analítico aplicado cross-dominio) y depth central_thesis con ~12 min sostenidos. El mecanismo descrito (validación insidiosa que devuelve la propia neurosis 'justificada de una forma que nunca habíamos oído') excede la mera descripción y constituye categoría operativa del canal.",
+          "quote_evidence": "La sicofancia de la IA y la \"espiral delirante\""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "MIT demuestra matemáticamente la psicofancia de ChatGPT": {
+      "canonical_name": "MIT demuestra matemáticamente la psicofancia de ChatGPT",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Investigadores del MIT demostraron matemáticamente que la psicofancia de ChatGPT genera una \"espiral delirante\"",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "12 pacientes hospitalizados por psicosis vinculada a chatbots": {
+      "canonical_name": "12 pacientes hospitalizados por psicosis vinculada a chatbots",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Un psiquiatra de UCSF hospitalizó a 12 pacientes por psicosis vinculada a chatbots en un solo año",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Un burro conectado a internet sigue siendo un burro": {
+      "canonical_name": "Un burro conectado a internet sigue siendo un burro",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "\"Un burro conectado a internet sigue siendo un burro\": el cerebro se forma detrás de la pantalla, no delante",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La peor terapia es hablar con una inteligencia artificial": {
+      "canonical_name": "La peor terapia es hablar con una inteligencia artificial",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La peor terapia es hablar con una inteligencia artificial",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ocho condenas judiciales contra Podemos": {
+      "canonical_name": "Ocho condenas judiciales contra Podemos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Las ocho condenas judiciales contra Podemos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Explotación laboral en Canal Red": {
+      "canonical_name": "Explotación laboral en Canal Red",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "La explotación laboral en Canal Red",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Caso Plus Ultra y trama de Zapatero": {
+      "canonical_name": "Caso Plus Ultra y trama de Zapatero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El caso Plus Ultra y la trama de Zapatero",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Zapatero como el gran psicofante": {
+      "canonical_name": "Zapatero como el gran psicofante",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Zapatero como el gran psicofante",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ser socialista es tener muy poco y estar dispuesto a dar mucho": {
+      "canonical_name": "Ser socialista es tener muy poco y estar dispuesto a dar mucho",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "\"Ser socialista es tener muy poco y estar dispuesto a dar mucho\" es cursilería, no política",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ser bueno = ser socialista (ecuación moral)": {
+      "canonical_name": "Ser bueno = ser socialista (ecuación moral)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La gente apoya a Zapatero porque da la razón a quien cree que ser socialista equivale a ser bueno",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mentes huecas e hipnosis colectiva": {
+      "canonical_name": "Mentes huecas e hipnosis colectiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Proxy busca un razonamiento o una maldad detrás del apoyo a Zapatero y no la encuentra: son mentes huecas",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Consigna de los 200 muertos (11-M)": {
+      "canonical_name": "Consigna de los 200 muertos (11-M)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Quien votó a Zapatero por los 200 muertos ya estaba deseando votarle con cualquier excusa",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ser responsable como tabú cultural": {
+      "canonical_name": "Ser responsable como tabú cultural",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Todo lo que implica ser responsable produce alergia y se ve como propio de curas",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Abstencionismo prosistema": {
+      "canonical_name": "Abstencionismo prosistema",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El abstencionismo no te saca de la rueda",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Vivienda y prohibición de construir": {
+      "canonical_name": "Vivienda y prohibición de construir",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "La vivienda y la prohibición de construir",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Elden Ring frente a The Forever Winter": {
+      "canonical_name": "Elden Ring frente a The Forever Winter",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Elden Ring frente a The Forever Winter",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pandora (máquina de sueños lúcidos)": {
+      "canonical_name": "Pandora (máquina de sueños lúcidos)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Pandora: la máquina de sueños lúcidos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Origen (película) como referencia estética del maletín": {
+      "canonical_name": "Origen (película) como referencia estética del maletín",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Se propone un maletín de aluminio como el de la película Origen, que contenía una máquina de sueños",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Carcasa-laberinto de metacrilato": {
+      "canonical_name": "Carcasa-laberinto de metacrilato",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "HxJvjb03Rts",
+          "video_title": "T5x24: ¿Qué es un sicofante?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Cubo de metacrilato traslúcido con piezas de metal pegadas por detrás formando un laberinto",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

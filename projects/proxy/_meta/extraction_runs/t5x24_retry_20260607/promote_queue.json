@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "run_id": "t5x24_retry_20260607",
+  "items": [
+    {
+      "canonical_guess": "sicofancia-en-proxy",
+      "from_video": "HxJvjb03Rts",
+      "entity": {
+        "surface_form": "sicofancia / psicofante / sicofante",
+        "canonical_guess": "sicofancia-en-proxy",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 12,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La sicofancia de la IA y la \"espiral delirante\""
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Zapatero como el gran psicofante"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Sergio Gregory, \"uno de los mayores pringados\", jugó a periodista y a comunista y chocó con el mayor psicofante de España"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Concepto-título del vídeo articulado como categoría analítica propia del canal que tiende un puente entre dos dominios: la sicofancia algorítmica de la IA (mecanismo RLHF que recompensa el acuerdo y genera 'espiral delirante') y la sicofancia política-cultural (Zapatero como caso paradigmático del 'gran psicofante' nacional). Cumple §2.1 framing-mark (marco analítico aplicado cross-dominio) y depth central_thesis con ~12 min sostenidos. El mecanismo descrito (validación insidiosa que devuelve la propia neurosis 'justificada de una forma que nunca habíamos oído') excede la mera descripción y constituye categoría operativa del canal.",
+        "quote_evidence": "La sicofancia de la IA y la \"espiral delirante\""
+      }
+    }
+  ]
+}

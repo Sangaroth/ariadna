@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "run_id": "t5x24_retry_20260607",
+  "items": [
+    {
+      "from_video": "HxJvjb03Rts",
+      "block": {
+        "block_quote": "Las ocho condenas judiciales contra Podemos",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Match 'podemos'. Bloque sobre litigios laborales contra el partido; coyuntural sin marco teórico aplicado."
+      }
+    },
+    {
+      "from_video": "HxJvjb03Rts",
+      "block": {
+        "block_quote": "Echar a Sánchez votando al PP es moralmente correcto aunque sociológicamente más complejo",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Match 'Sánchez' y 'PP'. El bloque 46:41 mezcla concepto estructural (responsabilidad como tabú, capturado como passing_mention a anatomia-del-tabu-en-proxy) con cierre partidista filtrado aquí."
+      }
+    }
+  ]
+}
