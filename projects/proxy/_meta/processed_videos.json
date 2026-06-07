@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "schema_version": "1.0.0",
   "description": "Registro de vídeos del corpus ingeridos por el extractor. Mantenido por scripts/extract_incremental.py. Cada entry: {first_run: <run_id de la primera vez que se procesó>, last_run: <run_id más reciente>}.",
-  "last_updated": "2026-06-06T23:41:56+00:00",
+  "last_updated": "2026-06-07T01:40:54+00:00",
   "videos": {
     "3Jo2T73pOEs": {
       "first_run": "audit_cita_only_20260502_213103",
@@ -62,7 +62,7 @@
     },
     "Lac68XOLtL0": {
       "first_run": "overnight_v03_20260503_010105",
-      "last_run": "overnight_v03_20260503_010105"
+      "last_run": "recovery_20260607_000542"
     },
     "xPB5l6KsU2Q": {
       "first_run": "overnight_v03_20260503_010105",
@@ -154,7 +154,7 @@
     },
     "hY87a4srcoM": {
       "first_run": "overnight_v03_20260503_010105",
-      "last_run": "overnight_v03_20260503_010105"
+      "last_run": "recovery_20260607_000542"
     },
     "q_EMOI1EtCo": {
       "first_run": "overnight_v03_20260503_010105",
@@ -190,7 +190,7 @@
     },
     "UZPjezFUrA0": {
       "first_run": "overnight_v03_20260503_010105",
-      "last_run": "overnight_v03_20260503_010105"
+      "last_run": "recovery_20260607_000542"
     },
     "-daRyQwnZy0": {
       "first_run": "overnight_v03_20260503_010105",
@@ -302,7 +302,7 @@
     },
     "vqN3ZqRTNCc": {
       "first_run": "overnight_v03_20260503_010105",
-      "last_run": "overnight_v03_20260503_010105"
+      "last_run": "recovery_20260607_000542"
     },
     "p-93qXOPrDk": {
       "first_run": "overnight_v03_20260503_010105",
@@ -314,7 +314,7 @@
     },
     "X4WVHD8hn50": {
       "first_run": "overnight_v03_20260503_010105",
-      "last_run": "overnight_v03_20260503_010105"
+      "last_run": "recovery_20260607_000542"
     },
     "9U6CwqPMI3c": {
       "first_run": "overnight_v03_20260503_010105",
@@ -418,7 +418,7 @@
     },
     "J45h7xet8gg": {
       "first_run": "overnight_v03_20260503_010105",
-      "last_run": "overnight_v03_20260503_010105"
+      "last_run": "recovery_20260607_000542"
     },
     "7y2KblXreew": {
       "first_run": "overnight_v03_20260503_010105",
@@ -794,7 +794,7 @@
     },
     "lw7XI2lQntM": {
       "first_run": "pilot_sonnet_20260509",
-      "last_run": "pilot_sonnet_20260509"
+      "last_run": "recovery_20260607_000542"
     },
     "IbOb3peBSMs": {
       "first_run": "pilot_sonnet_20260509",
@@ -1078,7 +1078,7 @@
     },
     "Dv3caRUYzuc": {
       "first_run": "pilot_sonnet_20260509_recovery",
-      "last_run": "pilot_sonnet_20260509_recovery"
+      "last_run": "recovery_20260607_000542"
     },
     "7jT13kHNlBA": {
       "first_run": "pilot_sonnet_20260509_recovery",
@@ -1114,7 +1114,7 @@
     },
     "agh46Snf5YI": {
       "first_run": "pilot_sonnet_20260509_recovery2",
-      "last_run": "pilot_sonnet_20260509_recovery2"
+      "last_run": "recovery_20260607_000542"
     },
     "Ot3Z1VYTUgY": {
       "first_run": "pilot_sonnet_20260509_recovery2",
@@ -1247,6 +1247,34 @@
     "E8VJDu4Fupc": {
       "first_run": "overnight_20260606_230255_b001",
       "last_run": "overnight_20260606_230255_b001"
+    },
+    "nvCRZJOU5Qw": {
+      "first_run": "recovery_20260607_000542",
+      "last_run": "recovery_20260607_000542"
+    },
+    "u-xtPy5v-Mo": {
+      "first_run": "recovery_20260607_000542",
+      "last_run": "recovery_20260607_000542"
+    },
+    "S1h-3G-7YEU": {
+      "first_run": "recovery_20260607_000542",
+      "last_run": "recovery_20260607_000542"
+    },
+    "VHfidHbbIyI": {
+      "first_run": "recovery_20260607_000542",
+      "last_run": "recovery_20260607_000542"
+    },
+    "pW-5pFdcKqs": {
+      "first_run": "recovery_20260607_000542",
+      "last_run": "recovery_20260607_000542"
+    },
+    "oamlwe8qFsg": {
+      "first_run": "recovery_20260607_000542",
+      "last_run": "recovery_20260607_000542"
+    },
+    "HxJvjb03Rts": {
+      "first_run": "t5x24_retry_20260607",
+      "last_run": "t5x24_retry_20260607"
     }
   }
 }
