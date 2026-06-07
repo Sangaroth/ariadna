@@ -2635,5 +2635,27 @@
     "alias_exists": false,
     "applied_at": null,
     "apply_outcome": null
+  },
+  "e2c319b46d3fd38c:3f2204d091a800d0": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "El 'factor F hipotético' es una propuesta teórica canal-específica sobre inteligencia pura (pre-inhibición perceptual) que no equivale semánticamente a ninguna candidata: no es el inconsciente, ni la tesis de las once celdas, ni epistemología, ni TCA, ni sicofancia.",
+    "analyzed_at": "2026-06-07T01:39:52.213912+00:00",
+    "candidates_signature": "3f2204d091a800d0",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "5180b0f9f9beb72b:ca423e7ff7d216c1": {
+    "match_page_id": "horror-cosmico",
+    "confidence": "high",
+    "rationale": "La surface_form 'Horror cósmico (categoría canal-específica)' es directamente el concepto horror cósmico con una aclaración parentética, y la candidata page_id=horror-cosmico tiene canonical_name='Horror cósmico' — equivalencia semántica sin ambigüedad.",
+    "analyzed_at": "2026-06-07T01:39:57.763618+00:00",
+    "candidates_signature": "ca423e7ff7d216c1",
+    "alias_candidate": "Horror cósmico",
+    "alias_exists": true,
+    "applied_at": "2026-06-07T01:40:07.354527+00:00",
+    "apply_outcome": "applied_citation"
   }
 }

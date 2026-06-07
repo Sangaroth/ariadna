@@ -527,6 +527,7 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **T5x21: Noticias, y desaparición de buzos en Maldivas.** — chunks: [49:40](https://youtu.be/dPQk2iNPshc?t=2980)
 - **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:46:24](https://youtu.be/agh46Snf5YI?t=6384)
 - **Madres e Hijas** — chunks: [10:36](https://youtu.be/vqN3ZqRTNCc?t=636)
+- **T5x24: ¿Qué es un sicofante?** — chunks: [41:58](https://youtu.be/HxJvjb03Rts?t=2518)
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 - **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [19:51](https://youtu.be/GdQY1iOa68w?t=1191) · [20:51](https://youtu.be/GdQY1iOa68w?t=1251) · [1:42:01](https://youtu.be/GdQY1iOa68w?t=6121)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:09:43](https://youtu.be/NKFWUxt5VQ4?t=4183)
