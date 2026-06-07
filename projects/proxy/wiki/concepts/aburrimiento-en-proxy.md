@@ -92,8 +92,6 @@ Un eje central del análisis desmonta la operación ideológica que funde aburri
 
 El marco implica que el "derecho a no hacer nada" como consigna política descansa en una confusión psicológica de categorías: el descanso restaura la capacidad de estimulación; el aburrimiento la erosiona activamente, porque el cerebro no cesa sino que busca salida a un horizonte cerrado. Son estados fisiológicamente opuestos aunque en apariencia se parezcan al observador externo.
 
-
-
 ## Proyecto-camino-recompensa y el videojuego como relleno o restauración
 
 El monográfico *T5x25 El Tarot y Miyazaki* (may-2026) articula la pieza estructural-temporal del aburrimiento que las definiciones anteriores presuponían sin nombrar: la vida humana opera psíquicamente como secuencia **proyecto-camino-recompensa**, y el aburrimiento patológico aparece cuando esa secuencia se trunca o se vuelve insostenible en sus tiempos largos.
@@ -118,7 +116,6 @@ La pieza refina dos elementos del marco ya articulado. **Primero**: la definici�
 → [T5x25 El Tarot y Miyazaki (13:03)](https://youtu.be/u-xtPy5v-Mo?t=783)
 
 El videojuego, en su variante Miyazaki, no rellena el camino largo con estimulación inmediata — lo **restaura**. Re-entrena al jugador en la estructura proyecto-camino-recompensa donde el camino es deliberadamente difícil, el aprendizaje exige soportar la frustración de empezar de cero, y la recompensa llega solo cuando la mente ha aprendido los patrones de las mecánicas. La distinción es operativa para la crítica al [[consumismo-critica|modelo de gratificación inmediata]]: no todos los videojuegos cumplen la misma función. Los que entregan recompensa continua (sistemas de progresión sin fricción, *dopamine loop*) profundizan el aburrimiento patológico al desentrenar al sujeto del tramo del camino; los que exigen recorrer un camino largo y costoso reentrenan al jugador en la secuencia psíquica que la cultura digital habría erosionado. El propio fenómeno cultural Souls funciona como contraejemplo dentro del medio: la dificultad voluntaria asumida por millones de jugadores indica que la pulsión por la estructura proyecto-camino-recompensa sobrevive bajo el desajuste de estimulación contemporáneo.
-
 
 ## Conexión con otros conceptos del corpus
 

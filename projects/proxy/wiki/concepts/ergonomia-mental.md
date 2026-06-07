@@ -66,8 +66,6 @@ El individuo inteligente no usa la herramienta para holgar, sino para ampliar el
 
 Esta observación invierte la lectura catastrofista: la IA no genera ciudadanos más pasivos en quienes ya son inteligentes; los hace más ambiciosos respecto al tipo de problemas que abordan. El esfuerzo psíquico neto no cae —se transforma y se redirige.
 
-
-
 ## Las matemáticas, el videojuego y la concentración
 
 En el directo *T5x27 La IA en las aulas* (jun 2026) el canal extiende la tesis de la transformación del esfuerzo con una distinción operativa entre actividades que **obligan a concentrarse** y actividades que **permiten distraerse mientras se hacen**. La distinción tiene consecuencia pedagógica directa.
@@ -108,7 +106,6 @@ La pieza retoma el dicho popular como formulación condensada del mecanismo:
 → [T5x27 La IA en las aulas (29:17)](https://youtu.be/pW-5pFdcKqs?t=1757)
 
 La pieza articula la inversión que la tesis general implica: el perezoso al que se le da el trabajo difícil no abandona — busca la forma más eficiente, lo que paradójicamente le obliga a un esfuerzo mayor que el que evitaba. La ergonomía mental no es enemiga del esfuerzo formativo; es su vehículo cuando el sistema mantiene la exigencia sobre el resultado y permite al individuo optimizar el camino. El sistema que reduce simultáneamente la herramienta y la exigencia produce el peor escenario (esfuerzo bruto desperdiciado en trabajo de baja calidad); el sistema que mantiene la exigencia y libera las herramientas reproduce el mecanismo del dicho — el más perezoso acaba esforzándose al máximo porque la única vía hacia la holganza pasa por resolver bien.
-
 
 ## La ergonomía no se enseña: consecuencia pedagógica
 

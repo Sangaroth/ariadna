@@ -203,8 +203,6 @@ La precisión es operativa para las secuencias de obra ya documentadas: cuando M
 
 La Torre enlaza estructuralmente con el mitema [[apocalipsis-mitema]] del que constituye su versión psíquica cotidiana: el sujeto experimenta apocalipsis personales (ruina, muerte, caída en desgracia, derrumbe) en cada Torre que atraviesa, y la psique organiza esa vivencia con la misma gramática arquetípica con que organiza el Apocalipsis cosmogónico — instinto de entropía universal que opera porque toda construcción humana se sabe condenada a derrumbarse.
 
-
-
 ## Tres líneas de siete: Génesis, Evangelio y Apocalipsis
 
 El monográfico *T5x25 El Tarot y Miyazaki* (may-2026) articula la pieza estructural fundamental que las secuencias arcano-por-arcano de obra (Man of Steel, El Gran Lebowski, Cenicienta) presuponían sin nombrar: los 22 Arcanos Mayores se organizan en **tres líneas de siete más una figura suelta** (el Loco como arcano cero), y cada línea corresponde a un momento canónico del arco arquetípico narrativo.
@@ -297,7 +295,6 @@ El mismo monográfico extiende la lectura del tarot como mapa fijo de la trayect
 → [T5x25 El Tarot y Miyazaki (1:03:00)](https://youtu.be/u-xtPy5v-Mo?t=3780)
 
 La pieza importa por dos razones. Primera: el caso Souls/Elden Ring es la prueba operativa de la tesis general del canal de que los 22 Arcanos son **figuras universales del [[collective-unconscious]]**, no convención cultural — un autor japonés que jamás trabajó con el tarot reproduce sus figuras una por una en una mitología propia construida desde el horror cósmico y el [[mito-polar]] degradado. Segunda: el lore deliberadamente fragmentado de Dark Souls usa símbolos esotéricos sin ser esotérico, lo que lo distingue de las obras donde el autor aplica el dispositivo arquetípico conscientemente — el material arquetípico emerge como producto del propio inconsciente del creador, no como diseño.
-
 
 > "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,
 

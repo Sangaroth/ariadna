@@ -189,7 +189,6 @@ El mismo directo sitúa el Apocalipsis dentro de una taxonomía cruzada (ver [[t
 
 La pieza precisa una propiedad que la sección 'Dipolo con genesis-mitologico' implicaba sin nombrarla: el Apocalipsis comparte con el [[genesis-mitologico|Génesis]] la **no transitividad** narrativa. Los mitemas transitivos del corpus ([[golem-arquetipo]], [[mito-del-mago]], [[mito-solar]], [[mito-lunar]], [[mito-polar]]) tienen protagonista que sufre transformación entre un hecho inicial y un desenlace distinto; el Apocalipsis carece de esa estructura porque su 'protagonista' es la totalidad cósmica. Esta propiedad es lo que impide que el Apocalipsis se convierta directamente en aventura cinematográfica con personaje arquetípico — su transposición narrativa requiere insertar un héroe transitivo (mago, dios, polar) dentro del marco no transitivo del fin del mundo.
 
-
 ## Lagunas
 
 - **Citas del desarrollo central (min. 45–130)**: el grueso del análisis arquetípico — las cinco dimensiones de Polaris, la comparación con *Divina Comedia* / *Paraíso Perdido*, el análisis detallado del Libro de Enoc, la Torre del Tarot — corresponde a la segunda mitad del vídeo; las afirmaciones estructurales de esas secciones provienen del metadato de extracción, no de citas literales del fragmento de summary disponible.
