@@ -1,0 +1,175 @@
+{
+  "video_id": "oamlwe8qFsg",
+  "video_title": "Representacionalismo vs cognición 4E",
+  "playlist": "psicologia-101",
+  "category": "filosofía y teoría",
+  "entities": [],
+  "thesis_candidates": [],
+  "pending_updates": [],
+  "discarded": [
+    {
+      "surface_form": "Cuadro completo del debate Representacionalismo vs cognición 4E (Haugeland, intimidad, GOFAI, tubo opaco, tres propiedades, tercera vía, anti-Kant, reconstrucción/clasificación)",
+      "reason_code": "already_captured_in_existing_pages",
+      "reason_detail": "Toda la articulación del debate — la presentación de Haugeland como pilar 4E, los tres puntos de su posición teórica (antilocalizacionismo, crítica al cartesianismo cognitivo, GOFAI), el concepto de intimidad, el experimento del tubo opaco como falsador empírico del 4E radical, las tres propiedades de la representación (desacoplamiento, contenido/intencionalidad, capacidad de error), la tercera vía del realismo cognitivo entre computacionalismo y 4E, la propuesta terminológica reconstrucción/clasificación frente a representación, y la posición anti-Kant sobre la cosa en sí — YA está integrada en realismo-cognitivo (sección 'Diálogo con Haugeland y la cognición 4E: tres propiedades de la representación', desde wts74ONWRSQ) y en haugeland-john (cuerpo principal). Este vídeo es la edición curada Psicología 101 del mismo material. Las citas paralelas con timestamps limpios desde 00:30 se proporcionan en el thesis_candidate suplementario de esta extracción para que el downstream agent las integre como referencias secundarias.",
+      "quote_evidence": "Hablar de Haugeland es hablar de filosofía de la mente y de ciencias cognitivas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crackuer (autor citado como crítico del 4E)",
+      "reason_code": "passing_mention_attribution_uncertain",
+      "reason_detail": "Citado dos veces como crítico del 4E con argumentos sobre (a) que el experimento del tubo opaco desmonta la cognición embebida, y (b) que el 4E confunde mecánica del movimiento con cognición abstracta. La sección existente de realismo-cognitivo desde wts74ONWRSQ cita a 'Andy Clark' con argumento estructuralmente similar ('Andy Clark concede precisamente este punto: existen mapas mentales usados para inferir lo ausente'). 'Crackuer' podría ser: (i) transcripción alternativa o errónea de Andy Clark, (ii) otro filósofo de la cognición 4E o crítico de la misma (¿Tom Cracker? ¿Mark Rowlands? ¿Daniel Hutto?), (iii) acuñación del canal. Sin verificación es difícil decidir. Soft pendiente para revisión humana — si es transcripción de Andy Clark debe unificarse al compilar; si es otro autor, podría merecer entrada propia.",
+      "quote_evidence": "Crackuer sostiene que este experimento desmonta la cognición embebida,",
+      "review_priority": "medium",
+      "review_priority_reason": "Verificar si 'Crackuer' es transcripción alternativa de Andy Clark (que el directo previo cita con función argumental similar) u otro filósofo de la mente. Si es autor distinto y aparece recurrentemente, candidato a entrada de whitelist canónica de filosofía de la mente",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cognición 4E (4 E: enactiva, corporizada, embebida, extendida)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Marco teórico de la filosofía de la mente contemporánea que el canal critica desde la posición realista cognitiva. Ya capturado en haugeland-john y realismo-cognitivo desde wts74ONWRSQ. No constituye página propia — opera como interlocutor del realismo cognitivo. La articulación 'inactiva, corporizada, embebida y extendida' está ya integrada.",
+      "quote_evidence": "Su postura es uno de los pilares fundacionales de la cognición 4E: inactiva, corporizada, embebida y extendida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "haugeland-john",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "GOFAI (Good Old Fashioned Artificial Intelligence)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Término acuñado por Haugeland en 'Artificial Intelligence: The Very Idea' para designar la IA simbólica clásica. Ya capturado en haugeland-john (concepto frontmatter) y en realismo-cognitivo sección Diálogo con Haugeland. No constituye página propia — opera como contraparte tecnológica del GOFAI dentro del análisis del canal sobre cognición humana vs IA, capturada también en golem-de-cobre.",
+      "quote_evidence": "Haugeland acuña \"GOFAI\" (good old fashioned artificial intelligence) en *Artificial Intelligence: The Very Idea*,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "haugeland-john",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Experimento del tubo opaco (test desarrollo psicológico)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Experimento canónico de psicología del desarrollo usado por el canal como falsador empírico del 4E radical: niños menores de 4 años fallan (bucle sensoriomotor inmediato sin anticipación), niños de 4-5 años ponen instintivamente una mano bajo cada salida del tubo, ningún simio supera la prueba sin importar entrenamiento. Ya capturado en realismo-cognitivo sección Diálogo con Haugeland (líneas 571-587) desde wts74ONWRSQ. Coordinada con maduración del cuerpo calloso y vías interhemisféricas. No constituye página propia.",
+      "quote_evidence": "Un niño se enfrenta a una tubería opaca bifurcada por la que se lanza un caramelo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Comportamiento de utilización (fallo del control inhibitorio)",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Pieza nueva NO presente en la sección existente sobre Haugeland en realismo-cognitivo: categoría neuropsicológica que describe el uso compulsivo de un objeto al verlo cuando el control inhibitorio prefrontal falla. Operativa para la discusión sobre cuerpo como periférico vs procesador y sobre el sustrato neural del desacoplamiento. Capturado en el thesis_candidate suplementario.",
+      "quote_evidence": "El comportamiento de utilización es un fallo del control inhibitorio que obliga a usar un objeto al verlo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Concepto neuropsicológico operativo que podría enriquecer realismo-cognitivo si se desarrolla en futuros vídeos como caso clínico aplicado del fallo del desacoplamiento",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Seis clases de representación (afectiva, procedimental, episódica, semántica, imaginaria, gramatical)",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Pieza nueva que refina la articulación previa de la matriz noética del canal. El directo previo (wts74ONWRSQ) operaba con '3Q' (imagen, forma, afecto) más tres tipos de memoria (procedimental, episódica, semántica), donde los tres componentes Q (afectivo, imaginario, gramatical) modulaban cada tipo de memoria. Aquí se articula como SEIS clases plenas en un único catálogo: afectiva, procedimental, episódica, semántica, imaginaria, gramatical. Posible refinamiento conceptual: promoción de los tres componentes Q a clases representacionales plenas paralelas a los tres tipos de memoria. El downstream agent debe verificar consistencia con teoria-del-simbolo-en-proxy y tesis-once-celdas-en-proxy al integrar.",
+      "quote_evidence": "Existen seis clases de representación: afectiva, procedimental, episódica, semántica, imaginaria y gramatical,",
+      "review_priority": "high",
+      "review_priority_reason": "Refinamiento de la taxonomía representacional nuclear del marco — verificar si reemplaza, complementa o coexiste con la articulación '3Q × 3 tipos de memoria' previa al compilar realismo-cognitivo / teoria-del-simbolo-en-proxy / tesis-once-celdas-en-proxy",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Delimitación operativa qué es cognición y qué no lo es",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Pieza nueva NO presente en la sección existente: categorización explícita de qué procesos cuentan como cognición (memoria de trabajo, planificación prefrontal, lenguaje, pensamiento abstracto) y cuáles no (reflejos espinales, homeostasis — insulina, sudor, pupila —, generadores centrales de patrones) con criterio operativo: la presencia de cómputo y mapa. Capturado en el thesis_candidate suplementario.",
+      "quote_evidence": "No son cognición porque en ellos no hay cómputo ni mapa,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza categorial nuclear para delimitar el dominio del realismo cognitivo frente a fisiología pura — útil al compilar la sección de definición operativa",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Herramientas como su procedimiento (taza, martillo, ratón)",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Pieza nueva sobre la naturaleza representacional de los objetos artificiales: las herramientas se reducen ontológicamente a su procedimiento de uso — una taza es 'algo que se lleva a los labios', un martillo es 'algo que clava', un ratón de ordenador sin su procedimiento es solo un trozo de plástico. Articulación operativa de la teleosemántica aplicada a los artefactos.",
+      "quote_evidence": "Las herramientas son su procedimiento: una taza se lleva a los labios, un martillo clava,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza interesante para refinar la articulación del componente procedimental de la matriz noética; podría enriquecer también teoria-del-simbolo-en-proxy",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Fiabilidad del imaginario via física newtoniana compartida + barrera epistémica",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Formulación operativa más precisa de la articulación anti-Kant que la sección existente solo enuncia ('mapea solo lo que importa'): el imaginario es fiable porque tanto él como la cosa en sí siguen las mismas leyes de la física newtoniana, y tiene que haber conexión con la realidad o existiría una barrera epistémica total. Capturado en el thesis_candidate suplementario.",
+      "quote_evidence": "El imaginario es muy fiable respecto a la cosa en sí porque ambos siguen las leyes de la física newtoniana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Dilema de los locos y representación compartida + clases noético-enactivas hibridadas",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Pieza nueva que articula dos consecuencias del marco no presentes en la sección existente: (a) si los locos no representan correctamente la realidad pero coinciden en sus delirios, ¿cómo se sostendría la 'corrección' de la representación compartida? Nunca existe representación 100% compartida, ni siquiera en delirios colectivos — esto sostiene operativamente el realismo de la posición sin caer en relativismo; (b) las clases cognitivas son una HIBRIDACIÓN de clases noéticas y enactivas — el canal NO defiende un representacionalismo puro frente al 4E, sino una posición híbrida donde ambos registros operan articuladamente.",
+      "quote_evidence": "Las clases cognitivas no son ni puramente representacionales ni puramente inactivas: son una hibridación de clases noéticas y enactivas,",
+      "review_priority": "high",
+      "review_priority_reason": "La articulación 'hibridación de clases noéticas y enactivas' es refinamiento estructural del marco — refina la 'tercera vía' como NO simplemente intermedia sino hibridadora. Pieza importante al compilar la sección sobre el debate Haugeland/4E",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mind Embodied and Embedded (libro de Haugeland)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Obra principal de Haugeland en el corpus del canal, ya citada en haugeland-john frontmatter y cuerpo principal. No requiere nueva acción.",
+      "quote_evidence": "En *Mind Embodied and Embedded* ataca la visión cartesiana de que la mente ocurre dentro del córtex prefrontal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "haugeland-john",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Artificial Intelligence: The Very Idea (libro de Haugeland)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Segunda obra de Haugeland citada como fuente de la acuñación de GOFAI. La página haugeland-john declaraba como laguna 'otras obras fundacionales no aparecen en las citas disponibles'. Esta cita parcialmente resuelve esa laguna pero el material ya está integrado en realismo-cognitivo sección Diálogo con Haugeland desde wts74ONWRSQ (línea 563-567).",
+      "quote_evidence": "Haugeland acuña \"GOFAI\" (good old fashioned artificial intelligence) en *Artificial Intelligence: The Very Idea*,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "haugeland-john",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cosa en sí kantiana (Ding an sich)",
+      "reason_code": "captured_in_thesis_summary",
+      "reason_detail": "El canal articula explícitamente su posición anti-Kant: sí tenemos acceso a la cosa en sí; lo contrario es idealismo; representar significa representar cosas que están en la realidad, no representar la realidad tal cual es. Ya capturado en realismo-cognitivo sección 'Reconstrucción y clasificación' desde wts74ONWRSQ. Citas paralelas de esta edición Psicología 101 en el thesis_candidate suplementario.",
+      "quote_evidence": "Frente a Kant, Proxy sostiene que sí tienes acceso a la cosa en sí; lo contrario es idealismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "thesis_candidates_auto_promoted": 0,
+    "thesis_candidates_supplementary": 1,
+    "thesis_candidates_pending_human": 0,
+    "discarded_count": 15,
+    "discarded_as_recommended_reference": 0,
+    "blocks_filtered_count": 0,
+    "note": "Vídeo duplicado-curado del directo wts74ONWRSQ ('T5x21: Representacionalismo vs cognición 4E') ya integrado en realismo-cognitivo y haugeland-john. Esta extracción aporta thesis_candidate suplementario con citas paralelas + 6 refinamientos genuinos (seis clases de representación, comportamiento de utilización, herramientas como procedimiento, delimitación qué es/no es cognición, fiabilidad imaginario via física newtoniana, dilema de los locos + clases noético-enactivas hibridadas). El downstream agent debe MERGE con la sección existente de realismo-cognitivo en lugar de crear sección duplicada."
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-06-07T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Andy Clark (filósofo de la cognición extendida)] reason=already_captured_extends_existing quote no literal",
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

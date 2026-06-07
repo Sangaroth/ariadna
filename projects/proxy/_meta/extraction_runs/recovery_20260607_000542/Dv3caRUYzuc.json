@@ -1,0 +1,293 @@
+{
+  "video_id": "Dv3caRUYzuc",
+  "video_title": "Perro no come Perro",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "thesis_candidates": [],
+  "pending_updates": [],
+  "discarded": [
+    {
+      "surface_form": "Pedro Sánchez y dimisión del PSOE (estrategia política)",
+      "reason_code": "political_news",
+      "reason_detail": "Apertura del vídeo (09:43) sobre la conveniencia estratégica de que Sánchez no dimita para arrastrar al PSOE. Actualidad partidista directa sin marco psicológico ni filosófico-político aplicado. Matchea topic_filters.json patrón '(?i)\\\\b(psoe|s[aá]nchez)\\\\b' con scope='block'. Falla los criterios §3.1 del test discriminante (no aplica mecanismo psicológico/sociológico, no aplica marco teórico, no critica tradición intelectual, no usa figura como caso ilustrativo de concepto). Test de la cápsula del tiempo: sin el nombre propio actual la afirmación pierde valor.",
+      "quote_evidence": "Pedro Sánchez no dimite y eso beneficia la destrucción del PSOE",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Escenarios PP/PSOE tras la crisis",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (10:43) sobre escenarios judiciales y de moción de censura PP/PSOE. Predicción coyuntural sin marco teórico. Matchea topic_filters '(?i)\\\\b(psoe|pp\\\\b)\\\\b'.",
+      "quote_evidence": "Primer escenario: judicialización progresiva por escándalos de corrupción y el PSOE haciéndose víctima,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estrategia revolucionaria 2027 y propuesta constituyente",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (12:45) sobre estrategia revolucionaria, jornadas constituyentes, eliminación de autonomías, salida de la Unión Europea, fiscalidad única. La propuesta es proyecto de actualidad política directa, no articulación filosófico-política estructural. El propio canal la enmarca como acción coyuntural ('en 2027 España estará en crisis total'). Si en futuros vídeos el speaker articula un marco filosófico-político sostenido sobre el constitucionalismo como categoría (no como propuesta partidista), podría merecer captura.",
+      "quote_evidence": "En 2027 España estará en crisis total, lo que permitirá tener a la izquierda callejera contra el PP,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Poética política como vulnerabilidad estructural (palabras vacías: 'democracia', 'separación de poderes')",
+      "reason_code": "structural_piece_contaminated_by_partisan_context",
+      "reason_detail": "Pieza estructural valiosa (15:18 + 19:50): el speaker articula que el sistema español es vulnerable a la poética política — palabras como 'democracia' o 'separación de poderes' funcionan sin contenido material, y 'los poderes de la nación emanan del pueblo' no significa nada sin fuerza física real. La pieza enlaza con sofisma-estetico (palabras sin contenido como dispositivo estético) y con la crítica al racional-formalismo de gisbertocracia. NO emito pending_update porque el contexto envolvente es politiqueo directo (PSOE, PP, Ferraz, jornadas constituyentes propias del canal) que contaminaría las citas. Soft para captura si el speaker articula la pieza en un directo más estructural en el futuro.",
+      "quote_evidence": "El sistema español es vulnerable a la poética política: palabras como \"democracia\" o \"separación de poderes\" sin contenido material,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza filosófico-política estructural que enriquecería sofisma-estetico o gisbertocracia si el canal la articula en contexto no contaminado por politiqueo",
+      "enriches_concept": "sofisma-estetico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La fuerza física como contenido material del poder",
+      "reason_code": "structural_piece_contaminated_by_partisan_context",
+      "reason_detail": "Pieza filosófico-política (19:50): la formulación 'los poderes de la nación emanan del pueblo no significa nada sin fuerza física real' y 'el revolucionario debe preguntarse cuánto de su integridad y posesiones está dispuesto a sacrificar' es articulación clausewitziana/hobbesiana del poder como sustrato de fuerza. Estructuralmente in-scope pero subordinada al proyecto constituyente coyuntural del canal. Soft pendiente.",
+      "quote_evidence": "\"Los poderes de la nación emanan del pueblo\" no significa nada sin fuerza física real,",
+      "review_priority": "medium",
+      "review_priority_reason": "Candidato a enriquecer una futura página sobre filosofía política del canal si se articula en contexto monográfico",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La batalla cultural como fracaso / batalla de egos",
+      "reason_code": "structural_piece_contaminated_by_partisan_context",
+      "reason_detail": "Pieza (19:50 + 1:29:55): la batalla cultural ha fracasado porque la hegemonía cultural la tiene quien tiene el poder; la batalla cultural de señalar contradicciones nunca fue batalla real sino batalla de egos. La pieza conecta con psicologia-del-activista-en-proxy y con la crítica a la izquierda como mecanismo sin lógica. Sin embargo aparece embebida en politiqueo (Marta Nebot, Sumar, charos) que contamina las citas. Soft.",
+      "quote_evidence": "La batalla cultural ha fracasado porque la hegemonía cultural la tiene quien tiene el poder,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza enriquecedora de psicologia-del-activista-en-proxy o sofisma-estetico si el canal la articula en contexto monográfico no partidista",
+      "enriches_concept": "psicologia-del-activista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a tibios y conformismo ciudadano",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Bloque (21:52): ataque retórico a los 'tibios' que dicen 'eso no va a servir de nada'. Categoría 'charos y gobierno' como descripción polémica del Estado español. Es retórica política de polémica directa sin marco estructural articulado.",
+      "quote_evidence": "Quien dice \"eso no va a servir de nada\" es un cobarde que ama demasiado su bienestar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anita Sarkeesian + analogía industria del videojuego = PSOE",
+      "reason_code": "structural_piece_with_partisan_application",
+      "reason_detail": "Bloque (29:26 + 34:32) sobre Sarkeesian como caso de empresa que odia a sus consumidores y la analogía con España como Estado que odia a sus ciudadanos. La pieza Sarkeesian sí entra en scope como caso del wokismo en franquicias documentado en consumismo-critica sección 'Wokismo en franquicias' (capturada desde Fantasía Cero). La analogía con España como Estado es polémica política directa. La pieza Sarkeesian por sí sola podría enriquecer consumismo-critica si el speaker la desarrollara monográficamente — aquí solo opera como analogía retórica.",
+      "quote_evidence": "Una compañía de videojuegos escuchó a Sarkeesian y acabó odiando a sus propios consumidores,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Denuncia contra Begoña Gómez, María Jesús Montero y Zapatero (cuentas en el extranjero)",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (38:05) sobre denuncias específicas en Fiscalía. Matchea topic_filters '(?i)\\\\b(s[aá]nchez)\\\\b' (Begoña Gómez es esposa de Sánchez). Sin marco psicológico ni filosófico-político aplicado — comentario directo sobre escándalo coyuntural.",
+      "quote_evidence": "Existe una denuncia en Fiscalía con un listado de cuentas en el extranjero de Begoña Gómez por más de 6 millones de dólares,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Aldama como conseguidor + Zapatero/Venezuela",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Bloque (40:24) juicio moral directo sobre personas específicas en escándalo de corrupción coyuntural. Política partidista pura.",
+      "quote_evidence": "Aldama es gentuza que en cualquier democracia debería estar en la cárcel,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ayuso, PP, Urtasun de Sumar (oposición fingida)",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (45:28) sobre Ayuso, PP, Urtasun y la dinámica entre partidos españoles actuales. Matchea topic_filters '(?i)\\\\b(ayuso|pp\\\\b|sumar)\\\\b'. Politiqueo directo.",
+      "quote_evidence": "Ayuso se dedica a obedecer al PP fingiendo ser más cool y hacer oposición,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Miedo a los extremismos como parálisis ciudadana + pensiones",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Bloque (48:29) sobre etiquetas extrema-derecha/izquierda como mecanismo de parálisis. La pieza tiene componente psicológico-político (etiquetado como dispositivo) pero está subordinada a la apelación a la acción coyuntural. Pieza marginal estructuralmente.",
+      "quote_evidence": "El miedo a ser etiquetado de extrema derecha o izquierda impide la acción,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Constitución del 78 como programa de autodestrucción + bloque de constitucionalidad",
+      "reason_code": "structural_piece_contaminated_by_partisan_context",
+      "reason_detail": "Pieza estructural (52:31 + 1:06:09): la Constitución del 78 contiene en sí misma los mecanismos para autodestruirse (bloque de constitucionalidad como dispositivo de reinterpretación arbitraria por Tribunal Constitucional); todo lo que está ocurriendo — asalto al poder judicial, cesiones a autonomías, autoamnistía — es perfectamente constitucional. Es lectura politológico-jurídica del orden constitucional español como dispositivo de auto-disolución. Estructuralmente in-scope (humanities.philosophy.political) pero el contexto envolvente es politiqueo. Pieza enriquecedora de teocracia-agnostica-y-victimologia-institucional si se articula monográficamente. Soft pendiente.",
+      "quote_evidence": "La Constitución contiene dentro de sí misma las líneas de código para autodestruirse,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza filosófico-jurídica estructural que enriquecería teocracia-agnostica-y-victimologia-institucional. Capturar cuando el canal articule la tesis en contexto no partidista",
+      "enriches_concept": "teocracia-agnostica-y-victimologia-institucional",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "PP/PSOE connivencia bipartidista, Borja Semper, Feijóo, Von der Leyen",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (57:49) sobre dinámica PP/PSOE concreta y pacto europeo Von der Leyen. Politiqueo coyuntural con nombres propios. Matchea topic_filters '(?i)\\\\b(psoe|pp\\\\b|feij[oó]o)\\\\b'.",
+      "quote_evidence": "El PSOE reta al PP a plantear una moción de censura sabiendo que no lo hará porque el PP está en el ajo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Salario mínimo, inflación, cifras de empleo del PSOE",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (59:49) sobre fiscalidad/economía coyuntural española. Cubierto por topic_filters '(?i)\\\\b(impuestos hosteleros|factura de la luz|fiscalidad coyuntural)\\\\b' y scope.md §3.3 (fiscalidad coyuntural sin estructura). La crítica genérica al modelo económico estatal ya está cubierta en consumismo-critica como caso ilustrativo.",
+      "quote_evidence": "Subir el salario mínimo no es subir los salarios: sube unos pocos, baja otros y desaparecen los demás,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "PP, gasto LGTBI, preservativos con sabor a fruta",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (1:05:08) sobre gasto superfluo del PP en colectivos LGTBI. Politiqueo coyuntural específico con datos de gasto. Matchea topic_filters '(?i)\\\\bpp\\\\b'.",
+      "quote_evidence": "El PP ha gastado 2,5 millones en colectivos LGTBI y 220.000 euros en preservativos con sabor a fruta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Compraventa internacional de España + futuro distópico de los pluriempleados",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Bloque (1:19:34) predicción distópica sobre Alemania/Francia/China/EEUU/Marruecos comprando España y los españoles trabajando como asistentes domésticos. Retórica política de polémica sin marco analítico estructural.",
+      "quote_evidence": "Alemania, Francia, China, EEUU y Marruecos se están comprando España,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Marta Nebot + 'superioridad moral progresista' como dispositivo psicopolítico",
+      "reason_code": "structural_piece_contaminated_by_partisan_context",
+      "reason_detail": "Bloque (1:26:21): la afirmación 'la izquierda tiene estándares morales superiores' como equivalente funcional a declarar 'superioridad nazi'; 'no es lo mismo robar cuando se defiende la justicia social' como legitimación explícita del robo. La pieza tiene componente analítico (mecanismo psicopolítico de la superioridad moral progresista como dispositivo de exención de la ley) pero está anclada a la persona pública concreta. Conecta con sofisma-estetico (la moral progresista como dispositivo sin contenido) y woke-narrativa-postmoderna-moral. Soft.",
+      "quote_evidence": "\"La izquierda tiene estándares morales superiores\" es funcionalmente equivalente a declarar superioridad nazi,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza enriquecedora de woke-narrativa-postmoderna-moral o sofisma-estetico cuando el canal articule el dispositivo de la superioridad moral progresista en contexto no partidista",
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Charocracia + PSOE state of mind + 'no habrá guerra civil'",
+      "reason_code": "structural_piece_contaminated_by_partisan_context",
+      "reason_detail": "Bloque (1:52:35): la categoría 'charocracia' como parte pasiva del sistema que solo justifica a posteriori; 'PSOE state of mind' como mentalidad cultural. Las categorías canal-específicas tienen potencial enciclopédico pero aquí operan como insultos políticos directos a Bob Pop y a la militancia del PSOE. Categorías ya capturadas indirectamente en woke-narrativa-postmoderna-moral y consumismo-critica como parte del análisis cultural del canal. Sin desarrollo monográfico, soft.",
+      "quote_evidence": "La PSOE state of mind firma lo que sea con tal de no levantarse del sofá,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Elementos técnicos de una Constitución funcional (representatividad, circunscripciones judiciales, poder jurisdiccional)",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque (1:46:28) sobre propuestas técnicas para una nueva Constitución española (representatividad real, circunscripciones judiciales, poder judicial jurisdiccional, desmitificación del 78). Proyecto político directo del canal, no articulación filosófico-política estructural. Si el speaker desarrolla en directos posteriores un análisis sostenido sobre filosofía del derecho constitucional como categoría, podría capturarse.",
+      "quote_evidence": "Representatividad real no fingida con circunscripciones judiciales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "timestamp_seconds": 583,
+      "block_title": "🐕 Pedro Sánchez no dimite y eso beneficia la destrucción del PSOE",
+      "matched_pattern": "(?i)\\b(psoe|s[aá]nchez)\\b",
+      "scope": "block",
+      "reason": "political_news - actualidad partidista coyuntural sin marco psicológico ni filosófico-político aplicado"
+    },
+    {
+      "timestamp_seconds": 643,
+      "block_title": "⚖️ Escenarios posibles tras la crisis del PSOE",
+      "matched_pattern": "(?i)\\b(psoe|pp\\b)\\b",
+      "scope": "block",
+      "reason": "political_news - predicción coyuntural sobre dinámica bipartidista"
+    },
+    {
+      "timestamp_seconds": 2066,
+      "block_title": "🇪🇸 España odia España: el paralelismo entre la industria del videojuego y el Estado",
+      "matched_pattern": "(?i)\\bpsoe\\b",
+      "scope": "block",
+      "reason": "political_news - ataque a la PSOE state of mind como diagnóstico cultural-político directo"
+    },
+    {
+      "timestamp_seconds": 2285,
+      "block_title": "💰 Denuncias de corrupción: cuentas millonarias en el extranjero",
+      "matched_pattern": "(?i)\\b(begoña|zapatero|montero)\\b",
+      "scope": "block",
+      "reason": "political_news - escándalo de corrupción coyuntural con nombres propios actuales"
+    },
+    {
+      "timestamp_seconds": 2424,
+      "block_title": "🐀 Aldama como conseguidor: gentuza que señala a gentuza",
+      "matched_pattern": "(?i)\\b(aldama|zapatero)\\b",
+      "scope": "block",
+      "reason": "partisan_commentary - juicio moral directo sobre personas en escándalo"
+    },
+    {
+      "timestamp_seconds": 2728,
+      "block_title": "🎭 Ayuso y el PP: oposición fingida sin acción real",
+      "matched_pattern": "(?i)\\b(ayuso|pp\\b|sumar)\\b",
+      "scope": "block",
+      "reason": "political_news - actualidad partidista directa"
+    },
+    {
+      "timestamp_seconds": 3469,
+      "block_title": "🤝 PP y PSOE: la connivencia bipartidista",
+      "matched_pattern": "(?i)\\b(psoe|pp\\b|feij[oó]o)\\b",
+      "scope": "block",
+      "reason": "political_news - dinámica bipartidista coyuntural específica"
+    },
+    {
+      "timestamp_seconds": 3589,
+      "block_title": "📉 Desmontaje de las cifras récord de empleo del PSOE",
+      "matched_pattern": "(?i)\\bpsoe\\b",
+      "scope": "block",
+      "reason": "political_news - fiscalidad/economía coyuntural (cubierto también por §3.3 fiscalidad coyuntural)"
+    },
+    {
+      "timestamp_seconds": 3908,
+      "block_title": "🌈 El PP y el gasto superfluo como síntoma del sistema",
+      "matched_pattern": "(?i)\\bpp\\b",
+      "scope": "block",
+      "reason": "political_news - gasto coyuntural específico del PP"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "thesis_candidates_auto_promoted": 0,
+    "discarded_count": 20,
+    "blocks_filtered_count": 9,
+    "discarded_as_recommended_reference": 0,
+    "note": "Vídeo dominado por politiqueo de actualidad partidista española (Sánchez, PSOE, PP, Ayuso, Begoña Gómez, Aldama, Zapatero, Feijóo, salario mínimo coyuntural, Marta Nebot). 9 bloques temáticos filtrados por topic_filters.json. Las piezas estructurales aisladas (Constitución del 78 como programa de autodestrucción, poética política, fuerza como contenido material del poder, batalla cultural como ego, superioridad moral progresista como dispositivo) se registran como discards con enriches_concept hacia páginas existentes (sofisma-estetico, teocracia-agnostica-y-victimologia-institucional, woke-narrativa-postmoderna-moral, psicologia-del-activista-en-proxy, consumismo-critica) pero NO se emiten pending_updates para evitar contaminar las páginas enciclopédicas con timestamps anclados en discurso partidista directo. Soft para captura en futuros directos monográficos sin contaminación coyuntural."
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-06-07T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

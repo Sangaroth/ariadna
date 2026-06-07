@@ -1,0 +1,143 @@
+{
+  "video_id": "nvCRZJOU5Qw",
+  "video_title": "T5x29 Consultorio: ¿Tiene mi hijo TDAH?",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [],
+  "thesis_candidates": [],
+  "pending_updates": [],
+  "discarded": [
+    {
+      "surface_form": "Estudio Pelham y Wims (Journal of Consulting and Clinical Psychology)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Cita académica específica al estudio epidemiológico sobre divorcios en parejas con hijos hiperactivos (23% a los 8 años del niño vs 13% en parejas similares; explicación combinada estrés + genética). Pieza incorporada como sub-componente del cuadro nosológico en el thesis_candidate de tdah-en-proxy. No constituye recommended_reference completo (cita específica de un estudio, no recomendación bibliográfica de manual de estudio).",
+      "quote_evidence": "Un estudio de Pelham y Wims (Journal of Consulting and Clinical Psychology) registra casi el doble de separaciones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "DSM5 (Manual Diagnóstico y Estadístico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Marco nosológico referencial del que el canal critica el clúster TDAH. El DSM5 opera como dispositivo institucional contra el que se articula la posición clínica del canal, no como entidad enciclopédica autónoma. Capturado vía el thesis_candidate como objeto de la crítica nosológica.",
+      "quote_evidence": "El TDAH no es un trastorno estrictamente hablando, sino un clúster de síntomas agrupados bajo un nombre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lisdexanfetamina y metilfenidato (medicamentos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Fármacos pseudoanfetamínicos nombrados como tratamiento estándar del TDAH cuya respuesta opera como criterio patognomónico (con caveats). Capturados en el thesis_candidate como pieza diagnóstica, no como entidades autónomas.",
+      "quote_evidence": "Los medicamentos son lisdexanfetamina o metilfenidato, pseudoanfetamínicos que mejoran atención e impulsividad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Asperger (como categoría diagnóstica histórica)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El canal articula explícitamente que Asperger ya no existe como categoría propia y queda absorbido en el trastorno del espectro autista (autismo altamente funcional con cognición intacta + habilidades sociales minoradas + fallos en teoría de la mente). Pieza relevante para autismo-en-proxy (que ya existe). Capturada en el thesis_candidate y como relación 'compared_with' con autismo-en-proxy. Sin emitir pending_update separado a autismo-en-proxy porque la página probablemente ya integra esta categorización; las piezas nuevas (sociabilidad y contextualización instintiva como discriminadores frente a TDAH) se ubicarán mejor en la nueva página tdah-en-proxy con wikilinks bidireccionales.",
+      "quote_evidence": "El Asperger es ahora parte del trastorno del espectro autista,",
+      "review_priority": "medium",
+      "review_priority_reason": "Candidato a enriquecer autismo-en-proxy con los discriminadores sociabilidad + contextualización instintiva cuando se compile la página tdah-en-proxy",
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hipersensibilidad y hiposensibilidad sensoriales",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pareja categorial neuropsicológica que el canal articula como diagnóstico diferencial y como hipótesis alternativa central al TDAH. La hiposensibilidad recibe articulación operativa completa: umbral de activación elevado, aburrimiento patológico, adicción a la adrenalina, atracción por estímulos intensamente sensoriales (tacto, sabor, vistoso), torpeza motora, mitigación a partir de los 10-12 años. Pieza incorporada como sección central del thesis_candidate. No requiere página propia por ahora — opera como sub-categoría operativa del cuadro TDAH del canal.",
+      "quote_evidence": "Los canales sensoriales necesitan un umbral de activación por encima de lo normal,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si futuros vídeos profundizan en hipo/hipersensibilidad sensorial como cuadro neuropsicológico autónomo (independiente del diagnóstico diferencial TDAH), podría merecer página propia",
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Caso clínico de la niña 4.5 años",
+      "reason_code": "case_in_thesis_candidate",
+      "reason_detail": "Caso del consultorio que opera como operativización completa del marco diagnóstico del canal. Captura: ansiedad/obsesividad/dependencia, hiperactividad evidente, torpeza motora, obsesiones intensamente sensoriales (golosinas, pegatinas, joyas, agua, arena, helado), TV como anfetamina personal, hablar perfecto desde 2 años, muy social, retraso en aprendizaje (no madurativo), astigmatismo y ojo vago detectados sin cambio conductual, correlación con cansancio/calor/quedarse en casa. Diagnóstico tentativo: hiperactividad por hipo/hipersensibilidad sensorial, no déficit de atención. No constituye entidad enciclopédica autónoma — caso clínico capturado en el thesis_candidate como sección de operativización del cuadro.",
+      "quote_evidence": "El caso es una hiperactividad por hipo/hipersensibilidad, no un déficit de atención en sí mismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Términos 'neurotípico' y 'neurodivergente'",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Términos contemporáneos sobre el espectro neuropsiquiátrico cuya función pragmática el canal rechaza explícitamente como zanjadores postmodernos de discusión compleja. Capturado en el thesis_candidate como sección de diagnóstico cultural; opera como pieza discriminante respecto al discurso 'woke' de las diferencias cerebrales.",
+      "quote_evidence": "Los términos neurotípico y neurodivergente suenan horribles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hiperfoco como superpoder (discurso popular)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Discurso popular contemporáneo sobre el hiperfoco como ventaja cognitiva del TDAH que el canal critica explícitamente: el hiperfoco puede absorber chorradas; un superpoder no debería causar sufrimiento; quien necesita motivación extrínseca bestial para concentrarse tiene cara dura, no TDAH; hay mucho Asperger encubierto con cuento de TDAH. Capturado en el thesis_candidate como sub-sección de la crítica nosológica.",
+      "quote_evidence": "El hiperfoco no es un superpoder: puede absorber una chorrada monumental y hacer perder horas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Astigmatismo y ojo vago (caso clínico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico oftalmológico de la niña del consultorio detectado en 2026 que explica parte de las dificultades de lectura pero no las conductuales. Pieza diagnóstica que ilustra la metodología del canal (descartar causas físicas antes de inferir cuadros clínicos psicológicos). Sin valor enciclopédico autónomo.",
+      "quote_evidence": "En 2026 se detectó astigmatismo alto y un ojo vago, que explican las dificultades de lectura,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Docente postmoderno que nombra vagancia con síndromes clínicos",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Diagnóstico cultural del canal sobre la inflación diagnóstica en el ámbito escolar: el docente postmoderno usa etiquetas clínicas para sentirse especial y para nombrar lo que es vagancia o abuso de pantallas. Capturado como pieza del cuadro epidemiológico del thesis_candidate. Enlaza con consumismo-critica (sobrediagnóstico escolar por pantallas) y con la futura página educacion-y-evaluacion-en-proxy (acomplejamiento docente respecto a exigir).",
+      "quote_evidence": "El docente postmoderno nombra con síndromes clínicos lo que en realidad es vagancia, para sentirse especial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trastorno circadiano (hipótesis explicativa del TDAH)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Teoría nueva que el canal incorpora como hipótesis explicativa alternativa al cuadro nosológico clásico: el TDAH podría ser un trastorno circadiano. La hipótesis encaja con la mejoría de los síntomas tras sueño reparador documentada en el caso clínico. Capturado como pieza del thesis_candidate.",
+      "quote_evidence": "Una teoría nueva permitiría explicar el TDAH como un trastorno circadiano,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "thesis_candidates_auto_promoted": 1,
+    "thesis_candidates_pending_human": 0,
+    "discarded_count": 12,
+    "discarded_as_recommended_reference": 0,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-06-07T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Bilbao / traslado del speaker (anécdota personal de directo previo)] reason=personal_anecdote quote no literal",
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

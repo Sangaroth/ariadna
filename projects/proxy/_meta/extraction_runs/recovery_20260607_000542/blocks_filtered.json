@@ -1,0 +1,96 @@
+{
+  "version": "0.1.0",
+  "run_id": "recovery_20260607_000542",
+  "items": [
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 583,
+        "block_title": "🐕 Pedro Sánchez no dimite y eso beneficia la destrucción del PSOE",
+        "matched_pattern": "(?i)\\b(psoe|s[aá]nchez)\\b",
+        "scope": "block",
+        "reason": "political_news - actualidad partidista coyuntural sin marco psicológico ni filosófico-político aplicado"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 643,
+        "block_title": "⚖️ Escenarios posibles tras la crisis del PSOE",
+        "matched_pattern": "(?i)\\b(psoe|pp\\b)\\b",
+        "scope": "block",
+        "reason": "political_news - predicción coyuntural sobre dinámica bipartidista"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 2066,
+        "block_title": "🇪🇸 España odia España: el paralelismo entre la industria del videojuego y el Estado",
+        "matched_pattern": "(?i)\\bpsoe\\b",
+        "scope": "block",
+        "reason": "political_news - ataque a la PSOE state of mind como diagnóstico cultural-político directo"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 2285,
+        "block_title": "💰 Denuncias de corrupción: cuentas millonarias en el extranjero",
+        "matched_pattern": "(?i)\\b(begoña|zapatero|montero)\\b",
+        "scope": "block",
+        "reason": "political_news - escándalo de corrupción coyuntural con nombres propios actuales"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 2424,
+        "block_title": "🐀 Aldama como conseguidor: gentuza que señala a gentuza",
+        "matched_pattern": "(?i)\\b(aldama|zapatero)\\b",
+        "scope": "block",
+        "reason": "partisan_commentary - juicio moral directo sobre personas en escándalo"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 2728,
+        "block_title": "🎭 Ayuso y el PP: oposición fingida sin acción real",
+        "matched_pattern": "(?i)\\b(ayuso|pp\\b|sumar)\\b",
+        "scope": "block",
+        "reason": "political_news - actualidad partidista directa"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 3469,
+        "block_title": "🤝 PP y PSOE: la connivencia bipartidista",
+        "matched_pattern": "(?i)\\b(psoe|pp\\b|feij[oó]o)\\b",
+        "scope": "block",
+        "reason": "political_news - dinámica bipartidista coyuntural específica"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 3589,
+        "block_title": "📉 Desmontaje de las cifras récord de empleo del PSOE",
+        "matched_pattern": "(?i)\\bpsoe\\b",
+        "scope": "block",
+        "reason": "political_news - fiscalidad/economía coyuntural (cubierto también por §3.3 fiscalidad coyuntural)"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "timestamp_seconds": 3908,
+        "block_title": "🌈 El PP y el gasto superfluo como síntoma del sistema",
+        "matched_pattern": "(?i)\\bpp\\b",
+        "scope": "block",
+        "reason": "political_news - gasto coyuntural específico del PP"
+      }
+    }
+  ]
+}

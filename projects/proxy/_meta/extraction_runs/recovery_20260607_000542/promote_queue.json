@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "run_id": "recovery_20260607_000542",
+  "items": [
+    {
+      "canonical_guess": "miyazaki-hidetaka",
+      "from_video": "u-xtPy5v-Mo",
+      "entity": {
+        "surface_form": "Hidetaka Miyazaki",
+        "canonical_guess": "miyazaki-hidetaka",
+        "page_type": "author",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 12,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "En Dark Souls 3 y Elden Ring están todas las figuras del tarot personificadas y prototipadas, una por una,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Miyazaki no conocía el tarot conscientemente; las figuras coinciden porque son universales,"
+          },
+          {
+            "mark_type": "foundational_invocation",
+            "quote_evidence": "Innovó con videojuegos de rol y combate muy difíciles donde avanzas por ensayo-error y soportas la frustración de empezar de cero,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.2 'substantive_treatment' (>10 min de exposición sostenida en el vídeo, varios bloques desde 13:03 hasta 1:05:34) y 'foundational_citation' implícita: el canal lee toda su obra como recapitulación operativa inconsciente de los 22 Arcanos del tarot, un marco arquetípico nuclear del corpus. Además la mecánica Souls (proyecto-camino-recompensa con frustración soportada) le sirve al canal para fundamentar [[aburrimiento-en-proxy]]. Su filmografía interactiva entra al wiki como contraparte del bloque Lovecraft/Tolkien dentro de mitologías propias contemporáneas.",
+        "quote_evidence": "Hidetaka Miyazaki es el creador de Demon Souls, Dark Souls 1-2-3 y Elden Ring, no confundir con Hayao Miyazaki del Studio Ghibli,"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "video_id": "S1h-3G-7YEU",
+  "video_title": "Psicología 101: TDAH Análisis de caso",
+  "playlist": "psicologia-101",
+  "category": "psicología",
+  "entities": [],
+  "thesis_candidates": [],
+  "pending_updates": [],
+  "discarded": [
+    {
+      "surface_form": "Cuadro completo del TDAH (crítica nosológica, principios diagnósticos, diagnóstico diferencial, hiposensibilidad, hiperfoco, sobrediagnóstico, Asperger, neurotípico/neurodivergente)",
+      "reason_code": "already_captured_in_previous_thesis_candidate",
+      "reason_detail": "Toda la articulación nosológica, los principios diagnósticos, el diagnóstico diferencial sistemático contra autismo HF/TOC/ansiedad/depresión/hipersensibilidad/hiposensibilidad, la operativización del caso clínico (niña 4.5 años con obsesiones intensamente sensoriales), la crítica al mito del hiperfoco como superpoder, la distinción hiperfoco autista vs TDAH, el diagnóstico cultural-epidemiológico (sobrediagnóstico escolar por pantallas, docente postmoderno, dopamina digital), el rechazo de los términos neurotípico/neurodivergente y las dos modalidades de padres ante el diagnóstico — TODO está articulado en el thesis_candidate emitido el 5 jun 2026 para tdah-en-proxy desde el consultorio original nvCRZJOU5Qw. Este vídeo es la edición curada Psicología 101 del mismo material. Las citas paralelas con timestamps limpios desde 00:00 se proporcionan en el thesis_candidate suplementario de esta extracción para que el downstream agent las integre en la página final.",
+      "quote_evidence": "El TDAH es un agrupamiento de síntomas bajo clústers y un nombre en el DSM5, no una enfermedad estricta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Investigación State University de Nueva York (Buffalo) sobre divorcios y TDAH",
+      "reason_code": "captured_with_refined_attribution",
+      "reason_detail": "Citación académica del estudio epidemiológico sobre divorcios en parejas con hijos TDAH. En el consultorio original (nvCRZJOU5Qw) la atribución fue 'Pelham y Wims (Journal of Consulting and Clinical Psychology)'; en esta edición curada Psicología 101 la atribución es 'State University de Nueva York (Buffalo)'. Coherente con la investigación de William E. Pelham Jr. (afiliado a SUNY Buffalo en sus años activos), por lo que probablemente es la misma referencia formulada de dos formas. El downstream agent puede verificar y unificar al compilar tdah-en-proxy.",
+      "quote_evidence": "Una investigación de la State University de Nueva York (Buffalo) halló casi el doble de separaciones en parejas con hijos TDAH,",
+      "review_priority": "medium",
+      "review_priority_reason": "Verificar atribución académica unificada (Pelham et al., SUNY Buffalo) al compilar tdah-en-proxy",
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Refinamiento del criterio hiperactividad: 'estar en marcha = transición constante'",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Pieza nueva respecto al consultorio original: precisa el criterio DSM5 de 'estar en marcha' como 'transición constante de un contexto o escena a otra', refinamiento conceptual que el consultorio original solo enumeraba. Capturada en el thesis_candidate suplementario de esta extracción.",
+      "quote_evidence": "\"Estar en marcha\" significa transición constante de un contexto o escena a otra,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Manía/hipomanía como diagnóstico diferencial añadido vs TDAH",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Pieza nueva NO presente en el consultorio original: el patrón de 'volverse experto en algo en tres meses' puede ser manía o hipomanía, no necesariamente TDAH ni autismo. Añade un nuevo diagnóstico diferencial al cuadro del canal. Capturada en el thesis_candidate suplementario para que el downstream agent la integre al compilar tdah-en-proxy.",
+      "quote_evidence": "Volverse experto en algo en tres meses puede ser manía o hipomanía, no necesariamente TDAH,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza nueva que enriquece el diagnóstico diferencial del cuadro TDAH; podría enlazar con futura página sobre trastornos del espectro bipolar en el canal",
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Operativización afectiva del hiperfoco: 'atención sin poder evitarlo, como el dolor'",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Formulación fenomenológica más precisa del hiperfoco que el consultorio original presuponía pero no formulaba explícitamente. Refinamiento del cuadro existente.",
+      "quote_evidence": "Un superpoder no debería causar sufrimiento, y el hiperfoco se vive como el dolor: atención sin poder evitarlo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Historia clínica: operación de amígdalas y adenoides con mejoría del descanso",
+      "reason_code": "captured_in_supplementary_thesis_candidate",
+      "reason_detail": "Dato del historial médico de la niña del caso que el consultorio original mencionó solo de pasada. Capturada en el thesis_candidate suplementario para detallar el caso clínico aplicado al compilar tdah-en-proxy.",
+      "quote_evidence": "Se operó de amígdalas y adenoides con mejoría del descanso,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Matiz: la hiposensibilidad NO genera adultos adictos a la adrenalina",
+      "reason_code": "refinement_vs_previous_thesis_candidate",
+      "reason_detail": "Matiz interesante respecto al consultorio original donde se afirmaba que 'la hiposensibilidad puede generar adictos a la adrenalina (paracaídas, riesgo, adicciones)'. Aquí se atenúa diciendo que la hipo/hipersensibilidad 'se mitigan y cambian mucho a partir de los 10-12 años' y que 'pueden quedar ciertos rasgos en la personalidad pero no determinan adicciones'. El downstream agent debe verificar la consistencia interna del cuadro al compilar — probablemente la articulación correcta es que la hiposensibilidad infantil puede correlacionar con búsqueda de adrenalina adulta como rasgo de personalidad sin ser causa determinista.",
+      "quote_evidence": "Pueden quedar ciertos rasgos en la personalidad pero no determinan adicciones,",
+      "review_priority": "medium",
+      "review_priority_reason": "Verificar consistencia interna al compilar tdah-en-proxy (consultorio original vs Psicología 101 tienen formulaciones ligeramente distintas sobre adicción a la adrenalina y hiposensibilidad)",
+      "enriches_concept": "tdah-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "thesis_candidates_auto_promoted": 0,
+    "thesis_candidates_supplementary": 1,
+    "thesis_candidates_pending_human": 0,
+    "discarded_count": 8,
+    "discarded_as_recommended_reference": 0,
+    "blocks_filtered_count": 0,
+    "note": "Vídeo duplicado-curado del consultorio nvCRZJOU5Qw procesado el 5 jun 2026. Esta extracción aporta thesis_candidate suplementario con citas paralelas + 5 refinamientos genuinos; el downstream agent debe MERGE con el thesis_candidate principal previo de tdah-en-proxy en lugar de crear página duplicada."
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-06-07T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Caso clínico de la niña 4.5 años] reason=already_captured_in_previous_thesis_candidate quote no literal",
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}
