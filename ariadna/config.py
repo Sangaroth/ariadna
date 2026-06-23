@@ -67,6 +67,16 @@ SIM_LATENCY_MS = float(os.getenv("ARIADNA_SIM_LATENCY_MS", "0"))  # latencia de 
 PRICE_EMBED_PER_MTOK = float(os.getenv("ARIADNA_PRICE_EMBED_PER_MTOK", "0.010"))
 PRICE_RERANK_PER_MTOK = float(os.getenv("ARIADNA_PRICE_RERANK_PER_MTOK", "0.030"))
 
+# --- Modo de cuerpo wiki en search_corpus ---
+# 'snippet' (default): cada wiki_page trae body_snippet (~800 chars: H1 + tesis);
+# el contenido completo se pide aparte con get_wiki_page. 'full': cada wiki_page
+# trae el body completo (citations stripped) directamente -> menos round-trips de
+# tool (relevante con contexto 1M + prompt cache roto). Override por llamada con
+# search_corpus(wiki_body='snippet'|'full').
+WIKI_BODY_MODE = os.getenv("ARIADNA_WIKI_BODY_MODE", "snippet").strip().lower()
+if WIKI_BODY_MODE not in ("snippet", "full"):
+    WIKI_BODY_MODE = "snippet"
+
 # Servidor MCP
 MCP_HOST = os.getenv("ARIADNA_MCP_HOST", "0.0.0.0")
 MCP_PORT = int(os.getenv("ARIADNA_MCP_PORT", "8080"))

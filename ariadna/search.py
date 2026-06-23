@@ -219,6 +219,7 @@ class Searcher:
         playlist: str | None = None,
         include_filtered: bool = False,
         project: str | list[str] | None = None,
+        wiki_full: bool = False,
     ) -> dict:
         """Búsqueda híbrida raw + wiki en una sola query.
 
@@ -307,6 +308,7 @@ class Searcher:
             semantic=wiki_results,
             citation_hits=citation_hits,
             projects=projects,
+            full=wiki_full,
         )
 
         wiki_top_semantic = wiki_results[0]["score"] if wiki_results else None
@@ -539,7 +541,7 @@ class Searcher:
             conn.close()
 
     def _fetch_wiki_pages_from_db(
-        self, keys: list[tuple[str, str]]
+        self, keys: list[tuple[str, str]], full: bool = False
     ) -> dict[tuple[str, str], dict]:
         """Construye dicts compactos de wiki_pages desde ariadna.db (paralelo a
         _wiki_payload_to_compact que lo hace desde Qdrant). Usado para entradas
@@ -587,7 +589,7 @@ class Searcher:
                 # párrafo, ~800 chars). Reduce ~95% tokens por wiki_page.
                 body_trimmed, _ = _strip_citations_section(body or "")
                 body_snippet = _extract_body_snippet(body_trimmed)
-                out[(project_id, pid)] = {
+                entry = {
                     "project_id": project_id,
                     "page_id": pid,
                     "page_type": ptype,
@@ -600,6 +602,9 @@ class Searcher:
                     "file_path": fpath,
                     "body_snippet": body_snippet,
                 }
+                if full:
+                    entry["body"] = body_trimmed
+                out[(project_id, pid)] = entry
             return out
         finally:
             conn.close()
@@ -609,6 +614,7 @@ class Searcher:
         semantic: list[dict],
         citation_hits: dict[tuple[str, str], list[dict]],
         projects: list[str] | None = None,
+        full: bool = False,
     ) -> list[dict]:
         """Une la wiki lane semántica con la lane indirecta vía citations.
 
@@ -622,7 +628,7 @@ class Searcher:
         La identidad de página es (project_id, page_id): páginas homónimas de
         proyectos distintos NO se funden. Resultado ordenado por score desc.
         """
-        sem_compact = [_wiki_payload_to_compact(w) for w in semantic]
+        sem_compact = [_wiki_payload_to_compact(w, full=full) for w in semantic]
         sem_keys = {(w.get("project_id"), w["page_id"]) for w in sem_compact}
 
         # 1. Anota match_via en las semánticas y attach matched_via_chunks si aplica.
@@ -639,7 +645,7 @@ class Searcher:
 
         # 2. Para (project, page_id) que están solo en citation_hits, fetch desde ariadna.db.
         citation_only_keys = [k for k in citation_hits if k not in sem_keys]
-        fetched = self._fetch_wiki_pages_from_db(citation_only_keys)
+        fetched = self._fetch_wiki_pages_from_db(citation_only_keys, full=full)
 
         for key, chunks in citation_hits.items():
             if key in sem_keys:
@@ -667,8 +673,11 @@ class Searcher:
         return sem_compact
 
 
-def _wiki_payload_to_compact(payload: dict) -> dict:
+def _wiki_payload_to_compact(payload: dict, full: bool = False) -> dict:
     """Versión compacta de un wiki_page para output MCP.
+
+    Con full=True añade el campo `body` (página completa, citations stripped) en
+    vez de obligar a un get_wiki_page posterior. Ver config.WIKI_BODY_MODE.
 
     Las wiki_pages NO llevan cite_markdown propio: el body ya contiene
     las citas a YouTube como markdown ('→ [titulo, timestamp](url)').
@@ -682,7 +691,7 @@ def _wiki_payload_to_compact(payload: dict) -> dict:
     body = payload.get("body") or ""
     body_trimmed, _ = _strip_citations_section(body)
     body_snippet = _extract_body_snippet(body_trimmed)
-    return {
+    compact = {
         "score": round(float(payload["score"]), 4),
         "project_id": payload.get("project_id"),
         "page_id": payload.get("page_id"),
@@ -696,6 +705,9 @@ def _wiki_payload_to_compact(payload: dict) -> dict:
         "file_path": payload.get("file_path"),
         "body_snippet": body_snippet,
     }
+    if full:
+        compact["body"] = body_trimmed
+    return compact
 
 
 def _format_result(r: SearchResult, index: int) -> str:

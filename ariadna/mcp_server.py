@@ -16,7 +16,7 @@ from typing import Any
 
 from mcp.server.fastmcp import FastMCP
 
-from ariadna.config import ARIADNA_DB_PATH, MCP_HOST, MCP_PORT, PROJECT_ROOT
+from ariadna.config import ARIADNA_DB_PATH, MCP_HOST, MCP_PORT, PROJECT_ROOT, WIKI_BODY_MODE
 from ariadna import projects as projects_mod
 from ariadna import research_queue as queue_mod
 from ariadna.project_config import ProjectConfig, list_project_ids
@@ -141,7 +141,10 @@ mcp = FastMCP(
         "trae metadata estructural (canonical_name, aliases, relations[] con grafo "
         "tipado) y un body_snippet (~800 chars: H1 + tesis central). Para el contenido "
         "COMPLETO de una pagina llama a get_wiki_page(page_id) — el snippet es solo "
-        "para decidir si la pagina es relevante.\n"
+        "para decidir si la pagina es relevante. Con wiki_body='full' (o si el "
+        "servidor lo trae por defecto) cada wiki_page incluye ademas el campo 'body' "
+        "con la pagina COMPLETA (citations stripped), evitando ese get_wiki_page salvo "
+        "para saltos de grafo a paginas no devueltas.\n"
         "  - raw_chunks: chunks tematicos del corpus. Cada uno trae un campo "
         "cite_markdown con la cita ya formateada en markdown.\n"
         "Tambien retrieval_metadata con mode_recommended (wiki_dominant / raw_only / "
@@ -181,6 +184,7 @@ def search_corpus(
     playlist: str | None = None,
     include_filtered: bool = False,
     project: str | list[str] | None = None,
+    wiki_body: str | None = None,
 ) -> dict[str, Any]:
     """Búsqueda híbrida raw + wiki sobre el corpus.
 
@@ -188,7 +192,13 @@ def search_corpus(
     politiqueo/promocional/casual via topic_filters.json. Por defecto se excluyen.
 
     project: aislamiento por proyecto (str | list[str] | None). None = todos.
+
+    wiki_body: 'snippet' | 'full' | None. Controla si cada wiki_page trae solo
+    body_snippet (~800 chars) o el body completo (campo `body`, citations stripped).
+    None usa el default del servidor (config.WIKI_BODY_MODE). En 'full' normalmente
+    NO necesitas get_wiki_page salvo para saltos de grafo a páginas no devueltas.
     """
+    mode = wiki_body if wiki_body in ("snippet", "full") else WIKI_BODY_MODE
     searcher = get_searcher()
     try:
         return searcher.search_hybrid(
@@ -199,6 +209,7 @@ def search_corpus(
             playlist=playlist,
             include_filtered=include_filtered,
             project=project,
+            wiki_full=(mode == "full"),
         )
     except ValueError as e:
         if str(e).startswith("PROJECT_NOT_FOUND"):
