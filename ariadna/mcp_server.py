@@ -90,6 +90,28 @@ def _resolve_wiki_page(page_id: str, project: str | None) -> list[tuple[str, str
     return out
 
 
+def _db_page_body(page_id: str, project_id: str) -> str | None:
+    """Devuelve body_md de una página desde ariadna.db, o None si no está.
+
+    Fallback para servir el contenido cuando el .md no resuelve en disco (en prod
+    se despliega el índice ariadna.db pero no necesariamente el árbol projects/).
+    body_md está poblado para todas las páginas indexadas.
+    """
+    if not ARIADNA_DB_PATH.exists():
+        return None
+    conn = sqlite3.connect(f"file:{ARIADNA_DB_PATH}?mode=ro", uri=True)
+    try:
+        row = conn.execute(
+            "SELECT body_md FROM pages WHERE page_id=? AND project_id=?",
+            (page_id, project_id),
+        ).fetchone()
+    finally:
+        conn.close()
+    if row is None or row[0] is None:
+        return None
+    return row[0]
+
+
 # ---------------------------------------------------------------------------
 # Servidor MCP
 # ---------------------------------------------------------------------------
@@ -221,10 +243,18 @@ def get_wiki_page(
         }
     chosen_project, file_path = candidates[0]
     md_path = PROJECT_ROOT / file_path
-    if not md_path.exists():
-        return {"error": f"file_path no resuelve en disco: {file_path}", "code": "WIKI_PAGE_NOT_FOUND"}
-
-    content = md_path.read_text(encoding="utf-8")
+    if md_path.exists():
+        content = md_path.read_text(encoding="utf-8")
+    else:
+        # El corpus markdown puede no estar desplegado junto al índice (en prod
+        # se despliega ariadna.db pero no siempre el árbol projects/). body_md
+        # guarda el cuerpo completo, así que servimos desde la db como fallback.
+        content = _db_page_body(page_id, chosen_project)
+        if content is None:
+            return {
+                "error": f"file_path no resuelve en disco ni hay body_md: {file_path}",
+                "code": "WIKI_PAGE_NOT_FOUND",
+            }
     chars_trimmed = 0
     if not include_citations:
         content, chars_trimmed = _strip_citations_section(content)
