@@ -13,13 +13,9 @@ from typing import Any, Callable
 from sentence_transformers import CrossEncoder
 
 from ariadna.config import RERANKER_MAX_LENGTH, RERANKER_MODEL_NAME
+from ariadna.rerank_text import default_text_for_chunk as _default_text_for_chunk
 
 log = logging.getLogger(__name__)
-
-
-def _default_text_for_chunk(c: dict[str, Any]) -> str:
-    """theme + content del chunk -- mismo formato que recibe el LLM downstream."""
-    return f"{c.get('theme', '')}\n{c.get('content', '')}"
 
 
 class Reranker:

@@ -8,17 +8,20 @@ import logging
 import sqlite3
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
+from typing import TYPE_CHECKING, Any
 
+from ariadna.backends import make_embedder, make_reranker
 from ariadna.config import ARIADNA_DB_PATH, RERANKER_PREFETCH_N
-from ariadna.embeddings import DenseEmbedder
 from ariadna.sources.registry import adapter_for_source_id
 from ariadna.wiki_utils import (
     extract_body_snippet as _extract_body_snippet,
     strip_citations_section as _strip_citations_section,
 )
-from ariadna.reranker import Reranker
 from ariadna.storage import CorpusStore
+
+if TYPE_CHECKING:
+    from ariadna.embeddings import DenseEmbedder
+    from ariadna.reranker import Reranker
 
 log = logging.getLogger(__name__)
 
@@ -109,9 +112,9 @@ class Searcher:
         reranker: Reranker | None = None,
         ariadna_db_path: Path | None = None,
     ) -> None:
-        self.embedder = embedder or DenseEmbedder()
+        self.embedder = embedder or make_embedder()
         self.store = store or CorpusStore()
-        self.reranker = reranker or Reranker()
+        self.reranker = reranker or make_reranker()
         self.ariadna_db_path = ariadna_db_path or ARIADNA_DB_PATH
         if not self.ariadna_db_path.exists():
             log.warning(
